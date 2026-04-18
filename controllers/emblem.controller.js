@@ -22,7 +22,6 @@ function parseAttributes(table, $) {
 
   table.find("td").each((_, td) => {
     const text = cleanText($(td).text());
-
     const match = text.match(/(.+?):\s*\+?([\d%.]+)/);
 
     if (match) {
@@ -70,43 +69,61 @@ exports.getEmblems = async (req, res) => {
     const data = await response.json();
 
     const html = data?.parse?.text?.["*"];
-    if (!html) return res.status(404).json({ message: "Page not found" });
+    if (!html) {
+      return res.status(404).json({ message: "Page not found" });
+    }
 
     const $ = cheerio.load(html);
-
     const emblems = [];
 
-    $("h3").each((_, h3) => {
-      const title = cleanText($(h3).text());
+    $(".ml").each((_, el) => {
+      const block = $(el);
 
-      const mlBlock = $(h3).nextAll(".ml").first();
-      if (!mlBlock.length) return;
-
-      const name = cleanText(mlBlock.find("h1").first().text());
-      const image = getImg(mlBlock.find("img").first());
+      const name = cleanText(
+        block.find("div[style*='font-size']").first().text()
+      );
 
       if (!name) return;
 
-      const tables = mlBlock.find("table");
+      const image = getImg(block.find("img").first());
 
-      let attributes = {};
-      let standard = [];
-      let core = [];
+      const attributes = {};
 
-      tables.each((_, table) => {
-        const t = $(table);
-        const header = cleanText(t.text());
+      block.find("div").each((_, d) => {
+        const el = $(d);
 
-        if (header.includes("Attributes")) {
-          attributes = parseAttributes(t, $);
+        const span = el.children("span");
+        const bold = el.children("b");
+
+        if (span.length && bold.length) {
+          const key = cleanText(span.text());
+          const value = cleanText(bold.text());
+
+          if (key && value) {
+            attributes[key] = value;
+          }
         }
+      });
 
-        if (header.includes("Standard")) {
-          standard = parseTalents(t, $);
-        }
+      const standard = [];
+      const core = [];
 
-        if (header.includes("Core")) {
-          core = parseTalents(t, $);
+      block.find("pre").each((_, pre) => {
+        const p = $(pre);
+
+        const name = cleanText(p.find("b").text());
+        const image = getImg(p.find("img"));
+
+        const description = cleanText(
+          p.parent().find("div").last().text()
+        );
+
+        const talent = { name, description, image };
+
+        if (p.parent().text().toLowerCase().includes("cooldown")) {
+          core.push(talent);
+        } else {
+          standard.push(talent);
         }
       });
 
@@ -125,7 +142,10 @@ exports.getEmblems = async (req, res) => {
       total: emblems.length,
       emblems,
     });
+
   } catch (err) {
+    if (res.headersSent) return;
+
     return res.status(500).json({
       message: "Failed to fetch Emblems",
       error: err.message,
