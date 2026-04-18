@@ -34,10 +34,6 @@ exports.getPatches = async (req, res) => {
         const patchLink = $(tds[0]).find("a").first();
         const name = patchLink.text().trim();
 
-        const url = patchLink.attr("href")
-          ? `https://liquipedia.net${patchLink.attr("href")}`
-          : null;
-
         const releaseDate = $(tds[1]).text().trim();
 
         const highlights = [];
@@ -57,7 +53,6 @@ exports.getPatches = async (req, res) => {
 
         items.push({
           name,
-          url,
           releaseDate,
           highlights,
         });

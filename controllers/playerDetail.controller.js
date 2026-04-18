@@ -16,9 +16,6 @@ exports.getPlayerDetail = async (req, res) => {
 
     const $ = cheerio.load(html);
 
-    // =================
-    // HELPER
-    // =================
     const cleanText = (str) =>
       String(str || "")
         .replace(/\s+/g, " ")
@@ -49,23 +46,14 @@ exports.getPlayerDetail = async (req, res) => {
       return link ? cleanText(link) : getValue(label);
     };
 
-    // =================
-    // NAME (FIX)
-    // =================
     const name = getValue("name") || player;
 
-    // =================
-    // PHOTO (NEW)
-    // =================
     const photoRaw = $(".infobox-image-wrapper img").first().attr("src");
 
     const photo = photoRaw
       ? `https://liquipedia.net${photoRaw}`
       : null;
 
-    // =================
-    // INFO
-    // =================
     const nationality = getValue("nationality");
     const born = getValue("born");
     const status = getValue("status");
@@ -78,9 +66,6 @@ exports.getPlayerDetail = async (req, res) => {
       ? Number(winningsText.replace(/[^0-9]/g, ""))
       : null;
 
-    // =================
-    // SIGNATURE HEROES
-    // =================
     const signatureHeroes = [];
 
     getRow("signature heroes")
@@ -91,9 +76,6 @@ exports.getPlayerDetail = async (req, res) => {
         if (hero) signatureHeroes.push(cleanText(hero));
       });
 
-    // =================
-    // LINKS
-    // =================
     const links = {};
 
     $(".infobox-center.infobox-icons a").each((_, el) => {
@@ -108,9 +90,6 @@ exports.getPlayerDetail = async (req, res) => {
       else if (href.startsWith("http")) links.website = href;
     });
 
-    // =================
-    // ACHIEVEMENTS
-    // =================
     const achievements = [];
 
     $("span.league-icon-small-image a").each((_, el) => {
@@ -131,9 +110,6 @@ exports.getPlayerDetail = async (req, res) => {
 
     const uniqueAchievements = [...new Set(achievements)];
 
-    // =================
-    // RESPONSE
-    // =================
     return res.json({
       player,
       name,
