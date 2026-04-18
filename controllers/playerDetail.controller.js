@@ -9,38 +9,93 @@ exports.getPlayerDetail = async (req, res) => {
     const response = await fetch(URL);
     const data = await response.json();
 
-    const html = data.parse.text["*"];
+    const html = data?.parse?.text?.["*"];
+    if (!html) {
+      return res.status(404).json({ message: "Player not found" });
+    }
+
     const $ = cheerio.load(html);
 
-    const name = $("div.infobox-header")
-      .first()
-      .text()
-      .replace(/\[.*?\]/g, "")
-      .trim();
+    // =================
+    // HELPER
+    // =================
+    const cleanText = (str) =>
+      String(str || "")
+        .replace(/\s+/g, " ")
+        .replace(/\[.*?\]/g, "")
+        .trim();
 
-    const getValue = (label) => {
-      const el = $("div.infobox-cell-2.infobox-description").filter((_, el) =>
-        $(el).text().trim().toLowerCase().includes(label.toLowerCase())
-      ).first();
-
-      const value = el.next("div").text().replace(/\s+/g, " ").trim();
-      return value || null;
+    const getRow = (label) => {
+      return $("div.infobox-cell-2.infobox-description")
+        .filter((_, el) =>
+          $(el).text().toLowerCase().includes(label.toLowerCase())
+        )
+        .first();
     };
 
+    const getValue = (label) => {
+      const el = getRow(label);
+      if (!el.length) return null;
+
+      const value = el.next("div").text();
+      return cleanText(value);
+    };
+
+    const getLinkValue = (label) => {
+      const el = getRow(label);
+      if (!el.length) return null;
+
+      const link = el.next("div").find("a").attr("title");
+      return link ? cleanText(link) : getValue(label);
+    };
+
+    // =================
+    // NAME (FIX)
+    // =================
+    const name = getValue("name") || player;
+
+    // =================
+    // PHOTO (NEW)
+    // =================
+    const photoRaw = $(".infobox-image-wrapper img").first().attr("src");
+
+    const photo = photoRaw
+      ? `https://liquipedia.net${photoRaw}`
+      : null;
+
+    // =================
+    // INFO
+    // =================
     const nationality = getValue("nationality");
     const born = getValue("born");
     const status = getValue("status");
-    const role = getValue("role");
-    const team = getValue("team");
-    const alternateIDs = getValue("alternate ids");
-    const nicknames = getValue("nickname");
+    const role = getLinkValue("role");
+    const team = getLinkValue("team");
+    const alternateIDs = getValue("alternate");
 
-    const approxTotalWinningsText = getValue("approx");
-    const approxTotalWinnings = approxTotalWinningsText
-      ? Number(approxTotalWinningsText.replace(/[^0-9]/g, ""))
+    const winningsText = getValue("approx");
+    const approxTotalWinnings = winningsText
+      ? Number(winningsText.replace(/[^0-9]/g, ""))
       : null;
 
+    // =================
+    // SIGNATURE HEROES
+    // =================
+    const signatureHeroes = [];
+
+    getRow("signature heroes")
+      ?.next("div")
+      .find("a")
+      .each((_, el) => {
+        const hero = $(el).attr("title");
+        if (hero) signatureHeroes.push(cleanText(hero));
+      });
+
+    // =================
+    // LINKS
+    // =================
     const links = {};
+
     $(".infobox-center.infobox-icons a").each((_, el) => {
       const href = $(el).attr("href");
       if (!href) return;
@@ -53,43 +108,36 @@ exports.getPlayerDetail = async (req, res) => {
       else if (href.startsWith("http")) links.website = href;
     });
 
-    const signatureHeroes = [];
-    $("div.infobox-cell-2.infobox-description")
-      .filter((_, el) =>
-        $(el).text().toLowerCase().includes("signature heroes")
-      )
-      .first()
-      .next("div")
-      .find("a")
-      .each((_, el) => {
-        const hero = $(el).attr("title");
-        if (hero && !hero.includes("edit")) {
-          signatureHeroes.push(hero.trim());
-        }
-      });
-
+    // =================
+    // ACHIEVEMENTS
+    // =================
     const achievements = [];
 
-    $("div.infobox-center span.league-icon-small-image a").each((_, el) => {
+    $("span.league-icon-small-image a").each((_, el) => {
       const title = $(el).attr("title");
       if (!title) return;
 
-      const clean = title.trim();
+      const clean = cleanText(title);
 
       if (
         clean.toLowerCase().includes("edit") ||
         clean.toLowerCase().includes("category") ||
         clean.toLowerCase().includes("file")
-      ) return;
+      )
+        return;
 
       achievements.push(clean);
     });
 
     const uniqueAchievements = [...new Set(achievements)];
 
+    // =================
+    // RESPONSE
+    // =================
     return res.json({
       player,
       name,
+      photo,
       info: {
         nationality,
         born,
@@ -97,7 +145,6 @@ exports.getPlayerDetail = async (req, res) => {
         role,
         team,
         alternateIDs,
-        nicknames,
         approxTotalWinnings,
       },
       signatureHeroes,
@@ -105,6 +152,8 @@ exports.getPlayerDetail = async (req, res) => {
       links,
     });
   } catch (err) {
+    if (res.headersSent) return;
+
     return res.status(500).json({
       message: "Failed to fetch player detail",
       error: err.message,
