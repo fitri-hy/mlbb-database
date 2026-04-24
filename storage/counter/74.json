@@ -1,0 +1,209 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 24,
+      "heroName": "Natalia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 6.675000190734863,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 74,
+          "name": "Minsitthar",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+          "score": 6.675
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "heroName": "Baxia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Damage"
+      ],
+      "score": 5.547999858856201,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 74,
+          "name": "Minsitthar",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+          "score": 5.548
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "heroName": "Argus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Burst"
+      ],
+      "score": 5.150000095367432,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 74,
+          "name": "Minsitthar",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+          "score": 5.15
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "heroName": "X.Borg",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Burst"
+      ],
+      "score": 4.556000232696533,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 74,
+          "name": "Minsitthar",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+          "score": 4.556
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "heroName": "Karina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Finisher",
+        "Magic Damage"
+      ],
+      "score": 2.390000104904175,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 74,
+          "name": "Minsitthar",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+          "score": 2.39
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "heroName": "Yu Zhong",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Damage"
+      ],
+      "score": 1.4359999895095823,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 74,
+          "name": "Minsitthar",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+          "score": 1.436
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "heroName": "Zilong",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0.17399999499320984,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 74,
+          "name": "Minsitthar",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+          "score": 0.174
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "heroName": "Belerick",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Regen"
+      ],
+      "score": 0.15199999511241913,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 74,
+          "name": "Minsitthar",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+          "score": 0.152
+        }
+      ]
+    }
+  ]
+}

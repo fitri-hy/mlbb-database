@@ -1,0 +1,310 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 20,
+      "heroName": "Lolita",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Crowd Control"
+      ],
+      "score": 7.452000141143799,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 71,
+          "name": "Kimmy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+          "score": 7.452
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "heroName": "Karina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Finisher",
+        "Magic Damage"
+      ],
+      "score": 7.335999965667725,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 71,
+          "name": "Kimmy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+          "score": 7.336
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "heroName": "Natalia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 3.694999933242798,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 71,
+          "name": "Kimmy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+          "score": 3.695
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "heroName": "Helcurt",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Push",
+        "Burst"
+      ],
+      "score": 3.444999933242798,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 71,
+          "name": "Kimmy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+          "score": 3.445
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "heroName": "Fanny",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 2.119999885559082,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 71,
+          "name": "Kimmy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+          "score": 2.12
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "heroName": "Belerick",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Regen"
+      ],
+      "score": 1.3279999494552612,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 71,
+          "name": "Kimmy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+          "score": 1.328
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "heroName": "Arlott",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Burst"
+      ],
+      "score": 0.5370000004768372,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 71,
+          "name": "Kimmy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+          "score": 0.537
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "heroName": "Odette",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Poke"
+      ],
+      "score": 0.5180000066757202,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 71,
+          "name": "Kimmy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+          "score": 0.518
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "heroName": "Eudora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Control",
+        "Burst"
+      ],
+      "score": 0.1879999935626984,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 71,
+          "name": "Kimmy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+          "score": 0.188
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.16300000250339508,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 71,
+          "name": "Kimmy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+          "score": 0.163
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "heroName": "Ling",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 0.1509999930858612,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 71,
+          "name": "Kimmy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+          "score": 0.151
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "heroName": "Hayabusa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 0.14900000393390656,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 71,
+          "name": "Kimmy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+          "score": 0.149
+        }
+      ]
+    }
+  ]
+}

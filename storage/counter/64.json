@@ -1,0 +1,260 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 81,
+      "heroName": "Esmeralda",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
+      "role": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Mixed Damage"
+      ],
+      "score": 5.886000156402588,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 64,
+          "name": "Aldous",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+          "score": 5.886
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 4.894999980926514,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 64,
+          "name": "Aldous",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+          "score": 4.895
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "heroName": "Lukas",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Regen",
+        "Damage"
+      ],
+      "score": 4.688000202178955,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 64,
+          "name": "Aldous",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+          "score": 4.688
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "heroName": "Melissa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 3.9149999618530273,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 64,
+          "name": "Aldous",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+          "score": 3.915
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "heroName": "Aulus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 3.615999937057495,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 64,
+          "name": "Aldous",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+          "score": 3.616
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "heroName": "Cyclops",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Control"
+      ],
+      "score": 1.9210000038146973,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 64,
+          "name": "Aldous",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+          "score": 1.921
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "heroName": "Karina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Finisher",
+        "Magic Damage"
+      ],
+      "score": 1.7020000219345093,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 64,
+          "name": "Aldous",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+          "score": 1.702
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "heroName": "Harith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Gold Lane",
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0.257999986410141,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 64,
+          "name": "Aldous",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+          "score": 0.258
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "heroName": "Brody",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 0.21299999952316284,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 64,
+          "name": "Aldous",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+          "score": 0.213
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "heroName": "Angela",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Support"
+      ],
+      "score": 0.20100000500679016,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 64,
+          "name": "Aldous",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+          "score": 0.201
+        }
+      ]
+    }
+  ]
+}

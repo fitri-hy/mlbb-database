@@ -1,0 +1,313 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 8,
+      "heroName": "Karina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Finisher",
+        "Magic Damage"
+      ],
+      "score": 5.777999877929688,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 16,
+          "name": "Zilong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+          "score": 5.778
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "heroName": "Johnson",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
+      "role": [
+        "Tank",
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 5.485000133514404,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 16,
+          "name": "Zilong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+          "score": 5.485
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "heroName": "Eudora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Control",
+        "Burst"
+      ],
+      "score": 5.281000137329102,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 16,
+          "name": "Zilong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+          "score": 5.281
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "heroName": "Tigreal",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control"
+      ],
+      "score": 3.2279999256134038,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 16,
+          "name": "Zilong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+          "score": 3.228
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "heroName": "Gloo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Control"
+      ],
+      "score": 2.9600000381469727,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 16,
+          "name": "Zilong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+          "score": 2.96
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "heroName": "Popol and Kupa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Jungle",
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Burst"
+      ],
+      "score": 2.0339999198913574,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 16,
+          "name": "Zilong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+          "score": 2.034
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "heroName": "Aamon",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Magic Damage"
+      ],
+      "score": 1.7970000505447388,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 16,
+          "name": "Zilong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+          "score": 1.797
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "heroName": "Jawhead",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Roam",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Burst"
+      ],
+      "score": 0.4959999918937683,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 16,
+          "name": "Zilong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+          "score": 0.496
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "heroName": "Barats",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 0.20499999821186063,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 16,
+          "name": "Zilong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+          "score": 0.205
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "heroName": "Gatotkaca",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Roam",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Burst"
+      ],
+      "score": 0.15000000596046448,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 16,
+          "name": "Zilong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+          "score": 0.15
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.14399999380111694,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 16,
+          "name": "Zilong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+          "score": 0.144
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "heroName": "Atlas",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Initiator"
+      ],
+      "score": 0,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 16,
+          "name": "Zilong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

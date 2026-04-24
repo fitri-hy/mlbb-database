@@ -1,0 +1,519 @@
+{
+  "success": true,
+  "message": "Tournament summary retrieved successfully",
+  "data": {
+    "tournament": {
+      "id": 26,
+      "name": "Games of the Future 2025",
+      "date": "Dec 18 - 23, 2025",
+      "link": "https://liquipedia.net/mobilelegends/Games_of_the_Future/2025/Statistics",
+      "start_date": "2025-12-18T00:00:00.000Z",
+      "end_date": "2025-12-23T00:00:00.000Z",
+      "created_at": "2025-12-25T07:00:12.000Z",
+      "updated_at": "2025-12-25T07:00:12.000Z"
+    },
+    "summary": {
+      "most_contested": [
+        {
+          "id": 635,
+          "tournament_id": 26,
+          "hero_id": 128,
+          "hero_name": "Kalea",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+          "role": [
+            "Support",
+            "Fighter"
+          ],
+          "lane": [
+            "Roam"
+          ],
+          "speciality": [
+            "Control",
+            "Regen"
+          ],
+          "category": "most_contested",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": null,
+          "total_picks": 20,
+          "total_bans": 44,
+          "wins": null,
+          "losses": null,
+          "pick_ban_rate": "95.52",
+          "total_pick_bans": 64
+        },
+        {
+          "id": 636,
+          "tournament_id": 26,
+          "hero_id": 47,
+          "hero_name": "Lancelot",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png",
+          "role": [
+            "Assassin"
+          ],
+          "lane": [
+            "Jungle"
+          ],
+          "speciality": [
+            "Chase",
+            "Burst"
+          ],
+          "category": "most_contested",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": null,
+          "total_picks": 32,
+          "total_bans": 31,
+          "wins": null,
+          "losses": null,
+          "pick_ban_rate": "94.03",
+          "total_pick_bans": 63
+        },
+        {
+          "id": 637,
+          "tournament_id": 26,
+          "hero_id": 101,
+          "hero_name": "Yve",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+          "role": [
+            "Mage"
+          ],
+          "lane": [
+            "Mid Lane"
+          ],
+          "speciality": [
+            "Poke",
+            "Burst"
+          ],
+          "category": "most_contested",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": null,
+          "total_picks": 22,
+          "total_bans": 39,
+          "wins": null,
+          "losses": null,
+          "pick_ban_rate": "91.04",
+          "total_pick_bans": 61
+        },
+        {
+          "id": 638,
+          "tournament_id": 26,
+          "hero_id": 37,
+          "hero_name": "Lapu-Lapu",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+          "role": [
+            "Fighter"
+          ],
+          "lane": [
+            "Exp Lane"
+          ],
+          "speciality": [
+            "Chase",
+            "Burst"
+          ],
+          "category": "most_contested",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": null,
+          "total_picks": 43,
+          "total_bans": 16,
+          "wins": null,
+          "losses": null,
+          "pick_ban_rate": "88.06",
+          "total_pick_bans": 59
+        },
+        {
+          "id": 639,
+          "tournament_id": 26,
+          "hero_id": 95,
+          "hero_name": "Yu Zhong",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+          "role": [
+            "Fighter"
+          ],
+          "lane": [
+            "Exp Lane"
+          ],
+          "speciality": [
+            "Regen",
+            "Damage"
+          ],
+          "category": "most_contested",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": null,
+          "total_picks": 15,
+          "total_bans": 42,
+          "wins": null,
+          "losses": null,
+          "pick_ban_rate": "85.07",
+          "total_pick_bans": 57
+        },
+        {
+          "id": 640,
+          "tournament_id": 26,
+          "hero_id": 87,
+          "hero_name": "Baxia",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
+          "role": [
+            "Tank"
+          ],
+          "lane": [
+            "Jungle",
+            "Roam"
+          ],
+          "speciality": [
+            "Support",
+            "Damage"
+          ],
+          "category": "most_contested",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": null,
+          "total_picks": 13,
+          "total_bans": 44,
+          "wins": null,
+          "losses": null,
+          "pick_ban_rate": "85.07",
+          "total_pick_bans": 57
+        },
+        {
+          "id": 641,
+          "tournament_id": 26,
+          "hero_id": 44,
+          "hero_name": "Grock",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
+          "role": [
+            "Tank",
+            "Fighter"
+          ],
+          "lane": [
+            "Roam"
+          ],
+          "speciality": [
+            "Crowd Control",
+            "Initiator"
+          ],
+          "category": "most_contested",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": null,
+          "total_picks": 16,
+          "total_bans": 37,
+          "wins": null,
+          "losses": null,
+          "pick_ban_rate": "79.10",
+          "total_pick_bans": 53
+        }
+      ],
+      "overrated": [
+        {
+          "id": 645,
+          "tournament_id": 26,
+          "hero_id": 73,
+          "hero_name": "Harith",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+          "role": [
+            "Mage"
+          ],
+          "lane": [
+            "Gold Lane",
+            "Mid Lane"
+          ],
+          "speciality": [
+            "Chase",
+            "Damage"
+          ],
+          "category": "overrated",
+          "pick_rate": "23.88",
+          "ban_rate": null,
+          "win_rate": "43.75",
+          "total_picks": 16,
+          "total_bans": null,
+          "wins": 7,
+          "losses": 9,
+          "pick_ban_rate": null,
+          "total_pick_bans": null
+        },
+        {
+          "id": 646,
+          "tournament_id": 26,
+          "hero_id": 35,
+          "hero_name": "Hilda",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+          "role": [
+            "Fighter",
+            "Tank"
+          ],
+          "lane": [
+            "Roam",
+            "Exp Lane"
+          ],
+          "speciality": [
+            "Damage",
+            "Regen"
+          ],
+          "category": "overrated",
+          "pick_rate": "23.88",
+          "ban_rate": null,
+          "win_rate": "43.75",
+          "total_picks": 16,
+          "total_bans": null,
+          "wins": 7,
+          "losses": 9,
+          "pick_ban_rate": null,
+          "total_pick_bans": null
+        },
+        {
+          "id": 644,
+          "tournament_id": 26,
+          "hero_id": 41,
+          "hero_name": "Gatotkaca",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "role": [
+            "Tank",
+            "Fighter"
+          ],
+          "lane": [
+            "Roam",
+            "Exp Lane"
+          ],
+          "speciality": [
+            "Crowd Control",
+            "Burst"
+          ],
+          "category": "overrated",
+          "pick_rate": "35.82",
+          "ban_rate": null,
+          "win_rate": "41.67",
+          "total_picks": 24,
+          "total_bans": null,
+          "wins": 10,
+          "losses": 14,
+          "pick_ban_rate": null,
+          "total_pick_bans": null
+        },
+        {
+          "id": 643,
+          "tournament_id": 26,
+          "hero_id": 123,
+          "hero_name": "Cici",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+          "role": [
+            "Fighter"
+          ],
+          "lane": [
+            "Exp Lane"
+          ],
+          "speciality": [
+            "Damage",
+            "Regen"
+          ],
+          "category": "overrated",
+          "pick_rate": "25.37",
+          "ban_rate": null,
+          "win_rate": "41.18",
+          "total_picks": 17,
+          "total_bans": null,
+          "wins": 7,
+          "losses": 10,
+          "pick_ban_rate": null,
+          "total_pick_bans": null
+        },
+        {
+          "id": 642,
+          "tournament_id": 26,
+          "hero_id": 59,
+          "hero_name": "Uranus",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+          "role": [
+            "Tank"
+          ],
+          "lane": [
+            "Exp Lane"
+          ],
+          "speciality": [
+            "Regen"
+          ],
+          "category": "overrated",
+          "pick_rate": "26.87",
+          "ban_rate": null,
+          "win_rate": "38.89",
+          "total_picks": 18,
+          "total_bans": null,
+          "wins": 7,
+          "losses": 11,
+          "pick_ban_rate": null,
+          "total_pick_bans": null
+        }
+      ],
+      "most_successful": [
+        {
+          "id": 647,
+          "tournament_id": 26,
+          "hero_id": 98,
+          "hero_name": "Khaleed",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "role": [
+            "Fighter"
+          ],
+          "lane": [
+            "Roam",
+            "Exp Lane"
+          ],
+          "speciality": [
+            "Damage",
+            "Regen"
+          ],
+          "category": "most_successful",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": "100.00",
+          "total_picks": 7,
+          "total_bans": null,
+          "wins": 7,
+          "losses": 0,
+          "pick_ban_rate": null,
+          "total_pick_bans": null
+        },
+        {
+          "id": 648,
+          "tournament_id": 26,
+          "hero_id": 40,
+          "hero_name": "Karrie",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+          "role": [
+            "Marksman"
+          ],
+          "lane": [
+            "Gold Lane"
+          ],
+          "speciality": [
+            "Finisher",
+            "Damage"
+          ],
+          "category": "most_successful",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": "87.50",
+          "total_picks": 8,
+          "total_bans": null,
+          "wins": 7,
+          "losses": 1,
+          "pick_ban_rate": null,
+          "total_pick_bans": null
+        },
+        {
+          "id": 649,
+          "tournament_id": 26,
+          "hero_id": 80,
+          "hero_name": "Guinevere",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+          "role": [
+            "Fighter"
+          ],
+          "lane": [
+            "Exp Lane"
+          ],
+          "speciality": [
+            "Burst",
+            "Magic Damage"
+          ],
+          "category": "most_successful",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": "83.33",
+          "total_picks": 12,
+          "total_bans": null,
+          "wins": 10,
+          "losses": 2,
+          "pick_ban_rate": null,
+          "total_pick_bans": null
+        },
+        {
+          "id": 650,
+          "tournament_id": 26,
+          "hero_id": 101,
+          "hero_name": "Yve",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+          "role": [
+            "Mage"
+          ],
+          "lane": [
+            "Mid Lane"
+          ],
+          "speciality": [
+            "Poke",
+            "Burst"
+          ],
+          "category": "most_successful",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": "72.73",
+          "total_picks": 22,
+          "total_bans": null,
+          "wins": 16,
+          "losses": 6,
+          "pick_ban_rate": null,
+          "total_pick_bans": null
+        },
+        {
+          "id": 651,
+          "tournament_id": 26,
+          "hero_id": 120,
+          "hero_name": "Arlott",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+          "role": [
+            "Fighter",
+            "Assassin"
+          ],
+          "lane": [
+            "Exp Lane"
+          ],
+          "speciality": [
+            "Charge",
+            "Burst"
+          ],
+          "category": "most_successful",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": "69.23",
+          "total_picks": 13,
+          "total_bans": null,
+          "wins": 9,
+          "losses": 4,
+          "pick_ban_rate": null,
+          "total_pick_bans": null
+        },
+        {
+          "id": 652,
+          "tournament_id": 26,
+          "hero_id": 65,
+          "hero_name": "Claude",
+          "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
+          "role": [
+            "Marksman"
+          ],
+          "lane": [
+            "Gold Lane"
+          ],
+          "speciality": [
+            "Burst",
+            "Chase"
+          ],
+          "category": "most_successful",
+          "pick_rate": null,
+          "ban_rate": null,
+          "win_rate": "68.42",
+          "total_picks": 19,
+          "total_bans": null,
+          "wins": 13,
+          "losses": 6,
+          "pick_ban_rate": null,
+          "total_pick_bans": null
+        }
+      ]
+    }
+  }
+}

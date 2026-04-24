@@ -1,0 +1,237 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 3,
+      "heroName": "Saber",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Charge",
+        "Finisher"
+      ],
+      "score": 5.739999771118164,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 5.74
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "heroName": "Eudora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Control",
+        "Burst"
+      ],
+      "score": 4.688000202178955,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 4.688
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "heroName": "Popol and Kupa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Jungle",
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Burst"
+      ],
+      "score": 3.561000108718872,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 3.561
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "heroName": "Cyclops",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Control"
+      ],
+      "score": 3.4600000381469727,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 3.46
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "heroName": "Sun",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 2.2799999713897705,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 2.28
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "heroName": "Yin",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Control"
+      ],
+      "score": 1.838000059127808,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 1.838
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "heroName": "Miya",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.5569999814033508,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 0.557
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "heroName": "Zilong",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0.12600000202655792,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 0.126
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "heroName": "Obsidia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

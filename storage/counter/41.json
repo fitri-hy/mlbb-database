@@ -1,0 +1,312 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 53,
+      "heroName": "Lesley",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "role": [
+        "Marksman",
+        "Assassin"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 5.943999767303467,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 5.944
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "heroName": "X.Borg",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Burst"
+      ],
+      "score": 5.603000164031982,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 5.603
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "heroName": "Aldous",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Support"
+      ],
+      "score": 4.0980000495910645,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 4.098
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "heroName": "Uranus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen"
+      ],
+      "score": 3.920000076293945,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 3.92
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "heroName": "Alpha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Damage"
+      ],
+      "score": 2.549999952316284,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 2.55
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "heroName": "Natalia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 1.1150000095367432,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 1.115
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "heroName": "Mathilda",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+      "role": [
+        "Support",
+        "Assassin"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Guard"
+      ],
+      "score": 0.5669999718666077,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 0.567
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "heroName": "Angela",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Support"
+      ],
+      "score": 0.39399999380111694,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 0.394
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.26499998569488525,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 0.265
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "heroName": "Karrie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.18700000643730164,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 0.187
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "heroName": "Harith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Gold Lane",
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0.181999996304512,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 0.182
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "heroName": "Kimmy",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+      "role": [
+        "Marksman",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane",
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Magic Damage"
+      ],
+      "score": 0,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

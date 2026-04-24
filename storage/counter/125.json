@@ -1,0 +1,311 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 21,
+      "heroName": "Hayabusa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 5.539000034332275,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 5.539
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "heroName": "Valir",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Guard"
+      ],
+      "score": 5.3460001945495605,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 5.346
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "heroName": "Diggie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Poke"
+      ],
+      "score": 4.701000213623047,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 4.701
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "heroName": "Layla",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 3.5269999504089355,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 3.527
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "heroName": "Belerick",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Regen"
+      ],
+      "score": 2,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 1.8899999856948853,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 1.89
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "heroName": "Minsitthar",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "score": 0.22200000286102292,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 0.222
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "heroName": "Zhask",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0.20399999618530276,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 0.204
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "heroName": "Paquito",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0.19599999487400052,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 0.196
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "heroName": "Saber",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Charge",
+        "Finisher"
+      ],
+      "score": 0.1879999935626984,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 0.188
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "heroName": "Faramis",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "role": [
+        "Support",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Charge"
+      ],
+      "score": 0.1710000038146973,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 0.171
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "heroName": "Miya",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

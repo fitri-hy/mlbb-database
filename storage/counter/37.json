@@ -1,0 +1,285 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 81,
+      "heroName": "Esmeralda",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
+      "role": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Mixed Damage"
+      ],
+      "score": 7.255000114440918,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 37,
+          "name": "Lapu-Lapu",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+          "score": 7.255
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "heroName": "Harith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Gold Lane",
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 3.892999887466431,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 37,
+          "name": "Lapu-Lapu",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+          "score": 3.893
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "heroName": "Fanny",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 2.7249999046325684,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 37,
+          "name": "Lapu-Lapu",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+          "score": 2.725
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "heroName": "Aldous",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Support"
+      ],
+      "score": 1.950000047683716,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 37,
+          "name": "Lapu-Lapu",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+          "score": 1.95
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "heroName": "Kaja",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
+      "role": [
+        "Support",
+        "Fighter"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Control",
+        "Charge"
+      ],
+      "score": 1.7760000228881836,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 37,
+          "name": "Lapu-Lapu",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+          "score": 1.776
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "heroName": "Benedetta",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+      "role": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 1.7000000476837158,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 37,
+          "name": "Lapu-Lapu",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+          "score": 1.7
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "heroName": "Karrie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 1.694000005722046,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 37,
+          "name": "Lapu-Lapu",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+          "score": 1.694
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "heroName": "Claude",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Chase"
+      ],
+      "score": 0.4959999918937683,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 37,
+          "name": "Lapu-Lapu",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+          "score": 0.496
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.3970000147819519,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 37,
+          "name": "Lapu-Lapu",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+          "score": 0.397
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "heroName": "Cici",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 0.2140000015497208,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 37,
+          "name": "Lapu-Lapu",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+          "score": 0.214
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "heroName": "Zhuxin",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 0,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 37,
+          "name": "Lapu-Lapu",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

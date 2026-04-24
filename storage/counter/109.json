@@ -1,0 +1,209 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 104,
+      "heroName": "Gloo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Control"
+      ],
+      "score": 9.28600025177002,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 109,
+          "name": "Aamon",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+          "score": 9.286
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "heroName": "Atlas",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Initiator"
+      ],
+      "score": 5.947000026702881,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 109,
+          "name": "Aamon",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+          "score": 5.947
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "heroName": "Silvanna",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Initiator",
+        "Magic Damage"
+      ],
+      "score": 5.22599983215332,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 109,
+          "name": "Aamon",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+          "score": 5.226
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "heroName": "Hayabusa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 4.260000228881836,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 109,
+          "name": "Aamon",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+          "score": 4.26
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "heroName": "Lolita",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Crowd Control"
+      ],
+      "score": 4.198999881744385,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 109,
+          "name": "Aamon",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+          "score": 4.199
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "heroName": "Zhuxin",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 2.384000062942505,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 109,
+          "name": "Aamon",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+          "score": 2.384
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "heroName": "Odette",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Poke"
+      ],
+      "score": 0.414000004529953,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 109,
+          "name": "Aamon",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+          "score": 0.414
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "heroName": "Gusion",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Magic Damage"
+      ],
+      "score": 0.1850000023841858,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 109,
+          "name": "Aamon",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+          "score": 0.185
+        }
+      ]
+    }
+  ]
+}

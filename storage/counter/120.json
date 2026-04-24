@@ -1,0 +1,184 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 27,
+      "heroName": "Sun",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 5.227000236511231,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 120,
+          "name": "Arlott",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+          "score": 5.227
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "heroName": "Lukas",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Regen",
+        "Damage"
+      ],
+      "score": 4.796999931335449,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 120,
+          "name": "Arlott",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+          "score": 4.797
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "heroName": "Argus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Burst"
+      ],
+      "score": 4.339000225067139,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 120,
+          "name": "Arlott",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+          "score": 4.339
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "heroName": "Hanabi",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 4.054999828338623,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 120,
+          "name": "Arlott",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+          "score": 4.055
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "heroName": "Zhask",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 2.976999998092652,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 120,
+          "name": "Arlott",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+          "score": 2.977
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "heroName": "Phoveus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Damage"
+      ],
+      "score": 2.503999948501587,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 120,
+          "name": "Arlott",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+          "score": 2.504
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 1.0850000381469729,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 120,
+          "name": "Arlott",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+          "score": 1.085
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+<article class="h-full flex-1 px-4 pt-26 pb-6 relative overflow-hidden">
+  <img class="fixed top-0 left-0 w-full h-full max-h-[700px] object-cover opacity-80 -z-10 trans-bottom" src="/assets/images/banner.webp" alt="banner" />
+
+    <section class="container mx-auto relative z-10">
+		<div class="mb-10 flex flex-col md:flex-row md:justify-between items-center gap-6">
+			<div class="pl-4 border-l-4 border-[#ffbd00]">
+				<h1 class="text-3xl md:text-5xl font-black text-white italic uppercase tracking-tighter">
+					Ability <span class="text-[#ffbd00]">Matrix</span>
+				</h1>
+				<p class="text-[10px] font-bold tracking-[0.3em] uppercase mt-1">Augmentation System</p>
+			</div>
+        </div>
+
+        <% Object.keys(groupedAbilities).sort().forEach(section => { %>
+            <div class="mb-6">
+                <div class="flex items-center gap-4 mb-6 mt-9">
+                    <h3 class="text-base md:text-xl font-black italic uppercase tracking-widest bg-[#ffbd00]/10 px-4 py-1 border-l-4 border-[#ffbd00]">
+                        Section 0<%= section %>
+                    </h3>
+                    <div class="flex-1 h-[1px] bg-gradient-to-r from-[#ffbd00]/50 to-transparent"></div>
+                </div>
+
+        		<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6">
+                    <% groupedAbilities[section].forEach(item => { %>
+                    <div class="group relative bg-white/10 border border-white/10 backdrop-blur-md p-5 transition-all duration-500 hover:border-[#ffbd00]/50 hover:bg-[#ffbd00]/[0.02] clip-path-gaming flex flex-col gap-4">
+                            
+                            <div class="flex items-center gap-4">
+                                <div class="relative shrink-0">
+                                    <div class="w-16 h-16 bg-black/60 border border-[#ffbd00]/10 p-2 overflow-hidden relative group-hover:border-[#ffbd00]/40 transition-all duration-500">
+                                        <img 
+                                            src="https://mlbb.io/images/emblem/ability/<%= item.img_src %>" 
+                                            alt="<%= item.name %>" 
+                                            class="w-full h-full object-contain group-hover:scale-110 transition-transform duration-700 drop-shadow-[0_0_8px_#10b981]"
+                                        >
+                                    </div>
+                                </div>
+                                <div class="flex-1 min-w-0">
+                                    <h4 class="text-xl font-black italic uppercase text-white tracking-tighter group-hover:text-[#ffbd00] transition-colors truncate">
+                                        <%= item.name %>
+                                    </h4>
+                                </div>
+                            </div>
+
+                            <div class="mt-2 bg-black/20 border-l-2 border-[#ffbd00] p-2 md:p-4 relative">
+                                <p class="leading-relaxed text-gray-300 font-medium italic">
+                                    "<%= item.benefits %>"
+                                </p>
+                                <% if(item.cooldown) { %>
+                                    <div class="text-sm flex items-center gap-1 mt-2">
+                                        <div class="w-1.5 h-1.5 bg-rose-500 rounded-full animate-pulse"></div>
+                                        <span>CD: <%= item.cooldown %>s</span>
+                                    </div>
+                                <% } %>
+                            </div>
+
+                            <div class="absolute -bottom-1 -right-1 w-4 h-4 border-b border-r border-white/20 group-hover:border-[#ffbd00] transition-colors"></div>
+                        </div>
+                    <% }) %>
+                </div>
+            </div>
+        <% }) %>
+
+        <% if (Object.keys(groupedAbilities).length === 0) { %>
+            <div class="py-20 text-center border border-dashed border-white/10 opacity-30">
+                <p class="font-black italic uppercase tracking-widest text-white">Database Link Offline</p>
+            </div>
+        <% } %>
+    </section>
+</article>
+
+<style>
+    .clip-path-ability { 
+        clip-path: polygon(0 0, 92% 0, 100% 15%, 100% 100%, 8% 100%, 0 85%); 
+    }
+</style>

@@ -1,0 +1,132 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 69,
+      "heroName": "Hanzo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 5.297999858856201,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 10,
+          "name": "Franco",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
+          "score": 5.298
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "heroName": "Sun",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 4.390999794006348,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 10,
+          "name": "Franco",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
+          "score": 4.391
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "heroName": "Tigreal",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control"
+      ],
+      "score": 4.140999794006348,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 10,
+          "name": "Franco",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
+          "score": 4.141
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "heroName": "Atlas",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Initiator"
+      ],
+      "score": 4.076000213623047,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 10,
+          "name": "Franco",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
+          "score": 4.076
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "heroName": "Johnson",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
+      "role": [
+        "Tank",
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 3.7109999656677246,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 10,
+          "name": "Franco",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
+          "score": 3.711
+        }
+      ]
+    }
+  ]
+}

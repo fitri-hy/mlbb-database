@@ -1,0 +1,413 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 3.282000064849853,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 3.282
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "heroName": "Khufra",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "score": 3.003000020980835,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 3.003
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "heroName": "Thamuz",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 2.950000047683716,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 2.95
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "heroName": "Lylia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 2.7839999198913574,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 2.784
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "heroName": "Balmond",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 2.75,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 2.75
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "heroName": "Argus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Burst"
+      ],
+      "score": 1.5470000505447388,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 1.547
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "heroName": "Hanzo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 1.0640000104904177,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 1.064
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "heroName": "Tigreal",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control"
+      ],
+      "score": 0.4629999995231629,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 0.463
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "heroName": "Alpha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Damage"
+      ],
+      "score": 0.38999998569488525,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 0.39
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "heroName": "Benedetta",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+      "role": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 0.30399999022483826,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 0.304
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "heroName": "X.Borg",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Burst"
+      ],
+      "score": 0.10599999874830246,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 0.106
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "heroName": "Minsitthar",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "score": 0.10499999672174454,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 0.105
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "heroName": "Mathilda",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+      "role": [
+        "Support",
+        "Assassin"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Guard"
+      ],
+      "score": 0.10499999672174454,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 0.105
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "heroName": "Bane",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
+      "role": [
+        "Fighter",
+        "Mage"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Burst"
+      ],
+      "score": 0.08900000154972076,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 0.089
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "heroName": "Atlas",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Initiator"
+      ],
+      "score": 0,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "heroName": "Luo Yi",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 85,
+          "name": "Dyrroth",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

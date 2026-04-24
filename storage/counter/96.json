@@ -1,0 +1,313 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 119,
+      "heroName": "Novaria",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Poke"
+      ],
+      "score": 4.033999919891357,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 96,
+          "name": "Luo Yi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+          "score": 4.034
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "heroName": "Hanzo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 3.934999942779541,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 96,
+          "name": "Luo Yi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+          "score": 3.935
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "heroName": "Helcurt",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Push",
+        "Burst"
+      ],
+      "score": 3.062000036239624,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 96,
+          "name": "Luo Yi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+          "score": 3.062
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "heroName": "Natalia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 2.812999963760376,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 96,
+          "name": "Luo Yi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+          "score": 2.813
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "heroName": "Chou",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Control"
+      ],
+      "score": 1.9299999475479128,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 96,
+          "name": "Luo Yi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+          "score": 1.93
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "heroName": "Joy",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 1.3209999799728394,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 96,
+          "name": "Luo Yi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+          "score": 1.321
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "heroName": "Beatrix",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.8299999833106995,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 96,
+          "name": "Luo Yi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+          "score": 0.83
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "heroName": "Lolita",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Crowd Control"
+      ],
+      "score": 0.5249999761581421,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 96,
+          "name": "Luo Yi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+          "score": 0.525
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "heroName": "Ixia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.47200000286102295,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 96,
+          "name": "Luo Yi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+          "score": 0.472
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "heroName": "Benedetta",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+      "role": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 0.375,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 96,
+          "name": "Luo Yi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+          "score": 0.375
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "heroName": "Gloo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Control"
+      ],
+      "score": 0.3659999966621399,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 96,
+          "name": "Luo Yi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+          "score": 0.366
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "heroName": "Mathilda",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+      "role": [
+        "Support",
+        "Assassin"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Guard"
+      ],
+      "score": 0.2669999897480011,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 96,
+          "name": "Luo Yi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+          "score": 0.267
+        }
+      ]
+    }
+  ]
+}

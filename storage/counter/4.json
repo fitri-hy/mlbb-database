@@ -1,0 +1,181 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 55,
+      "heroName": "Angela",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Support"
+      ],
+      "score": 8.647000312805176,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 4,
+          "name": "Alice",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+          "score": 8.647
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 8.008999824523926,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 4,
+          "name": "Alice",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+          "score": 8.009
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "heroName": "Floryn",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Poke",
+        "Guard"
+      ],
+      "score": 7.535999774932861,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 4,
+          "name": "Alice",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+          "score": 7.536
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "heroName": "Cici",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 7.193999767303467,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 4,
+          "name": "Alice",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+          "score": 7.194
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "heroName": "Karrie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 3.5290000438690186,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 4,
+          "name": "Alice",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+          "score": 3.529
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "heroName": "Diggie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Poke"
+      ],
+      "score": 3.380000114440918,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 4,
+          "name": "Alice",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+          "score": 3.38
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "heroName": "Valir",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Guard"
+      ],
+      "score": 0.3030000030994416,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 4,
+          "name": "Alice",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+          "score": 0.303
+        }
+      ]
+    }
+  ]
+}

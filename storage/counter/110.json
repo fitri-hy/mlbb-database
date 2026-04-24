@@ -1,0 +1,410 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 106,
+      "heroName": "Phoveus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Damage"
+      ],
+      "score": 4.984000205993652,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 4.984
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "heroName": "Johnson",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
+      "role": [
+        "Tank",
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 4.203999996185303,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 4.204
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "heroName": "Marcel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Support"
+      ],
+      "score": 3.109999895095825,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 3.11
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "heroName": "Valir",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Guard"
+      ],
+      "score": 2.930000066757202,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 2.93
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "heroName": "Silvanna",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Initiator",
+        "Magic Damage"
+      ],
+      "score": 2.869999885559082,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 2.87
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "heroName": "Minsitthar",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "score": 1.7239999771118164,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 1.724
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "heroName": "Cyclops",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Control"
+      ],
+      "score": 1.7139999866485596,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 1.714
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "heroName": "Aulus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 1.3200000524520874,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 1.32
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "heroName": "Angela",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Support"
+      ],
+      "score": 0.4740000069141388,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 0.474
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "heroName": "Bruno",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 0.45500001311302185,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 0.455
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "heroName": "Barats",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 0.4480000138282776,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 0.448
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.3889999985694885,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 0.389
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 0.2660000026226044,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 0.266
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "heroName": "Zhuxin",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 0.2509999871253968,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 0.251
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "heroName": "Khufra",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "score": 0.2280000001192093,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 0.228
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "heroName": "Odette",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Poke"
+      ],
+      "score": 0,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 110,
+          "name": "Valentina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

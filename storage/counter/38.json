@@ -1,0 +1,187 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 4,
+      "heroName": "Alice",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "role": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Charge",
+        "Regen"
+      ],
+      "score": 5.716000080108643,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 38,
+          "name": "Vexana",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+          "score": 5.716
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "heroName": "Natalia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 4.0329999923706055,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 38,
+          "name": "Vexana",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+          "score": 4.033
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "heroName": "X.Borg",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Burst"
+      ],
+      "score": 3.8970000743865967,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 38,
+          "name": "Vexana",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+          "score": 3.897
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "heroName": "Hanzo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 3.345999956130981,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 38,
+          "name": "Vexana",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+          "score": 3.346
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "heroName": "Marcel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Support"
+      ],
+      "score": 3.114000082015991,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 38,
+          "name": "Vexana",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+          "score": 3.114
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "heroName": "Benedetta",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+      "role": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 0.3109999895095825,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 38,
+          "name": "Vexana",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+          "score": 0.311
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "heroName": "Faramis",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "role": [
+        "Support",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Charge"
+      ],
+      "score": 0.12200000137090684,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 38,
+          "name": "Vexana",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+          "score": 0.122
+        }
+      ]
+    }
+  ]
+}

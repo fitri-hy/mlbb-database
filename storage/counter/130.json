@@ -1,0 +1,234 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 87,
+      "heroName": "Baxia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Damage"
+      ],
+      "score": 7.609000205993652,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 130,
+          "name": "Obsidia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+          "score": 7.609
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 6.171999931335449,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 130,
+          "name": "Obsidia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+          "score": 6.172
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "heroName": "Belerick",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Regen"
+      ],
+      "score": 5.127999782562256,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 130,
+          "name": "Obsidia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+          "score": 5.128
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "heroName": "Miya",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 5.0980000495910645,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 130,
+          "name": "Obsidia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+          "score": 5.098
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "heroName": "Uranus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen"
+      ],
+      "score": 2.5799999237060547,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 130,
+          "name": "Obsidia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+          "score": 2.58
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "heroName": "Barats",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 1.6859999895095823,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 130,
+          "name": "Obsidia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+          "score": 1.686
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "heroName": "Popol and Kupa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Jungle",
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Burst"
+      ],
+      "score": 0.4790000021457672,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 130,
+          "name": "Obsidia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+          "score": 0.479
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.1770000010728836,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 130,
+          "name": "Obsidia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+          "score": 0.177
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "heroName": "Odette",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Poke"
+      ],
+      "score": 0,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 130,
+          "name": "Obsidia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

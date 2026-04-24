@@ -1,0 +1,233 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 89,
+      "heroName": "Wanwan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 6.068999767303467,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 80,
+          "name": "Guinevere",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+          "score": 6.069
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 5.4710001945495605,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 80,
+          "name": "Guinevere",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+          "score": 5.471
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "heroName": "Khufra",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "score": 4.682000160217285,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 80,
+          "name": "Guinevere",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+          "score": 4.682
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "heroName": "Joy",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 2.5360000133514404,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 80,
+          "name": "Guinevere",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+          "score": 2.536
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "heroName": "Fanny",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 2.049999952316284,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 80,
+          "name": "Guinevere",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+          "score": 2.05
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "heroName": "Argus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Burst"
+      ],
+      "score": 1.5570000410079956,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 80,
+          "name": "Guinevere",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+          "score": 1.557
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "heroName": "Diggie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Poke"
+      ],
+      "score": 1.059000015258789,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 80,
+          "name": "Guinevere",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+          "score": 1.059
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "heroName": "Miya",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 1.0549999475479126,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 80,
+          "name": "Guinevere",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+          "score": 1.055
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.1770000010728836,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 80,
+          "name": "Guinevere",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+          "score": 0.177
+        }
+      ]
+    }
+  ]
+}

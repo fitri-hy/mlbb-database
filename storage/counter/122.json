@@ -1,0 +1,187 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 35,
+      "heroName": "Hilda",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Roam",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 6.500999927520752,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 122,
+          "name": "Nolan",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
+          "score": 6.501
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "heroName": "Natalia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 6.005000114440918,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 122,
+          "name": "Nolan",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
+          "score": 6.005
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "heroName": "Saber",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Charge",
+        "Finisher"
+      ],
+      "score": 5.88100004196167,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 122,
+          "name": "Nolan",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
+          "score": 5.881
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "heroName": "Harith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Gold Lane",
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 4.539999961853027,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 122,
+          "name": "Nolan",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
+          "score": 4.54
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "heroName": "Khaleed",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Roam",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 3.819999933242798,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 122,
+          "name": "Nolan",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
+          "score": 3.82
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "heroName": "Hayabusa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 0.8309999704360962,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 122,
+          "name": "Nolan",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
+          "score": 0.831
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "heroName": "Obsidia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.2460000067949295,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 122,
+          "name": "Nolan",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
+          "score": 0.246
+        }
+      ]
+    }
+  ]
+}

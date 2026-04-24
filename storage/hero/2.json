@@ -1,0 +1,984 @@
+{
+  "success": true,
+  "message": "Hero detail retrieved successfully",
+  "data": {
+    "id": 2,
+    "hero_name": "Balmond",
+    "channel_id": 2667596,
+    "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+    "role": [
+      "Fighter"
+    ],
+    "lane": [
+      "Jungle",
+      "Exp Lane"
+    ],
+    "speciality": [
+      "Damage",
+      "Regen"
+    ],
+    "tier": "D",
+    "previous_tier": "D",
+    "score": 122.161,
+    "statistics": [
+      {
+        "hero_id": 2,
+        "pick_rate": 0.31,
+        "win_rate": 43.26,
+        "ban_rate": 0.28,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.31,
+        "win_rate": 43.46,
+        "ban_rate": 0.28,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.32,
+        "win_rate": 43.25,
+        "ban_rate": 0.29,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.33,
+        "win_rate": 43.17,
+        "ban_rate": 0.28,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.35,
+        "win_rate": 43.31,
+        "ban_rate": 0.27,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.87,
+        "win_rate": 45.15,
+        "ban_rate": 0.94,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.88,
+        "win_rate": 45.48,
+        "ban_rate": 0.95,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.88,
+        "win_rate": 45.17,
+        "ban_rate": 0.9,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.86,
+        "win_rate": 44.98,
+        "ban_rate": 0.84,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.79,
+        "win_rate": 44.75,
+        "ban_rate": 0.64,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.47,
+        "win_rate": 43.53,
+        "ban_rate": 0.27,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.46,
+        "win_rate": 43.7,
+        "ban_rate": 0.27,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.45,
+        "win_rate": 43.43,
+        "ban_rate": 0.26,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.43,
+        "win_rate": 43.31,
+        "ban_rate": 0.25,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.38,
+        "win_rate": 43.2,
+        "ban_rate": 0.22,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.27,
+        "win_rate": 42.77,
+        "ban_rate": 0.19,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.27,
+        "win_rate": 42.86,
+        "ban_rate": 0.2,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.27,
+        "win_rate": 42.57,
+        "ban_rate": 0.19,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.25,
+        "win_rate": 42.22,
+        "ban_rate": 0.18,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.23,
+        "win_rate": 42,
+        "ban_rate": 0.17,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.19,
+        "win_rate": 42.11,
+        "ban_rate": 0.16,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.19,
+        "win_rate": 42.18,
+        "ban_rate": 0.15,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.18,
+        "win_rate": 41.87,
+        "ban_rate": 0.16,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.18,
+        "win_rate": 41.59,
+        "ban_rate": 0.15,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.16,
+        "win_rate": 41.16,
+        "ban_rate": 0.15,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.11,
+        "win_rate": 39.58,
+        "ban_rate": 0.13,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.11,
+        "win_rate": 39.7,
+        "ban_rate": 0.13,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.11,
+        "win_rate": 39.18,
+        "ban_rate": 0.13,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.1,
+        "win_rate": 38.94,
+        "ban_rate": 0.13,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 2,
+        "pick_rate": 0.1,
+        "win_rate": 38.58,
+        "ban_rate": 0.13,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      }
+    ],
+    "counters": [
+      {
+        "type": "counters",
+        "id": 123,
+        "hero_name": "Cici",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Damage",
+          "Regen"
+        ],
+        "weighted_score": 7.642,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 48,
+        "hero_name": "Diggie",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Guard",
+          "Poke"
+        ],
+        "weighted_score": 7.64,
+        "tier": "B"
+      },
+      {
+        "type": "counters",
+        "id": 84,
+        "hero_name": "Ling",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Chase",
+          "Burst"
+        ],
+        "weighted_score": 7.58,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 12,
+        "hero_name": "Bruno",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Burst"
+        ],
+        "weighted_score": 4.65,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 94,
+        "hero_name": "Popol and Kupa",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Jungle",
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Push",
+          "Burst"
+        ],
+        "weighted_score": 4.43,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 34,
+        "hero_name": "Estes",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Regen",
+          "Guard"
+        ],
+        "weighted_score": 3.131,
+        "tier": "S"
+      },
+      {
+        "type": "counters",
+        "id": 83,
+        "hero_name": "X.Borg",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Regen",
+          "Burst"
+        ],
+        "weighted_score": 3.058,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 55,
+        "hero_name": "Angela",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Guard",
+          "Support"
+        ],
+        "weighted_score": 2.59,
+        "tier": "C"
+      },
+      {
+        "type": "counters",
+        "id": 69,
+        "hero_name": "Hanzo",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Poke",
+          "Burst"
+        ],
+        "weighted_score": 1.755,
+        "tier": "C"
+      },
+      {
+        "type": "counters",
+        "id": 57,
+        "hero_name": "Valir",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Damage",
+          "Guard"
+        ],
+        "weighted_score": 1.106,
+        "tier": "C"
+      }
+    ],
+    "weakAgainst": [
+      {
+        "type": "weak_against",
+        "id": 127,
+        "hero_name": "Lukas",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane",
+          "Jungle"
+        ],
+        "speciality": [
+          "Regen",
+          "Damage"
+        ],
+        "weighted_score": 4.957,
+        "tier": "D"
+      },
+      {
+        "type": "weak_against",
+        "id": 106,
+        "hero_name": "Phoveus",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Regen",
+          "Damage"
+        ],
+        "weighted_score": 4.29,
+        "tier": "C"
+      },
+      {
+        "type": "weak_against",
+        "id": 9,
+        "hero_name": "Akai",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Guard",
+          "Crowd Control"
+        ],
+        "weighted_score": 3.07,
+        "tier": "D"
+      },
+      {
+        "type": "weak_against",
+        "id": 85,
+        "hero_name": "Dyrroth",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane",
+          "Jungle"
+        ],
+        "speciality": [
+          "Charge",
+          "Burst"
+        ],
+        "weighted_score": 2.75,
+        "tier": "D"
+      },
+      {
+        "type": "weak_against",
+        "id": 6,
+        "hero_name": "Tigreal",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Crowd Control"
+        ],
+        "weighted_score": 2.71,
+        "tier": "C"
+      },
+      {
+        "type": "weak_against",
+        "id": 117,
+        "hero_name": "Fredrinn",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
+        "role": [
+          "Fighter",
+          "Tank"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Damage",
+          "Chase"
+        ],
+        "weighted_score": 2.4,
+        "tier": "A"
+      },
+      {
+        "type": "weak_against",
+        "id": 75,
+        "hero_name": "Kadita",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
+        "role": [
+          "Mage",
+          "Assassin"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Charge"
+        ],
+        "weighted_score": 1.95,
+        "tier": "B"
+      },
+      {
+        "type": "weak_against",
+        "id": 128,
+        "hero_name": "Kalea",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+        "role": [
+          "Support",
+          "Fighter"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Control",
+          "Regen"
+        ],
+        "weighted_score": 1.93,
+        "tier": "D"
+      },
+      {
+        "type": "weak_against",
+        "id": 98,
+        "hero_name": "Khaleed",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Roam",
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Damage",
+          "Regen"
+        ],
+        "weighted_score": 1.9,
+        "tier": "D"
+      }
+    ],
+    "synergies": [
+      {
+        "id": 84,
+        "hero_name": "Ling",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Chase",
+          "Burst"
+        ],
+        "weighted_score": 5.17,
+        "tier": "D"
+      },
+      {
+        "id": 93,
+        "hero_name": "Atlas",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Crowd Control",
+          "Initiator"
+        ],
+        "weighted_score": 3.729,
+        "tier": "D"
+      },
+      {
+        "id": 74,
+        "hero_name": "Minsitthar",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane",
+          "Roam"
+        ],
+        "speciality": [
+          "Initiator",
+          "Crowd Control"
+        ],
+        "weighted_score": 3.125,
+        "tier": "A"
+      },
+      {
+        "id": 123,
+        "hero_name": "Cici",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Damage",
+          "Regen"
+        ],
+        "weighted_score": 2.73,
+        "tier": "D"
+      },
+      {
+        "id": 60,
+        "hero_name": "Hanabi",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Damage"
+        ],
+        "weighted_score": 1.217,
+        "tier": "B"
+      },
+      {
+        "id": 55,
+        "hero_name": "Angela",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Guard",
+          "Support"
+        ],
+        "weighted_score": 0.982,
+        "tier": "C"
+      },
+      {
+        "id": 45,
+        "hero_name": "Argus",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Charge",
+          "Burst"
+        ],
+        "weighted_score": 0.368,
+        "tier": "D"
+      },
+      {
+        "id": 64,
+        "hero_name": "Aldous",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Support"
+        ],
+        "weighted_score": 0.274,
+        "tier": "D"
+      },
+      {
+        "id": 80,
+        "hero_name": "Guinevere",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Magic Damage"
+        ],
+        "weighted_score": 0.097,
+        "tier": "S"
+      },
+      {
+        "id": 66,
+        "hero_name": "Vale",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Crowd Control"
+        ],
+        "weighted_score": 0.071,
+        "tier": "D"
+      }
+    ],
+    "skills": [
+      {
+        "id": "passive",
+        "hero_id": 2,
+        "skill_key": "passive",
+        "name": "Bloodthirst",
+        "type": "Heal",
+        "description": "BloodthirstHealBalmond recovers 5% Max HP after killing a Minion or Creep, and 20% Max HP after killing a hero.Skill terms\nMax HP\nThe maximum HP currently can have.",
+        "image_url": "",
+        "image_path": "hero-skills-images/balmond/passive.png",
+        "scaling": null,
+        "effects": null
+      },
+      {
+        "id": "skill_1",
+        "hero_id": 2,
+        "skill_key": "skill_1",
+        "name": "Soul Lock",
+        "type": "Damage | Mobility | Slow | Blink",
+        "description": "Soul LockMobility SlowBalmond charges to the target direction for a set distance or until he hits an enemy hero, dealing 150–275 (+60% Total Physical Attack) Physical Damage to enemies along the way. The enemy hero hit will be knocked back slightly and slowed by 60% for 2 seconds.Skill terms\nBlink\nMovement ability that can pass through obstacles.\nPhysical Damage Skill\nDeal Physical DMG to enemies. Triggers Spell Vamp.\nMovement Speed\nMovement Speed on the battlefield. Usually Calculated and Actua",
+        "image_url": "",
+        "image_path": "hero-skills-images/balmond/skill_1.png",
+        "scaling": {
+          "levels": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "cooldown": "8.0",
+          "base_damage": [
+            150,
+            175,
+            200,
+            225,
+            250,
+            275
+          ]
+        },
+        "effects": null
+      },
+      {
+        "id": "skill_2",
+        "hero_id": 2,
+        "skill_key": "skill_2",
+        "name": "Cyclone Sweep",
+        "type": "Buff | AOE | Damage",
+        "description": "Cyclone SweepAOE BuffBalmond gains 15% Movement Speed that decays over time and spins his axe for 3 seconds, dealing 25–100 (+25% Total Physical Attack) Physical Damage to nearby enemies up to 14 times. Each subsequent hit on the same enemy will deal 7.5% increased damage (up to 60%).The Physical Attack bonus portion of the damage can Crit.Skill terms\nPhysical Damage Skill\nDeal Physical DMG to enemies. Triggers Spell Vamp.\n\nLevel scaling\n\n\nProperties\n\n1\n\n2\n\n3\n\n4\n\n5\n\n6\n\n\nCooldown\n\n6.0\n\n\nBase Dama",
+        "image_url": "",
+        "image_path": "hero-skills-images/balmond/skill_2.png",
+        "scaling": {
+          "levels": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "cooldown": "6.0",
+          "property": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "base_damage": [
+            7.5
+          ]
+        },
+        "effects": null
+      },
+      {
+        "id": "ultimate",
+        "hero_id": 2,
+        "skill_key": "ultimate",
+        "name": "Lethal Counter",
+        "type": "Damage | Slow",
+        "description": "Lethal CounterBurst SlowBalmond unleashes a huge strike in the target direction (cannot be interrupted), dealing [150 (+70% Total Physical Attack) (+target's 30%–45% Lost HP) True Damage.]This skill deals up to 1000–2000 damage to non-hero units.Skill terms\nTrue Damage Skill\nDeal True Damage to enemies. Triggers Spell Vamp.\nLost HP\nLost HP = Max HP - Current HP.\nTrue Damage\nIf there is no way to reduce damage taken, you can try increasing Max HP.\n\nLevel scaling\n\n\nProperties\n\n1\n\n2\n\n3\n\n\nCooldown",
+        "image_url": "",
+        "image_path": "hero-skills-images/balmond/ultimate.png",
+        "scaling": {
+          "levels": [
+            1,
+            2,
+            3
+          ],
+          "cooldown": "34.0",
+          "base_damage": [
+            1000,
+            1500,
+            2000
+          ]
+        },
+        "effects": null
+      }
+    ]
+  }
+}

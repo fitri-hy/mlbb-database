@@ -1,0 +1,233 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 83,
+      "heroName": "X.Borg",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Burst"
+      ],
+      "score": 9.402000427246094,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 82,
+          "name": "Terizla",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+          "score": 9.402
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "heroName": "Valir",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Guard"
+      ],
+      "score": 4.492000102996826,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 82,
+          "name": "Terizla",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+          "score": 4.492
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "heroName": "Alpha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Damage"
+      ],
+      "score": 3.950999975204468,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 82,
+          "name": "Terizla",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+          "score": 3.951
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 2.986000061035156,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 82,
+          "name": "Terizla",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+          "score": 2.986
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "heroName": "Gloo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Control"
+      ],
+      "score": 2.2300000190734863,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 82,
+          "name": "Terizla",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+          "score": 2.23
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "heroName": "Gord",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 1.4839999675750732,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 82,
+          "name": "Terizla",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+          "score": 1.484
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "heroName": "Diggie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Poke"
+      ],
+      "score": 1.149999976158142,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 82,
+          "name": "Terizla",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+          "score": 1.15
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "heroName": "Karrie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.4379999935626984,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 82,
+          "name": "Terizla",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+          "score": 0.438
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "heroName": "Angela",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Support"
+      ],
+      "score": 0.4379999935626984,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 82,
+          "name": "Terizla",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+          "score": 0.438
+        }
+      ]
+    }
+  ]
+}

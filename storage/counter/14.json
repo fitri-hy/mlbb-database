@@ -1,0 +1,207 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 46,
+      "heroName": "Odette",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Poke"
+      ],
+      "score": 5.763999938964844,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 14,
+          "name": "Rafaela",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+          "score": 5.764
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "heroName": "Ixia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 5.698999881744385,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 14,
+          "name": "Rafaela",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+          "score": 5.699
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "heroName": "Layla",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 5.604000091552734,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 14,
+          "name": "Rafaela",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+          "score": 5.604
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "heroName": "Eudora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Control",
+        "Burst"
+      ],
+      "score": 5.458000183105469,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 14,
+          "name": "Rafaela",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+          "score": 5.458
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "heroName": "Sora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Burst"
+      ],
+      "score": 2.900000095367432,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 14,
+          "name": "Rafaela",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+          "score": 2.9
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "heroName": "Nolan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 2.013999938964844,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 14,
+          "name": "Rafaela",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+          "score": 2.014
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "heroName": "Vale",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Crowd Control"
+      ],
+      "score": 0.20499999821186063,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 14,
+          "name": "Rafaela",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+          "score": 0.205
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "heroName": "Silvanna",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Initiator",
+        "Magic Damage"
+      ],
+      "score": 0.19699999690055847,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 14,
+          "name": "Rafaela",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+          "score": 0.197
+        }
+      ]
+    }
+  ]
+}

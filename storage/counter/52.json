@@ -1,0 +1,317 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 24,
+      "heroName": "Natalia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 4.105000019073486,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 52,
+          "name": "Pharsa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+          "score": 4.105
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 3.4660000801086426,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 52,
+          "name": "Pharsa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+          "score": 3.466
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "heroName": "Paquito",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 2.3350000381469727,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 52,
+          "name": "Pharsa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+          "score": 2.335
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 1.5779999494552612,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 52,
+          "name": "Pharsa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+          "score": 1.578
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "heroName": "Helcurt",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Push",
+        "Burst"
+      ],
+      "score": 1.4600000381469729,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 52,
+          "name": "Pharsa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+          "score": 1.46
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "heroName": "Gloo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Control"
+      ],
+      "score": 1.337000012397766,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 52,
+          "name": "Pharsa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+          "score": 1.337
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "heroName": "Selena",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
+      "role": [
+        "Assassin",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Finisher"
+      ],
+      "score": 0.6449999809265137,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 52,
+          "name": "Pharsa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+          "score": 0.645
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "heroName": "Yin",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Control"
+      ],
+      "score": 0.4779999852180481,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 52,
+          "name": "Pharsa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+          "score": 0.478
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "heroName": "Hanzo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.2460000067949295,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 52,
+          "name": "Pharsa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+          "score": 0.246
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "heroName": "Irithel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 0.11800000071525574,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 52,
+          "name": "Pharsa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+          "score": 0.118
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "heroName": "Benedetta",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+      "role": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 0.1169999986886978,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 52,
+          "name": "Pharsa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+          "score": 0.117
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "heroName": "Wanwan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 0.11100000143051147,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 52,
+          "name": "Pharsa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+          "score": 0.111
+        }
+      ]
+    }
+  ]
+}

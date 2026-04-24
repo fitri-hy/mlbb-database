@@ -1,0 +1,210 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 7.382999897003174,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 95,
+          "name": "Yu Zhong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+          "score": 7.383
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "heroName": "Wanwan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 4.059999942779541,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 95,
+          "name": "Yu Zhong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+          "score": 4.06
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "heroName": "Lunox",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Damage"
+      ],
+      "score": 3.4159998893737797,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 95,
+          "name": "Yu Zhong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+          "score": 3.416
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "heroName": "Paquito",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 2.796999931335449,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 95,
+          "name": "Yu Zhong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+          "score": 2.797
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "heroName": "Harith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Gold Lane",
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 2.259999990463257,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 95,
+          "name": "Yu Zhong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+          "score": 2.26
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "heroName": "Sun",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 0.824999988079071,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 95,
+          "name": "Yu Zhong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+          "score": 0.825
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "heroName": "Karrie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.753000020980835,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 95,
+          "name": "Yu Zhong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+          "score": 0.753
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "heroName": "Cici",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 0.3779999911785126,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 95,
+          "name": "Yu Zhong",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+          "score": 0.378
+        }
+      ]
+    }
+  ]
+}

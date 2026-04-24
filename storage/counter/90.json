@@ -1,0 +1,236 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 99,
+      "heroName": "Barats",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 7.540999889373779,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 90,
+          "name": "Silvanna",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+          "score": 7.541
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "heroName": "Karina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Finisher",
+        "Magic Damage"
+      ],
+      "score": 5.906000137329102,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 90,
+          "name": "Silvanna",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+          "score": 5.906
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "heroName": "Edith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png",
+      "role": [
+        "Tank",
+        "Marksman"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Control",
+        "Burst"
+      ],
+      "score": 5.623000144958496,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 90,
+          "name": "Silvanna",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+          "score": 5.623
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 4.855000019073486,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 90,
+          "name": "Silvanna",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+          "score": 4.855
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "heroName": "Khufra",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "score": 3.3239998817443848,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 90,
+          "name": "Silvanna",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+          "score": 3.324
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "heroName": "Benedetta",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+      "role": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 2.615000009536743,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 90,
+          "name": "Silvanna",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+          "score": 2.615
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "heroName": "Wanwan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 0.49799999594688416,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 90,
+          "name": "Silvanna",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+          "score": 0.498
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "heroName": "Lapu-Lapu",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 0.41999998688697815,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 90,
+          "name": "Silvanna",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+          "score": 0.42
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "heroName": "Atlas",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Initiator"
+      ],
+      "score": 0.1860000044107437,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 90,
+          "name": "Silvanna",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+          "score": 0.186
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 4.085999965667725,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 19,
+          "name": "Minotaur",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+          "score": 4.086
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "heroName": "Luo Yi",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 4.020999908447266,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 19,
+          "name": "Minotaur",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+          "score": 4.021
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "heroName": "Carmilla",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Damage"
+      ],
+      "score": 3.5450000762939453,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 19,
+          "name": "Minotaur",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+          "score": 3.545
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "heroName": "Lapu-Lapu",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 3.365000009536743,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 19,
+          "name": "Minotaur",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+          "score": 3.365
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "heroName": "Marcel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Support"
+      ],
+      "score": 2.4100000858306885,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 19,
+          "name": "Minotaur",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+          "score": 2.41
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "heroName": "Alice",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "role": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Charge",
+        "Regen"
+      ],
+      "score": 1.8170000314712524,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 19,
+          "name": "Minotaur",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+          "score": 1.817
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "heroName": "Kimmy",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+      "role": [
+        "Marksman",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane",
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Magic Damage"
+      ],
+      "score": 1.4110000133514404,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 19,
+          "name": "Minotaur",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+          "score": 1.411
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "heroName": "Joy",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0.3540000021457672,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 19,
+          "name": "Minotaur",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+          "score": 0.354
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "heroName": "Ixia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.3190000057220459,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 19,
+          "name": "Minotaur",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+          "score": 0.319
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "heroName": "Valentina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 0.20900000631809235,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 19,
+          "name": "Minotaur",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+          "score": 0.209
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "heroName": "Baxia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Damage"
+      ],
+      "score": 0.164000004529953,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 19,
+          "name": "Minotaur",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+          "score": 0.164
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "heroName": "Valir",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Guard"
+      ],
+      "score": 0.16200000047683716,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 19,
+          "name": "Minotaur",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+          "score": 0.162
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 27,
+      "heroName": "Sun",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 8.246999740600586,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 123,
+          "name": "Cici",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+          "score": 8.247
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 7.920000076293945,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 123,
+          "name": "Cici",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+          "score": 7.92
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "heroName": "X.Borg",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Burst"
+      ],
+      "score": 7.617000102996826,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 123,
+          "name": "Cici",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+          "score": 7.617
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "heroName": "Aamon",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Magic Damage"
+      ],
+      "score": 6.709000110626221,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 123,
+          "name": "Cici",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+          "score": 6.709
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "heroName": "Arlott",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Burst"
+      ],
+      "score": 2.680000066757202,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 123,
+          "name": "Cici",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+          "score": 2.68
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 1.225000023841858,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 123,
+          "name": "Cici",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+          "score": 1.225
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "heroName": "Zilong",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0.7559999823570251,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 123,
+          "name": "Cici",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+          "score": 0.756
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "heroName": "Faramis",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "role": [
+        "Support",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Charge"
+      ],
+      "score": 0.23600000143051147,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 123,
+          "name": "Cici",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+          "score": 0.236
+        }
+      ]
+    }
+  ]
+}

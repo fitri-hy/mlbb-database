@@ -1,0 +1,238 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 27,
+      "heroName": "Sun",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 6.591000080108643,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 42,
+          "name": "Harley",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+          "score": 6.591
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "heroName": "Lolita",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Crowd Control"
+      ],
+      "score": 6.520999908447266,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 42,
+          "name": "Harley",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+          "score": 6.521
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "heroName": "Popol and Kupa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Jungle",
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Burst"
+      ],
+      "score": 5.02899980545044,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 42,
+          "name": "Harley",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+          "score": 5.029
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "heroName": "Roger",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+      "role": [
+        "Fighter",
+        "Marksman"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 3.884999990463257,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 42,
+          "name": "Harley",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+          "score": 3.885
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 2.7300000190734863,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 42,
+          "name": "Harley",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+          "score": 2.73
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "heroName": "Natalia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 1.8509999513626096,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 42,
+          "name": "Harley",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+          "score": 1.851
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "heroName": "Saber",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Charge",
+        "Finisher"
+      ],
+      "score": 0.968999981880188,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 42,
+          "name": "Harley",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+          "score": 0.969
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "heroName": "Eudora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Control",
+        "Burst"
+      ],
+      "score": 0.46799999475479126,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 42,
+          "name": "Harley",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+          "score": 0.468
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "heroName": "Brody",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 0.2070000022649765,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 42,
+          "name": "Harley",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+          "score": 0.207
+        }
+      ]
+    }
+  ]
+}

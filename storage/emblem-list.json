@@ -1,0 +1,76 @@
+{
+  "success": true,
+  "message": "Main emblems retrieved successfully",
+  "data": [
+    {
+      "id": 1,
+      "name": "Common",
+      "img_src": "common.png",
+      "attributes": [
+        "Hybrid Regen +12.00",
+        "HP +275.00",
+        "Adaptive Attack +22.00"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Tank",
+      "img_src": "tank.png",
+      "attributes": [
+        "HP +500",
+        "Hybrid Defens +10.00",
+        "HP Regen +4.00"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Assassin",
+      "img_src": "assassin.png",
+      "attributes": [
+        "Adaptive Penetration +14.00",
+        "Adaptive Attack +10.00",
+        "Movement Speed +3.00%"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Mage",
+      "img_src": "mage.png",
+      "attributes": [
+        "Magic Power +30.00",
+        "Cooldown Reduction +5.00%",
+        "Magic Penetration +8.00"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Fighter",
+      "img_src": "fighter.png",
+      "attributes": [
+        "Spell Vamp +10.00%",
+        "Adaptive Attack +22.00",
+        "Hybrid Defense +6.00"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Support",
+      "img_src": "support.png",
+      "attributes": [
+        "Healing Effect +12.00%",
+        "Cooldown Reduction +10.00%",
+        "Moevement Speed +6.00%"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Marksman",
+      "img_src": "marksman.png",
+      "attributes": [
+        "Attack Speed +15.00%",
+        "Adaptive Attack +16.00",
+        "Lifesteal +5.00%"
+      ]
+    }
+  ]
+}

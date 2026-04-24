@@ -1,0 +1,362 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 106,
+      "heroName": "Phoveus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Damage"
+      ],
+      "score": 5.710999965667725,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 5.711
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "heroName": "Lesley",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "role": [
+        "Marksman",
+        "Assassin"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 4.025000095367432,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 4.025
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "heroName": "Marcel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Support"
+      ],
+      "score": 2.5350000858306885,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 2.535
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "heroName": "Valentina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 1.9700000286102293,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 1.97
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "heroName": "Balmond",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 1.899999976158142,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 1.9
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "heroName": "Odette",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Poke"
+      ],
+      "score": 1.2130000591278076,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 1.213
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "heroName": "Fanny",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 0.7749999761581421,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 0.775
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "heroName": "Karrie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.4079999923706055,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 0.408
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.3720000088214874,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 0.372
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "heroName": "Leomord",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 0.3499999940395355,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 0.35
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "heroName": "Fredrinn",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Chase"
+      ],
+      "score": 0.33000001311302185,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 0.33
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 0.17900000512599945,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 0.179
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "heroName": "Clint",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a8345c69a4c9c611fdfce91089fe74a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 0.14800000190734863,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 0.148
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "heroName": "Martis",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Charge"
+      ],
+      "score": 0.1449999958276749,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 98,
+          "name": "Khaleed",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+          "score": 0.145
+        }
+      ]
+    }
+  ]
+}

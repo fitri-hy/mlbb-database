@@ -1,0 +1,286 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 3.049999952316284,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 39,
+          "name": "Roger",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+          "score": 3.05
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "heroName": "Uranus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen"
+      ],
+      "score": 2.861999988555908,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 39,
+          "name": "Roger",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+          "score": 2.862
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "heroName": "Barats",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 2.6619999408721924,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 39,
+          "name": "Roger",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+          "score": 2.662
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "heroName": "Lapu-Lapu",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 1.3799999952316284,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 39,
+          "name": "Roger",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+          "score": 1.38
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "heroName": "Leomord",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 1.3639999628067017,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 39,
+          "name": "Roger",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+          "score": 1.364
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "heroName": "Kimmy",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+      "role": [
+        "Marksman",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane",
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Magic Damage"
+      ],
+      "score": 1.340000033378601,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 39,
+          "name": "Roger",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+          "score": 1.34
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 1.0950000286102295,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 39,
+          "name": "Roger",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+          "score": 1.095
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "heroName": "Popol and Kupa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Jungle",
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Burst"
+      ],
+      "score": 0.4690000116825104,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 39,
+          "name": "Roger",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+          "score": 0.469
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "heroName": "Zhuxin",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 0.414000004529953,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 39,
+          "name": "Roger",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+          "score": 0.414
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "heroName": "Kaja",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
+      "role": [
+        "Support",
+        "Fighter"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Control",
+        "Charge"
+      ],
+      "score": 0.1420000046491623,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 39,
+          "name": "Roger",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+          "score": 0.142
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.11100000143051147,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 39,
+          "name": "Roger",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+          "score": 0.111
+        }
+      ]
+    }
+  ]
+}

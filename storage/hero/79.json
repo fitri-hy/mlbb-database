@@ -1,0 +1,912 @@
+{
+  "success": true,
+  "message": "Hero detail retrieved successfully",
+  "data": {
+    "id": 79,
+    "hero_name": "Granger",
+    "channel_id": 2678815,
+    "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
+    "role": [
+      "Marksman"
+    ],
+    "lane": [
+      "Gold Lane"
+    ],
+    "speciality": [
+      "Burst",
+      "Finisher"
+    ],
+    "tier": "D",
+    "previous_tier": "C",
+    "score": 158.904,
+    "statistics": [
+      {
+        "hero_id": 79,
+        "pick_rate": 1.61,
+        "win_rate": 42.51,
+        "ban_rate": 4.52,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.65,
+        "win_rate": 42.61,
+        "ban_rate": 4.6,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.71,
+        "win_rate": 42.55,
+        "ban_rate": 4.74,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.82,
+        "win_rate": 42.56,
+        "ban_rate": 4.86,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.84,
+        "win_rate": 42.63,
+        "ban_rate": 4.87,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.25,
+        "win_rate": 43.35,
+        "ban_rate": 8.45,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.3,
+        "win_rate": 43.32,
+        "ban_rate": 8.87,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.35,
+        "win_rate": 43.28,
+        "ban_rate": 8.91,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.43,
+        "win_rate": 43.29,
+        "ban_rate": 9.06,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.56,
+        "win_rate": 43.06,
+        "ban_rate": 8.51,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.56,
+        "win_rate": 42.1,
+        "ban_rate": 7.14,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.61,
+        "win_rate": 42.13,
+        "ban_rate": 7.24,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.67,
+        "win_rate": 42.09,
+        "ban_rate": 7.08,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.78,
+        "win_rate": 42.11,
+        "ban_rate": 6.72,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.83,
+        "win_rate": 42.11,
+        "ban_rate": 5.47,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.68,
+        "win_rate": 42.24,
+        "ban_rate": 3.66,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.72,
+        "win_rate": 42.31,
+        "ban_rate": 3.63,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.78,
+        "win_rate": 42.25,
+        "ban_rate": 3.52,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.92,
+        "win_rate": 42.28,
+        "ban_rate": 3.35,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.95,
+        "win_rate": 42.46,
+        "ban_rate": 2.82,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.66,
+        "win_rate": 41.69,
+        "ban_rate": 1.85,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.71,
+        "win_rate": 41.87,
+        "ban_rate": 1.82,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.77,
+        "win_rate": 41.86,
+        "ban_rate": 1.77,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.9,
+        "win_rate": 42,
+        "ban_rate": 1.71,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.92,
+        "win_rate": 42.39,
+        "ban_rate": 1.6,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.71,
+        "win_rate": 43.87,
+        "ban_rate": 1.1,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.74,
+        "win_rate": 44.03,
+        "ban_rate": 1.13,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.81,
+        "win_rate": 44.08,
+        "ban_rate": 1.15,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.9,
+        "win_rate": 44.25,
+        "ban_rate": 1.21,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 79,
+        "pick_rate": 1.95,
+        "win_rate": 44.75,
+        "ban_rate": 1.31,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      }
+    ],
+    "counters": [
+      {
+        "type": "counters",
+        "id": 17,
+        "hero_name": "Fanny",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Chase",
+          "Finisher"
+        ],
+        "weighted_score": 7.175,
+        "tier": "C"
+      },
+      {
+        "type": "counters",
+        "id": 35,
+        "hero_name": "Hilda",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+        "role": [
+          "Fighter",
+          "Tank"
+        ],
+        "lane": [
+          "Roam",
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Damage",
+          "Regen"
+        ],
+        "weighted_score": 5.104,
+        "tier": "A"
+      },
+      {
+        "type": "counters",
+        "id": 84,
+        "hero_name": "Ling",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Chase",
+          "Burst"
+        ],
+        "weighted_score": 3.891,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 81,
+        "hero_name": "Esmeralda",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
+        "role": [
+          "Tank",
+          "Mage"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Regen",
+          "Mixed Damage"
+        ],
+        "weighted_score": 3.235,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 3,
+        "hero_name": "Saber",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle",
+          "Roam"
+        ],
+        "speciality": [
+          "Charge",
+          "Finisher"
+        ],
+        "weighted_score": 1.96,
+        "tier": "C"
+      },
+      {
+        "type": "counters",
+        "id": 59,
+        "hero_name": "Uranus",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Regen"
+        ],
+        "weighted_score": 1.771,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 102,
+        "hero_name": "Mathilda",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+        "role": [
+          "Support",
+          "Assassin"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Initiator",
+          "Guard"
+        ],
+        "weighted_score": 0.613,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 130,
+        "hero_name": "Obsidia",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Damage"
+        ],
+        "weighted_score": 0.485,
+        "tier": "C"
+      },
+      {
+        "type": "counters",
+        "id": 43,
+        "hero_name": "Irithel",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Burst"
+        ],
+        "weighted_score": 0.356,
+        "tier": "D"
+      }
+    ],
+    "weakAgainst": [
+      {
+        "type": "weak_against",
+        "id": 8,
+        "hero_name": "Karina",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Finisher",
+          "Magic Damage"
+        ],
+        "weighted_score": 8.46,
+        "tier": "D"
+      },
+      {
+        "type": "weak_against",
+        "id": 107,
+        "hero_name": "Natan",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Magic Damage"
+        ],
+        "weighted_score": 4.373,
+        "tier": "C"
+      },
+      {
+        "type": "weak_against",
+        "id": 105,
+        "hero_name": "Beatrix",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Damage"
+        ],
+        "weighted_score": 4.172,
+        "tier": "D"
+      },
+      {
+        "type": "weak_against",
+        "id": 114,
+        "hero_name": "Melissa",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Damage"
+        ],
+        "weighted_score": 3.861,
+        "tier": "D"
+      },
+      {
+        "type": "weak_against",
+        "id": 116,
+        "hero_name": "Julian",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
+        "role": [
+          "Assassin",
+          "Fighter"
+        ],
+        "lane": [
+          "Jungle",
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Chase",
+          "Magic Damage"
+        ],
+        "weighted_score": 3.24,
+        "tier": "C"
+      },
+      {
+        "type": "weak_against",
+        "id": 121,
+        "hero_name": "Ixia",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Damage"
+        ],
+        "weighted_score": 1.718,
+        "tier": "D"
+      },
+      {
+        "type": "weak_against",
+        "id": 60,
+        "hero_name": "Hanabi",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Damage"
+        ],
+        "weighted_score": 0.499,
+        "tier": "B"
+      }
+    ],
+    "synergies": [
+      {
+        "id": 94,
+        "hero_name": "Popol and Kupa",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Jungle",
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Push",
+          "Burst"
+        ],
+        "weighted_score": 5.785,
+        "tier": "D"
+      },
+      {
+        "id": 112,
+        "hero_name": "Floryn",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Poke",
+          "Guard"
+        ],
+        "weighted_score": 4.018,
+        "tier": "B"
+      },
+      {
+        "id": 87,
+        "hero_name": "Baxia",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Jungle",
+          "Roam"
+        ],
+        "speciality": [
+          "Support",
+          "Damage"
+        ],
+        "weighted_score": 3.62,
+        "tier": "D"
+      },
+      {
+        "id": 124,
+        "hero_name": "Chip",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+        "role": [
+          "Support",
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Support",
+          "Crowd Control"
+        ],
+        "weighted_score": 2.81,
+        "tier": "D"
+      },
+      {
+        "id": 110,
+        "hero_name": "Valentina",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Finisher"
+        ],
+        "weighted_score": 2.54,
+        "tier": "D"
+      },
+      {
+        "id": 39,
+        "hero_name": "Roger",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+        "role": [
+          "Fighter",
+          "Marksman"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Finisher",
+          "Burst"
+        ],
+        "weighted_score": 1.628,
+        "tier": "D"
+      },
+      {
+        "id": 101,
+        "hero_name": "Yve",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Poke",
+          "Burst"
+        ],
+        "weighted_score": 1.534,
+        "tier": "D"
+      },
+      {
+        "id": 132,
+        "hero_name": "Marcel",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Crowd Control",
+          "Support"
+        ],
+        "weighted_score": 0.92,
+        "tier": "SS"
+      },
+      {
+        "id": 108,
+        "hero_name": "Aulus",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Damage",
+          "Crowd Control"
+        ],
+        "weighted_score": 0.77,
+        "tier": "D"
+      }
+    ],
+    "skills": [
+      {
+        "id": "passive",
+        "hero_id": 79,
+        "skill_key": "passive",
+        "name": "Capriccio",
+        "type": "Buff | Damage",
+        "description": "CapriccioDamage BuffGranger's unique Demon Hunting Gun and Cannon are powered by Demonic Energy. Both his weapons have a staring Energy cap of 800. His Gun restores 8% Energy per second while his Cannon restores 2% Energy per second. Each Minion / Creep kill will permanently increase the Energy cap of Granger's Gun and Cannon by 6 / 6, and instantly restore their Energy by 5% / 5%, respectively. Every kill or assist on an enemy hero will permanently increase their Energy cap by 12 and instantly restore 10% Energy.  Every 1% CD Reduction Granger gains is converted into 2 Physical Attack. Demonic Energy Cost is not affected by Energy Cost Reductions. Icon variants Notes Demonic Energy Cost is technically not an energy as it is not affected by Energy Cost Reductions from the purple buff and the energy is omitted on his stats as seen on Granger's Story Page in-game.",
+        "image_url": "",
+        "image_path": "hero-skills-images/granger/passive.png",
+        "scaling": null,
+        "effects": null
+      },
+      {
+        "id": "skill_1",
+        "hero_id": 79,
+        "skill_key": "skill_1",
+        "name": "Rhapsody",
+        "type": "Damage",
+        "description": "RhapsodyBurstGranger rapidly fires 6 shot(s) with his Gun, with each shot dealing 60–120 (+50% Total Physical Attack) Physical Damage and consuming 70 Gun Energy. The last bullet is guaranteed to Crit. Each bullet deals an additional 70 damage to Creeps and Minions. While firing, Granger's Movement Speed is increased by 15%.  Granger stops firing when he runs out Energy, or when the skill is cast again.  Rhapsody has a brief cooldown and can be cast once his Gun Energy is over 420. Icon variants",
+        "image_url": "",
+        "image_path": "hero-skills-images/granger/skill_1.png",
+        "scaling": {
+          "levels": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "cooldown": "0.3",
+          "base_damage": [
+            60,
+            72,
+            84,
+            96,
+            108,
+            120
+          ],
+          "gun_energy_cost": "420"
+        },
+        "effects": null
+      },
+      {
+        "id": "skill_2",
+        "hero_id": 79,
+        "skill_key": "skill_2",
+        "name": "Rondo",
+        "type": "Buff | Mobility",
+        "description": "RondoMobility BuffGranger uses his Demon Hunter agility to dash in the target direction, instantly restoring 15%-25% Energy for his Gun.   Rondo can be cast while channeling  Rhapsody. Each time Rhapsody hits an enemy, Rondo's Cooldown is reduced by 0.5 second.\n\nIcon variants\n\n\n\n\n\n\nLevel scaling\n\n\nProperties\n\n1\n\n2\n\n3\n\n4\n\n5\n\n6\n\n\nCooldown\n\n12.0\n\n\nEnergy Regen\n\n15%\n\n17%\n\n19%\n\n21%\n\n23%\n\n25%",
+        "image_url": "",
+        "image_path": "hero-skills-images/granger/skill_2.png",
+        "scaling": {
+          "levels": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "cooldown": "12.0",
+          "energy_regen": [
+            "15%",
+            "17%",
+            "19%",
+            "21%",
+            "23%",
+            "25%"
+          ]
+        },
+        "effects": null
+      },
+      {
+        "id": "ultimate",
+        "hero_id": 79,
+        "skill_key": "ultimate",
+        "name": "Death Sonata",
+        "type": "Damage | Slow",
+        "description": "Death SonataBurst SlowGranger fires his Cannon in the target direction, dealing 150–300 (+100% Total Physical Attack) Physical Damage to the first enemy hero hit and other targets in the blast radius. Targets hit will be slowed and revealed for a brief duration. Granger can roll in the Joystick's direction after each shot.  Death Sonata can be cast while firing  Rhapsody. Death Sonata has a brief cooldown and consumes 250 of Granger's Cannon Energy per shot. Icon variants",
+        "image_url": "",
+        "image_path": "hero-skills-images/granger/ultimate.png",
+        "scaling": {
+          "levels": [
+            1,
+            2,
+            3
+          ],
+          "cooldown": "0.6",
+          "base_damage": [
+            250,
+            325,
+            400
+          ],
+          "cannon_energy_cost": "250"
+        },
+        "effects": null
+      }
+    ]
+  }
+}

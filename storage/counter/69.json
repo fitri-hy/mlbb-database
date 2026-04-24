@@ -1,0 +1,263 @@
+{
+  "success": true,
+  "message": "Counter pick suggestions retrieved successfully",
+  "data": [
+    {
+      "id": 24,
+      "heroName": "Natalia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 11.534000396728516,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 69,
+          "name": "Hanzo",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+          "score": 11.534
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "heroName": "Ling",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 6.698999881744385,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 69,
+          "name": "Hanzo",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+          "score": 6.699
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "heroName": "Sun",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 6.494999885559082,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 69,
+          "name": "Hanzo",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+          "score": 6.495
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "heroName": "Helcurt",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Push",
+        "Burst"
+      ],
+      "score": 5.985000133514404,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 69,
+          "name": "Hanzo",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+          "score": 5.985
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "heroName": "Kimmy",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+      "role": [
+        "Marksman",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane",
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Magic Damage"
+      ],
+      "score": 2.970000028610229,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 69,
+          "name": "Hanzo",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+          "score": 2.97
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "heroName": "Karina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Finisher",
+        "Magic Damage"
+      ],
+      "score": 1.375,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 69,
+          "name": "Hanzo",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+          "score": 1.375
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "heroName": "Moskov",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Chase"
+      ],
+      "score": 1.1699999570846558,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 69,
+          "name": "Hanzo",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+          "score": 1.17
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "heroName": "Yin",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Control"
+      ],
+      "score": 0.2849999964237213,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 69,
+          "name": "Hanzo",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+          "score": 0.285
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "heroName": "Wanwan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 0.27000001072883606,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 69,
+          "name": "Hanzo",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+          "score": 0.27
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "heroName": "Lunox",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Damage"
+      ],
+      "score": 0,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 69,
+          "name": "Hanzo",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

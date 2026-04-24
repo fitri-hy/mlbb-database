@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	
+  <title><%= title %> | MLBB Database</title>
+  <meta name="description" content="-">
+  <meta name="author" content="Fhylabs" />
+  
+  <link rel="icon" type="image/x-icon" href="/assets/images/favicon.svg">
+
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="w-full min-h-screen flex flex-col bg-gradient-to-br from-indigo-900/30 to-violet-900/30 text-slate-200">
+    <%- include('partials/header') %>
+    
+    <main class="flex-1">
+        <%- body %>
+    </main>
+
+    <%- include('partials/footer') %>
+    <script src="/assets/js/script.js"></script>
+</body>
+</html>

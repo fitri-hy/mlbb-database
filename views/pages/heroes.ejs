@@ -1,0 +1,99 @@
+<article class="h-full flex-1 px-4 pt-26 pb-6 relative overflow-hidden">
+  <img class="fixed top-0 left-0 w-full h-full max-h-[700px] object-cover opacity-80 -z-10 trans-bottom" src="/assets/images/banner.webp" alt="banner" />
+
+  <section class="relative z-10 container mx-auto">
+    <div class="mb-10 flex flex-col md:flex-row md:justify-between items-center gap-6">
+	  <div class="pl-4 border-l-4 border-[#ffbd00]">
+        <h1 class="text-3xl md:text-5xl font-black text-white italic uppercase tracking-tighter">
+          Hero <span class="text-[#ffbd00]">List</span>
+        </h1>
+        <p class="text-[10px] font-bold tracking-[0.3em] uppercase mt-1">Combat Unit</p>
+      </div>
+      <div class="max-w-xs w-full">
+	  <form action="/heroes" method="GET" class="relative group">
+		<div class="absolute -inset-0.5 bg-gradient-to-r from-[#ffbd00]/30 to-orange-600/30 rounded-sm blur opacity-20 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
+		  <div class="relative flex">
+		    <div class="absolute z-10 top-0 left-0 w-2 h-2 border-t-2 border-l-2 border-[#ffbd00]"></div>
+		  
+		    <input 
+			  type="text" 
+			  name="search" 
+			  placeholder="SEARCH HERO NAME..." 
+			  value="<%= typeof searchQuery !== 'undefined' ? searchQuery : '' %>"
+		  	  class="placeholder:text-gray-200 w-full bg-white/20 backdrop-blur-md border border-white/10 px-5 py-4 text-white text-[10px] font-black tracking-[0.2em] uppercase focus:outline-none focus:border-[#ffbd00]/50 transition-all italic"
+		    />
+		  
+		    <button type="submit" class="cursor-pointer bg-[#ffbd00]/90 px-4 text-black group-hover:bg-[#ffbd00] group-hover:text-black transition-all transform group-hover:scale-110">
+			  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+			    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+			  </svg>
+		    </button>
+		  </div>
+	    </form>
+      </div>
+	</div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 md:grid-cols-4 2xl:grid-cols-5 gap-4">
+		<% if (heroes && heroes.length > 0) { %>
+		  <% heroes.forEach(function(hero) { %>
+			<a href="/heroes/<%= hero.id %>" class="group relative bg-white/10 border border-white/10 backdrop-blur-md p-2 transition-all duration-500 hover:border-[#ffbd00]/50 hover:bg-[#ffbd00]/[0.02] clip-path-gaming">
+			  
+			  <div class="absolute top-0 right-0 z-20">
+				<div class="bg-[#ffbd00] text-black px-2 py-1 -mr-1 -mt-1 skew-x-[-15deg] shadow-lg shadow-[#ffbd00]/20">
+				  <p class="text-[9px] font-black leading-none italic uppercase"><%= hero.lane %></p>
+				</div>
+			  </div>
+
+			  <div class="flex items-center gap-3">
+				<div class="relative shrink-0">
+				  <div class="w-20 h-20 bg-gray-900 border border-white/10 overflow-hidden relative group-hover:border-[#ffbd00]/50 transition-colors">
+					<img src="<%= hero.img_src %>" alt="<%= hero.hero_name %>" class="w-full h-full object-cover group-hover:scale-110 transition-all duration-700">
+				  </div>
+				</div>
+
+				<div class="flex-1 overflow-hidden mt-2">
+				  <h3 class="text-white font-black italic uppercase text-xl truncate tracking-tighter group-hover:text-[#ffbd00] transition-colors leading-none">
+					<%= hero.hero_name %>
+				  </h3>
+				  <div class="flex flex-wrap gap-1 mt-1">
+					<% 
+					  let roles = Array.isArray(hero.role) ? hero.role : (hero.role ? hero.role.split('-') : ['N/A']);
+					  roles.forEach(r => { 
+					%>
+					  <span class="text-[9px] font-bold uppercase tracking-widest text-[#ffbd00]/80"><%= r.trim() %></span>
+					<% }) %>
+				  </div>
+				</div>
+			  </div>
+
+			  <div class="mt-2 pt-2 border-t border-white/5 flex flex-col gap-2">
+				<div class="flex items-center gap-2">
+				  <div class="w-1 h-3 bg-[#ffbd00]"></div>
+				  <span class="text-[9px] font-bold uppercase tracking-widest text-gray-300">
+					Specialization
+				  </span>
+				</div>
+				<div class="flex flex-wrap gap-1.5">
+				  <% 
+					if (hero.speciality) { 
+					  let specs = Array.isArray(hero.speciality) ? hero.speciality : hero.speciality.split(',');
+					  specs.forEach(function(s) { 
+				  %>
+					<span class="text-[8px] px-2 py-0.5 bg-white/10 border border-white/5 font-mono uppercase group-hover:text-[#ffbd00] transition-colors">
+					  <%= s.trim() %>
+					</span>
+				  <% }); } %>
+				</div>
+			  </div>
+
+			  <div class="absolute -bottom-1 -right-1 w-4 h-4 border-b border-r border-white/20 group-hover:border-[#ffbd00] transition-colors"></div>
+			</a>
+		  <% }); %>
+		<% } else { %>
+		  <div class="col-span-full py-24 text-center border-2 border-dashed border-white/5 rounded-2xl bg-black/20">
+			<p class="text-gray-600 uppercase font-black italic tracking-[0.8em] text-sm">NO DATA FOUND</p>
+		  </div>
+		<% } %>
+    </div>
+  </section>
+</article>

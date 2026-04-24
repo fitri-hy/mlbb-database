@@ -1,0 +1,266 @@
+{
+  "success": true,
+  "message": "Tournaments retrieved successfully",
+  "data": [
+    {
+      "id": 26,
+      "name": "Games of the Future 2025",
+      "date": "Dec 18 - 23, 2025",
+      "link": "https://liquipedia.net/mobilelegends/Games_of_the_Future/2025/Statistics",
+      "start_date": "2025-12-18T00:00:00.000Z",
+      "end_date": "2025-12-23T00:00:00.000Z",
+      "created_at": "2025-12-25T07:00:12.000Z",
+      "updated_at": "2025-12-25T07:00:12.000Z"
+    },
+    {
+      "id": 25,
+      "name": "MLBB China Masters 2025",
+      "date": "Sep 11 - Nov 16, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MLBB_China_Masters/2025/Statistics",
+      "start_date": "2025-09-11T00:00:00.000Z",
+      "end_date": "2025-11-16T00:00:00.000Z",
+      "created_at": "2025-11-18T07:00:44.000Z",
+      "updated_at": "2025-11-18T07:00:44.000Z"
+    },
+    {
+      "id": 24,
+      "name": "MPL Malaysia Season 16",
+      "date": "Sep 13 - Nov 16, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_16/Statistics",
+      "start_date": "2025-09-13T00:00:00.000Z",
+      "end_date": "2025-11-16T00:00:00.000Z",
+      "created_at": "2025-11-18T07:00:44.000Z",
+      "updated_at": "2025-11-18T07:00:44.000Z"
+    },
+    {
+      "id": 23,
+      "name": "MLBB Continental Championships Season 6",
+      "date": "Sep 13 - Nov 16, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MLBB_Continental_Championships/Season_6/Statistics",
+      "start_date": "2025-09-13T00:00:00.000Z",
+      "end_date": "2025-11-16T00:00:00.000Z",
+      "created_at": "2025-11-18T07:00:44.000Z",
+      "updated_at": "2025-11-18T07:00:44.000Z"
+    },
+    {
+      "id": 22,
+      "name": "MLBB Super League Season 2",
+      "date": "Sep 26 - Nov 16, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MLBB_Super_League/Season_2/Statistics",
+      "start_date": "2025-09-26T00:00:00.000Z",
+      "end_date": "2025-11-16T00:00:00.000Z",
+      "created_at": "2025-11-18T07:00:44.000Z",
+      "updated_at": "2025-11-18T07:00:44.000Z"
+    },
+    {
+      "id": 21,
+      "name": "MPL Cambodia Season 9",
+      "date": "Sep 27 - Nov 16, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/Cambodia/Season_9/Statistics",
+      "start_date": "2025-09-27T00:00:00.000Z",
+      "end_date": "2025-11-16T00:00:00.000Z",
+      "created_at": "2025-11-18T07:00:44.000Z",
+      "updated_at": "2025-11-18T07:00:44.000Z"
+    },
+    {
+      "id": 20,
+      "name": "MPL LATAM Season 4",
+      "date": "Sep 27 - Nov 15, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4/Statistics",
+      "start_date": "2025-09-27T00:00:00.000Z",
+      "end_date": "2025-11-15T00:00:00.000Z",
+      "created_at": "2025-11-17T07:00:16.000Z",
+      "updated_at": "2025-11-17T07:00:16.000Z"
+    },
+    {
+      "id": 19,
+      "name": "MPL Indonesia Season 16",
+      "date": "Aug 22 - Nov 2, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_16/Statistics",
+      "start_date": "2025-08-22T00:00:00.000Z",
+      "end_date": "2025-11-02T00:00:00.000Z",
+      "created_at": "2025-11-04T07:00:19.000Z",
+      "updated_at": "2025-11-04T07:00:19.000Z"
+    },
+    {
+      "id": 18,
+      "name": "MPL Singapore Season 10",
+      "date": "Oct 4 - Nov 2, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/Singapore/Season_10/Statistics",
+      "start_date": "2025-10-04T00:00:00.000Z",
+      "end_date": "2025-11-02T00:00:00.000Z",
+      "created_at": "2025-11-04T07:00:19.000Z",
+      "updated_at": "2025-11-04T07:00:19.000Z"
+    },
+    {
+      "id": 17,
+      "name": "MPL Philippines Season 16",
+      "date": "Aug 22 - Oct 26, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_16/Statistics",
+      "start_date": "2025-08-22T00:00:00.000Z",
+      "end_date": "2025-10-26T00:00:00.000Z",
+      "created_at": "2025-10-28T07:00:11.000Z",
+      "updated_at": "2025-10-28T07:00:11.000Z"
+    },
+    {
+      "id": 16,
+      "name": "MTC Turkiye Championship Season 6",
+      "date": "Sep 26 - Oct 25, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MTC_Turkiye_Championship/Season_6/Statistics",
+      "start_date": "2025-09-26T00:00:00.000Z",
+      "end_date": "2025-10-25T00:00:00.000Z",
+      "created_at": "2025-10-27T07:00:07.000Z",
+      "updated_at": "2025-10-27T07:00:07.000Z"
+    },
+    {
+      "id": 1,
+      "name": "MPL MENA Season 8",
+      "date": "Sep 5 - Oct 18, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/MENA/Season_8/Statistics",
+      "start_date": "2025-09-05T00:00:00.000Z",
+      "end_date": "2025-10-18T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 2,
+      "name": "MLBB Mid Season Cup 2025",
+      "date": "Jul 10 - Aug 2, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MSC/2025/Statistics",
+      "start_date": "2025-07-10T00:00:00.000Z",
+      "end_date": "2025-08-02T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 3,
+      "name": "MLBB Women's Invitational 2025",
+      "date": "Jul 15 - 19, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MLBB_Women%27s_Invitational/2025/Statistics",
+      "start_date": "2025-07-15T00:00:00.000Z",
+      "end_date": "2025-07-19T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 5,
+      "name": "MPL Indonesia Season 15",
+      "date": "Mar 7 - Jun 15, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_15/Statistics",
+      "start_date": "2025-03-07T00:00:00.000Z",
+      "end_date": "2025-06-15T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 4,
+      "name": "MPL Malaysia Season 15",
+      "date": "Apr 19 - Jun 15, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_15/Statistics",
+      "start_date": "2025-04-19T00:00:00.000Z",
+      "end_date": "2025-06-15T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 8,
+      "name": "MLBB Super League Season 1",
+      "date": "Mar 14 - Jun 8, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MLBB_Super_League/Season_1/Statistics",
+      "start_date": "2025-03-14T00:00:00.000Z",
+      "end_date": "2025-06-08T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 7,
+      "name": "MPL LATAM Season 3",
+      "date": "Mar 15 - Jun 8, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_3/Statistics",
+      "start_date": "2025-03-15T00:00:00.000Z",
+      "end_date": "2025-06-08T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 6,
+      "name": "MPL Singapore Season 9",
+      "date": "May 10 - Jun 8, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/Singapore/Season_9/Statistics",
+      "start_date": "2025-05-10T00:00:00.000Z",
+      "end_date": "2025-06-08T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 10,
+      "name": "MPL Philippines Season 15",
+      "date": "Feb 28 - Jun 1, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_15/Statistics",
+      "start_date": "2025-02-28T00:00:00.000Z",
+      "end_date": "2025-06-01T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 9,
+      "name": "MLBB Continental Championships Season 5",
+      "date": "Apr 5 - Jun 1, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MLBB_Continental_Championships/Season_5/Statistics",
+      "start_date": "2025-04-05T00:00:00.000Z",
+      "end_date": "2025-06-01T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 11,
+      "name": "MPL MENA Season 7",
+      "date": "Apr 25 - May 31, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MPL/MENA/Season_7/Statistics",
+      "start_date": "2025-04-25T00:00:00.000Z",
+      "end_date": "2025-05-31T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 12,
+      "name": "MTC Turkiye Championship Season 5",
+      "date": "Apr 18 - May 24, 2025",
+      "link": "https://liquipedia.net/mobilelegends/MTC_Turkiye_Championship/Season_5/Statistics",
+      "start_date": "2025-04-18T00:00:00.000Z",
+      "end_date": "2025-05-24T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 13,
+      "name": "M6 World Championship",
+      "date": "Nov 21 - Dec 15, 2024",
+      "link": "https://liquipedia.net/mobilelegends/M6_World_Championship/Statistics",
+      "start_date": "2024-11-21T00:00:00.000Z",
+      "end_date": "2024-12-15T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:12.000Z",
+      "updated_at": "2025-10-24T07:01:12.000Z"
+    },
+    {
+      "id": 14,
+      "name": "MLBB Women's Invitational 2024",
+      "date": "Jul 24 - 27, 2024",
+      "link": "https://liquipedia.net/mobilelegends/MLBB_Women%27s_Invitational/2024/Statistics",
+      "start_date": "2024-07-24T00:00:00.000Z",
+      "end_date": "2024-07-27T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:13.000Z",
+      "updated_at": "2025-10-24T07:01:13.000Z"
+    },
+    {
+      "id": 15,
+      "name": "MLBB Mid Season Cup 2024",
+      "date": "Jun 28 - Jul 14, 2024",
+      "link": "https://liquipedia.net/mobilelegends/MSC/2024/Statistics",
+      "start_date": "2024-06-28T00:00:00.000Z",
+      "end_date": "2024-07-14T00:00:00.000Z",
+      "created_at": "2025-10-24T07:01:13.000Z",
+      "updated_at": "2025-10-24T07:01:13.000Z"
+    }
+  ]
+}

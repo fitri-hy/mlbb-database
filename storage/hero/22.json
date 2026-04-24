@@ -1,0 +1,869 @@
+{
+  "success": true,
+  "message": "Hero detail retrieved successfully",
+  "data": {
+    "id": 22,
+    "hero_name": "Freya",
+    "channel_id": 2678758,
+    "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
+    "role": [
+      "Fighter"
+    ],
+    "lane": [
+      "Exp Lane",
+      "Jungle"
+    ],
+    "speciality": [
+      "Chase",
+      "Damage"
+    ],
+    "tier": "S",
+    "previous_tier": "SS",
+    "score": 746.482,
+    "statistics": [
+      {
+        "hero_id": 22,
+        "pick_rate": 1.34,
+        "win_rate": 50.99,
+        "ban_rate": 38.17,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.31,
+        "win_rate": 50.96,
+        "ban_rate": 38.4,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.28,
+        "win_rate": 50.79,
+        "ban_rate": 39.62,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.26,
+        "win_rate": 50.64,
+        "ban_rate": 41.99,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.29,
+        "win_rate": 50.69,
+        "ban_rate": 44.04,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.69,
+        "win_rate": 49.05,
+        "ban_rate": 20.02,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.67,
+        "win_rate": 49.04,
+        "ban_rate": 20.81,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.63,
+        "win_rate": 49,
+        "ban_rate": 21.42,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.59,
+        "win_rate": 48.86,
+        "ban_rate": 22.81,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.54,
+        "win_rate": 49.22,
+        "ban_rate": 27.82,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.26,
+        "win_rate": 49.96,
+        "ban_rate": 33.32,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.24,
+        "win_rate": 50.02,
+        "ban_rate": 34.29,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.22,
+        "win_rate": 50,
+        "ban_rate": 35.44,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.2,
+        "win_rate": 49.97,
+        "ban_rate": 38.49,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.25,
+        "win_rate": 50.44,
+        "ban_rate": 45.31,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.22,
+        "win_rate": 51.17,
+        "ban_rate": 43.91,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.2,
+        "win_rate": 51.12,
+        "ban_rate": 44.75,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.18,
+        "win_rate": 50.96,
+        "ban_rate": 46.81,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.15,
+        "win_rate": 50.9,
+        "ban_rate": 51.17,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.18,
+        "win_rate": 51.24,
+        "ban_rate": 58.08,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.27,
+        "win_rate": 51.16,
+        "ban_rate": 46.57,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.25,
+        "win_rate": 51.27,
+        "ban_rate": 47.13,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.23,
+        "win_rate": 51.2,
+        "ban_rate": 49.37,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.21,
+        "win_rate": 51.13,
+        "ban_rate": 53.16,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.22,
+        "win_rate": 51.33,
+        "ban_rate": 57.9,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.44,
+        "win_rate": 52.58,
+        "ban_rate": 47.92,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.4,
+        "win_rate": 52.4,
+        "ban_rate": 48.22,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.36,
+        "win_rate": 52.23,
+        "ban_rate": 50.4,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.33,
+        "win_rate": 52.31,
+        "ban_rate": 53.62,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 22,
+        "pick_rate": 1.32,
+        "win_rate": 52.36,
+        "ban_rate": 56.58,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      }
+    ],
+    "counters": [
+      {
+        "type": "counters",
+        "id": 106,
+        "hero_name": "Phoveus",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Regen",
+          "Damage"
+        ],
+        "weighted_score": 9.808,
+        "tier": "C"
+      },
+      {
+        "type": "counters",
+        "id": 74,
+        "hero_name": "Minsitthar",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane",
+          "Roam"
+        ],
+        "speciality": [
+          "Initiator",
+          "Crowd Control"
+        ],
+        "weighted_score": 7.696,
+        "tier": "A"
+      },
+      {
+        "type": "counters",
+        "id": 111,
+        "hero_name": "Edith",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png",
+        "role": [
+          "Tank",
+          "Marksman"
+        ],
+        "lane": [
+          "Exp Lane",
+          "Roam"
+        ],
+        "speciality": [
+          "Control",
+          "Burst"
+        ],
+        "weighted_score": 4.13,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 10,
+        "hero_name": "Franco",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Initiator",
+          "Control"
+        ],
+        "weighted_score": 3.4,
+        "tier": "C"
+      },
+      {
+        "type": "counters",
+        "id": 128,
+        "hero_name": "Kalea",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+        "role": [
+          "Support",
+          "Fighter"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Control",
+          "Regen"
+        ],
+        "weighted_score": 1.86,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 99,
+        "hero_name": "Barats",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+        "role": [
+          "Tank",
+          "Fighter"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Damage",
+          "Crowd Control"
+        ],
+        "weighted_score": 1.637,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 87,
+        "hero_name": "Baxia",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Jungle",
+          "Roam"
+        ],
+        "speciality": [
+          "Support",
+          "Damage"
+        ],
+        "weighted_score": 0.725,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 81,
+        "hero_name": "Esmeralda",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
+        "role": [
+          "Tank",
+          "Mage"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Regen",
+          "Mixed Damage"
+        ],
+        "weighted_score": 0.178,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 40,
+        "hero_name": "Karrie",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Damage"
+        ],
+        "weighted_score": 0.139,
+        "tier": "A"
+      }
+    ],
+    "weakAgainst": [
+      {
+        "type": "weak_against",
+        "id": 59,
+        "hero_name": "Uranus",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Regen"
+        ],
+        "weighted_score": 2.7,
+        "tier": "D"
+      },
+      {
+        "type": "weak_against",
+        "id": 25,
+        "hero_name": "Kagura",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Poke",
+          "Finisher"
+        ],
+        "weighted_score": 1.409,
+        "tier": "D"
+      },
+      {
+        "type": "weak_against",
+        "id": 102,
+        "hero_name": "Mathilda",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+        "role": [
+          "Support",
+          "Assassin"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Initiator",
+          "Guard"
+        ],
+        "weighted_score": 0.199,
+        "tier": "D"
+      }
+    ],
+    "synergies": [
+      {
+        "id": 121,
+        "hero_name": "Ixia",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Damage"
+        ],
+        "weighted_score": 2.235,
+        "tier": "D"
+      },
+      {
+        "id": 132,
+        "hero_name": "Marcel",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Crowd Control",
+          "Support"
+        ],
+        "weighted_score": 2.14,
+        "tier": "SS"
+      },
+      {
+        "id": 92,
+        "hero_name": "Carmilla",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
+        "role": [
+          "Support",
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Crowd Control",
+          "Damage"
+        ],
+        "weighted_score": 1.85,
+        "tier": "D"
+      },
+      {
+        "id": 8,
+        "hero_name": "Karina",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Finisher",
+          "Magic Damage"
+        ],
+        "weighted_score": 1.618,
+        "tier": "D"
+      },
+      {
+        "id": 53,
+        "hero_name": "Lesley",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+        "role": [
+          "Marksman",
+          "Assassin"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Burst"
+        ],
+        "weighted_score": 1.48,
+        "tier": "C"
+      },
+      {
+        "id": 79,
+        "hero_name": "Granger",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Finisher"
+        ],
+        "weighted_score": 0.718,
+        "tier": "D"
+      },
+      {
+        "id": 96,
+        "hero_name": "Luo Yi",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Support",
+          "Crowd Control"
+        ],
+        "weighted_score": 0.56,
+        "tier": "D"
+      },
+      {
+        "id": 48,
+        "hero_name": "Diggie",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Guard",
+          "Poke"
+        ],
+        "weighted_score": 0.467,
+        "tier": "B"
+      },
+      {
+        "id": 112,
+        "hero_name": "Floryn",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Poke",
+          "Guard"
+        ],
+        "weighted_score": 0.341,
+        "tier": "B"
+      },
+      {
+        "id": 122,
+        "hero_name": "Nolan",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Chase",
+          "Burst"
+        ],
+        "weighted_score": 0.242,
+        "tier": "D"
+      }
+    ],
+    "skills": [
+      {
+        "id": "passive",
+        "hero_id": 22,
+        "skill_key": "passive",
+        "name": "Power of Einherjar",
+        "type": null,
+        "description": "Power of EinherjarBurstAfter casting a skill, Freya gains 200% Attack Speed for her next 2 Basic Attacks (this effect can stack up to 6 times).  Freya gains 1 stack of Sacred Orb on each Basic Attack and can spend Sacred Orb stacks to cast  Spirit Combo consecutively.Skill terms\nAttack Speed\nCurrent Attack Speed = Base Attack Speed + Extra Attack Speed × Attack Speed Ratio. The current total Attack Speed determines the number of attacks per second (capped at 3 attacks per second).\n\nIcon variants",
+        "image_url": "",
+        "image_path": "hero-skills-images/freya/passive.png",
+        "scaling": null,
+        "effects": null
+      },
+      {
+        "id": "skill_1",
+        "hero_id": 22,
+        "skill_key": "skill_1",
+        "name": "Leap of Faith",
+        "type": "Damage | Mobility | Blink",
+        "description": "Leap of FaithMobilityFreya jumps to the target location, dealing 200–300 (+80% Extra Physical Attack) Physical Damage to enemies hit and pulling them towards her.Skill terms\nBlink\nMovement ability that can pass through obstacles.\nDisplacement\nTarget Displacement; Can interrupt certain skills and Blink or Charge effects (interrupts the same skills as Knock Airborne effect). Including but not limited to Knockback, Drag and effects that pull targets together.\nMovement Speed\nMovement Speed on the ba",
+        "image_url": "",
+        "image_path": "hero-skills-images/freya/skill_1.png",
+        "scaling": {
+          "levels": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "cooldown": "8.0",
+          "base_damage": [
+            200,
+            220,
+            240,
+            260,
+            280,
+            300
+          ]
+        },
+        "effects": null
+      },
+      {
+        "id": "skill_2",
+        "hero_id": 22,
+        "skill_key": "skill_2",
+        "name": "Spirit Combo",
+        "type": "Damage | Mobility",
+        "description": "Spirit ComboBurst MobilityFreya strikes in the target direction, gaining a 60–260 (+70% Extra Physical Attack) shield while dealing 20–230 (+90% Extra Physical Attack) Physical Damage to enemies hit and slowing them by 30% for 0.5 seconds. Freya can cast this skill again withnin 3.5 seconds at the cost of 2 stacks of Sacred Orb.  On the 3rd cast, Freya leaps into the air and smashes the area below, dealing 26–276 (+108% Extra Physical Attack) Physical Damage to enemies within range and knocking",
+        "image_url": "",
+        "image_path": "hero-skills-images/freya/skill_2.png",
+        "scaling": {
+          "levels": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "shield": [
+            60,
+            100,
+            140,
+            180,
+            220,
+            260
+          ],
+          "cooldown": "10.0",
+          "base_damage": [
+            26,
+            76,
+            126,
+            176,
+            226,
+            276
+          ]
+        },
+        "effects": null
+      },
+      {
+        "id": "ultimate",
+        "hero_id": 22,
+        "skill_key": "ultimate",
+        "name": "Valkyrie DescentMorph",
+        "type": "Damage | Shield",
+        "description": "Valkyrie DescentMorph ShieldMy faith is my guardian!Freya gains 6 stacks of Sacred Orb and enters the Valkyrie state, gaining a 600–900 (+180% Extra Physical Attack) shield and 30&Ndash;70 Physical Attack. Meanwhile, her Basic Attacks become ranged and deal splash damage. The Valkyrie state lasts for 10 seconds.Skill terms\nPhysical Basic Attack\nDeal Physical Damage to enemies. Triggers ATK Effects and Lifesteal.\nShield\nSpecial HP is preferentially deducted when taking damage. The shield with sho",
+        "image_url": "",
+        "image_path": "hero-skills-images/freya/ultimate.png",
+        "scaling": {
+          "levels": [
+            1,
+            2,
+            3
+          ],
+          "shield": [
+            600,
+            750,
+            900
+          ],
+          "cooldown": "54.0",
+          "attack_bonus": [
+            "30",
+            "50",
+            "70"
+          ],
+          "enhanced_basic_attack_range": "3.5"
+        },
+        "effects": null
+      }
+    ]
+  }
+}

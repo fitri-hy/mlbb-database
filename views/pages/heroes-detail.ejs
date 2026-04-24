@@ -1,0 +1,573 @@
+<article class="h-full flex-1 px-4 pt-26 pb-6 relative overflow-hidden">
+  <img class="fixed top-0 left-0 w-full h-full max-h-[700px] object-cover opacity-80 -z-10 trans-bottom" src="/assets/images/banner.webp" alt="banner" />
+
+  <section class="container mx-auto relative z-10">
+    <div class="relative pb-10 grid grid-cols-1 xl:grid-cols-2 gap-6 items-center justify-between">
+      <div class="flex-1 flex gap-8">
+        
+        <div class="relative group shrink-0">          
+          <div class="relative w-48 h-48 p-1 bg-white/10 backdrop-blur-sm border border-white/20 clip-path-gaming">
+            <div class="w-full h-full overflow-hidden bg-gray-900 relative">
+              <img src="<%= hero.img_src %>" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700" alt="<%= hero.hero_name %>">
+              
+              <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent px-4 py-2">
+                <p class="text-[8px] font-black text-[#ffbd00] tracking-[0.3em] uppercase leading-none">Identity_Verified</p>
+              </div>
+            </div>
+            
+            <div class="absolute -top-1 -right-1 w-6 h-6 border-t-2 border-r-2 border-[#ffbd00]"></div>
+            <div class="absolute -bottom-1 -left-1 w-6 h-6 border-b-2 border-l-2 border-[#ffbd00]"></div>
+          </div>
+        </div>
+
+        <div class="flex-1 text-left space-y-4">
+          <div class="flex gap-4">
+            <div class="relative inline-block group">
+              <div class="absolute inset-0 bg-[#ffbd00] skew-x-[-15deg] shadow-[0_0_20px_rgba(255,189,0,0.3)]"></div>
+              <span class="relative z-10 block px-6 py-1 text-[11px] font-black text-black uppercase tracking-[0.4em] italic">
+                Tier <%= hero.tier %>
+              </span>
+            </div>
+            <span class="text-gray-300 text-[10px] font-bold uppercase tracking-widest">
+              Prev: <span class="line-through">Tier <%= hero.previous_tier %></span>
+            </span>
+          </div>
+
+          <div class="relative">
+            <h1 class="relative text-white text-6xl md:text-7xl 2xl:text-8xl font-black italic uppercase tracking-tighter leading-none drop-shadow-[0_10px_10px_rgba(0,0,0,0.5)]">
+              <%= hero.hero_name %><span class="text-[#ffbd00] animate-pulse">_</span>
+            </h1>
+          </div>
+
+          <div class="flex flex-wrap justify-start gap-4 items-center">
+            <div class="flex items-center gap-3 bg-white/10 border border-white/10 px-5 py-2 skew-x-[-10deg] backdrop-blur-md">
+              <div class="w-1.5 h-6 bg-[#ffbd00] skew-x-[10deg]"></div>
+              <div class="flex gap-2 skew-x-[10deg]">
+			  <% hero.role.forEach((r, i) => { %>
+			    <span class="text-xs font-black italic uppercase tracking-widest text-[#ffbd00]">
+				  <%= r %><%= i < hero.role.length - 1 ? ' / ' : '' %>
+			    </span>
+			  <% }) %>
+              </div>
+            </div>
+            
+            <div class="flex gap-2">
+              <% hero.speciality.forEach(s => { %>
+                <div class="relative group/spec">
+                  <span class="relative z-10 block px-4 py-1.5 text-[10px] font-black uppercase italic tracking-widest border border-white/10 bg-white/10 group-hover/spec:text-white transition-colors">
+                    <%= s %>
+                  </span>
+                </div>
+              <% }) %>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-2 gap-2">
+        <div class="group relative p-6 bg-white/10 border-l-2 border-[#ffbd00]/50 backdrop-blur-sm hover:bg-white/10 transition-all">
+          <h4 class="text-[10px] text-[#ffbd00] font-black uppercase tracking-[0.3em] mb-4">Tactical Positioning</h4>
+          <div class="flex flex-col">
+            <% hero.lane.forEach(l => { %>
+            <div class="flex items-center gap-3 text-white">
+              <div class="w-2 h-2 bg-[#ffbd00] rotate-45"></div>
+              <span class="italic uppercase tracking-tight"><%= l %></span>
+            </div>
+            <% }) %>
+          </div>
+        </div>
+
+        <div class="group relative p-6 bg-white/10 border-l-2 border-blue-500/50 backdrop-blur-sm hover:bg-white/10 transition-all">
+          <h4 class="text-[10px] text-blue-400 font-black uppercase tracking-[0.3em] mb-4">Power Rating</h4>
+          <div class="flex items-baseline gap-2">
+            <span class="text-3xl font-black text-white italic"><%= hero.score %></span>
+            <span class="text-blue-500 font-bold text-xs uppercase">Pts</span>
+          </div>
+          <div class="mt-4 w-full bg-white/10 h-1 relative overflow-hidden">
+            <div class="absolute left-0 top-0 h-full bg-blue-500 shadow-[0_0_10px_#3b82f6]" style="width: <%= (hero.score / 1000) * 100 %>%"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="relative w-full h-[2px]">
+        <div class="absolute inset-0 bg-gradient-to-r from-[#ffbd00] via-[#ffbd00]/20 to-transparent"></div>
+    </div>
+  </section>
+
+<section class="mt-12 relative container mx-auto px-4 pb-6">
+  <div class="flex items-end justify-between mb-6 gap-6">
+        <div class="flex items-end justify-between">
+		  <div>
+			<span class="text-[#ffbd00] text-xs font-black tracking-[0.4em] uppercase">Technical Data</span>
+			<h2 class="text-4xl font-black italic uppercase tracking-tighter text-white">
+		      Skill <span class="text-[#ffbd00]">Analysis</span>
+		    </h2>
+	      </div>
+		</div>
+    </div>
+
+  <div class="grid grid-cols-1 gap-6">
+    <% if (hero.skills && hero.skills.length > 0) { %>
+      <% hero.skills.forEach((skill) => { %>
+      <div class="group relative bg-white/10 border border-white/10 p-6 backdrop-blur-md p-6 backdrop-blur-xl transition-all duration-300 hover:border-[#ffbd00]/40 clip-path-gaming">
+        
+        <div class="absolute top-0 right-0 z-10">
+          <div class="px-5 py-1 skew-x-[-20deg] border-b border-l border-white/10 bg-gradient-to-r from-[#ffbd00] to-[#e6ab00] text-black shadow-lg">
+            <span class="text-[10px] font-bold uppercase italic block skew-x-[20deg]">
+              <%= skill.skill_key.replace('_', ' ') %>
+            </span>
+          </div>
+        </div>
+
+        <div class="flex flex-col md:flex-row gap-6 relative z-10">
+          <div class="relative shrink-0 mx-auto md:mx-0">
+            <div class="w-20 h-20 p-[2px] bg-gradient-to-br from-white/20 via-[#ffbd00]/50 to-white/10 rounded-full">
+              <div class="w-full h-full rounded-full overflow-hidden border-2 border-black">
+                <img src="https://mlbb.io/<%= skill.image_path %>" alt="<%= skill.name %>" class="w-full h-full object-cover">
+              </div>
+            </div>
+          </div>
+
+          <div class="flex-1 space-y-3">
+            <div>
+              <h3 class="text-2xl font-black italic uppercase tracking-tighter text-white group-hover:text-[#ffbd00] transition-colors leading-none">
+                <%= skill.name %>
+              </h3>
+              <span class="inline-block text-[8px] mt-2 px-2 py-0.5 bg-black/60 border border-[#ffbd00]/30 text-[#ffbd00] font-bold uppercase italic rounded-sm">
+                <%= skill.type || 'N/A' %>
+              </span>
+            </div>
+
+            <div class="text-gray-400 text-xs leading-relaxed font-medium bg-black/20 px-3 pb-3 border-l-2 border-[#ffbd00]/30 whitespace-pre-line">
+			<% 
+			  let cleanDesc = skill.description
+				.split('Skill terms')[0]
+				.split('$0')[0]
+				.replace(/[\u200B-\u200D\uFEFF]/g, '')
+				.replace(/\u00A0/g, ' ')
+				.replace(/([a-z])([A-Z])/g, '$1 $2')
+				.replace(/[\r\n]+/g, ' ')
+				.replace(/\s+/g, ' ')
+				.trim();
+			  %><%= cleanDesc %>
+            </div>
+
+			<% if (skill.scaling && skill.scaling.levels) { %>
+			  <div class="mt-8 overflow-hidden border border-white/5 bg-[#0a0d12]/60 rounded-sm italic">
+				<div class="grid grid-cols-[60px_1fr_1fr] bg-white/5 border-b border-white/10 py-2 px-4">
+				  <div class="text-[9px] font-black uppercase text-sky-500 tracking-widest">Scaling</div>
+				  <div class="text-[9px] font-black uppercase text-rose-500 tracking-widest text-center">Damage Output</div>
+				  <div class="text-[9px] font-black uppercase text-emerald-500 tracking-widest text-center">Shield Capacity</div>
+				</div>
+
+				<div class="divide-y divide-white/[0.03]">
+				  <% skill.scaling.levels.forEach((lvl, i) => { %>
+					<div class="grid grid-cols-[60px_1fr_1fr] items-center py-3 px-4 hover:bg-white/[0.02] transition-colors group">
+					  
+					  <div class="text-xs font-black text-sky-500">
+						LVL <%= lvl %>
+					  </div>
+
+					  <div class="px-4">
+						<% if (skill.scaling.base_damage && skill.scaling.base_damage[i] !== undefined) { %>
+						  <div class="relative h-4 bg-black/40 rounded-sm overflow-hidden border border-white/5">
+							<div class="absolute inset-y-0 left-0 bg-gradient-to-r from-rose-900/80 to-rose-500 shadow-[2px_0_10px_rgba(244,63,94,0.4)] transition-all duration-1000 ease-out"
+								 style="width: <%= (skill.scaling.base_damage[i] / Math.max(...skill.scaling.base_damage.filter(n => n))) * 100 %>%">
+							</div>
+							<span class="absolute inset-0 flex items-center justify-center text-[9px] font-bold text-white drop-shadow-md">
+							  <%= skill.scaling.base_damage[i] %>
+							</span>
+						  </div>
+						<% } else { %>
+						  <div class="text-center text-[9px] uppercase font-black">N/A</div>
+						<% } %>
+					  </div>
+
+					  <div class="px-4 border-l border-white/5">
+						<% if (skill.scaling.shield && skill.scaling.shield[i] !== undefined) { %>
+						  <div class="relative h-4 bg-black/40 rounded-sm overflow-hidden border border-white/5">
+							<div class="absolute inset-y-0 left-0 bg-gradient-to-r from-emerald-900/80 to-emerald-500 shadow-[2px_0_10px_rgba(255,189,0,0.4)] transition-all duration-1000 ease-out"
+								 style="width: <%= (skill.scaling.shield[i] / Math.max(...skill.scaling.shield.filter(n => n))) * 100 %>%">
+							</div>
+							<span class="absolute inset-0 flex items-center justify-center text-[9px] font-bold text-white drop-shadow-sm">
+							  <%= skill.scaling.shield[i] %>
+							</span>
+						  </div>
+						<% } else { %>
+						  <div class="text-center text-[9px] uppercase font-black">N/A</div>
+						<% } %>
+					  </div>
+
+					</div>
+				  <% }) %>
+				</div>
+
+				<% if (skill.scaling.cooldown) { %>
+				  <div class="bg-black/10 p-2 px-4 border-t border-white/10 flex justify-between gap-4">
+					  <div class="text-[8px] font-bold uppercase tracking-tighter">
+						Effect: <span class="text-emerald-400"><%= skill.effects || 'N/A' %></span>
+					  </div>
+					  <div class="text-[8px] font-bold uppercase tracking-tighter">
+						Cooldown: <span class="text-emerald-400"><%= skill.scaling.cooldown %>s</span>
+					  </div>
+				  </div>
+				<% } %>
+			  </div>
+			<% } %>
+          </div>
+        </div>
+
+        <div class="absolute bottom-0 right-0 p-1 opacity-40 group-hover:opacity-100 transition-opacity">
+            <div class="w-16 h-0.5 bg-[#ffbd00]/10 rounded-full overflow-hidden">
+                <div class="w-0 group-hover:w-full h-full bg-[#ffbd00] transition-all duration-700"></div>
+            </div>
+        </div>
+      </div>
+     <% }) %>
+	<% } else { %>
+	  <div class="text-center py-16 border border-white/10 bg-[#12161d]/60">
+		<span class="text-xs uppercase tracking-[0.4em] text-[#ffbd00]/60 font-bold block mb-3">
+		  No Data
+		</span>
+		<p class="text-gray-400 text-sm">
+		  Skill data is currently unavailable.
+		</p>
+	  </div>
+
+	<% } %>
+  </div>
+</section>
+
+  <section class="mt-12 relative container mx-auto px-4 pb-6">
+    <div class="flex items-end justify-between mb-6 gap-6">
+        <div class="flex items-end justify-between">
+		  <div>
+			<span class="text-[#ffbd00] text-xs font-black tracking-[0.4em] uppercase">Battle Strategy</span>
+			<h2 class="text-4xl font-black italic uppercase tracking-tighter text-white">
+		      Best <span class="text-[#ffbd00]">Counters</span>
+		    </h2>
+	      </div>
+		</div>
+    </div>
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+    <% hero.counters.forEach(counter => { %>
+      <a href="/heroes/<%= counter.id %>" class="group relative bg-white/10 border border-white/10 backdrop-blur-md p-2 transition-all duration-500 hover:border-rose-500/50 hover:bg-rose-500/[0.02] clip-path-gaming">
+        
+        <div class="absolute top-0 right-0 z-20">
+          <div class="bg-rose-600 text-white px-3 py-1 skew-x-[-15deg] shadow-lg">
+            <p class="text-[9px] font-black leading-none uppercase italic tracking-tighter">Effectiveness</p>
+            <p class="text-lg font-black leading-none italic"><%= counter.weighted_score %></p>
+          </div>
+        </div>
+
+        <div class="flex items-center gap-2">
+          <div class="relative shrink-0">
+            <div class="w-20 h-20 bg-gray-900 border border-white/10 overflow-hidden relative group-hover:border-rose-500/50 transition-colors">
+              <img src="<%= counter.img_src %>" alt="<%= counter.hero_name %>" class="w-full h-full object-cover group-hover:scale-110 transition-all duration-700">
+			  <div class="absolute -top-0 -left-2 bg-[#ffbd00] flex text-black py-1 pl-3 pr-1 skew-x-[-25deg] shadow-[0_0_15px_rgba(255,189,0,0.4)]">
+				  <span class="text-[9px] font-black italic block skew-x-[15deg]">
+					<%= counter.tier %>
+				  </span>
+				</div>
+            </div>
+          </div>
+          <div class="flex-1 overflow-hidden mt-2">
+            <h3 class="text-white font-black italic uppercase text-xl truncate tracking-tighter group-hover:text-rose-500 transition-colors">
+              <%= counter.hero_name %>
+            </h3>
+            <div class="flex flex-wrap gap-1">
+              <% counter.role.forEach(r => { %>
+                <span class="text-[8px] font-bold uppercase tracking-widest"><%= r %></span>
+              <% }) %>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-2 pt-2 border-t border-white/5 flex flex-col gap-2">
+          <div class="flex items-center gap-2">
+            <div class="w-1 h-3 bg-rose-500"></div>
+            <span class="text-[9px] font-bold uppercase tracking-widest">
+              <%= counter.lane.join(', ') %>
+            </span>
+          </div>
+          <div class="flex flex-wrap gap-1.5">
+            <% counter.speciality.forEach(spec => { %>
+              <span class="text-[8px] px-2 py-0.5 bg-white/10 border border-white/5 font-mono uppercase group-hover:text-rose-400 transition-colors">
+                <%= spec %>
+              </span>
+            <% }) %>
+          </div>
+        </div>
+
+        <div class="absolute -bottom-1 -right-1 w-4 h-4 border-b border-r border-white/20 group-hover:border-rose-500 transition-colors"></div>
+      </a>
+    <% }) %>
+  </div>
+
+  <% if (hero.counters.length === 0) { %>
+    <div class="text-center py-10 border border-dashed border-white/10 rounded-xl">
+      <p class="titalic font-mono text-sm">NO DATA VAILABLE</p>
+    </div>
+  <% } %>
+</section>
+
+<section class="mt-12 relative container mx-auto px-4 pb-6">
+  <div class="flex items-end justify-between mb-6 gap-6">
+      <div class="flex items-end justify-between">
+        <div>
+          <span class="text-emerald-500 text-xs font-black tracking-[0.4em] uppercase">Tactical Advantage</span>
+          <h2 class="text-4xl font-black italic uppercase tracking-tighter text-white">
+            Weak <span class="text-emerald-500">Against</span>
+          </h2>
+        </div>
+      </div>
+  </div>
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+    <% hero.weakAgainst.forEach(target => { %>
+      <a href="/heroes/<%= target.id %>" class="group relative bg-white/10 border border-white/10 backdrop-blur-md p-2 transition-all duration-500 hover:border-emerald-500/50 hover:bg-emerald-500/[0.02] clip-path-gaming">
+        
+        <div class="absolute top-0 right-0 z-20">
+          <div class="bg-emerald-600 text-white px-3 py-1 skew-x-[-15deg] shadow-lg shadow-emerald-900/20">
+            <p class="text-[9px] font-black leading-none uppercase italic tracking-tighter">Advantage</p>
+            <p class="text-lg font-black leading-none italic">+<%= target.weighted_score %></p>
+          </div>
+        </div>
+
+        <div class="flex items-center gap-2">
+          <div class="relative shrink-0">
+            <div class="w-20 h-20 bg-gray-900 border border-white/10 overflow-hidden relative group-hover:border-emerald-500/50 transition-colors">
+              <img src="<%= target.img_src %>" alt="<%= target.hero_name %>" class="w-full h-full object-cover group-hover:scale-110 transition-all duration-700">
+              
+              <div class="absolute -top-0 -left-2 bg-emerald-500 flex text-black py-1 pl-3 pr-1 skew-x-[-25deg] shadow-[0_0_15px_rgba(16,185,129,0.4)]">
+                <span class="text-[9px] font-black italic block skew-x-[15deg]">
+                  <%= target.tier %>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="flex-1 overflow-hidden mt-2">
+            <h3 class="text-white font-black italic uppercase text-xl truncate tracking-tighter group-hover:text-emerald-500 transition-colors">
+              <%= target.hero_name %>
+            </h3>
+            <div class="flex flex-wrap gap-1">
+              <% target.role.forEach(r => { %>
+                <span class="text-[8px] font-bold uppercase tracking-widest text-emerald-500/80"><%= r %></span>
+              <% }) %>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-2 pt-2 border-t border-white/5 flex flex-col gap-2">
+          <div class="flex items-center gap-2">
+            <div class="w-1 h-3 bg-emerald-500"></div>
+            <span class="text-[9px] font-bold uppercase tracking-widest text-gray-300">
+              <%= target.lane.join(', ') %>
+            </span>
+          </div>
+          <div class="flex flex-wrap gap-1.5">
+            <% target.speciality.forEach(spec => { %>
+              <span class="text-[8px] px-2 py-0.5 bg-white/10 border border-white/5 font-mono uppercase group-hover:text-emerald-300 transition-colors">
+                <%= spec %>
+              </span>
+            <% }) %>
+          </div>
+        </div>
+
+        <div class="absolute -bottom-1 -right-1 w-4 h-4 border-b border-r border-white/20 group-hover:border-emerald-500 transition-colors"></div>
+      </a>
+    <% }) %>
+  </div>
+
+  <% if (hero.weakAgainst.length === 0) { %>
+    <div class="text-center py-10 border border-dashed border-white/10 rounded-xl">
+      <p class="titalic font-mono text-sm">NO DATA VAILABLE</p>
+    </div>
+  <% } %>
+</section>
+
+<section class="mt-12 relative container mx-auto px-4 pb-6">
+  <div class="flex items-end justify-between mb-6 gap-6">
+      <div class="flex items-end justify-between">
+        <div>
+          <span class="text-cyan-500 text-xs font-black tracking-[0.4em] uppercase">Team Composition</span>
+          <h2 class="text-4xl font-black italic uppercase tracking-tighter text-white">
+            Best <span class="text-cyan-500">Synergies</span>
+          </h2>
+        </div>
+      </div>
+  </div>
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+    <% hero.synergies.forEach(ally => { %>
+      <a href="/heroes/<%= ally.id %>" class="group relative bg-white/10 border border-white/10 backdrop-blur-md p-2 transition-all duration-500 hover:border-cyan-500/50 hover:bg-cyan-500/[0.02] clip-path-gaming">
+        
+        <div class="absolute top-0 right-0 z-20">
+          <div class="bg-cyan-600 text-white px-3 py-1 skew-x-[-15deg] shadow-lg shadow-cyan-900/20">
+            <p class="text-[9px] font-black leading-none uppercase italic tracking-tighter text-cyan-100">Compatibility</p>
+            <p class="text-lg font-black leading-none italic"><%= ally.weighted_score %></p>
+          </div>
+        </div>
+
+        <div class="flex items-center gap-2">
+          <div class="relative shrink-0">
+            <div class="w-20 h-20 bg-gray-900 border border-white/10 overflow-hidden relative group-hover:border-cyan-500/50 transition-colors">
+              <img src="<%= ally.img_src %>" alt="<%= ally.hero_name %>" class="w-full h-full object-cover group-hover:scale-110 transition-all duration-700">
+              
+              <div class="absolute -top-0 -left-2 bg-cyan-500 flex text-black py-1 pl-3 pr-1 skew-x-[-25deg] shadow-[0_0_15px_rgba(6,182,212,0.4)]">
+                <span class="text-[9px] font-black italic block skew-x-[15deg]">
+                  <%= ally.tier %>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="flex-1 overflow-hidden mt-2">
+            <h3 class="text-white font-black italic uppercase text-xl truncate tracking-tighter group-hover:text-cyan-400 transition-colors">
+              <%= ally.hero_name %>
+            </h3>
+            <div class="flex flex-wrap gap-1">
+              <% ally.role.forEach(r => { %>
+                <span class="text-[8px] font-bold uppercase tracking-widest text-cyan-400/80"><%= r %></span>
+              <% }) %>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-2 pt-2 border-t border-white/5 flex flex-col gap-2">
+          <div class="flex items-center gap-2">
+            <div class="w-1 h-3 bg-cyan-500"></div>
+            <span class="text-[9px] font-bold uppercase tracking-widest text-gray-300">
+              <%= ally.lane.join(', ') %>
+            </span>
+          </div>
+          <div class="flex flex-wrap gap-1.5">
+            <% ally.speciality.forEach(spec => { %>
+              <span class="text-[8px] px-2 py-0.5 bg-white/10 border border-white/5 font-mono uppercase group-hover:text-cyan-200 transition-colors">
+                <%= spec %>
+              </span>
+            <% }) %>
+          </div>
+        </div>
+
+        <div class="absolute -bottom-1 -right-1 w-4 h-4 border-b border-r border-white/20 group-hover:border-cyan-500 transition-colors"></div>
+      </a>
+    <% }) %>
+  </div>
+
+  <% if (hero.synergies.length === 0) { %>
+    <div class="text-center py-10 border border-dashed border-white/10 rounded-xl">
+      <p class="titalic font-mono text-sm">NO_SYNERGY_DATA_AVAILABLE</p>
+    </div>
+  <% } %>
+</section>
+
+  <section class="mt-12 relative container mx-auto px-4 pb-6">
+    <div class="flex items-end justify-between mb-6 gap-6">
+        <div class="flex items-end justify-between">
+		  <div>
+			<span class="text-[#ffbd00] text-xs font-black tracking-[0.4em] uppercase">Combat Intelligence</span>
+			<h2 class="text-4xl font-black italic uppercase tracking-tighter text-white">
+		      Statistics <span class="text-[#ffbd00]">Performance</span>
+		    </h2>
+	      </div>
+		</div>
+      <div class="flex flex-col items-start md:items-end gap-2">
+		<div class="flex gap-3">
+		  <div class="px-3 py-1 bg-white/20 rounded border border-white/5 flex items-center gap-2">
+		    <div class="w-2 h-2 bg-green-500 rounded-full shadow-[0_0_5px_#22c55e]"></div>
+		    <span class="text-[10px] font-bold uppercase">Win Rate</span>
+		  </div>
+		  <div class="px-3 py-1 bg-white/20 rounded border border-white/5 flex items-center gap-2">
+		    <div class="w-2 h-2 bg-blue-500 rounded-full shadow-[0_0_5px_#3b82f6]"></div>
+		    <span class="text-[10px] font-bold uppercase">Pick</span>
+		  </div>
+		  <div class="px-3 py-1 bg-white/20 rounded border border-white/5 flex items-center gap-2">
+		    <div class="w-2 h-2 bg-rose-500 rounded-full shadow-[0_0_5px_#f43f5e]"></div>
+		    <span class="text-[10px] font-bold uppercase">Ban</span>
+		  </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="relative group">
+      <div class="absolute -inset-1 bg-gradient-to-r from-[#ffbd00]/10 to-transparent blur-2xl opacity-0 group-hover:opacity-100 transition duration-1000"></div>
+    
+      <div class="relative overflow-x-auto rounded-2xl border bg-white/10 border-white/10 backdrop-blur-md shadow-2xl">
+			<table class="w-full text-left border-collapse min-w-full">
+          <thead>
+            <tr class="bg-white/10 border-b border-white/10">
+              <th class="px-8 py-5 text-[11px] font-black whitespace-nowrap uppercase tracking-[0.2em] text-[#ffbd00]">Timeframe</th>
+              <th class="px-6 py-5 text-[11px] font-black whitespace-nowrap uppercase tracking-[0.2em] text-center w-52">Rank</th>
+              <th class="px-6 py-5 text-[11px] font-black whitespace-nowrap uppercase tracking-[0.2em] text-center w-52 text-green-400">Win Rate</th>
+              <th class="px-6 py-5 text-[11px] font-black whitespace-nowrap uppercase tracking-[0.2em] text-center w-52 text-blue-400">Pick Rate</th>
+              <th class="px-6 py-5 text-[11px] font-black whitespace-nowrap uppercase tracking-[0.2em] text-center w-52 text-rose-500">Ban Rate</th>
+            </tr>
+          </thead>
+		  <tbody class="divide-y divide-white/10 relative">
+			<% 
+			  const sortedStats = hero.statistics.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+			  sortedStats.forEach((stat, index) => { 
+			 %>
+            <tr class="group/row hover:bg-[#ffbd00]/[0.03] transition-all relative">
+              <td class="px-8 py-5 relative overflow-hidden">
+                <div class="flex items-center gap-4">
+                  <div class="whitespace-nowrap text-white font-black italic text-lg uppercase leading-none tracking-tighter group-hover/row:text-[#ffbd00] group-hover/row:translate-x-1 transition-all duration-300">
+                    <%= stat.timeframe_name %>
+                  </div>
+                </div>
+              </td>
+
+              <td class="px-6 py-5">
+                <div class="flex justify-center items-center">
+                  <span class="text-center text-xs font-black italic tabular-nums uppercase border border-white/10 px-3 py-1 bg-white/10">
+                    <%= stat.rank_name %>
+                  </span>
+                </div>
+              </td>
+
+              <td class="px-6 py-5">
+                <div class="w-full max-w-[170px] mx-auto space-y-2">
+                  <div class="flex justify-between items-end leading-none">
+                    <span class="text-sm font-black text-green-400 italic tabular-nums"><%= stat.win_rate %>%</span>
+                  </div>
+                  <div class="h-1.5 w-full bg-black rounded-full border border-white/5 p-[1px]">
+                    <div class="h-full bg-gradient-to-r from-green-600 to-emerald-400 rounded-full shadow-[0_0_10px_rgba(16,185,129,0.3)]" 
+                         style="width: <%= stat.win_rate %>%"></div>
+                  </div>
+                </div>
+              </td>
+
+              <td class="px-6 py-5">
+                <div class="w-full max-w-[170px] mx-auto space-y-2">
+                  <div class="flex justify-between items-end leading-none">
+                    <span class="text-sm font-black text-blue-400 italic tabular-nums"><%= stat.pick_rate %>%</span>
+                  </div>
+                  <div class="h-1.5 w-full bg-black rounded-full border border-white/5 p-[1px]">
+                    <div class="h-full bg-gradient-to-r from-blue-600 to-cyan-400 rounded-full shadow-[0_0_10px_rgba(37,99,235,0.3)]" 
+                         style="width: <%= stat.pick_rate %>%"></div>
+                  </div>
+                </div>
+              </td>
+
+              <td class="px-6 py-5">
+                <div class="w-full max-w-[170px] mx-auto space-y-2">
+                  <div class="flex justify-between items-end leading-none">
+                    <span class="text-sm font-black text-rose-500 italic tabular-nums"><%= stat.ban_rate %>%</span>
+                  </div>
+                  <div class="h-1.5 w-full bg-black rounded-full border border-white/5 p-[1px]">
+                    <div class="h-full bg-gradient-to-r from-rose-700 to-red-500 rounded-full shadow-[0_0_10px_rgba(225,29,72,0.3)]" 
+                         style="width: <%= stat.ban_rate %>%"></div>
+                  </div>
+                </div>
+              </td>
+            </tr>
+          <% }) %>
+          </tbody>
+        </table>
+        <div class="absolute bottom-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-[#ffbd00]/20 to-transparent"></div>
+      </div>
+    </div>
+  </section>
+</article>

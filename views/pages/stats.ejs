@@ -1,0 +1,115 @@
+<article class="h-full flex-1 px-4 pt-26 pb-6 relative overflow-hidden">
+  <img class="fixed top-0 left-0 w-full h-full max-h-[700px] object-cover opacity-80 -z-10 trans-bottom" src="/assets/images/banner.webp" alt="banner" />
+
+    <section class="container mx-auto relative z-10">
+		<div class="mb-10 flex flex-col md:flex-row md:justify-between items-center gap-6">
+			<div class="pl-4 border-l-4 border-[#ffbd00]">
+				<h1 class="text-3xl md:text-5xl font-black text-white italic uppercase tracking-tighter">
+					Win <span class="text-[#ffbd00]">Rate</span>
+				</h1>
+				<p class="text-[10px] font-bold tracking-[0.3em] uppercase mt-1"><%= new Date(lastUpdated).toLocaleString('id-ID') %></p>
+			</div>
+        </div>
+		
+		<div class="relative overflow-x-auto border bg-white/10 border-white/10 backdrop-blur-md shadow-2xl">
+		  <div class="absolute bottom-0 left-0 w-full h-[2px] bg-gradient-to-r from-transparent via-[#ffbd00]/40 to-transparent scale-x-0 group-hover:scale-x-100 transition-transform duration-500"></div>
+		  
+		  <table class="w-full text-left border-collapse min-w-full">
+			<thead>
+			  <tr class="bg-white/10 border-b border-white/10">
+				<th class="px-8 py-5 text-[11px] font-black whitespace-nowrap uppercase tracking-[0.2em]">Hero Unit</th>
+				<th class="px-6 py-5 text-[11px] font-black whitespace-nowrap uppercase tracking-[0.2em] text-center w-52">Rank</th>
+				<th class="px-6 py-5 text-[11px] font-black whitespace-nowrap uppercase tracking-[0.2em] text-center w-52">Win Rate</th>
+				<th class="px-6 py-5 text-[11px] font-black whitespace-nowrap uppercase tracking-[0.2em] text-center w-52">Pick Rate</th>
+				<th class="px-6 py-5 text-[11px] font-black whitespace-nowrap uppercase tracking-[0.2em] text-center w-52">Ban Rate</th>
+			  </tr>
+			</thead>
+			<tbody class="divide-y divide-white/10 relative">
+			  <% heroes.forEach((hero, index) => { %>
+				<tr class="group/row hover:bg-[#ffbd00]/[0.02] transition-all hover:z-50 relative border-t border-white/[0.05]">
+				  <td class="px-6 py-3 w-full relative overflow-hidden group/row">
+					<a href="/heroes/<%= hero.hero_id %>" class="group/tooltip relative flex items-center gap-6 cursor-pointer focus:outline-none">
+					  <div class="relative shrink-0">
+						<div class="relative w-16 h-16 p-0.5 bg-gradient-to-tr from-white/10 to-white/30 group-hover/row:from-[#ffbd00]/50 group-hover/row:to-[#ffee00]/50 transition-all duration-500 rounded">
+						  <div class="w-full h-full overflow-hidden bg-gray-900 rounded">
+							<img src="<%= hero.img_src %>" alt="<%= hero.hero_name %>" class="w-full h-full object-cover grayscale-[30%] group-hover/row:grayscale-0 group-hover/row:scale-110 transition-all duration-700">
+						  </div>
+						</div>
+
+						<div class="absolute -bottom-1 -right-2 bg-[#ffbd00] text-black px-1.5 py-0 skew-x-[-25deg] shadow-[0_0_15px_rgba(255,189,0,0.4)]">
+						  <span class="text-[11px] font-black italic block skew-x-[15deg]">
+							#<%= index + 1 %>
+						  </span>
+						</div>
+					  </div>
+
+					  <div class="relative z-10">
+						<div class="flex items-center gap-2">
+						  <div class="text-white font-black italic text-xl uppercase leading-none tracking-tighter group-hover/row:text-[#ffbd00] group-hover/row:translate-x-1 transition-all duration-300">
+							<%= hero.hero_name %>
+						  </div>
+						</div>
+						
+						<div class="flex items-center mt-2">
+						  <div class="bg-white/10 px-2 py-0.5 border-l-2 border-[#ffbd00]">
+							<div class="text-nowrap text-[9px] font-bold tracking-[0.2em] uppercase italic">
+							  <%= hero.role.join(' • ') %> <span class="mx-1 text-[#ffbd00]">/</span> <%= hero.lane.join(' • ') %>
+							</div>
+						  </div>
+						</div>
+						
+						<div class="mt-2 flex gap-1.5">
+						  <% hero.speciality.forEach(spec => { %>
+							<span class="text-[8px] px-1.5 py-0.5 border border-white/10 text-gray-300 uppercase font-bold group-hover/row:border-[#ffbd00]/30 transition-colors">
+							  <%= spec %>
+							</span>
+						  <% }) %>
+						</div>
+					  </div>
+					</a>
+				  </td>
+
+				  <td class="px-6 py-3">
+					<div class="w-full max-w-[170px] mx-auto space-y-2 text-center">
+					  <span class="text-sm font-black text-yellow-400 italic tabular-nums uppercase"><%= hero.rank_name %></span>
+					</div>
+				  </td>
+
+				  <td class="px-6 py-3">
+					<div class="w-full max-w-[170px] mx-auto space-y-2">
+					  <div class="flex justify-between items-end leading-none">
+						<span class="text-sm font-black text-green-400 italic tabular-nums"><%= hero.win_rate %>%</span>
+					  </div>
+					  <div class="h-1.5 w-full bg-black rounded-full border border-white/5 p-[1px]">
+						<div class="h-full bg-gradient-to-r from-green-600 to-emerald-400 rounded-full shadow-[0_0_10px_rgba(16,185,129,0.3)]" style="width: <%= hero.win_rate %>%"></div>
+					  </div>
+					</div>
+				  </td>
+
+				  <td class="px-6 py-3">
+					<div class="w-full max-w-[170px] mx-auto space-y-2">
+					  <div class="flex justify-between items-end leading-none">
+						<span class="text-sm font-black text-blue-400 italic tabular-nums"><%= hero.pick_rate %>%</span>
+					  </div>
+					  <div class="h-1.5 w-full bg-black rounded-full border border-white/5 p-[1px]">
+						<div class="h-full bg-gradient-to-r from-blue-600 to-cyan-400 rounded-full shadow-[0_0_10px_rgba(37,99,235,0.3)]" style="width: <%= (hero.pick_rate * 5) %>%"></div> </div>
+					</div>
+				  </td>
+
+				  <td class="px-6 py-3">
+					<div class="w-full max-w-[170px] mx-auto space-y-2">
+					  <div class="flex justify-between items-end leading-none">
+						<span class="text-sm font-black text-rose-500 italic tabular-nums"><%= hero.ban_rate %>%</span>
+					  </div>
+					  <div class="h-1.5 w-full bg-black rounded-full border border-white/5 p-[1px]">
+						<div class="h-full bg-gradient-to-r from-rose-700 to-red-500 rounded-full shadow-[0_0_10px_rgba(225,29,72,0.3)]" style="width: <%= hero.ban_rate %>%"></div>
+					  </div>
+					</div>
+				  </td>
+				</tr>
+			  <% }) %>
+			</tbody>
+		  </table>
+		</div>
+	    </section>
+</article>

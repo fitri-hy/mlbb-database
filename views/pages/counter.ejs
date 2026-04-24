@@ -1,0 +1,207 @@
+<article class="h-full flex-1 px-4 pt-26 pb-6 relative overflow-hidden">
+  <img class="fixed top-0 left-0 w-full h-full max-h-[700px] object-cover opacity-80 -z-10 trans-bottom" src="/assets/images/banner.webp" alt="banner" />
+
+    <section class="container mx-auto relative z-10">
+		<div class="mb-10 flex flex-col md:flex-row md:justify-between items-center gap-6">
+		  <div class="pl-4 border-l-4 border-[#ffbd00]">
+			<h1 class="text-3xl md:text-5xl font-black text-white italic uppercase tracking-tighter">
+			  Hero <span class="text-[#ffbd00]">Counter</span>
+			</h1>
+			<p class="text-[10px] font-bold tracking-[0.3em] uppercase mt-1">Tactical Neutralization</p>
+		  </div>
+		  <div class="max-w-xs w-full">
+		    <div class="relative group">
+			  <div class="absolute -inset-0.5 bg-gradient-to-r from-[#ffbd00]/30 to-orange-600/30 rounded-sm blur opacity-20 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
+			  <div class="relative flex">
+				<div class="absolute z-10 top-0 left-0 w-2 h-2 border-t-2 border-l-2 border-[#ffbd00]"></div>
+				<input 
+                    type="text" 
+                    id="heroSearch" 
+                    onkeyup="filterHeroes()"
+                    placeholder="SEARCH UNIT..." 
+				  value="<%= typeof searchQuery !== 'undefined' ? searchQuery : '' %>"
+				  class="placeholder:text-gray-200 w-full bg-white/20 backdrop-blur-md border border-white/10 px-5 py-4 text-white text-[10px] font-black tracking-[0.2em] uppercase focus:outline-none focus:border-[#ffbd00]/50 transition-all italic"
+				/>
+			  
+				<button type="submit" class="cursor-pointer bg-[#ffbd00]/90 px-4 text-black group-hover:bg-[#ffbd00] group-hover:text-black transition-all transform group-hover:scale-110">
+				  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+				  </svg>
+				</button>
+			  </div>
+			</div>
+		  </div>
+		</div>
+
+		<div id="heroGrid" class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 xl:grid-cols-7 gap-4">
+		  <% allHeroes.forEach(hero => { %>
+			<button 
+			  onclick="openModal('<%= hero.id %>', '<%= hero.hero_name %>', '<%= hero.img_src %>', '<%= hero.role %>', '<%= hero.lane %>')"
+			  data-name="<%= hero.hero_name.toLowerCase() %>"
+			  class="cursor-pointer hero-card group relative text-left bg-white/10 border border-white/10 backdrop-blur-md p-3 transition-all duration-500 hover:border-[#ffbd00]/50 hover:bg-[#ffbd00]/[0.02] clip-path-gaming">
+
+			  <div class="flex flex-col items-center gap-3">
+				<div class="relative shrink-0">
+				  <div class="w-20 h-20 bg-gray-900 border border-white/10 overflow-hidden relative group-hover:border-[#ffbd00]/50 transition-colors">
+					<img src="<%= hero.img_src %>" alt="<%= hero.hero_name %>" class="w-full h-full object-cover group-hover:scale-110 transition-all duration-700">
+				  </div>
+				</div>
+
+				<div class="flex-1 overflow-hidden">
+				  <h3 class="text-white font-black italic uppercase text-xl truncate tracking-tighter group-hover:text-[#ffbd00] transition-colors leading-none">
+					<%= hero.hero_name %>
+				  </h3>
+				</div>
+			  </div>
+			  <div class="absolute -bottom-1 -right-1 w-4 h-4 border-b border-r border-white/20 group-hover:border-[#ffbd00] transition-colors"></div>
+			</button>
+		  <% }) %>
+		</div>
+
+        <div id="noResults" class="hidden py-20 text-center border border-dashed border-white/5 opacity-40">
+            <p class="font-black italic uppercase tracking-[0.3em]">No Units Found in Database</p>
+        </div>
+    </section>
+
+    <div id="counterModal" class="fixed inset-0 z-[100] hidden flex items-center justify-center">
+        <div class="bg-black/70 backdrop-blur-md w-full h-full overflow-y-auto border border-white/10 relative shadow-2xl no-scrollbar">
+            <button onclick="closeModal()" class="cursor-pointer absolute top-6 right-6 text-rose-400 hover:text-rose-500 z-[110]">
+                <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
+            <div id="modalBody" class="p-4 md:p-6"></div>
+        </div>
+    </div>
+</article>
+
+<script>
+    const databaseCounter = <%- allCounters %>;
+
+    function filterHeroes() {
+        const input = document.getElementById('heroSearch');
+        const filter = input.value.toLowerCase();
+        const grid = document.getElementById('heroGrid');
+        const cards = grid.getElementsByClassName('hero-card');
+        const noResults = document.getElementById('noResults');
+        let hasVisible = false;
+
+        for (let i = 0; i < cards.length; i++) {
+            const name = cards[i].getAttribute('data-name');
+            if (name.includes(filter)) {
+                cards[i].style.display = "";
+                hasVisible = true;
+            } else {
+                cards[i].style.display = "none";
+            }
+        }
+        noResults.classList.toggle('hidden', hasVisible);
+    }
+
+    function openModal(id, name, img, role, lane) {
+        const modal = document.getElementById('counterModal');
+        const body = document.getElementById('modalBody');
+        const counters = databaseCounter[id] || [];
+
+        modal.classList.remove('hidden');
+        document.body.style.overflow = 'hidden';
+
+        body.innerHTML = `
+            <div class="flex flex-col md:flex-row items-center gap-10 mb-6 border-b border-white/10 pb-6">
+                <div class="relative shrink-0">
+                    <div class="w-32 h-32 md:w-40 md:h-40 bg-rose-500 p-[2px] clip-path-gaming shadow-[0_0_30px_rgba(255,189,0,0.2)]">
+                        <div class="w-full h-full bg-[#0f1117] clip-path-gaming overflow-hidden">
+                            <img src="${img}" class="w-full h-full object-cover scale-110">
+                        </div>
+                    </div>
+					<div class="absolute -bottom-2 left-1/2 -translate-x-1/2 bg-rose-500 text-white px-2 py-1 skew-x-[-25deg] shadow-[0_0_15px_rgba(255,189,0,0.4)]">
+						<span class="text-[11px] font-black italic block skew-x-[15deg]">
+						  Target
+						</span>
+					</div>
+                </div>
+                <div class="text-center md:text-left flex-1">
+                    <h2 class="text-4xl md:text-6xl font-black uppercase italic tracking-tighter leading-none mb-4 text-white">${name}</h2>
+                    <div class="flex flex-wrap justify-center md:justify-start gap-3">
+                        <div class="bg-white/10 border border-white/20 px-4 py-1">
+                            <p class="text-[8px] uppercase font-bold tracking-widest">Role</p>
+                            <p class="text-xs font-black uppercase text-rose-500">${role}</p>
+                        </div>
+                        <div class="bg-white/10 border border-white/20 px-4 py-1">
+                            <p class="text-[8px] uppercase font-bold tracking-widest">Lane</p>
+                            <p class="text-xs font-black uppercase text-rose-500">${lane}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			<div class="flex items-end justify-between mb-6">
+			  <div class="text-center">
+				<span class="text-[#ffbd00] text-xs font-black tracking-[0.4em] uppercase">Countermeasures</span>
+				<h2 class="text-4xl font-black italic uppercase tracking-tighter text-white">
+				  Elimination <span class="text-[#ffbd00]">Strategy</span>
+				</h2>
+			  </div>
+			</div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-6">
+                ${counters.length > 0 ? counters.map(c => `
+                    <div class="group relative bg-white/15 border border-white/10 backdrop-blur-md p-2 transition-all duration-500 hover:border-[#ffbd00]/50 hover:bg-[#ffbd00]/[0.02] clip-path-gaming">
+                      
+						<div class="absolute top-0 right-0 z-20">
+							<div class="bg-[#ffbd00] text-white px-2 py-1 -mr-1 -mt-1 skew-x-[-15deg] shadow-lg shadow-[#ffbd00]/20">
+							  <p class="text-[9px] font-black leading-none italic uppercase">${c.lane.join(', ')}</p>
+							</div>
+						 </div>
+                        <div class="flex items-center gap-4 mb-2">
+                            
+							<div class="relative shrink-0">
+							  <div class="w-20 h-20 bg-gray-900 border border-white/10 overflow-hidden relative group-hover:border-[#ffbd00]/50 transition-colors">
+								<img src="${c.imgSrc}" class="w-full h-full object-cover group-hover:scale-110 transition-all duration-700">
+							  </div>
+							  <div class="absolute bottom-0 -right-0 bg-[#ffbd00] text-black px-1.5 py-0 skew-x-[-25deg] shadow-[0_0_15px_rgba(255,189,0,0.4)]">
+								<span class="text-[9px] font-black italic block skew-x-[15deg]">
+								  ${c.tier}
+								</span>
+							  </div>
+							</div>
+                            <div class="min-w-0">
+                                <h4 class="text-xl font-black uppercase italic text-[#ffbd00] leading-none truncate mb-1">${c.heroName}</h4>
+                                <p class="text-[9px] font-bold uppercase tracking-wider">${c.role.join(' / ')}</p>
+                            </div>
+                        </div>
+                        <div class="space-y-4 mb-2">
+                            <div>
+								<div class="flex items-center gap-2 mb-1">
+								  <div class="w-1 h-3 bg-[#ffbd00]"></div>
+								  <span class="text-[9px] font-bold uppercase tracking-widest text-gray-300">
+									Specialization
+								  </span>
+								</div>
+								<div class="flex flex-wrap gap-1.5">
+									${c.speciality.map(s => `
+									<span class="text-[8px] px-2 py-0.5 bg-white/10 border border-white/5 font-mono uppercase group-hover:text-[#ffbd00] transition-colors">
+									${s}
+									</span>`).join('')}
+								</div>
+                            </div>
+                        </div>
+                        <div class="pt-2 border-t border-white/5">
+                            <div class="flex justify-between items-center text-[9px] font-black uppercase mb-1.5">
+                                <span>Effectiveness</span>
+                                <span class="text-[#ffbd00] italic">${(c.score * 10).toFixed(0)}%</span>
+                            </div>
+                            <div class="h-1 bg-white/10 w-full relative overflow-hidden">
+                                <div class="absolute top-0 left-0 h-full bg-[#ffbd00] shadow-[0_0_10px_#10b981]" style="width: ${Math.min(c.score * 10, 100)}%"></div>
+                            </div>
+                        </div>
+						<div class="absolute -bottom-1 -right-1 w-4 h-4 border-b border-r border-white/20 group-hover:border-[#ffbd00] transition-colors"></div>
+                    </div>
+                `).join('') : '<p class="col-span-full text-center py-10 opacity-30 uppercase font-black tracking-widest">No Tactical Data</p>'}
+            </div>
+        `;
+    }
+
+    function closeModal() {
+        document.getElementById('counterModal').classList.add('hidden');
+        document.body.style.overflow = 'auto';
+    }
+
+    document.addEventListener('keydown', (e) => { if(e.key === 'Escape') closeModal(); });
+</script>

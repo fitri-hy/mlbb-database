@@ -1,3 +1,5 @@
+<img src="./ss.png" />
+ 
 # MLBB Database API
 
 MLBB Database API adalah RESTful API berbasis **Node.js + Express** untuk menyediakan data Mobile Legends seperti hero, item, emblem, patch, team, player, match, tournament, dan statistik kompetitif.

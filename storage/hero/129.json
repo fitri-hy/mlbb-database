@@ -1,0 +1,817 @@
+{
+  "success": true,
+  "message": "Hero detail retrieved successfully",
+  "data": {
+    "id": 129,
+    "hero_name": "Zetian",
+    "channel_id": 3054554,
+    "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+    "role": [
+      "Mage"
+    ],
+    "lane": [
+      "Mid Lane"
+    ],
+    "speciality": [
+      "Damage",
+      "Crowd Control"
+    ],
+    "tier": "A",
+    "previous_tier": "S",
+    "score": 434.159,
+    "statistics": [
+      {
+        "hero_id": 129,
+        "pick_rate": 2.03,
+        "win_rate": 51.87,
+        "ban_rate": 22.49,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.04,
+        "win_rate": 51.85,
+        "ban_rate": 22.02,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.05,
+        "win_rate": 51.77,
+        "ban_rate": 21.75,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.06,
+        "win_rate": 51.76,
+        "ban_rate": 20.59,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1.86,
+        "win_rate": 51.71,
+        "ban_rate": 17.02,
+        "rank_name": "ALL",
+        "rank_id": 1,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1,
+        "win_rate": 49.93,
+        "ban_rate": 10.58,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1,
+        "win_rate": 49.64,
+        "ban_rate": 10.7,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1.03,
+        "win_rate": 49.55,
+        "ban_rate": 10.94,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1.04,
+        "win_rate": 49.79,
+        "ban_rate": 10.82,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1.02,
+        "win_rate": 50.35,
+        "ban_rate": 10.2,
+        "rank_name": "Epic",
+        "rank_id": 2,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1.4,
+        "win_rate": 51.58,
+        "ban_rate": 19.9,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1.42,
+        "win_rate": 51.63,
+        "ban_rate": 19.89,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1.48,
+        "win_rate": 51.64,
+        "ban_rate": 20.1,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1.55,
+        "win_rate": 51.75,
+        "ban_rate": 19.77,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1.54,
+        "win_rate": 51.88,
+        "ban_rate": 17.66,
+        "rank_name": "Legend",
+        "rank_id": 3,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1.83,
+        "win_rate": 51.9,
+        "ban_rate": 28.28,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1.86,
+        "win_rate": 52.03,
+        "ban_rate": 27.99,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 1.93,
+        "win_rate": 52.02,
+        "ban_rate": 27.81,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.06,
+        "win_rate": 51.95,
+        "ban_rate": 26.39,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.06,
+        "win_rate": 51.85,
+        "ban_rate": 23.19,
+        "rank_name": "Mythic",
+        "rank_id": 4,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.38,
+        "win_rate": 52.32,
+        "ban_rate": 28.26,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.41,
+        "win_rate": 52.28,
+        "ban_rate": 27.79,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.48,
+        "win_rate": 52.19,
+        "ban_rate": 27.17,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.55,
+        "win_rate": 52.16,
+        "ban_rate": 25.51,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.47,
+        "win_rate": 52.04,
+        "ban_rate": 22.96,
+        "rank_name": "Mythical Honor",
+        "rank_id": 5,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.84,
+        "win_rate": 51.82,
+        "ban_rate": 21.87,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 1 day",
+        "timeframe_id": 1,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.85,
+        "win_rate": 51.75,
+        "ban_rate": 21.53,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 3 days",
+        "timeframe_id": 2,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.9,
+        "win_rate": 51.61,
+        "ban_rate": 20.77,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 7 days",
+        "timeframe_id": 3,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.93,
+        "win_rate": 51.51,
+        "ban_rate": 19.35,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 15 days",
+        "timeframe_id": 4,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      },
+      {
+        "hero_id": 129,
+        "pick_rate": 2.87,
+        "win_rate": 51.4,
+        "ban_rate": 18.01,
+        "rank_name": "Mythical Glory+",
+        "rank_id": 6,
+        "timeframe_name": "Past 30 days",
+        "timeframe_id": 5,
+        "created_at": "2026-04-20T21:00:56.000Z"
+      }
+    ],
+    "counters": [
+      {
+        "type": "counters",
+        "id": 104,
+        "hero_name": "Gloo",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Exp Lane",
+          "Roam"
+        ],
+        "speciality": [
+          "Regen",
+          "Control"
+        ],
+        "weighted_score": 4.226,
+        "tier": "SS"
+      },
+      {
+        "type": "counters",
+        "id": 110,
+        "hero_name": "Valentina",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Finisher"
+        ],
+        "weighted_score": 3.783,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 112,
+        "hero_name": "Floryn",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Poke",
+          "Guard"
+        ],
+        "weighted_score": 3.227,
+        "tier": "B"
+      },
+      {
+        "type": "counters",
+        "id": 59,
+        "hero_name": "Uranus",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Regen"
+        ],
+        "weighted_score": 2.956,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 102,
+        "hero_name": "Mathilda",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+        "role": [
+          "Support",
+          "Assassin"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Initiator",
+          "Guard"
+        ],
+        "weighted_score": 2.555,
+        "tier": "D"
+      },
+      {
+        "type": "counters",
+        "id": 34,
+        "hero_name": "Estes",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Regen",
+          "Guard"
+        ],
+        "weighted_score": 0.591,
+        "tier": "S"
+      },
+      {
+        "type": "counters",
+        "id": 43,
+        "hero_name": "Irithel",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Burst"
+        ],
+        "weighted_score": 0.104,
+        "tier": "D"
+      }
+    ],
+    "weakAgainst": [
+      {
+        "type": "weak_against",
+        "id": 6,
+        "hero_name": "Tigreal",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Crowd Control"
+        ],
+        "weighted_score": 3.668,
+        "tier": "C"
+      }
+    ],
+    "synergies": [
+      {
+        "id": 24,
+        "hero_name": "Natalia",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle",
+          "Roam"
+        ],
+        "speciality": [
+          "Chase",
+          "Finisher"
+        ],
+        "weighted_score": 3.78,
+        "tier": "D"
+      },
+      {
+        "id": 42,
+        "hero_name": "Harley",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+        "role": [
+          "Assassin",
+          "Mage"
+        ],
+        "lane": [
+          "Jungle",
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Poke"
+        ],
+        "weighted_score": 3.491,
+        "tier": "SS"
+      },
+      {
+        "id": 2,
+        "hero_name": "Balmond",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Jungle",
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Damage",
+          "Regen"
+        ],
+        "weighted_score": 1.4,
+        "tier": "D"
+      },
+      {
+        "id": 109,
+        "hero_name": "Aamon",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Chase",
+          "Magic Damage"
+        ],
+        "weighted_score": 1.28,
+        "tier": "C"
+      },
+      {
+        "id": 56,
+        "hero_name": "Gusion",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle",
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Magic Damage"
+        ],
+        "weighted_score": 0.781,
+        "tier": "B"
+      },
+      {
+        "id": 73,
+        "hero_name": "Harith",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Gold Lane",
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Chase",
+          "Damage"
+        ],
+        "weighted_score": 0.55,
+        "tier": "D"
+      },
+      {
+        "id": 4,
+        "hero_name": "Alice",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+        "role": [
+          "Tank",
+          "Mage"
+        ],
+        "lane": [
+          "Exp Lane",
+          "Jungle"
+        ],
+        "speciality": [
+          "Charge",
+          "Regen"
+        ],
+        "weighted_score": 0.523,
+        "tier": "B"
+      },
+      {
+        "id": 53,
+        "hero_name": "Lesley",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+        "role": [
+          "Marksman",
+          "Assassin"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Burst"
+        ],
+        "weighted_score": 0.51,
+        "tier": "C"
+      },
+      {
+        "id": 100,
+        "hero_name": "Brody",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Finisher"
+        ],
+        "weighted_score": 0.147,
+        "tier": "D"
+      },
+      {
+        "id": 88,
+        "hero_name": "Masha",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+        "role": [
+          "Fighter",
+          "Tank"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Push",
+          "Damage"
+        ],
+        "weighted_score": 0,
+        "tier": "C"
+      }
+    ],
+    "skills": [
+      {
+        "id": "passive",
+        "hero_id": 129,
+        "skill_key": "passive",
+        "name": "Celestial Armament",
+        "type": "CC | Damage | Shield",
+        "description": "Celestial ArmamentShield CCPhoenix Crown: When Zetian hits enemy heroes with Phoenix Strike or Phoenix Descent, she gains 0.5% Spell Vamp for 5s, stacking up to 10 times.Celestial Robe: The power of the Phoenix periodically protects Zetian, knocking back and stunning any enemy hero who dares approach her while dealing 90 (+10*Hero Level) (+50% Total Magic Power) Magic Damage to them. She also gains a 300 (+20*Hero Level) (+50% Total Magic Power) Shield that lasts 3s. This effect has a 120s cooldown.",
+        "image_url": "",
+        "image_path": "hero-skills-images/zetian/passive.png",
+        "scaling": null,
+        "effects": null
+      },
+      {
+        "id": "skill_1",
+        "hero_id": 129,
+        "skill_key": "skill_1",
+        "name": "Phoenix Strike",
+        "type": "Damage",
+        "description": "Phoenix StrikeDamage Speed Up | Spell Vamp Ratio: 100%Zetian unleashes a Phoenix Wave in the target direction. If it hits an enemy, she automatically casts another wave, up to 3 times. While casting, Zetian can move with 10% increased Movement Speed and can use other skills.The three Phoenix Waves deal 185 (+30% Total Magic Power) Magic Damage/185 (+50% Total Magic Power) Magic Damage/330 (+70% Total Magic Power) Magic Damage, respectively. The third wave hits a larger area and includes a small pull effect (not considered a control effect).This skill only has 80% Spell Vamp efficiency against Minions.",
+        "image_url": "",
+        "image_path": "hero-skills-images/zetian/skill_1.png",
+        "scaling": {
+          "levels": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "cooldown": "7.0",
+          "mana_cost": [
+            70,
+            80,
+            90,
+            100,
+            110,
+            120
+          ],
+          "base_damage": [
+            330,
+            390,
+            450,
+            510,
+            570,
+            630
+          ]
+        },
+        "effects": null
+      },
+      {
+        "id": "skill_2",
+        "hero_id": 129,
+        "skill_key": "skill_2",
+        "name": "Phoenix Descent",
+        "type": "Damage | Slow",
+        "description": "Phoenix DescentSlow Debuff | Spell Vamp Ratio: 50%Zetian summons a Phoenix Spirit at the target location, dealing 150 (+30% Total Magic Power) Magic Damage and applying a 50% Slow Effect to enemies in the area. The Phoenix Spirit hovers at the location for 3s, dealing 20 (+10% Total Magic Power) Magic Damage every 0.5s and reducing enemies' Magic Defense by 10%.While the Phoenix Spirit is active, Zetian can use this skill again to command it to charge toward a designated location, dealing 150 (+30% Total Magic Power) Magic Damage and applying a <%Num8> Slow Effect upon arrival.",
+        "image_url": "",
+        "image_path": "hero-skills-images/zetian/skill_2.png",
+        "scaling": {
+          "levels": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "cooldown": "15.0",
+          "mana_cost": [
+            80,
+            90,
+            100,
+            110,
+            120,
+            130
+          ],
+          "base_damage": [
+            20,
+            24,
+            28,
+            32,
+            36,
+            40
+          ],
+          "magic_defense_reduction": [
+            "10%",
+            "12%",
+            "14%",
+            "16%",
+            "18%",
+            "20%"
+          ]
+        },
+        "effects": null
+      },
+      {
+        "id": "ultimate",
+        "hero_id": 129,
+        "skill_key": "ultimate",
+        "name": "Fury of the Phoenix",
+        "type": "CC | Damage",
+        "description": "Fury of the PhoenixCC Damage | Spell Vamp Ratio: 50%Zetian calls upon her divine mandate and the hearts of her people, granting all allied heroes 60% Movement Speed that gradually decays over 3s, while bringing divine retribution upon all enemy heroes, dealing 400 (+100% Total Magic Power) Magic Damage and stunning them for 1s. Zetian gains vision of all enemy heroes during this time.Zetian can cast other skills while channeling this skill.",
+        "image_url": "",
+        "image_path": "hero-skills-images/zetian/ultimate.png",
+        "scaling": {
+          "levels": [
+            1,
+            2,
+            3
+          ],
+          "cooldown": "90.0",
+          "mana_cost": [
+            150,
+            180,
+            210
+          ],
+          "base_damage": [
+            400,
+            550,
+            700
+          ],
+          "movement_speed_bonus": [
+            "40%",
+            "50%",
+            "60%"
+          ]
+        },
+        "effects": null
+      }
+    ]
+  }
+}
