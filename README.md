@@ -11,14 +11,10 @@ MLBB Database API adalah RESTful API berbasis **Node.js + Express** untuk menyed
 - Heroes & Hero Details
 - Items & Item Details
 - Emblems
-- Game Modes
-- Land of Dawn Info
-- Player Earnings & Profiles
-- Team Earnings & Profiles
-- Match Listings (Upcoming, Live, Completed)
+- Hero Tiers
 - Tournament Data
-- Patch Notes
-- Hero Statistics & Tier Grouping
+- Hero Statistics
+- - More
 
 ---
 
