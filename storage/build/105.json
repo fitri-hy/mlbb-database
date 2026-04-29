@@ -1,0 +1,358 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 7060,
+      "user_id": 20326,
+      "username": "syahdan",
+      "hero_id": 105,
+      "hero_name": "Beatrix",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "items": [
+        12,
+        16,
+        11,
+        92,
+        2,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          18
+        ]
+      },
+      "description": "Rosgold bisa diganti dengan heptasis",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-16T05:12:35.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6090,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 105,
+      "hero_name": "Beatrix",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "items": [
+        12,
+        98,
+        2,
+        10,
+        11,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          18,
+          16,
+          4
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-27T18:38:03.000Z",
+      "likes_count": 4,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5853,
+      "user_id": 17696,
+      "username": "Jinx20",
+      "hero_id": 105,
+      "hero_name": "Beatrix",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "items": [
+        98,
+        2,
+        12,
+        10,
+        14,
+        18
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          16,
+          18
+        ]
+      },
+      "description": "This build is designed for high survivability and high damage at any stage of the game. If the enemy team only has one hero with physical damage, the Wind of Nature can be replaced with an Anti-Heal or Demon Hunter's Sword.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-19T20:12:33.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6841,
+      "user_id": 18718,
+      "username": "Yutul",
+      "hero_id": 105,
+      "hero_name": "Beatrix",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "items": [
+        98,
+        3,
+        2,
+        16,
+        6,
+        5
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          8,
+          16,
+          26
+        ]
+      },
+      "description": "percaya gua ini enak",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-31T06:05:18.000Z",
+      "likes_count": 2,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6833,
+      "user_id": 19664,
+      "username": "ada_deh",
+      "hero_id": 105,
+      "hero_name": "Beatrix",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "items": [
+        3,
+        91,
+        2,
+        11,
+        13,
+        12
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          16,
+          18
+        ]
+      },
+      "description": "untuk yang sniper one hit kalo musuh nya tipis\ntapi kalo musuh nya kebanyakan defens pake shotgun di jamin dameg nya gak ngotak",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-30T21:54:04.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5751,
+      "user_id": 17493,
+      "username": "natnutt",
+      "hero_id": 105,
+      "hero_name": "Beatrix",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "items": [
+        99,
+        2,
+        10,
+        12,
+        16,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          16,
+          18
+        ]
+      },
+      "description": "best for any beatrix weapons",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-16T17:10:19.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5718,
+      "user_id": 17408,
+      "username": "b526178a279",
+      "hero_id": 105,
+      "hero_name": "Beatrix",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "items": [
+        2,
+        98,
+        16,
+        12,
+        10,
+        18
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          16,
+          18
+        ]
+      },
+      "description": "gpp",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-15T07:46:57.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5661,
+      "user_id": 17263,
+      "username": "Arkydo",
+      "hero_id": 105,
+      "hero_name": "Beatrix",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "items": [
+        2,
+        99,
+        10,
+        12,
+        18,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          18,
+          16,
+          1
+        ]
+      },
+      "description": "Terserah kalo sepatunya ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-12T09:29:56.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5776,
+      "user_id": 17542,
+      "username": "Skeyy",
+      "hero_id": 105,
+      "hero_name": "Beatrix",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "items": [
+        12,
+        98,
+        2,
+        16,
+        18,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          16,
+          18
+        ]
+      },
+      "description": "emblem nya tenacity atau weapon master terserah",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-17T12:22:05.000Z",
+      "likes_count": 1,
+      "dislikes_count": 3
+    },
+    {
+      "build_id": 5775,
+      "user_id": 17541,
+      "username": "kamedaaa",
+      "hero_id": 105,
+      "hero_name": "Beatrix",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "items": [
+        2,
+        97,
+        12,
+        16,
+        14,
+        11
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          16,
+          18
+        ]
+      },
+      "description": "Burst+Sustained damage",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-17T11:43:15.000Z",
+      "likes_count": 1,
+      "dislikes_count": 4
+    },
+    {
+      "build_id": 5525,
+      "user_id": 16973,
+      "username": "zdann",
+      "hero_id": 105,
+      "hero_name": "Beatrix",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "items": [
+        91,
+        92,
+        72,
+        43,
+        40,
+        33
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          24,
+          11
+        ]
+      },
+      "description": "Dijamin ws guys cobain",
+      "battle_spell": "Purify",
+      "created_at": "2026-02-07T12:24:41.000Z",
+      "likes_count": 2,
+      "dislikes_count": 5
+    }
+  ]
+}

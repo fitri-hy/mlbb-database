@@ -10,96 +10,21 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 9.28600025177002,
+      "score": 9.071999549865724,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 109,
           "name": "Aamon",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
-          "score": 9.286
-        }
-      ]
-    },
-    {
-      "id": 93,
-      "heroName": "Atlas",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Initiator"
-      ],
-      "score": 5.947000026702881,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 109,
-          "name": "Aamon",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
-          "score": 5.947
-        }
-      ]
-    },
-    {
-      "id": 90,
-      "heroName": "Silvanna",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Initiator",
-        "Magic Damage"
-      ],
-      "score": 5.22599983215332,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 109,
-          "name": "Aamon",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
-          "score": 5.226
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "heroName": "Hayabusa",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Burst"
-      ],
-      "score": 4.260000228881836,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 109,
-          "name": "Aamon",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
-          "score": 4.26
+          "score": 9.072
         }
       ]
     },
@@ -118,14 +43,89 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 4.198999881744385,
+      "score": 5.873000144958496,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 109,
           "name": "Aamon",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
-          "score": 4.199
+          "score": 5.873
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "heroName": "Silvanna",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Initiator",
+        "Magic Damage"
+      ],
+      "score": 5.302000045776367,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 109,
+          "name": "Aamon",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+          "score": 5.302
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "heroName": "Atlas",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Initiator"
+      ],
+      "score": 5.050000190734863,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 109,
+          "name": "Aamon",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+          "score": 5.05
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "heroName": "Hayabusa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 3.127000093460083,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 109,
+          "name": "Aamon",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+          "score": 3.127
         }
       ]
     },
@@ -143,14 +143,39 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 2.384000062942505,
+      "score": 2.130000114440918,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 109,
           "name": "Aamon",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
-          "score": 2.384
+          "score": 2.13
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "heroName": "Wanwan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 0.4560000002384186,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 109,
+          "name": "Aamon",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+          "score": 0.456
         }
       ]
     },
@@ -168,14 +193,14 @@
         "Burst",
         "Poke"
       ],
-      "score": 0.414000004529953,
-      "tier": "D",
+      "score": 0.40299999713897705,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 109,
           "name": "Aamon",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
-          "score": 0.414
+          "score": 0.403
         }
       ]
     },
@@ -194,14 +219,14 @@
         "Burst",
         "Magic Damage"
       ],
-      "score": 0.1850000023841858,
-      "tier": "B",
+      "score": 0.1589999943971634,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 109,
           "name": "Aamon",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
-          "score": 0.185
+          "score": 0.159
         }
       ]
     }

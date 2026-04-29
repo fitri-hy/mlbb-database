@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5900,
+      "user_id": 17803,
+      "username": "Elraff",
+      "hero_id": 50,
+      "hero_name": "Zhask",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
+      "items": [
+        94,
+        50,
+        43,
+        39,
+        45,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          12,
+          19
+        ]
+      },
+      "description": "Focus on the push lane only. Especially when the enemy is trying to kill lord.",
+      "battle_spell": "Arrival",
+      "created_at": "2026-02-21T17:36:46.000Z",
+      "likes_count": 6,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6512,
+      "user_id": 4133,
+      "username": "Drunk",
+      "hero_id": 50,
+      "hero_name": "Zhask",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
+      "items": [
+        94,
+        91,
+        37,
+        51,
+        72,
+        47
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          17
+        ]
+      },
+      "description": "top build",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-15T03:43:44.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7309,
+      "user_id": 20896,
+      "username": "Probuilds123",
+      "hero_id": 50,
+      "hero_name": "Zhask",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
+      "items": [
+        95,
+        19,
+        43,
+        37,
+        69,
+        67
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          11,
+          20
+        ]
+      },
+      "description": "This is the perfect build for zhasks. The summons won't die easily late game. He maintain enough burst using the passive of windtalkers and enough anti heal and penetration against most enemies. Zhasks don't do that much damage with full burst build but this build melts the marksmen and annoys tanks.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-26T07:12:42.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7188,
+      "user_id": 7501,
+      "username": "Beast_Master64",
+      "hero_id": 50,
+      "hero_name": "Zhask",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
+      "items": [
+        96,
+        42,
+        43,
+        33,
+        37,
+        72
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          7,
+          9,
+          17
+        ]
+      },
+      "description": "Optimized on movement speed, a little bit of cooldown, no mana regen but intended for constant presence on battlefield even from base. High Damage",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-21T03:22:23.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6987,
+      "user_id": 20114,
+      "username": "Zhaskeun",
+      "hero_id": 50,
+      "hero_name": "Zhask",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
+      "items": [
+        94,
+        43,
+        42,
+        47,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          5,
+          16,
+          17
+        ]
+      },
+      "description": "mid to late game build. i recommend this if u want your damage to penetrate through enemy defense",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-12T06:25:35.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

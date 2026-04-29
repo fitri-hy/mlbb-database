@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6292,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 12,
+      "hero_name": "Bruno",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+      "items": [
+        97,
+        1,
+        10,
+        12,
+        19,
+        18
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          15,
+          18
+        ]
+      },
+      "description": "messi messi messi, gold lane, flicker",
+      "battle_spell": null,
+      "created_at": "2026-03-07T06:50:24.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7340,
+      "user_id": 19718,
+      "username": "Fillet",
+      "hero_id": 12,
+      "hero_name": "Bruno",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+      "items": [
+        10,
+        98,
+        1,
+        12,
+        2,
+        16
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          12,
+          18
+        ]
+      },
+      "description": "CRIT + high pATK",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-27T08:24:09.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6334,
+      "user_id": 18573,
+      "username": "Danntzy",
+      "hero_id": 12,
+      "hero_name": "Bruno",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+      "items": [
+        10,
+        99,
+        1,
+        16,
+        14,
+        18
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          16,
+          18
+        ]
+      },
+      "description": "hmm, jadiin item core nya yaitu hasclaw lalu item kedua sepatu dan untuk item ketiga fleksibel aja bisa seahalberd atau berseker duluan jikalau pas early kalian kesusahan buat hancurin lifesteel lawan untuk item terakhir bisa di ganti won atau malefic gun tergantung kondisi permainan",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-08T14:48:45.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6250,
+      "user_id": 18429,
+      "username": "STIGMA",
+      "hero_id": 12,
+      "hero_name": "Bruno",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+      "items": [
+        10,
+        100,
+        12,
+        1,
+        19,
+        16
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          16,
+          18
+        ]
+      },
+      "description": "Item terakhir bebas enak nya apa",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-05T13:38:07.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5723,
+      "user_id": 17424,
+      "username": "Hattori",
+      "hero_id": 12,
+      "hero_name": "Bruno",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+      "items": [
+        99,
+        10,
+        1,
+        12,
+        14,
+        19
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          13,
+          18
+        ]
+      },
+      "description": "Razeee",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-15T11:54:11.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

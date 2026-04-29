@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6918,
+      "user_id": 14083,
+      "username": "hamon",
+      "hero_id": 78,
+      "hero_name": "Khufra",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Initiator, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
+      "items": [
+        99,
+        70,
+        76,
+        117,
+        71,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          11,
+          7,
+          21
+        ]
+      },
+      "description": "normal build by zexo",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-07T04:08:32.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7239,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 78,
+      "hero_name": "Khufra",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Initiator, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
+      "items": [
+        97,
+        76,
+        70,
+        69,
+        75,
+        67
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          21,
+          9,
+          6
+        ]
+      },
+      "description": "Roam blessing: encourage\n\nSpare items: \nantique cuirass\nAthena's shield\n\nYou know what to do, it's not rocket science",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-22T22:55:09.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7194,
+      "user_id": 20627,
+      "username": "NELLO",
+      "hero_id": 78,
+      "hero_name": "Khufra",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Initiator, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
+      "items": [
+        99,
+        76,
+        70,
+        75,
+        65,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          5,
+          15,
+          21
+        ]
+      },
+      "description": "General build",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-21T06:56:50.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6919,
+      "user_id": 14083,
+      "username": "hamon",
+      "hero_id": 78,
+      "hero_name": "Khufra",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Initiator, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
+      "items": [
+        99,
+        70,
+        67,
+        71,
+        65,
+        66
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          11,
+          24,
+          7
+        ]
+      },
+      "description": "anti crit build by zexo",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-07T04:10:37.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

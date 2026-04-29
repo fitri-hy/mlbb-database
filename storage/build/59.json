@@ -1,0 +1,646 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5738,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        73,
+        36,
+        68,
+        74,
+        92
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          10,
+          21
+        ]
+      },
+      "description": "Uranus Jungle + NoCooldown",
+      "battle_spell": null,
+      "created_at": "2026-02-16T11:25:48.000Z",
+      "likes_count": 5,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6195,
+      "user_id": 9139,
+      "username": "Drezz",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        68,
+        73,
+        35,
+        117,
+        75
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          3,
+          10,
+          17
+        ]
+      },
+      "description": "Build uranus jungle 30% cdr 10% nya dari buff biru jadi cdnya 40% jadi lu bisa spam skill dan build ini dari emblem common \n+22 adaptif attack (dmg early sakit dan farming cepet)\n+275 hp (darah tebel early)\n+12 hy regen (12 mana 12 hp regen jadi lebih sustain dan biar mana ga mudah abis)\n1. Vitality 225hp (biar total darah dr emblem & talent 500)\n2. Seasond hunter (farming lebih cepet)\n3. Impure rage (biar ada dmg tambahan dan mana regen tambahan)\n\nUnlimited mana sustain dmg",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-03-03T10:30:08.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5611,
+      "user_id": 17155,
+      "username": "rolyn",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        76,
+        99,
+        70,
+        117,
+        73,
+        74
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          7,
+          11,
+          21
+        ]
+      },
+      "description": "MATIGAS NA TT",
+      "battle_spell": null,
+      "created_at": "2026-02-10T13:09:03.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7333,
+      "user_id": 20956,
+      "username": "gendul",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        68,
+        71,
+        73,
+        69,
+        65
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          6,
+          15,
+          21
+        ]
+      },
+      "description": "exp lane for survival and opening war",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-27T05:53:21.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7140,
+      "user_id": 20510,
+      "username": "Kujo1987",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        76,
+        70,
+        73,
+        71,
+        65,
+        66
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          5,
+          11,
+          24
+        ]
+      },
+      "description": "Tanky yeah",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-04-19T03:31:05.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6834,
+      "user_id": 19657,
+      "username": "Caracuri",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        68,
+        75,
+        73,
+        117,
+        67
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          5,
+          10,
+          17
+        ]
+      },
+      "description": "Build by Kyle from Team Falcons, Uranus jungle, insane resistance",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-03-30T23:18:03.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6595,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        38,
+        73,
+        68,
+        75,
+        117
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          11,
+          21
+        ]
+      },
+      "description": "normal",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-19T07:11:34.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6594,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        76,
+        38,
+        70,
+        73,
+        71
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          11,
+          20
+        ]
+      },
+      "description": "main",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-19T07:08:41.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6545,
+      "user_id": 19033,
+      "username": "Cala",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        100,
+        73,
+        74,
+        71,
+        75,
+        117
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          24,
+          11,
+          7
+        ]
+      },
+      "description": "URANO M7 SELANGOR",
+      "battle_spell": null,
+      "created_at": "2026-03-17T01:22:25.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6530,
+      "user_id": 18930,
+      "username": "EXPhelps",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        73,
+        66,
+        65,
+        117,
+        70
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          3,
+          14,
+          17
+        ]
+      },
+      "description": "Overall Sustain . Used purify If enemy has hard CC",
+      "battle_spell": "Purify",
+      "created_at": "2026-03-16T02:16:09.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6506,
+      "user_id": 18946,
+      "username": "AungMinOo54",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        95,
+        76,
+        73,
+        71,
+        117,
+        65
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          11,
+          21
+        ]
+      },
+      "description": "Damage ",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-14T19:18:27.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6345,
+      "user_id": 18603,
+      "username": "Rasyid",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        68,
+        66,
+        65,
+        73,
+        70
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          7,
+          11,
+          24
+        ]
+      },
+      "description": "Di jamin anti mati+sakit",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-09T10:56:15.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6176,
+      "user_id": 18292,
+      "username": "Kutil",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        95,
+        65,
+        73,
+        70,
+        71,
+        72
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          7,
+          11,
+          21
+        ]
+      },
+      "description": "Situasional buildnya enak sustain",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-02T16:56:09.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6596,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        73,
+        68,
+        35,
+        69,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          11,
+          24,
+          3
+        ]
+      },
+      "description": "hp",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-19T07:15:57.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5808,
+      "user_id": 16469,
+      "username": "Arch",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        35,
+        70,
+        73,
+        75,
+        117
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          7,
+          11,
+          21
+        ]
+      },
+      "description": "Hybrid Defense, Regen, In and out fights, and almost unkillable.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-18T09:39:27.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5696,
+      "user_id": 17372,
+      "username": "Zuzuki_zenzay",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        97,
+        65,
+        70,
+        73,
+        71,
+        67
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          7,
+          11,
+          17
+        ]
+      },
+      "description": "อึดถึกทนนาน",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-14T12:07:34.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5450,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        73,
+        99,
+        67,
+        117,
+        75,
+        92
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          5,
+          14,
+          17
+        ]
+      },
+      "description": "Uranus Sustained",
+      "battle_spell": null,
+      "created_at": "2026-02-04T06:57:19.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5391,
+      "user_id": 9757,
+      "username": "thamuzuser",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        38,
+        69,
+        73,
+        70,
+        71
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          3,
+          11,
+          24
+        ]
+      },
+      "description": "this uranus item is over power",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-02T10:41:38.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5385,
+      "user_id": 16610,
+      "username": "gabensvenz",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        70,
+        73,
+        68,
+        71,
+        72
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          5,
+          11,
+          23
+        ]
+      },
+      "description": "regen HP",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-02T06:20:40.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6550,
+      "user_id": 1609,
+      "username": "DR.Ultramen",
+      "hero_id": 59,
+      "hero_name": "Uranus",
+      "role": "Tank",
+      "lane": "Exp Lane",
+      "speciality": "Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "items": [
+        99,
+        69,
+        43,
+        73,
+        70,
+        66
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          25,
+          14
+        ]
+      },
+      "description": "2",
+      "battle_spell": null,
+      "created_at": "2026-03-17T06:18:56.000Z",
+      "likes_count": 1,
+      "dislikes_count": 2
+    }
+  ]
+}

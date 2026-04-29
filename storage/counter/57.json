@@ -16,14 +16,14 @@
         "Regen",
         "Guard"
       ],
-      "score": 6.617000102996826,
-      "tier": "D",
+      "score": 6.829999923706055,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 57,
           "name": "Valir",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-          "score": 6.617
+          "score": 6.83
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Push",
         "Burst"
       ],
-      "score": 5.685999870300293,
+      "score": 5.997000217437744,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 57,
           "name": "Valir",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-          "score": 5.686
+          "score": 5.997
         }
       ]
     },
@@ -68,66 +68,14 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 5.353000164031982,
+      "score": 5.151000022888184,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 57,
           "name": "Valir",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-          "score": 5.353
-        }
-      ]
-    },
-    {
-      "id": 97,
-      "heroName": "Benedetta",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
-      "role": [
-        "Assassin",
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Chase",
-        "Burst"
-      ],
-      "score": 3.910000085830689,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 57,
-          "name": "Valir",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-          "score": 3.91
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "heroName": "Sun",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane",
-        "Jungle"
-      ],
-      "speciality": [
-        "Push",
-        "Damage"
-      ],
-      "score": 2.549999952316284,
-      "tier": "B",
-      "counteredHeroes": [
-        {
-          "id": 57,
-          "name": "Valir",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-          "score": 2.55
+          "score": 5.151
         }
       ]
     },
@@ -146,14 +94,40 @@
         "Push",
         "Damage"
       ],
-      "score": 2.125,
+      "score": 5.107999801635742,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 57,
           "name": "Valir",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-          "score": 2.125
+          "score": 5.108
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "heroName": "Benedetta",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+      "role": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 3.884999990463257,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 57,
+          "name": "Valir",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
+          "score": 3.885
         }
       ]
     },
@@ -172,40 +146,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 0.6660000085830688,
-      "tier": "D",
+      "score": 0.8389999866485596,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 57,
           "name": "Valir",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-          "score": 0.666
-        }
-      ]
-    },
-    {
-      "id": 102,
-      "heroName": "Mathilda",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
-      "role": [
-        "Support",
-        "Assassin"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Initiator",
-        "Guard"
-      ],
-      "score": 0.2509999871253968,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 57,
-          "name": "Valir",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-          "score": 0.251
+          "score": 0.839
         }
       ]
     },
@@ -225,14 +173,14 @@
         "Burst",
         "Poke"
       ],
-      "score": 0.2409999966621399,
+      "score": 0.23399999737739563,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 57,
           "name": "Valir",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-          "score": 0.241
+          "score": 0.234
         }
       ]
     },
@@ -250,14 +198,39 @@
         "Chase",
         "Burst"
       ],
-      "score": 0.2290000021457672,
+      "score": 0.22300000488758087,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 57,
           "name": "Valir",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-          "score": 0.229
+          "score": 0.223
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.1940000057220459,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 57,
+          "name": "Valir",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
+          "score": 0.194
         }
       ]
     }

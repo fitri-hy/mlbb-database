@@ -1,0 +1,742 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5741,
+      "user_id": 17477,
+      "username": "Say59",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        1,
+        3,
+        2,
+        12,
+        16,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          16,
+          8,
+          22
+        ]
+      },
+      "description": "ยิงแทงเม็ดเดียวตาย",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-16T12:43:41.000Z",
+      "likes_count": 11,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6920,
+      "user_id": 19906,
+      "username": "dedepp",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        1,
+        97,
+        12,
+        16,
+        7,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          8,
+          16,
+          23
+        ]
+      },
+      "description": "Build yang pasti kuat dari early, asal main aman jgn feed, build ini bakal makin kuat kalo agresif. Battle spell fliker lebih universal, tapi kalo ada cc ngeselin lebih dari 1 langsung pake purify(doa). Kalo sudah lategame menit 18+ uang lebih dari 13.000+, sepatu langsung ganti dengan BOD supaya damage nya makin sakit. Jangan beli sea halberd kalo musuh gaada mengandalkan heal atau shield, ganti dgn build urutan selanjutnya aja.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-07T08:22:55.000Z",
+      "likes_count": 6,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6642,
+      "user_id": 19276,
+      "username": "Anastasia",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        97,
+        91,
+        3,
+        1,
+        2,
+        16
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          1,
+          16,
+          18
+        ]
+      },
+      "description": "Regarding her statement, \"One shot, one kill.\"",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-22T04:11:30.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6872,
+      "user_id": 19727,
+      "username": "karTzy",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        98,
+        1,
+        7,
+        2,
+        14,
+        11
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          8,
+          16,
+          18
+        ]
+      },
+      "description": "lawan mm attck speed\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-01T10:06:21.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6042,
+      "user_id": 18035,
+      "username": "WAZA",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        1,
+        16,
+        12,
+        7,
+        2,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          23,
+          16
+        ]
+      },
+      "description": "GOOD FOR poking and team fight and true Damage ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-26T02:59:45.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5914,
+      "user_id": 10333,
+      "username": "Yhm",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        91,
+        3,
+        1,
+        12,
+        2,
+        7
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          18
+        ]
+      },
+      "description": "☺️",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-22T15:23:40.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5707,
+      "user_id": 17394,
+      "username": "X0ny3x",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        97,
+        3,
+        91,
+        7,
+        13,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          12,
+          2,
+          22
+        ]
+      },
+      "description": "Kudu pinter jaga posisinya Lesley dan emblem ini TDK di sarankan untuk by one ",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-02-15T00:32:10.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5443,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        97,
+        91,
+        1,
+        7,
+        12,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          8,
+          16,
+          18
+        ]
+      },
+      "description": "Lesley Build",
+      "battle_spell": null,
+      "created_at": "2026-02-04T06:43:27.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5359,
+      "user_id": 16479,
+      "username": "vyn",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        12,
+        3,
+        1,
+        7,
+        13,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          18
+        ]
+      },
+      "description": "burst damage build",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-01T07:57:27.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7322,
+      "user_id": 10333,
+      "username": "Yhm",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        1,
+        91,
+        3,
+        13,
+        2,
+        7
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          16,
+          23
+        ]
+      },
+      "description": "Playing mom make sure you're hungry 🤫🤫",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-26T16:00:03.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7276,
+      "user_id": 20779,
+      "username": "Simon1",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        1,
+        3,
+        12,
+        16,
+        2,
+        7
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          8,
+          16,
+          18
+        ]
+      },
+      "description": "Bisa sampe 3000 damg nya",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-24T09:31:11.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6524,
+      "user_id": 18987,
+      "username": "Palo",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        97,
+        91,
+        3,
+        1,
+        16,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          16,
+          23
+        ]
+      },
+      "description": "ยิงเเรงสะใจละลายเเท้งได้ดี",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-15T17:35:39.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6127,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        100,
+        1,
+        12,
+        3,
+        14,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          18,
+          16,
+          8
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-28T09:36:33.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6121,
+      "user_id": 16883,
+      "username": "//GF",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        96,
+        3,
+        7,
+        11,
+        2,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          18,
+          16,
+          1
+        ]
+      },
+      "description": "GTW jir",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-28T05:57:13.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7305,
+      "user_id": 20884,
+      "username": "Heisenberg",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        1,
+        2,
+        12,
+        16,
+        11,
+        9
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          17,
+          12,
+          8
+        ]
+      },
+      "description": "Maximixe passive and win basic attack power\nYou can change Great Dragon Spear with Skypiecer if you want, make it as the 3rd item after make Blade of Despair",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-26T05:02:47.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7303,
+      "user_id": 20869,
+      "username": "Tezie",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        1,
+        2,
+        16,
+        12,
+        7,
+        3
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          8,
+          16,
+          22
+        ]
+      },
+      "description": "my lesley build",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-25T19:07:51.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7066,
+      "user_id": 20334,
+      "username": "Phantom4626",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        96,
+        1,
+        91,
+        7,
+        2,
+        12
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          8,
+          16,
+          18
+        ]
+      },
+      "description": "Finisher, Burst. ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-16T06:39:55.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6794,
+      "user_id": 19623,
+      "username": "Upsidedownbaree",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        97,
+        1,
+        12,
+        2,
+        7,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          16,
+          18
+        ]
+      },
+      "description": "High damage build can insta kill if used by a skilled player",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-30T00:48:48.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5341,
+      "user_id": 16370,
+      "username": "Rauan",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        2,
+        98,
+        1,
+        7,
+        3,
+        12
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          1,
+          12,
+          23
+        ]
+      },
+      "description": "100/0/0",
+      "battle_spell": "Aegis",
+      "created_at": "2026-01-31T18:52:51.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7246,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        96,
+        1,
+        12,
+        91,
+        2,
+        7
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          18,
+          16,
+          8
+        ]
+      },
+      "description": "Spare item: sea halberd, replace sky piercer if you can't stack it well, This build is honestly the best lesley build out there considering the synergy alone,\n\nNote: although this build is an original of mine I'd like to praise phantom for publishing it before me",
+      "battle_spell": null,
+      "created_at": "2026-04-22T23:23:40.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6928,
+      "user_id": 19942,
+      "username": "im_scarlette",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        91,
+        1,
+        19,
+        3,
+        7,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          16,
+          23
+        ]
+      },
+      "description": "build damage",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-08T03:46:00.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6708,
+      "user_id": 19455,
+      "username": "Santzy",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        100,
+        1,
+        7,
+        12,
+        13,
+        18
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          8,
+          16,
+          18
+        ]
+      },
+      "description": "Lesley Full Burst Build: Critical & True Damage (1 Shot Kill)\n\nMaksimalin Pasif lesley dari kombinasi skill 1 dan skill 2 nya.\nRawan terpickoff assasin musuh, sering2 cek map.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-25T23:26:11.000Z",
+      "likes_count": 1,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5749,
+      "user_id": 17493,
+      "username": "natnutt",
+      "hero_id": 53,
+      "hero_name": "Lesley",
+      "role": "Marksman, Assassin",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "items": [
+        99,
+        1,
+        91,
+        7,
+        2,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          8,
+          16,
+          26
+        ]
+      },
+      "description": "burst damage",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-16T17:05:08.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

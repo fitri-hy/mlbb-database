@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6654,
+      "user_id": 19325,
+      "username": "fries",
+      "hero_id": 94,
+      "hero_name": "Popol and Kupa",
+      "role": "Marksman",
+      "lane": "Jungle, Gold Lane",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+      "items": [
+        5,
+        99,
+        11,
+        14,
+        13,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          16,
+          1,
+          18
+        ]
+      },
+      "description": "fokus to pyshical attack but i think sea halbeard item is better",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-23T04:30:27.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5933,
+      "user_id": 17905,
+      "username": "derk_j",
+      "hero_id": 94,
+      "hero_name": "Popol and Kupa",
+      "role": "Marksman",
+      "lane": "Jungle, Gold Lane",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+      "items": [
+        97,
+        16,
+        14,
+        2,
+        1,
+        72
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          8,
+          10,
+          18
+        ]
+      },
+      "description": "burst",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-23T14:42:43.000Z",
+      "likes_count": 4,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6855,
+      "user_id": 19697,
+      "username": "Wilmer",
+      "hero_id": 94,
+      "hero_name": "Popol and Kupa",
+      "role": "Marksman",
+      "lane": "Jungle, Gold Lane",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+      "items": [
+        100,
+        16,
+        19,
+        2,
+        13,
+        9
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          20
+        ]
+      },
+      "description": "La mejor build ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-31T16:22:02.000Z",
+      "likes_count": 2,
+      "dislikes_count": 7
+    },
+    {
+      "build_id": 5714,
+      "user_id": 17406,
+      "username": "User091",
+      "hero_id": 94,
+      "hero_name": "Popol and Kupa",
+      "role": "Marksman",
+      "lane": "Jungle, Gold Lane",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+      "items": [
+        36,
+        44,
+        13,
+        73,
+        17,
+        99
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          2,
+          12,
+          23
+        ]
+      },
+      "description": "Build for kuba\n",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-15T05:57:25.000Z",
+      "likes_count": 3,
+      "dislikes_count": 8
+    }
+  ]
+}

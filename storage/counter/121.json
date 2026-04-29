@@ -16,14 +16,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 8.100000381469727,
+      "score": 7.631999969482422,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 121,
           "name": "Ixia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
-          "score": 8.1
+          "score": 7.632
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Burst",
         "Charge"
       ],
-      "score": 6.104000091552734,
-      "tier": "B",
+      "score": 6.054999828338623,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 121,
           "name": "Ixia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
-          "score": 6.104
+          "score": 6.055
         }
       ]
     },
@@ -67,14 +67,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 5.755000114440918,
+      "score": 6.045000076293945,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 121,
           "name": "Ixia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
-          "score": 5.755
+          "score": 6.045
         }
       ]
     },
@@ -92,14 +92,14 @@
         "Crowd Control",
         "Initiator"
       ],
-      "score": 5.304999828338623,
-      "tier": "D",
+      "score": 3.859999895095825,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 121,
           "name": "Ixia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
-          "score": 5.305
+          "score": 3.86
         }
       ]
     },
@@ -117,14 +117,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 2.369999885559082,
+      "score": 2.309999942779541,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 121,
           "name": "Ixia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
-          "score": 2.37
+          "score": 2.31
         }
       ]
     },
@@ -142,64 +142,14 @@
         "Burst",
         "Finisher"
       ],
-      "score": 1.718000054359436,
+      "score": 1.7580000162124634,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 121,
           "name": "Ixia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
-          "score": 1.718
-        }
-      ]
-    },
-    {
-      "id": 65,
-      "heroName": "Claude",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Chase"
-      ],
-      "score": 0.9879999756813048,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 121,
-          "name": "Ixia",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
-          "score": 0.988
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "heroName": "Moskov",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Chase"
-      ],
-      "score": 0.2280000001192093,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 121,
-          "name": "Ixia",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
-          "score": 0.228
+          "score": 1.758
         }
       ]
     },
@@ -217,14 +167,65 @@
         "Chase",
         "Burst"
       ],
-      "score": 0.2140000015497208,
+      "score": 1.5219999551773071,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 121,
           "name": "Ixia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
-          "score": 0.214
+          "score": 1.522
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "heroName": "Claude",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Chase"
+      ],
+      "score": 1.0199999809265137,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 121,
+          "name": "Ixia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+          "score": 1.02
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "heroName": "Natalia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 0.20399999618530276,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 121,
+          "name": "Ixia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+          "score": 0.204
         }
       ]
     }

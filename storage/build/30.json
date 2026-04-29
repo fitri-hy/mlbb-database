@@ -1,0 +1,614 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5703,
+      "user_id": 12339,
+      "username": "Zyou-çaune",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        17,
+        99,
+        68,
+        14,
+        13,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "Perfect for Bursting Enemy Hero w/ a Survivability of 60%+ and Sustainability of 67%++. Best build for YSS.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-14T22:35:20.000Z",
+      "likes_count": 13,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6854,
+      "user_id": 19696,
+      "username": "Creepylookingthirsty",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        96,
+        11,
+        7,
+        2,
+        13,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          22,
+          10,
+          1
+        ]
+      },
+      "description": "This build synergizes around yi sun shin's passive Heavenly Vow, which switches between melee (crit + splash damage) and ranged (safe poke) every basic attack. Endless Battle for true damage after each skill, so when you weave skill basic  switch stance, you’re constantly triggering bonus damage. Hunter Strike gives movement speed after hits, letting you reposition fast to keep that passive cycle going. Blade of Despair and Malefic Roar scale your burst hard, especially when enemies are low or tanky. Assassin emblem with Killing Spree adds sustain after kills, so you dive, reset, and snowball. Overall, it works because you’re basically abusing constant stance-switching + true damage procs to output high DPS while staying mobile and hard to punish.\nYou could also go for sky piercer if you snowball early\nTry to play safe and farm as much as you can but you should also assist your team while your at it \nIt's easy to reach hit lvl 15 on yss before the 10 minute mark if you are consistent \nHope this helps :)",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-31T15:03:33.000Z",
+      "likes_count": 7,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6632,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        96,
+        11,
+        7,
+        13,
+        2,
+        17
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "Build YSS Karltzy M7\n",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-21T15:14:28.000Z",
+      "likes_count": 7,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6891,
+      "user_id": 19791,
+      "username": "Yai",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        96,
+        11,
+        91,
+        7,
+        2,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          12,
+          22
+        ]
+      },
+      "description": "Mm",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-05T12:36:59.000Z",
+      "likes_count": 5,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5599,
+      "user_id": 17130,
+      "username": "Wise",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        11,
+        96,
+        17,
+        7,
+        2,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "Agressive\n",
+      "battle_spell": "Retribution",
+      "created_at": "2026-02-10T05:50:59.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5469,
+      "user_id": 13827,
+      "username": "Dev",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        99,
+        17,
+        91,
+        7,
+        13,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          3,
+          14,
+          22
+        ]
+      },
+      "description": "Allrounder build for every match.",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-02-05T00:55:31.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6198,
+      "user_id": 16276,
+      "username": "Vinz",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        100,
+        11,
+        17,
+        91,
+        7,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          18,
+          10,
+          8
+        ]
+      },
+      "description": "dijamin enak",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-03T11:03:46.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6141,
+      "user_id": 17393,
+      "username": "poniez",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        99,
+        11,
+        17,
+        7,
+        13,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "‎ ",
+      "battle_spell": "Retribution",
+      "created_at": "2026-02-28T22:32:19.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6971,
+      "user_id": 20050,
+      "username": "RIDZ;/",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        17,
+        7,
+        13,
+        91,
+        96,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          19
+        ]
+      },
+      "description": "Dari erli GEMS farming farming hingga senobol aja",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-10T20:21:05.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6064,
+      "user_id": 18083,
+      "username": "michael_kaiser405",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        96,
+        11,
+        7,
+        13,
+        2,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          12,
+          22
+        ]
+      },
+      "description": "a",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-27T02:15:21.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5949,
+      "user_id": 17933,
+      "username": "Kiboy969",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        99,
+        11,
+        7,
+        13,
+        12,
+        90
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          12,
+          26
+        ]
+      },
+      "description": "YSS KAIRI\n ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-24T03:19:48.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5354,
+      "user_id": 16437,
+      "username": "Jack1",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        17,
+        99,
+        68,
+        91,
+        2,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          10,
+          23,
+          7
+        ]
+      },
+      "description": "This build is for sustainability and has decent damage. ",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-02-01T05:22:37.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5317,
+      "user_id": 16183,
+      "username": "Vendetta.",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        96,
+        11,
+        17,
+        7,
+        2,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "Early snowball",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-01-31T06:37:49.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5455,
+      "user_id": 16752,
+      "username": "Irum",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        99,
+        11,
+        2,
+        12,
+        7,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "BUILD BANTAI BANTAI",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-04T07:31:08.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7241,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        96,
+        17,
+        76,
+        74,
+        2,
+        12
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          1
+        ]
+      },
+      "description": "Fighter style Yi sun shin\n\nHas good damage in early\nDamage falls off a bit in mid game\nDamage is decent in late game\n\nCollect thunderbelt stacks to be as tanky as a fighter by late game\n\nNote: yi sun shin really lacked defense and healing, I know he can heal from creeps but yo won't find those mid fight, this build fixes that issue by lowering his damage a bit",
+      "battle_spell": null,
+      "created_at": "2026-04-22T23:02:38.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6217,
+      "user_id": 17933,
+      "username": "Kiboy969",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        98,
+        8,
+        6,
+        5,
+        2,
+        90
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          4,
+          14,
+          26
+        ]
+      },
+      "description": "yss tatatatatatatattaatta",
+      "battle_spell": "Inspire",
+      "created_at": "2026-03-04T02:51:31.000Z",
+      "likes_count": 3,
+      "dislikes_count": 3
+    },
+    {
+      "build_id": 5647,
+      "user_id": 17190,
+      "username": "Gateau",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        91,
+        102,
+        11,
+        7,
+        13,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          18
+        ]
+      },
+      "description": "Pake retri merh jg enak. ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-12T01:00:15.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5347,
+      "user_id": 13827,
+      "username": "Dev",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        99,
+        7,
+        13,
+        91,
+        2,
+        17
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          16,
+          22
+        ]
+      },
+      "description": "Jungle and Objects steal",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-02-01T02:04:52.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6379,
+      "user_id": 18706,
+      "username": "Izunami",
+      "hero_id": 30,
+      "hero_name": "Yi Sun-shin",
+      "role": "Assassin, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Chase",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
+      "items": [
+        96,
+        17,
+        68,
+        7,
+        74,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "Womp + Attack",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-03-10T18:46:45.000Z",
+      "likes_count": 1,
+      "dislikes_count": 3
+    }
+  ]
+}

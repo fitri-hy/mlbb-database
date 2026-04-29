@@ -16,14 +16,14 @@
         "Crowd Control",
         "Regen"
       ],
-      "score": 4.585000038146973,
-      "tier": "D",
+      "score": 4.464000225067139,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 114,
           "name": "Melissa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 4.585
+          "score": 4.464
         }
       ]
     },
@@ -42,39 +42,14 @@
         "Finisher",
         "Chase"
       ],
-      "score": 3.9609999656677246,
+      "score": 3.7809998989105225,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 114,
           "name": "Melissa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 3.961
-        }
-      ]
-    },
-    {
-      "id": 79,
-      "heroName": "Granger",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Finisher"
-      ],
-      "score": 3.861000061035156,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 114,
-          "name": "Melissa",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 3.861
+          "score": 3.781
         }
       ]
     },
@@ -92,14 +67,41 @@
         "Burst",
         "Crowd Control"
       ],
-      "score": 3.525000095367432,
+      "score": 3.615000009536743,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 114,
           "name": "Melissa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 3.525
+          "score": 3.615
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "heroName": "Harley",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "role": [
+        "Assassin",
+        "Mage"
+      ],
+      "lane": [
+        "Jungle",
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Poke"
+      ],
+      "score": 2.309999942779541,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 114,
+          "name": "Melissa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
+          "score": 2.31
         }
       ]
     },
@@ -117,14 +119,89 @@
         "Burst",
         "Poke"
       ],
-      "score": 2.3399999141693115,
+      "score": 2.200000047683716,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 114,
           "name": "Melissa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 2.34
+          "score": 2.2
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "heroName": "Granger",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 1.5880000591278076,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 114,
+          "name": "Melissa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
+          "score": 1.588
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "heroName": "Ixia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 1.0750000476837158,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 114,
+          "name": "Melissa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
+          "score": 1.075
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "heroName": "X.Borg",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Burst"
+      ],
+      "score": 0.35199999809265137,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 114,
+          "name": "Melissa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
+          "score": 0.352
         }
       ]
     },
@@ -143,40 +220,14 @@
         "Burst",
         "Crowd Control"
       ],
-      "score": 1.3350000381469729,
-      "tier": "D",
+      "score": 0.34599998593330383,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 114,
           "name": "Melissa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 1.335
-        }
-      ]
-    },
-    {
-      "id": 87,
-      "heroName": "Baxia",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Jungle",
-        "Roam"
-      ],
-      "speciality": [
-        "Support",
-        "Damage"
-      ],
-      "score": 0.4020000100135803,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 114,
-          "name": "Melissa",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 0.402
+          "score": 0.346
         }
       ]
     },
@@ -195,39 +246,39 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 0.3050000071525574,
+      "score": 0.28299999237060547,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 114,
           "name": "Melissa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 0.305
+          "score": 0.283
         }
       ]
     },
     {
-      "id": 83,
-      "heroName": "X.Borg",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "id": 15,
+      "heroName": "Eudora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
       "role": [
-        "Fighter"
+        "Mage"
       ],
       "lane": [
-        "Exp Lane"
+        "Mid Lane"
       ],
       "speciality": [
-        "Regen",
+        "Control",
         "Burst"
       ],
-      "score": 0.15399999916553497,
+      "score": 0.27000001072883606,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 114,
           "name": "Melissa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 0.154
+          "score": 0.27
         }
       ]
     },
@@ -247,14 +298,14 @@
         "Push",
         "Burst"
       ],
-      "score": 0.1340000033378601,
+      "score": 0.11800000071525574,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 114,
           "name": "Melissa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 0.134
+          "score": 0.118
         }
       ]
     },
@@ -272,40 +323,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.12300000339746477,
+      "score": 0.1120000034570694,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 114,
           "name": "Melissa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 0.123
-        }
-      ]
-    },
-    {
-      "id": 58,
-      "heroName": "Martis",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle",
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Charge"
-      ],
-      "score": 0.11800000071525574,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 114,
-          "name": "Melissa",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 0.118
+          "score": 0.112
         }
       ]
     },
@@ -321,33 +346,6 @@
       ],
       "speciality": [
         "Poke",
-        "Burst"
-      ],
-      "score": 0,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 114,
-          "name": "Melissa",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "id": 41,
-      "heroName": "Gatotkaca",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-      "role": [
-        "Tank",
-        "Fighter"
-      ],
-      "lane": [
-        "Roam",
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Crowd Control",
         "Burst"
       ],
       "score": 0,

@@ -3,31 +3,6 @@
   "message": "Counter pick suggestions retrieved successfully",
   "data": [
     {
-      "id": 123,
-      "heroName": "Cici",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Regen"
-      ],
-      "score": 7.642000198364258,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 2,
-          "name": "Balmond",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
-          "score": 7.642
-        }
-      ]
-    },
-    {
       "id": 48,
       "heroName": "Diggie",
       "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
@@ -41,14 +16,39 @@
         "Guard",
         "Poke"
       ],
-      "score": 7.639999866485596,
+      "score": 8.880000114440918,
       "tier": "B",
       "counteredHeroes": [
         {
           "id": 2,
           "name": "Balmond",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
-          "score": 7.64
+          "score": 8.88
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "heroName": "Cici",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 7.585999965667725,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 2,
+          "name": "Balmond",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+          "score": 7.586
         }
       ]
     },
@@ -66,39 +66,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 7.579999923706055,
+      "score": 5.409999847412109,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 2,
           "name": "Balmond",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
-          "score": 7.58
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "heroName": "Bruno",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Burst"
-      ],
-      "score": 4.650000095367432,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 2,
-          "name": "Balmond",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
-          "score": 4.65
+          "score": 5.41
         }
       ]
     },
@@ -117,39 +92,41 @@
         "Push",
         "Burst"
       ],
-      "score": 4.429999828338623,
+      "score": 4.75,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 2,
           "name": "Balmond",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
-          "score": 4.43
+          "score": 4.75
         }
       ]
     },
     {
-      "id": 34,
-      "heroName": "Estes",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "id": 71,
+      "heroName": "Kimmy",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
       "role": [
-        "Support"
+        "Marksman",
+        "Mage"
       ],
       "lane": [
-        "Roam"
+        "Mid Lane",
+        "Gold Lane"
       ],
       "speciality": [
-        "Regen",
-        "Guard"
+        "Damage",
+        "Magic Damage"
       ],
-      "score": 3.13100004196167,
-      "tier": "S",
+      "score": 3.809999942779541,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 2,
           "name": "Balmond",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
-          "score": 3.131
+          "score": 3.81
         }
       ]
     },
@@ -167,14 +144,39 @@
         "Regen",
         "Burst"
       ],
-      "score": 3.058000087738037,
-      "tier": "D",
+      "score": 2.9210000038146973,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 2,
           "name": "Balmond",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
-          "score": 3.058
+          "score": 2.921
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 2.878000020980835,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 2,
+          "name": "Balmond",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+          "score": 2.878
         }
       ]
     },
@@ -192,14 +194,14 @@
         "Guard",
         "Support"
       ],
-      "score": 2.5899999141693115,
-      "tier": "C",
+      "score": 2.635999917984009,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 2,
           "name": "Balmond",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
-          "score": 2.59
+          "score": 2.636
         }
       ]
     },
@@ -217,14 +219,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 1.7549999952316284,
+      "score": 1.5800000429153442,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 2,
           "name": "Balmond",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
-          "score": 1.755
+          "score": 1.58
         }
       ]
     },
@@ -242,14 +244,14 @@
         "Damage",
         "Guard"
       ],
-      "score": 1.1059999465942385,
+      "score": 1.0520000457763672,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 2,
           "name": "Balmond",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
-          "score": 1.106
+          "score": 1.052
         }
       ]
     },

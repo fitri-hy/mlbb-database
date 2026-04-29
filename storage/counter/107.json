@@ -16,14 +16,14 @@
         "Finisher",
         "Magic Damage"
       ],
-      "score": 5.419000148773193,
+      "score": 5.307000160217285,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 107,
           "name": "Natan",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-          "score": 5.419
+          "score": 5.307
         }
       ]
     },
@@ -42,65 +42,39 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 5.0879998207092285,
+      "score": 5.090000152587891,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 107,
           "name": "Natan",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-          "score": 5.088
+          "score": 5.09
         }
       ]
     },
     {
-      "id": 79,
-      "heroName": "Granger",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
+      "id": 122,
+      "heroName": "Nolan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
       "role": [
-        "Marksman"
+        "Assassin"
       ],
       "lane": [
-        "Gold Lane"
+        "Jungle"
       ],
       "speciality": [
-        "Burst",
-        "Finisher"
+        "Chase",
+        "Burst"
       ],
-      "score": 4.373000144958496,
+      "score": 4.27400016784668,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 107,
           "name": "Natan",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-          "score": 4.373
-        }
-      ]
-    },
-    {
-      "id": 87,
-      "heroName": "Baxia",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Jungle",
-        "Roam"
-      ],
-      "speciality": [
-        "Support",
-        "Damage"
-      ],
-      "score": 2.809999942779541,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 107,
-          "name": "Natan",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-          "score": 2.81
+          "score": 4.274
         }
       ]
     },
@@ -119,14 +93,39 @@
         "Chase",
         "Burst"
       ],
-      "score": 2.75,
+      "score": 3.744999885559082,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 107,
           "name": "Natan",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-          "score": 2.75
+          "score": 3.745
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "heroName": "Granger",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 2.630000114440918,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 107,
+          "name": "Natan",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
+          "score": 2.63
         }
       ]
     },
@@ -145,39 +144,39 @@
         "Charge",
         "Burst"
       ],
-      "score": 1.6890000104904177,
+      "score": 1.600000023841858,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 107,
           "name": "Natan",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-          "score": 1.689
+          "score": 1.6
         }
       ]
     },
     {
-      "id": 122,
-      "heroName": "Nolan",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
+      "id": 15,
+      "heroName": "Eudora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
       "role": [
-        "Assassin"
+        "Mage"
       ],
       "lane": [
-        "Jungle"
+        "Mid Lane"
       ],
       "speciality": [
-        "Chase",
+        "Control",
         "Burst"
       ],
-      "score": 1.6670000553131104,
+      "score": 0.45100000500679016,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 107,
           "name": "Natan",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-          "score": 1.667
+          "score": 0.451
         }
       ]
     },
@@ -196,39 +195,14 @@
         "Charge",
         "Finisher"
       ],
-      "score": 0.39399999380111694,
-      "tier": "C",
+      "score": 0.4120000004768372,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 107,
           "name": "Natan",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-          "score": 0.394
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "heroName": "Eudora",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Control",
-        "Burst"
-      ],
-      "score": 0.1509999930858612,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 107,
-          "name": "Natan",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-          "score": 0.151
+          "score": 0.412
         }
       ]
     },
@@ -246,14 +220,40 @@
         "Crowd Control",
         "Regen"
       ],
-      "score": 0.13600000739097595,
-      "tier": "D",
+      "score": 0.30399999022483826,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 107,
           "name": "Natan",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-          "score": 0.136
+          "score": 0.304
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 0.1430000066757202,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 107,
+          "name": "Natan",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
+          "score": 0.143
         }
       ]
     }

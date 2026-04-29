@@ -3,6 +3,33 @@
   "message": "Counter pick suggestions retrieved successfully",
   "data": [
     {
+      "id": 76,
+      "heroName": "Faramis",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "role": [
+        "Support",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Charge"
+      ],
+      "score": 9.824999809265137,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 104,
+          "name": "Gloo",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
+          "score": 9.825
+        }
+      ]
+    },
+    {
       "id": 31,
       "heroName": "Moskov",
       "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
@@ -16,39 +43,14 @@
         "Finisher",
         "Chase"
       ],
-      "score": 8.571999549865723,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 104,
-          "name": "Gloo",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
-          "score": 8.572
-        }
-      ]
-    },
-    {
-      "id": 107,
-      "heroName": "Natan",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Magic Damage"
-      ],
-      "score": 7.61299991607666,
+      "score": 8.64799976348877,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 104,
           "name": "Gloo",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
-          "score": 7.613
+          "score": 8.648
         }
       ]
     },
@@ -66,14 +68,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 7.538000106811523,
+      "score": 7.4770002365112305,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 104,
           "name": "Gloo",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
-          "score": 7.538
+          "score": 7.477
         }
       ]
     },
@@ -93,41 +95,39 @@
         "Charge",
         "Regen"
       ],
-      "score": 7.401000022888184,
-      "tier": "B",
+      "score": 7.468999862670898,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 104,
           "name": "Gloo",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
-          "score": 7.401
+          "score": 7.469
         }
       ]
     },
     {
-      "id": 76,
-      "heroName": "Faramis",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "id": 107,
+      "heroName": "Natan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
       "role": [
-        "Support",
-        "Mage"
+        "Marksman"
       ],
       "lane": [
-        "Mid Lane",
-        "Roam"
+        "Gold Lane"
       ],
       "speciality": [
-        "Guard",
-        "Charge"
+        "Burst",
+        "Magic Damage"
       ],
-      "score": 5.5920000076293945,
-      "tier": "D",
+      "score": 6.7210001945495605,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 104,
           "name": "Gloo",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
-          "score": 5.592
+          "score": 6.721
         }
       ]
     },
@@ -145,14 +145,14 @@
         "Crowd Control",
         "Regen"
       ],
-      "score": 4.159999847412109,
-      "tier": "D",
+      "score": 1.6150000095367432,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 104,
           "name": "Gloo",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
-          "score": 4.16
+          "score": 1.615
         }
       ]
     }

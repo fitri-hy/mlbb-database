@@ -1,0 +1,582 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5339,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        47,
+        40,
+        90,
+        70,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          5,
+          14,
+          24
+        ]
+      },
+      "description": "An immortal, damaging Faramis ",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-01-31T17:03:24.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5337,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        94,
+        47,
+        37,
+        51,
+        43,
+        33
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          13,
+          17
+        ]
+      },
+      "description": "Faramis build that imposes instant penalty",
+      "battle_spell": "Flicker",
+      "created_at": "2026-01-31T16:57:22.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5336,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        94,
+        47,
+        43,
+        51,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          7,
+          9,
+          17
+        ]
+      },
+      "description": "This is a classic Faramis build.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-01-31T16:55:27.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7285,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        96,
+        38,
+        42,
+        43,
+        37,
+        51
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          4,
+          14,
+          23
+        ]
+      },
+      "description": "Sustained Damage",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-24T19:00:02.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7207,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        97,
+        38,
+        35,
+        71,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          9,
+          22
+        ]
+      },
+      "description": "Utility / Sustain",
+      "battle_spell": "Execute",
+      "created_at": "2026-04-21T21:26:32.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7047,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        94,
+        47,
+        90,
+        37,
+        44,
+        33
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          16,
+          4,
+          17
+        ]
+      },
+      "description": "Classic build",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-15T12:12:01.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6680,
+      "user_id": 19406,
+      "username": "PaleKiss",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        94,
+        38,
+        43,
+        47,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          23
+        ]
+      },
+      "description": "Full dmg",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-24T20:03:12.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6439,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        94,
+        38,
+        43,
+        51,
+        44,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          7,
+          9,
+          17
+        ]
+      },
+      "description": "....",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-12T08:34:42.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6438,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        94,
+        47,
+        38,
+        42,
+        44,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          7,
+          13,
+          17
+        ]
+      },
+      "description": "....",
+      "battle_spell": "Sprint",
+      "created_at": "2026-03-12T08:33:06.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6437,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        94,
+        47,
+        44,
+        33,
+        37,
+        51
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          7,
+          13,
+          17
+        ]
+      },
+      "description": "Focused on one-shotting the opponent. ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-12T08:31:40.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6436,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        94,
+        42,
+        43,
+        51,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          16,
+          17
+        ]
+      },
+      "description": "Hit as much as possible ",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-03-12T08:28:29.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6435,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        99,
+        76,
+        43,
+        71,
+        44,
+        33
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          9,
+          24
+        ]
+      },
+      "description": "The goal of this item set is to both inflict damage and survive.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-12T08:26:51.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6434,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        99,
+        66,
+        47,
+        44,
+        51,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          9,
+          7,
+          17
+        ]
+      },
+      "description": "The purpose of this item set is to allow you to deal damage without dying if your opponent has a large number of mages. ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-12T08:24:57.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6433,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        94,
+        42,
+        44,
+        37,
+        33,
+        47
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          17
+        ]
+      },
+      "description": "The purpose of these items is to finish the game in a single battle.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-12T08:22:37.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6432,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        99,
+        38,
+        43,
+        44,
+        51,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          13,
+          17
+        ]
+      },
+      "description": "The feature of this build is to constantly cast abilities and reduce the cooldown of the ultimate ability.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-12T08:20:53.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6431,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        94,
+        43,
+        51,
+        42,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          17
+        ]
+      },
+      "description": "The goal of this build is to deal damage based on the opponent's extra health.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-12T08:18:35.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6430,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        94,
+        47,
+        42,
+        44,
+        51,
+        33
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          23
+        ]
+      },
+      "description": "Build very strong",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-12T08:16:42.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5338,
+      "user_id": 1388,
+      "username": "Aliila",
+      "hero_id": 76,
+      "hero_name": "Faramis",
+      "role": "Support, Mage",
+      "lane": "Mid Lane, Roam",
+      "speciality": "Guard, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "items": [
+        94,
+        47,
+        68,
+        40,
+        45,
+        90
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          7,
+          15,
+          17
+        ]
+      },
+      "description": "Movement restrictions and support the team.",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-01-31T17:00:05.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

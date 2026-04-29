@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6257,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 61,
+      "hero_name": "Chang'e",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
+      "items": [
+        98,
+        39,
+        43,
+        8,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          16,
+          17
+        ]
+      },
+      "description": "Chang'e Split Push",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-06T04:08:47.000Z",
+      "likes_count": 5,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7098,
+      "user_id": 20392,
+      "username": "JacksonMLMaker",
+      "hero_id": 61,
+      "hero_name": "Chang'e",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
+      "items": [
+        96,
+        38,
+        9,
+        51,
+        33,
+        39
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          7,
+          16,
+          23
+        ]
+      },
+      "description": "My Build 2",
+      "battle_spell": "Sprint",
+      "created_at": "2026-04-17T04:08:38.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6693,
+      "user_id": 19421,
+      "username": "Junior_BOBJD",
+      "hero_id": 61,
+      "hero_name": "Chang'e",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
+      "items": [
+        95,
+        42,
+        43,
+        44,
+        37,
+        51
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          22
+        ]
+      },
+      "description": "Extreme dmg with ult and ability's strong to squishy and tanks.\nKilling Spree needed for if you get ambushed just ult with shield en then heal and get movement speed to chase or escape fights.\nhealing circle to heal so you don't have to go to base.\nBoots for spam skills without worring about mana.",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-25T10:32:35.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7097,
+      "user_id": 20392,
+      "username": "JacksonMLMaker",
+      "hero_id": 61,
+      "hero_name": "Chang'e",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
+      "items": [
+        94,
+        38,
+        42,
+        37,
+        51,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          16,
+          17
+        ]
+      },
+      "description": "My Build 1",
+      "battle_spell": "Sprint",
+      "created_at": "2026-04-17T04:00:12.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7029,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 61,
+      "hero_name": "Chang'e",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
+      "items": [
+        98,
+        39,
+        8,
+        50,
+        19,
+        12
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          16,
+          17
+        ]
+      },
+      "description": "unli push",
+      "battle_spell": "Arrival",
+      "created_at": "2026-04-14T07:07:51.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

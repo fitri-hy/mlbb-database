@@ -16,14 +16,14 @@
         "Initiator",
         "Magic Damage"
       ],
-      "score": 4.251999855041504,
+      "score": 4.138000011444092,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 126,
           "name": "Suyou",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
-          "score": 4.252
+          "score": 4.138
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Burst",
         "Magic Damage"
       ],
-      "score": 3.3289999961853027,
-      "tier": "B",
+      "score": 3.2869999408721924,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 126,
           "name": "Suyou",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
-          "score": 3.329
+          "score": 3.287
         }
       ]
     },
@@ -62,20 +62,20 @@
       ],
       "lane": [
         "Gold Lane",
-        "Mid Lane"
+        "Jungle"
       ],
       "speciality": [
         "Chase",
         "Damage"
       ],
-      "score": 2.9579999446868896,
-      "tier": "D",
+      "score": 3.0510001182556152,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 126,
           "name": "Suyou",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
-          "score": 2.958
+          "score": 3.051
         }
       ]
     },
@@ -93,14 +93,14 @@
         "Burst",
         "Poke"
       ],
-      "score": 2.430000066757202,
-      "tier": "D",
+      "score": 1.7899999618530271,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 126,
           "name": "Suyou",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
-          "score": 2.43
+          "score": 1.79
         }
       ]
     },
@@ -118,39 +118,14 @@
         "Chase",
         "Magic Damage"
       ],
-      "score": 1.5700000524520874,
-      "tier": "C",
+      "score": 1.5299999713897705,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 126,
           "name": "Suyou",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
-          "score": 1.57
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "heroName": "Eudora",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Control",
-        "Burst"
-      ],
-      "score": 1.0789999961853027,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 126,
-          "name": "Suyou",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
-          "score": 1.079
+          "score": 1.53
         }
       ]
     },
@@ -168,39 +143,39 @@
         "Damage",
         "Control"
       ],
-      "score": 0.6159999966621399,
+      "score": 1.4149999618530271,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 126,
           "name": "Suyou",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
-          "score": 0.616
+          "score": 1.415
         }
       ]
     },
     {
-      "id": 107,
-      "heroName": "Natan",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
+      "id": 15,
+      "heroName": "Eudora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
       "role": [
-        "Marksman"
+        "Mage"
       ],
       "lane": [
-        "Gold Lane"
+        "Mid Lane"
       ],
       "speciality": [
-        "Burst",
-        "Magic Damage"
+        "Control",
+        "Burst"
       ],
-      "score": 0.15600000321865082,
-      "tier": "C",
+      "score": 0.7799999713897705,
+      "tier": "D",
       "counteredHeroes": [
         {
           "id": 126,
           "name": "Suyou",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
-          "score": 0.156
+          "score": 0.78
         }
       ]
     },
@@ -218,14 +193,39 @@
         "Chase",
         "Damage"
       ],
-      "score": 0.15399999916553497,
+      "score": 0.4449999928474426,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 126,
           "name": "Suyou",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
-          "score": 0.154
+          "score": 0.445
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "heroName": "Natan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Magic Damage"
+      ],
+      "score": 0.1420000046491623,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 126,
+          "name": "Suyou",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+          "score": 0.142
         }
       ]
     },
@@ -244,41 +244,41 @@
         "Chase",
         "Damage"
       ],
-      "score": 0.12800000607967377,
+      "score": 0.12200000137090684,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 126,
           "name": "Suyou",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
-          "score": 0.128
+          "score": 0.122
         }
       ]
     },
     {
-      "id": 42,
-      "heroName": "Harley",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "id": 111,
+      "heroName": "Edith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png",
       "role": [
-        "Assassin",
-        "Mage"
+        "Tank",
+        "Marksman"
       ],
       "lane": [
-        "Jungle",
-        "Mid Lane"
+        "Exp Lane",
+        "Roam"
       ],
       "speciality": [
-        "Burst",
-        "Poke"
+        "Control",
+        "Burst"
       ],
-      "score": 0,
-      "tier": "SS",
+      "score": 0.11400000005960464,
+      "tier": "D",
       "counteredHeroes": [
         {
           "id": 126,
           "name": "Suyou",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
-          "score": 0
+          "score": 0.114
         }
       ]
     }

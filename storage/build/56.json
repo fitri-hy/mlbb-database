@@ -1,0 +1,1190 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6487,
+      "user_id": 18884,
+      "username": "Sinnerman",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        50,
+        44,
+        33,
+        92
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          23,
+          10,
+          7
+        ]
+      },
+      "description": "This build comes from famous Gusion Youtuber named incontrol 05. It contains basic attack damage in this build, \"Starlium Sycthe\", the main item in this build. I've been using this ever since i discovered incon05 in 2024 and i never ever single try the other builds but i tried some builds one time haha yet It's still powerful these days but you just need to be accurate and efficiently using Gusion. ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-13T23:39:02.000Z",
+      "likes_count": 7,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5552,
+      "user_id": 17055,
+      "username": "Jhowinyu",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        44,
+        50,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          23,
+          10,
+          4
+        ]
+      },
+      "description": "Best for early to mid game",
+      "battle_spell": "Retribution",
+      "created_at": "2026-02-08T22:39:41.000Z",
+      "likes_count": 5,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6645,
+      "user_id": 19285,
+      "username": "Letuzawa",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        37,
+        44,
+        47,
+        33
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "No damage build",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-03-22T10:34:16.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6556,
+      "user_id": 19080,
+      "username": "Heyter",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        91,
+        44,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          23
+        ]
+      },
+      "description": "This is my perfect build",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-17T21:24:41.000Z",
+      "likes_count": 5,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6664,
+      "user_id": 19350,
+      "username": "agent",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        44,
+        37,
+        51,
+        92
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          23
+        ]
+      },
+      "description": "Best against tanky heroes, and against squishy heroes its pretty good too",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-23T20:08:03.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6336,
+      "user_id": 18577,
+      "username": "damn",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        50,
+        42,
+        33,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          12,
+          23
+        ]
+      },
+      "description": "Khusus gusion mandiri di mid lane\nintinya lebih cari momen di early sampai mid game. minimal selesaikan game di bawah 15-17 menit",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-08T16:55:31.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7373,
+      "user_id": 21061,
+      "username": "Zlkase",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        91,
+        47,
+        44,
+        92
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          1,
+          10,
+          23
+        ]
+      },
+      "description": "After buy frist item u can get mm solo after buy second item u can play free and get kills",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-28T12:57:19.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7059,
+      "user_id": 20319,
+      "username": "Donwillibarreto",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        43,
+        44,
+        36,
+        33
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          22,
+          4,
+          12
+        ]
+      },
+      "description": "Esta build te da alto burst para one shotear squishies con el combo 2-3-2-1-2-1, buen sustain (pasiva + spell vamp + Killing Spree) para curarte solo después de matar, y durabilidad extra con Winter Truncheon. Resultado: entrás, borrás al carry, te regenerás vida y seguís siendo una amenaza constante sin volver a base.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-16T02:09:13.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6775,
+      "user_id": 7295,
+      "username": "Viper_Kung",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        91,
+        44,
+        47,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          23
+        ]
+      },
+      "description": "Good",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-29T03:00:46.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6626,
+      "user_id": 13827,
+      "username": "Dev",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        47,
+        50,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          14,
+          22,
+          4
+        ]
+      },
+      "description": "Oneshot,DPS, Burst ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-21T01:28:36.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6455,
+      "user_id": 3640,
+      "username": "SamsonOak",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        91,
+        42,
+        47,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          22
+        ]
+      },
+      "description": "perfect for going in, securing kills, and dipping out",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-12T21:53:45.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5832,
+      "user_id": 17070,
+      "username": "EddyHusin",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        43,
+        44,
+        47,
+        37,
+        42
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          23
+        ]
+      },
+      "description": "HYPER",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-19T00:46:27.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5593,
+      "user_id": 17115,
+      "username": "Redemption",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        91,
+        44,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          23
+        ]
+      },
+      "description": "R e d e m p t i o n's, Build",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-09T17:16:14.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7252,
+      "user_id": 20723,
+      "username": "Arakne",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        91,
+        44,
+        37,
+        92
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          9,
+          23
+        ]
+      },
+      "description": "This is my build",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-23T07:16:32.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6958,
+      "user_id": 20016,
+      "username": "Elmascapito",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        91,
+        44,
+        37,
+        51
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          17
+        ]
+      },
+      "description": "Opiniones sobre mi build?",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-10T03:40:27.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6787,
+      "user_id": 19600,
+      "username": "meenoi",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        91,
+        94,
+        42,
+        44,
+        47,
+        92
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          10,
+          22
+        ]
+      },
+      "description": "good item\n",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-03-29T10:35:29.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6776,
+      "user_id": 7295,
+      "username": "Viper_Kung",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        44,
+        47,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "Good",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-03-29T03:05:00.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6476,
+      "user_id": 18855,
+      "username": "愛|•KEN",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        91,
+        44,
+        47,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          23
+        ]
+      },
+      "description": "By Florida ",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-13T13:43:53.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6392,
+      "user_id": 18725,
+      "username": "Gus?_Auro?",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        44,
+        51,
+        47,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          12,
+          23
+        ]
+      },
+      "description": "So this build I been using in rank, Currently my guision is thailand no 21 and I use execute because sometime the hero doesn't die and I don't get piercer for ultimate burst shotgun dmg to mainly target gold laner which are MM, with this in late game I sometime also 1 shot sqiushy hero.",
+      "battle_spell": "Execute",
+      "created_at": "2026-03-11T04:35:35.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6119,
+      "user_id": 18145,
+      "username": "Jasco",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        44,
+        37,
+        50,
+        51
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          10,
+          23
+        ]
+      },
+      "description": ".\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-28T04:01:17.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5935,
+      "user_id": 17915,
+      "username": "buto",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        91,
+        37,
+        44,
+        47
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          15,
+          17
+        ]
+      },
+      "description": "\nbmh\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-23T17:26:08.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5795,
+      "user_id": 17569,
+      "username": "AJ_philippines",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        96,
+        42,
+        44,
+        51,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "Try this build\nThe damage is so strong \nThat I got a win streak",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-17T20:11:21.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5711,
+      "user_id": 17400,
+      "username": "Gupaw",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        91,
+        42,
+        44,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          23
+        ]
+      },
+      "description": "Use this build but you can't keep using this for every matches. Try to replace other necessary items to win. Also emblems. If you're mid laner, use master assassin or weapon master instead of seasoned hunter. ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-15T04:18:46.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7395,
+      "user_id": 21077,
+      "username": "miacc535312@gmail.com",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        42,
+        91,
+        44,
+        47,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          17
+        ]
+      },
+      "description": "damage500000",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-28T17:37:07.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7376,
+      "user_id": 19964,
+      "username": "Moba_nerfharley",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        37,
+        33,
+        44,
+        47
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          22
+        ]
+      },
+      "description": "Good for mid to late game ",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-28T13:11:21.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7342,
+      "user_id": 20963,
+      "username": "goodbuilds",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        91,
+        44,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          10,
+          23,
+          4
+        ]
+      },
+      "description": "good for one shot squishies ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-27T09:28:17.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7155,
+      "user_id": 18662,
+      "username": "Norgus",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        44,
+        47,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          17
+        ]
+      },
+      "description": "dmg",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-19T14:51:42.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7092,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        50,
+        42,
+        33,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          9,
+          23
+        ]
+      },
+      "description": "Burst",
+      "battle_spell": null,
+      "created_at": "2026-04-16T23:46:58.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6683,
+      "user_id": 8930,
+      "username": "ImrannSann",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        42,
+        91,
+        44,
+        47,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          22,
+          10,
+          4
+        ]
+      },
+      "description": "Try & Adjust",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-25T07:55:41.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6445,
+      "user_id": 18811,
+      "username": "AideNN",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        91,
+        42,
+        44,
+        47,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "Try this build😊",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-12T12:54:16.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6307,
+      "user_id": 18530,
+      "username": "Kise",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        42,
+        44,
+        33,
+        47,
+        37,
+        36
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          23,
+          12
+        ]
+      },
+      "description": "Higher Damage and Good Hunting Soft heroes 100% Try My build and Emblem 100% Win",
+      "battle_spell": null,
+      "created_at": "2026-03-07T15:31:55.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6225,
+      "user_id": 9759,
+      "username": "Alok",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        96,
+        91,
+        42,
+        43,
+        47,
+        44
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          23
+        ]
+      },
+      "description": "Power Magic",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-04T06:35:47.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7002,
+      "user_id": 20167,
+      "username": "DavidBrian",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        50,
+        42,
+        44,
+        33,
+        92
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          22
+        ]
+      },
+      "description": "Best for early and mid games",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-04-13T11:23:18.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5939,
+      "user_id": 17922,
+      "username": "Sziszkaa",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        37,
+        43,
+        7,
+        17,
+        65
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          22
+        ]
+      },
+      "description": "Use this build only if your certain you can kill without sky piercer. i recommend trying it in classic to see if it fits your playstyle. enjoy i guess",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-23T21:08:07.000Z",
+      "likes_count": 3,
+      "dislikes_count": 4
+    },
+    {
+      "build_id": 6849,
+      "user_id": 19686,
+      "username": "Voided",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        98,
+        3,
+        33,
+        1,
+        45,
+        44
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          7,
+          15,
+          20
+        ]
+      },
+      "description": "อย่าไปใช้",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-31T09:50:46.000Z",
+      "likes_count": 1,
+      "dislikes_count": 3
+    },
+    {
+      "build_id": 6774,
+      "user_id": 19561,
+      "username": "Helcurt_fan1",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        1,
+        13,
+        50,
+        91,
+        99,
+        17
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          16,
+          22
+        ]
+      },
+      "description": "Use for killing spree",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-28T20:13:10.000Z",
+      "likes_count": 0,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5691,
+      "user_id": 17361,
+      "username": "N1ghtT3en",
+      "hero_id": 56,
+      "hero_name": "Gusion",
+      "role": "Assassin",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+      "items": [
+        94,
+        50,
+        44,
+        47,
+        43,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          17
+        ]
+      },
+      "description": "Gusion Mid Lane",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-14T07:28:21.000Z",
+      "likes_count": 0,
+      "dislikes_count": 2
+    }
+  ]
+}

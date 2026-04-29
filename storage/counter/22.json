@@ -16,14 +16,14 @@
         "Regen",
         "Damage"
       ],
-      "score": 9.80799961090088,
+      "score": 9.982999801635742,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 22,
           "name": "Freya",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
-          "score": 9.808
+          "score": 9.983
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 7.696000099182129,
-      "tier": "A",
+      "score": 7.826000213623047,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 22,
           "name": "Freya",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
-          "score": 7.696
+          "score": 7.826
         }
       ]
     },
@@ -69,21 +69,21 @@
         "Control",
         "Burst"
       ],
-      "score": 4.130000114440918,
+      "score": 4.328999996185303,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 22,
           "name": "Freya",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
-          "score": 4.13
+          "score": 4.329
         }
       ]
     },
     {
       "id": 10,
       "heroName": "Franco",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png",
       "role": [
         "Tank"
       ],
@@ -94,66 +94,39 @@
         "Initiator",
         "Control"
       ],
-      "score": 3.400000095367432,
+      "score": 3.3499999046325684,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 22,
+          "name": "Freya",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
+          "score": 3.35
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "heroName": "Obsidia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 1.850000023841858,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 22,
           "name": "Freya",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
-          "score": 3.4
-        }
-      ]
-    },
-    {
-      "id": 128,
-      "heroName": "Kalea",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
-      "role": [
-        "Support",
-        "Fighter"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Control",
-        "Regen"
-      ],
-      "score": 1.8600000143051147,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 22,
-          "name": "Freya",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
-          "score": 1.86
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "heroName": "Barats",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-      "role": [
-        "Tank",
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Crowd Control"
-      ],
-      "score": 1.6369999647140503,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 22,
-          "name": "Freya",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
-          "score": 1.637
+          "score": 1.85
         }
       ]
     },
@@ -172,14 +145,40 @@
         "Support",
         "Damage"
       ],
-      "score": 0.7250000238418579,
+      "score": 1.6720000505447388,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 22,
           "name": "Freya",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
-          "score": 0.725
+          "score": 1.672
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "heroName": "Barats",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 0.5490000247955322,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 22,
+          "name": "Freya",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
+          "score": 0.549
         }
       ]
     },
@@ -198,14 +197,14 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 0.17800000309944153,
+      "score": 0.34200000762939453,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 22,
           "name": "Freya",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
-          "score": 0.178
+          "score": 0.342
         }
       ]
     },
@@ -223,14 +222,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.13899999856948853,
+      "score": 0.13600000739097595,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 22,
           "name": "Freya",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
-          "score": 0.139
+          "score": 0.136
         }
       ]
     }

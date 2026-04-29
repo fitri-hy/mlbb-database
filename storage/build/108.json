@@ -1,0 +1,582 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 7261,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        96,
+        17,
+        74,
+        14,
+        13,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          13,
+          1
+        ]
+      },
+      "description": "Aulus Revamp build\n\nMade for exp, change boots if you want to go jungle",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-23T22:56:13.000Z",
+      "likes_count": 11,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7346,
+      "user_id": 20973,
+      "username": "Abouelfadl",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        17,
+        99,
+        68,
+        5,
+        14,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          14,
+          22
+        ]
+      },
+      "description": "Good Balanced Build for Jungle With Flame Retri",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-27T11:52:59.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7345,
+      "user_id": 20970,
+      "username": "Deadline",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        99,
+        10,
+        17,
+        68,
+        5,
+        12
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          17
+        ]
+      },
+      "description": "High lifesteal and damage for exp lane",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-27T10:51:50.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7321,
+      "user_id": 20913,
+      "username": "Santos",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        99,
+        17,
+        14,
+        74,
+        7,
+        70
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          24,
+          10
+        ]
+      },
+      "description": "👍. 🩸",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-26T15:17:08.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7294,
+      "user_id": 19585,
+      "username": "jmaj",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        99,
+        17,
+        5,
+        68,
+        74,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          19
+        ]
+      },
+      "description": "hi",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-25T11:20:34.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6990,
+      "user_id": 20130,
+      "username": "Byñìç",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        1,
+        10,
+        19,
+        9,
+        7,
+        2
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          19,
+          12,
+          2
+        ]
+      },
+      "description": "DAMAGE AND CRITICAL ATTACK SPEED",
+      "battle_spell": "Inspire",
+      "created_at": "2026-04-12T13:44:06.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7320,
+      "user_id": 20909,
+      "username": "NaSe",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        99,
+        17,
+        74,
+        68,
+        5,
+        66
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "For higher sustainability, And balanced defensive attributes for longer fights.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-26T14:15:42.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7317,
+      "user_id": 20907,
+      "username": "Icaneidt",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        99,
+        17,
+        6,
+        5,
+        8,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          19
+        ]
+      },
+      "description": "Anti tank ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-26T12:54:23.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7316,
+      "user_id": 20907,
+      "username": "Icaneidt",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        99,
+        17,
+        5,
+        7,
+        74,
+        2
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          19
+        ]
+      },
+      "description": "Good damage against low mobility squishy heroes ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-26T12:49:51.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7289,
+      "user_id": 15531,
+      "username": "Ojikpausi1mlbb",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        99,
+        17,
+        68,
+        14,
+        74,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          22,
+          10
+        ]
+      },
+      "description": "#MobileLegendsBangBang #MLBB ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-25T04:58:13.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7250,
+      "user_id": 20572,
+      "username": "minsik",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        99,
+        76,
+        17,
+        7,
+        12,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          1,
+          21
+        ]
+      },
+      "description": "Best aulus build for offlane, but for me aulus is better in the gold lane and jungle than exp",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-23T04:07:48.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6333,
+      "user_id": 18569,
+      "username": "BenSantos",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        98,
+        17,
+        8,
+        13,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          10,
+          20
+        ]
+      },
+      "description": "Equipamiento para Aulus mejor para jungla asesino de tortugas ganas velocidad de ataque cuando llegas mas rapido nivel 4 ",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-08T13:11:12.000Z",
+      "likes_count": 2,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5687,
+      "user_id": 14410,
+      "username": "zxc755536",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        98,
+        14,
+        7,
+        1,
+        12,
+        10
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          8,
+          10,
+          19
+        ]
+      },
+      "description": "Attack speed is gained through badges, equipment grants attack power, and the shield provides lifesteal, resulting in excellent sustain and resistance to being instantly killed by assassins. Critical hit rate is low, but that's not the most important factor. ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-14T06:27:47.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6540,
+      "user_id": 18940,
+      "username": "Dulaluduuuu",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        5,
+        76,
+        70,
+        71,
+        73,
+        74
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          19,
+          12,
+          2
+        ]
+      },
+      "description": "Cocok untuk Exp tebel tapi Pengan yang war kuat di Mid dan Late Game.",
+      "battle_spell": "Inspire",
+      "created_at": "2026-03-16T15:39:10.000Z",
+      "likes_count": 1,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6422,
+      "user_id": 18772,
+      "username": "Hcvkh",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        5,
+        6,
+        16,
+        11,
+        13,
+        9
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          19,
+          2,
+          12
+        ]
+      },
+      "description": "กาง",
+      "battle_spell": "Inspire",
+      "created_at": "2026-03-12T04:08:16.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5984,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        98,
+        5,
+        8,
+        6,
+        9,
+        1
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          23
+        ]
+      },
+      "description": "Life steal rate : %99\nDamage rate : %99\nDefense rate : %10\n\nGooo! And win",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-24T15:57:37.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7220,
+      "user_id": 20701,
+      "username": "JORDANOFFICIAL",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        99,
+        12,
+        13,
+        17,
+        19,
+        16
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          19,
+          14,
+          2
+        ]
+      },
+      "description": "BEST FOR LATE  GAME",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-04-22T14:52:24.000Z",
+      "likes_count": 0,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6426,
+      "user_id": 18780,
+      "username": "lastnoob",
+      "hero_id": 108,
+      "hero_name": "Aulus",
+      "role": "Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "items": [
+        5,
+        99,
+        10,
+        6,
+        8,
+        1
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          26,
+          11,
+          6
+        ]
+      },
+      "description": "with angela",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-12T06:24:57.000Z",
+      "likes_count": 1,
+      "dislikes_count": 4
+    }
+  ]
+}

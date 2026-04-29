@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5335,
+      "user_id": 16347,
+      "username": "Ii8",
+      "hero_id": 89,
+      "hero_name": "Wanwan",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "items": [
+        5,
+        19,
+        6,
+        10,
+        1,
+        72
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          13,
+          26
+        ]
+      },
+      "description": "Counter tank",
+      "battle_spell": "Inspire",
+      "created_at": "2026-01-31T16:44:01.000Z",
+      "likes_count": 5,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6825,
+      "user_id": 19651,
+      "username": "Kaggg",
+      "hero_id": 89,
+      "hero_name": "Wanwan",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "items": [
+        5,
+        19,
+        10,
+        1,
+        14,
+        6
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          13,
+          26
+        ]
+      },
+      "description": "DHS can be replaced with a defense item like immo if enemies have lots of burst, or even wind of nature.",
+      "battle_spell": "Inspire",
+      "created_at": "2026-03-30T14:55:00.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6211,
+      "user_id": 6878,
+      "username": "Hudur",
+      "hero_id": 89,
+      "hero_name": "Wanwan",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "items": [
+        5,
+        19,
+        6,
+        8,
+        13,
+        10
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          26,
+          11,
+          2
+        ]
+      },
+      "description": "Last item is situational basis. Lots of atk speed to melt evn tank, like on default inspire mode. U can use sky piercer, immortality, BOD,etc for last item. \n It's tanky enough with being it's first spell having more poke damage. Perfect for 1 v 1 and team fights to engange and disengage continuously. ",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-03T20:36:27.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6104,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 89,
+      "hero_name": "Wanwan",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "items": [
+        5,
+        19,
+        6,
+        1,
+        12,
+        14
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          26,
+          15,
+          2
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-27T22:03:18.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5861,
+      "user_id": 17710,
+      "username": "megalogonJH",
+      "hero_id": 89,
+      "hero_name": "Wanwan",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "items": [
+        6,
+        5,
+        19,
+        13,
+        10,
+        2
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          5,
+          16,
+          26
+        ]
+      },
+      "description": "manfatkan skill 1 dan 2 karna CD dikit, usahakan menangin di early",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-20T02:35:12.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

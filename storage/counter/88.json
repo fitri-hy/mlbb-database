@@ -17,14 +17,14 @@
         "Push",
         "Damage"
       ],
-      "score": 9.407999992370604,
-      "tier": "B",
+      "score": 9.572999954223633,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 88,
           "name": "Masha",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-          "score": 9.408
+          "score": 9.573
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Charge",
         "Burst"
       ],
-      "score": 8.342000007629395,
+      "score": 8.404000282287598,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 88,
           "name": "Masha",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-          "score": 8.342
+          "score": 8.404
         }
       ]
     },
@@ -67,39 +67,14 @@
         "Crowd Control",
         "Regen"
       ],
-      "score": 6.922999858856201,
-      "tier": "D",
+      "score": 6.816999912261963,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 88,
           "name": "Masha",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-          "score": 6.923
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "heroName": "Estes",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Regen",
-        "Guard"
-      ],
-      "score": 5.925000190734863,
-      "tier": "S",
-      "counteredHeroes": [
-        {
-          "id": 88,
-          "name": "Masha",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-          "score": 5.925
+          "score": 6.817
         }
       ]
     },
@@ -118,40 +93,39 @@
         "Push",
         "Burst"
       ],
-      "score": 5.559999942779541,
+      "score": 5.960000038146973,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 88,
           "name": "Masha",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-          "score": 5.56
+          "score": 5.96
         }
       ]
     },
     {
-      "id": 82,
-      "heroName": "Terizla",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
       "role": [
-        "Fighter",
-        "Tank"
+        "Support"
       ],
       "lane": [
-        "Exp Lane"
+        "Roam"
       ],
       "speciality": [
-        "Burst",
-        "Crowd Control"
+        "Regen",
+        "Guard"
       ],
-      "score": 0.6259999871253967,
-      "tier": "D",
+      "score": 5.886000156402588,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 88,
           "name": "Masha",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-          "score": 0.626
+          "score": 5.886
         }
       ]
     },
@@ -169,64 +143,91 @@
         "Chase",
         "Magic Damage"
       ],
-      "score": 0.26100000739097595,
-      "tier": "C",
+      "score": 0.8009999990463257,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 88,
           "name": "Masha",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-          "score": 0.261
+          "score": 0.801
         }
       ]
     },
     {
-      "id": 59,
-      "heroName": "Uranus",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "id": 12,
+      "heroName": "Bruno",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
       "role": [
-        "Tank"
+        "Marksman"
       ],
       "lane": [
-        "Exp Lane"
+        "Gold Lane"
       ],
       "speciality": [
-        "Regen"
+        "Finisher",
+        "Burst"
       ],
-      "score": 0.2590000033378601,
+      "score": 0.23600000143051147,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 88,
           "name": "Masha",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-          "score": 0.259
+          "score": 0.236
         }
       ]
     },
     {
-      "id": 99,
-      "heroName": "Barats",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "id": 76,
+      "heroName": "Faramis",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
       "role": [
-        "Tank",
-        "Fighter"
+        "Support",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Charge"
+      ],
+      "score": 0.23600000143051147,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 88,
+          "name": "Masha",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+          "score": 0.236
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "heroName": "Ling",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+      "role": [
+        "Assassin"
       ],
       "lane": [
         "Jungle"
       ],
       "speciality": [
-        "Damage",
-        "Crowd Control"
+        "Chase",
+        "Burst"
       ],
-      "score": 0.210999995470047,
+      "score": 0.2080000042915344,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 88,
           "name": "Masha",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-          "score": 0.211
+          "score": 0.208
         }
       ]
     },
@@ -244,39 +245,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 0.1940000057220459,
+      "score": 0.193000003695488,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 88,
           "name": "Masha",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-          "score": 0.194
-        }
-      ]
-    },
-    {
-      "id": 46,
-      "heroName": "Odette",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Poke"
-      ],
-      "score": 0.18700000643730164,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 88,
-          "name": "Masha",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-          "score": 0.187
+          "score": 0.193
         }
       ]
     },

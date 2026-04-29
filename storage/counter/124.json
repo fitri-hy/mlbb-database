@@ -18,14 +18,39 @@
         "Charge",
         "Regen"
       ],
-      "score": 7.13100004196167,
-      "tier": "B",
+      "score": 7.328000068664551,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 124,
           "name": "Chip",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 7.131
+          "score": 7.328
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "heroName": "Marcel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Support"
+      ],
+      "score": 6.089000225067139,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 124,
+          "name": "Chip",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+          "score": 6.089
         }
       ]
     },
@@ -44,117 +69,14 @@
         "Crowd Control",
         "Damage"
       ],
-      "score": 6.458000183105469,
-      "tier": "D",
+      "score": 5.934999942779541,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 124,
           "name": "Chip",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 6.458
-        }
-      ]
-    },
-    {
-      "id": 76,
-      "heroName": "Faramis",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-      "role": [
-        "Support",
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane",
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Charge"
-      ],
-      "score": 3.700000047683716,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 124,
-          "name": "Chip",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 3.7
-        }
-      ]
-    },
-    {
-      "id": 83,
-      "heroName": "X.Borg",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Regen",
-        "Burst"
-      ],
-      "score": 3.6649999618530273,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 124,
-          "name": "Chip",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 3.665
-        }
-      ]
-    },
-    {
-      "id": 58,
-      "heroName": "Martis",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle",
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Charge"
-      ],
-      "score": 3.4800000190734863,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 124,
-          "name": "Chip",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 3.48
-        }
-      ]
-    },
-    {
-      "id": 132,
-      "heroName": "Marcel",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Support"
-      ],
-      "score": 2.572000026702881,
-      "tier": "SS",
-      "counteredHeroes": [
-        {
-          "id": 124,
-          "name": "Chip",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 2.572
+          "score": 5.935
         }
       ]
     },
@@ -173,14 +95,40 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 1.72599995136261,
+      "score": 4.480000019073486,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 124,
           "name": "Chip",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 1.726
+          "score": 4.48
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "heroName": "Martis",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Charge"
+      ],
+      "score": 3.039999961853028,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 124,
+          "name": "Chip",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+          "score": 3.04
         }
       ]
     },
@@ -198,118 +146,192 @@
         "Finisher",
         "Damage"
       ],
-      "score": 1.125,
+      "score": 1.1100000143051147,
       "tier": "B",
       "counteredHeroes": [
         {
           "id": 124,
           "name": "Chip",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 1.125
+          "score": 1.11
         }
       ]
     },
     {
-      "id": 11,
-      "heroName": "Bane",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
+      "id": 125,
+      "heroName": "Zhuxin",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
       "role": [
-        "Fighter",
         "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 0.4320000112056732,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 124,
+          "name": "Chip",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+          "score": 0.432
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "heroName": "Balmond",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "role": [
+        "Fighter"
       ],
       "lane": [
         "Jungle",
         "Exp Lane"
       ],
       "speciality": [
-        "Push",
-        "Burst"
+        "Damage",
+        "Regen"
       ],
-      "score": 0.4440000057220459,
+      "score": 0.3959999978542328,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 124,
           "name": "Chip",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 0.444
+          "score": 0.396
         }
       ]
     },
     {
-      "id": 97,
-      "heroName": "Benedetta",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
       "role": [
-        "Assassin",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.3370000123977661,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 124,
+          "name": "Chip",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+          "score": 0.337
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "heroName": "Beatrix",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.3129999935626984,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 124,
+          "name": "Chip",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+          "score": 0.313
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "heroName": "Natan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Magic Damage"
+      ],
+      "score": 0.24899999797344208,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 124,
+          "name": "Chip",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+          "score": 0.249
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "heroName": "Edith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png",
+      "role": [
+        "Tank",
+        "Marksman"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Control",
+        "Burst"
+      ],
+      "score": 0.2450000047683716,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 124,
+          "name": "Chip",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+          "score": 0.245
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "heroName": "X.Borg",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "role": [
         "Fighter"
       ],
       "lane": [
         "Exp Lane"
       ],
       "speciality": [
-        "Chase",
+        "Regen",
         "Burst"
       ],
-      "score": 0.22699999809265137,
+      "score": 0.2280000001192093,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 124,
           "name": "Chip",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 0.227
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "heroName": "Fanny",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Finisher"
-      ],
-      "score": 0.22499999403953552,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 124,
-          "name": "Chip",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 0.225
-        }
-      ]
-    },
-    {
-      "id": 82,
-      "heroName": "Terizla",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
-      "role": [
-        "Fighter",
-        "Tank"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Crowd Control"
-      ],
-      "score": 0.2080000042915344,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 124,
-          "name": "Chip",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 0.208
+          "score": 0.228
         }
       ]
     },
@@ -327,14 +349,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 0.1850000023841858,
+      "score": 0.17399999499320984,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 124,
           "name": "Chip",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-          "score": 0.185
+          "score": 0.174
         }
       ]
     },
@@ -353,7 +375,7 @@
         "Poke"
       ],
       "score": 0,
-      "tier": "D",
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 124,

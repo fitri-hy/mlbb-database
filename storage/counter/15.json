@@ -17,14 +17,14 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 8.659000396728516,
+      "score": 8.508999824523926,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 15,
           "name": "Eudora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-          "score": 8.659
+          "score": 8.509
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Crowd Control",
         "Initiator"
       ],
-      "score": 8.138999938964844,
-      "tier": "D",
+      "score": 7.565999984741211,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 15,
           "name": "Eudora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-          "score": 8.139
+          "score": 7.566
         }
       ]
     },
@@ -61,21 +61,21 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 5.697999954223633,
+      "score": 3.1700000762939453,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 15,
           "name": "Eudora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-          "score": 5.698
+          "score": 3.17
         }
       ]
     },
@@ -93,38 +93,39 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 3.109999895095825,
+      "score": 2.890000104904175,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 15,
           "name": "Eudora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-          "score": 3.11
+          "score": 2.89
         }
       ]
     },
     {
-      "id": 6,
-      "heroName": "Tigreal",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "id": 50,
+      "heroName": "Zhask",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
       "role": [
-        "Tank"
+        "Mage"
       ],
       "lane": [
-        "Roam"
+        "Mid Lane"
       ],
       "speciality": [
-        "Crowd Control"
+        "Chase",
+        "Damage"
       ],
-      "score": 2.819999933242798,
-      "tier": "C",
+      "score": 2.6700000762939453,
+      "tier": "D",
       "counteredHeroes": [
         {
           "id": 15,
           "name": "Eudora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-          "score": 2.82
+          "score": 2.67
         }
       ]
     },
@@ -142,14 +143,39 @@
         "Guard",
         "Initiator"
       ],
-      "score": 1.965999960899353,
+      "score": 1.9470000267028809,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 15,
           "name": "Eudora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-          "score": 1.966
+          "score": 1.947
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "heroName": "Leomord",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 1.784000039100647,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 15,
+          "name": "Eudora",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+          "score": 1.784
         }
       ]
     },
@@ -168,14 +194,14 @@
         "Support",
         "Crowd Control"
       ],
-      "score": 1.5750000476837158,
-      "tier": "D",
+      "score": 1.3450000286102295,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 15,
           "name": "Eudora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-          "score": 1.575
+          "score": 1.345
         }
       ]
     },
@@ -194,14 +220,14 @@
         "Push",
         "Damage"
       ],
-      "score": 0.578000009059906,
+      "score": 0.9430000185966492,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 15,
           "name": "Eudora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-          "score": 0.578
+          "score": 0.943
         }
       ]
     },
@@ -220,14 +246,14 @@
         "Push",
         "Damage"
       ],
-      "score": 0.5059999823570251,
-      "tier": "B",
+      "score": 0.49399998784065247,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 15,
           "name": "Eudora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-          "score": 0.506
+          "score": 0.494
         }
       ]
     },
@@ -246,14 +272,14 @@
         "Damage",
         "Chase"
       ],
-      "score": 0.4350000023841858,
+      "score": 0.2430000007152557,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 15,
           "name": "Eudora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-          "score": 0.435
+          "score": 0.243
         }
       ]
     },
@@ -272,14 +298,14 @@
         "Support",
         "Damage"
       ],
-      "score": 0.23000000417232516,
+      "score": 0.20600000023841855,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 15,
           "name": "Eudora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-          "score": 0.23
+          "score": 0.206
         }
       ]
     }

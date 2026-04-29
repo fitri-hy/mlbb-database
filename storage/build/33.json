@@ -1,0 +1,422 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6185,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        96,
+        38,
+        74,
+        45,
+        37,
+        72
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          14,
+          20
+        ]
+      },
+      "description": "mosquito, mid, sprint",
+      "battle_spell": null,
+      "created_at": "2026-03-02T19:46:36.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5407,
+      "user_id": 16692,
+      "username": "ronaldoyusuf",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        96,
+        38,
+        43,
+        36,
+        37,
+        68
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          14,
+          17
+        ]
+      },
+      "description": "NO COOLDOWN BUILD",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-03T10:59:49.000Z",
+      "likes_count": 6,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 7168,
+      "user_id": 20572,
+      "username": "minsik",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        96,
+        38,
+        74,
+        36,
+        68,
+        35
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          7,
+          14,
+          20
+        ]
+      },
+      "description": "This build works really well for Cyclops because you don’t need to stack a lot of damage items on him. What he really needs is cooldown reduction so he can keep spamming his skills, along with enough sustain to stay in fights longer.\n\nThis setup helps you stay in battle consistently and is also effective if you want to use Cyclops in the jungle. It performs well against burst heroes since you can outlast their damage, and it’s also reliable against sustain heroes because of your constant skill pressure.\n\nOverall, it focuses more on uptime and survivability rather than pure burst, which fits Cyclops’ playstyle really well.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-20T07:09:31.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6804,
+      "user_id": 3700,
+      "username": "lazerbunny",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        94,
+        47,
+        37,
+        42,
+        44,
+        45
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          14,
+          23
+        ]
+      },
+      "description": "ouchie",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-30T04:58:07.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6023,
+      "user_id": 17994,
+      "username": "just.MJ",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        96,
+        38,
+        43,
+        44,
+        51,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          20
+        ]
+      },
+      "description": "glass canon build",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-25T08:20:02.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6717,
+      "user_id": 19421,
+      "username": "Junior_BOBJD",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        94,
+        38,
+        36,
+        51,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          14,
+          19
+        ]
+      },
+      "description": "DMG and spell vamp good for 1 vs 3\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-26T10:48:20.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6116,
+      "user_id": 18140,
+      "username": "KiWill⼺",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        38,
+        96,
+        91,
+        36,
+        92,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          13,
+          20
+        ]
+      },
+      "description": "farm poke",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-28T01:21:01.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5683,
+      "user_id": 17324,
+      "username": "tsuruginosai",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        96,
+        38,
+        91,
+        45,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          13,
+          17
+        ]
+      },
+      "description": "Just trying",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-02-13T13:32:43.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7388,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        96,
+        38,
+        35,
+        36,
+        43,
+        45
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          20,
+          14,
+          7
+        ]
+      },
+      "description": "Fighter Style Cyclops, \n\nFocuses on sustain and cooldown reduction \n\nSpecialty is spamming debuffs\n(Slow and anti heal)\n\nBe as annoying as possible ",
+      "battle_spell": "Sprint",
+      "created_at": "2026-04-28T15:52:49.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7125,
+      "user_id": 20495,
+      "username": "blackking",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        96,
+        38,
+        36,
+        35,
+        43,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          14,
+          17
+        ]
+      },
+      "description": "...",
+      "battle_spell": "Purify",
+      "created_at": "2026-04-18T18:21:31.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6750,
+      "user_id": 9939,
+      "username": "RENKI",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        96,
+        39,
+        36,
+        74,
+        73,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          14,
+          20
+        ]
+      },
+      "description": "Build yg cocok ketika kalian suka main skil dan ini juga membuat cyclops kalian itu jadi lebih sustain ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-27T16:53:37.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6325,
+      "user_id": 18273,
+      "username": "NightFury.....",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        96,
+        38,
+        36,
+        68,
+        74,
+        42
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          14,
+          20
+        ]
+      },
+      "description": "if there burst type enemy use this build,also change to rapid boot after 12 min",
+      "battle_spell": null,
+      "created_at": "2026-03-08T06:10:35.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6752,
+      "user_id": 19537,
+      "username": "Iskan",
+      "hero_id": 33,
+      "hero_name": "Cyclops",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "items": [
+        96,
+        71,
+        66,
+        65,
+        2,
+        6
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          13,
+          21
+        ]
+      },
+      "description": "Keras!!",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-28T00:34:36.000Z",
+      "likes_count": 0,
+      "dislikes_count": 4
+    }
+  ]
+}

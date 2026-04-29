@@ -1,0 +1,358 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6178,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 8,
+      "hero_name": "Karina",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Finisher, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "items": [
+        97,
+        50,
+        47,
+        44,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          10,
+          20
+        ]
+      },
+      "description": "beautiful death, jungle, blue retri",
+      "battle_spell": null,
+      "created_at": "2026-03-02T18:21:56.000Z",
+      "likes_count": 7,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6397,
+      "user_id": 18158,
+      "username": "serena",
+      "hero_id": 8,
+      "hero_name": "Karina",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Finisher, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "items": [
+        99,
+        35,
+        68,
+        117,
+        74,
+        73
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          14,
+          5,
+          22
+        ]
+      },
+      "description": "Sustain Karina (Works most of the time if you succesfully snowball\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-11T04:53:18.000Z",
+      "likes_count": 5,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5370,
+      "user_id": 203,
+      "username": "ViolenceMessiah",
+      "hero_id": 8,
+      "hero_name": "Karina",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Finisher, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "items": [
+        94,
+        42,
+        47,
+        44,
+        37,
+        92
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          22
+        ]
+      },
+      "description": "SLOT GUIDE FOR KARINA\n\nFLAME RETRIBUTION IS RECOMMENDED\n\nCOMBO = (SAFE COMBO) S1 - RETRI - BA - S2 - S3 - S3\n\n(MAIN COMBO) S1 - RETRI - S3 - S3 - BA - S2\n\n1st - BOOTS\n\n2nd and 3rd - CORE ITEMS (NON-NEGOTIABLE)\n\n4th - AMPLIFIER (HOLY CRYSTAL/ SKYPIERCER)\n\n5th - COUNTER (DIVINE GLAIVE/ WISHING LANTERN)\n\n6th - SURVIVAL ITEM (IMMORTALITY/ WINTER CROWN/ BLOOD WINGS/ CONCENTRATED ENERGY)",
+      "battle_spell": null,
+      "created_at": "2026-02-01T15:20:40.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6065,
+      "user_id": 18086,
+      "username": "DrawnRanger",
+      "hero_id": 8,
+      "hero_name": "Karina",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Finisher, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "items": [
+        99,
+        35,
+        36,
+        74,
+        44,
+        71
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "Sustain and deal decent damage",
+      "battle_spell": "Retribution",
+      "created_at": "2026-02-27T03:59:35.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6007,
+      "user_id": 17895,
+      "username": "seudoer",
+      "hero_id": 8,
+      "hero_name": "Karina",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Finisher, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "items": [
+        42,
+        94,
+        50,
+        37,
+        33,
+        44
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          23,
+          12,
+          7
+        ]
+      },
+      "description": "this for ovierdrive\nand rank\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-25T00:46:40.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6000,
+      "user_id": 13743,
+      "username": "Killer005",
+      "hero_id": 8,
+      "hero_name": "Karina",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Finisher, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "items": [
+        94,
+        91,
+        42,
+        36,
+        47,
+        35
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          10,
+          19
+        ]
+      },
+      "description": "Просто хотел сделать эксперимент ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-24T18:52:54.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7263,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 8,
+      "hero_name": "Karina",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Finisher, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "items": [
+        94,
+        50,
+        33,
+        44,
+        37,
+        92
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          18
+        ]
+      },
+      "description": "Burst",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-23T23:53:33.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7013,
+      "user_id": 20191,
+      "username": "loRKOol",
+      "hero_id": 8,
+      "hero_name": "Karina",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Finisher, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "items": [
+        96,
+        38,
+        36,
+        74,
+        44,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          5,
+          14,
+          24
+        ]
+      },
+      "description": "karina con Bull Híbrida sin Daño Físico, Echa por loRKOol en el 2024, la bull es aprovechada por su reducción de enfriamiento como de su primera y segunda avilidad, tiene Regeneración excesiva aprovechando la pasiva de su primera avilidad, los emblemas consisten en regeneración por acumulaciones, Solo el  racha de asesinatos, fuera de ahí toda la bull esta echa para reducción y aumentar la regeneración y defensa, Dato el oráculo puede intercambiarse por cualquier otro ítem NECESARIO ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-14T00:32:00.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5953,
+      "user_id": 17895,
+      "username": "seudoer",
+      "hero_id": 8,
+      "hero_name": "Karina",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Finisher, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "items": [
+        42,
+        94,
+        37,
+        36,
+        44,
+        43
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          23,
+          12,
+          7
+        ]
+      },
+      "description": "burst build\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-24T09:24:02.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5852,
+      "user_id": 17683,
+      "username": "Ninja.x",
+      "hero_id": 8,
+      "hero_name": "Karina",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Finisher, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "items": [
+        94,
+        91,
+        50,
+        44,
+        36,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          23
+        ]
+      },
+      "description": "High and quick damag in per second and little heal",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-19T15:42:38.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5597,
+      "user_id": 17123,
+      "username": "Skyvenn",
+      "hero_id": 8,
+      "hero_name": "Karina",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Finisher, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "items": [
+        99,
+        50,
+        36,
+        68,
+        74,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          14,
+          23
+        ]
+      },
+      "description": "sustain and good damage",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-10T04:29:28.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

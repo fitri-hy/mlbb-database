@@ -1,0 +1,422 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6283,
+      "user_id": 18490,
+      "username": "sukarno",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        19,
+        91,
+        10,
+        16,
+        14,
+        9
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          12,
+          23,
+          1
+        ]
+      },
+      "description": "sakit banget split pus juga bisa",
+      "battle_spell": "Inspire",
+      "created_at": "2026-03-07T02:11:47.000Z",
+      "likes_count": 9,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5732,
+      "user_id": 17448,
+      "username": "Zilnggg",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        97,
+        19,
+        1,
+        10,
+        7,
+        74
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          14,
+          26
+        ]
+      },
+      "description": "Lifesteal dan critical\n\n",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-15T19:49:49.000Z",
+      "likes_count": 8,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5329,
+      "user_id": 16263,
+      "username": "DEWAbarats",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        98,
+        10,
+        19,
+        1,
+        14,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          9,
+          23
+        ]
+      },
+      "description": "zilong di jamin gacor daya tahan ok damage oke speed juga ok jadi di pakai ",
+      "battle_spell": "Inspire",
+      "created_at": "2026-01-31T11:16:39.000Z",
+      "likes_count": 5,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6056,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        98,
+        5,
+        91,
+        9,
+        6,
+        1
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          12,
+          23
+        ]
+      },
+      "description": "Go! And target here Marksman ",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-26T15:18:25.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5348,
+      "user_id": 16407,
+      "username": "Puja",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        3,
+        97,
+        19,
+        10,
+        9,
+        1
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          12,
+          23
+        ]
+      },
+      "description": "CORE LATGAME ",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-01T02:48:54.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6202,
+      "user_id": 18331,
+      "username": "ZERO@2068",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        97,
+        91,
+        10,
+        9,
+        16,
+        7
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          22,
+          4,
+          12
+        ]
+      },
+      "description": "attick",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-03T13:09:23.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5812,
+      "user_id": 16469,
+      "username": "Arch",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        98,
+        10,
+        1,
+        16,
+        14,
+        12
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          16,
+          18
+        ]
+      },
+      "description": "A little bit of survivality for Zilong. High lifesteal and balance damage.",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-18T09:48:21.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5772,
+      "user_id": 17540,
+      "username": "GGHsecret",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        97,
+        19,
+        1,
+        5,
+        14,
+        11
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          18,
+          9,
+          7
+        ]
+      },
+      "description": "Don't try",
+      "battle_spell": "Sprint",
+      "created_at": "2026-02-17T11:35:40.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7392,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        99,
+        19,
+        10,
+        1,
+        14,
+        16
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          19,
+          12,
+          8
+        ]
+      },
+      "description": "Supreme Spear Arts",
+      "battle_spell": "Inspire",
+      "created_at": "2026-04-28T16:12:56.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5681,
+      "user_id": 16615,
+      "username": "AhzaDanish",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        17,
+        98,
+        2,
+        7,
+        13,
+        11
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          22,
+          12
+        ]
+      },
+      "description": "This build is best for aggressive early-game snowballing",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-13T12:09:56.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5388,
+      "user_id": 16625,
+      "username": "Base",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        19,
+        91,
+        1,
+        10,
+        13,
+        9
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          22
+        ]
+      },
+      "description": "Test lah kalu ok\n",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-02T09:47:17.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6173,
+      "user_id": 18284,
+      "username": "Chokun310755",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        97,
+        9,
+        10,
+        1,
+        19,
+        7
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          23,
+          14,
+          8
+        ]
+      },
+      "description": "This for early game",
+      "battle_spell": "Inspire",
+      "created_at": "2026-03-02T14:52:49.000Z",
+      "likes_count": 1,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6035,
+      "user_id": 17621,
+      "username": "abcdenniss",
+      "hero_id": 16,
+      "hero_name": "Zilong",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "items": [
+        68,
+        35,
+        58,
+        2,
+        3,
+        1
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          10,
+          18,
+          8
+        ]
+      },
+      "description": "Zilong damage ",
+      "battle_spell": "Arrival",
+      "created_at": "2026-02-25T14:54:20.000Z",
+      "likes_count": 0,
+      "dislikes_count": 3
+    }
+  ]
+}

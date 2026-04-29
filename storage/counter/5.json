@@ -10,21 +10,21 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 5.8420000076293945,
+      "score": 5.561999797821045,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 5,
           "name": "Nana",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
-          "score": 5.842
+          "score": 5.562
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Guard",
         "Initiator"
       ],
-      "score": 3.7890000343322754,
+      "score": 3.4539999961853027,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 5,
           "name": "Nana",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
-          "score": 3.789
+          "score": 3.454
         }
       ]
     },
@@ -67,40 +67,39 @@
         "Crowd Control",
         "Initiator"
       ],
-      "score": 3.135999917984009,
-      "tier": "D",
+      "score": 2.878000020980835,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 5,
           "name": "Nana",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
-          "score": 3.136
+          "score": 2.878
         }
       ]
     },
     {
-      "id": 27,
-      "heroName": "Sun",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "id": 9,
+      "heroName": "Akai",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
       "role": [
-        "Fighter"
+        "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Jungle"
+        "Roam"
       ],
       "speciality": [
-        "Push",
-        "Damage"
+        "Guard",
+        "Crowd Control"
       ],
-      "score": 1.9220000505447388,
-      "tier": "B",
+      "score": 2.4119999408721924,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 5,
           "name": "Nana",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
-          "score": 1.922
+          "score": 2.412
         }
       ]
     },
@@ -119,14 +118,14 @@
         "Damage",
         "Regen"
       ],
-      "score": 1.6299999952316284,
+      "score": 1.9299999475479128,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 5,
           "name": "Nana",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
-          "score": 1.63
+          "score": 1.93
         }
       ]
     },
@@ -145,64 +144,14 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 0.7400000095367432,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 5,
-          "name": "Nana",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
-          "score": 0.74
-        }
-      ]
-    },
-    {
-      "id": 69,
-      "heroName": "Hanzo",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Poke",
-        "Burst"
-      ],
       "score": 0.675000011920929,
-      "tier": "C",
+      "tier": "D",
       "counteredHeroes": [
         {
           "id": 5,
           "name": "Nana",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
           "score": 0.675
-        }
-      ]
-    },
-    {
-      "id": 119,
-      "heroName": "Novaria",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Poke"
-      ],
-      "score": 0.37599998712539673,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 5,
-          "name": "Nana",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
-          "score": 0.376
         }
       ]
     },
@@ -221,39 +170,39 @@
         "Finisher",
         "Chase"
       ],
-      "score": 0.25200000405311584,
+      "score": 0.5099999904632568,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 5,
           "name": "Nana",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
-          "score": 0.252
+          "score": 0.51
         }
       ]
     },
     {
-      "id": 9,
-      "heroName": "Akai",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
+      "id": 119,
+      "heroName": "Novaria",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
       "role": [
-        "Tank"
+        "Mage"
       ],
       "lane": [
-        "Roam"
+        "Mid Lane"
       ],
       "speciality": [
-        "Guard",
-        "Crowd Control"
+        "Burst",
+        "Poke"
       ],
-      "score": 0.12800000607967377,
+      "score": 0.39500001072883606,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 5,
           "name": "Nana",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
-          "score": 0.128
+          "score": 0.395
         }
       ]
     },
@@ -271,14 +220,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 0.11900000274181366,
+      "score": 0.14000000059604645,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 5,
           "name": "Nana",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
-          "score": 0.119
+          "score": 0.14
         }
       ]
     },
@@ -295,14 +244,14 @@
       "speciality": [
         "Regen"
       ],
-      "score": 0.11400000005960464,
-      "tier": "D",
+      "score": 0.10999999940395357,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 5,
           "name": "Nana",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
-          "score": 0.114
+          "score": 0.11
         }
       ]
     }

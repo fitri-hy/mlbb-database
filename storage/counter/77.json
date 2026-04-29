@@ -17,14 +17,14 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 4.540999889373779,
+      "score": 4.4730000495910645,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 77,
           "name": "Badang",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
-          "score": 4.541
+          "score": 4.473
         }
       ]
     },
@@ -43,14 +43,14 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 4.031000137329102,
+      "score": 3.937000036239624,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 77,
           "name": "Badang",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
-          "score": 4.031
+          "score": 3.937
         }
       ]
     },
@@ -68,14 +68,64 @@
         "Regen",
         "Damage"
       ],
-      "score": 3.947999954223633,
+      "score": 3.859999895095825,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 77,
           "name": "Badang",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
-          "score": 3.948
+          "score": 3.86
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "heroName": "Karina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Finisher",
+        "Magic Damage"
+      ],
+      "score": 3.631999969482422,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 77,
+          "name": "Badang",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
+          "score": 3.632
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "heroName": "Diggie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Poke"
+      ],
+      "score": 2.2100000381469727,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 77,
+          "name": "Badang",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
+          "score": 2.21
         }
       ]
     },
@@ -95,64 +145,64 @@
         "Charge",
         "Regen"
       ],
-      "score": 3.240000009536743,
-      "tier": "B",
+      "score": 0.9100000262260436,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 77,
           "name": "Badang",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
-          "score": 3.24
+          "score": 0.91
         }
       ]
     },
     {
-      "id": 48,
-      "heroName": "Diggie",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+      "id": 70,
+      "heroName": "Belerick",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
       "role": [
-        "Support"
+        "Tank"
       ],
       "lane": [
         "Roam"
       ],
       "speciality": [
-        "Guard",
-        "Poke"
+        "Crowd Control",
+        "Regen"
       ],
-      "score": 2.569999933242798,
-      "tier": "B",
+      "score": 0.3319999873638153,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 77,
           "name": "Badang",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
-          "score": 2.57
+          "score": 0.332
         }
       ]
     },
     {
-      "id": 8,
-      "heroName": "Karina",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "id": 37,
+      "heroName": "Lapu-Lapu",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
       "role": [
-        "Assassin"
+        "Fighter"
       ],
       "lane": [
-        "Jungle"
+        "Exp Lane"
       ],
       "speciality": [
-        "Finisher",
-        "Magic Damage"
+        "Chase",
+        "Burst"
       ],
-      "score": 1.5420000553131104,
+      "score": 0.3070000112056732,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 77,
           "name": "Badang",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
-          "score": 1.542
+          "score": 0.307
         }
       ]
     },
@@ -172,64 +222,14 @@
         "Crowd Control",
         "Burst"
       ],
-      "score": 0.32600000500679016,
+      "score": 0.1449999958276749,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 77,
           "name": "Badang",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
-          "score": 0.326
-        }
-      ]
-    },
-    {
-      "id": 37,
-      "heroName": "Lapu-Lapu",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Chase",
-        "Burst"
-      ],
-      "score": 0.16899999976158142,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 77,
-          "name": "Badang",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
-          "score": 0.169
-        }
-      ]
-    },
-    {
-      "id": 78,
-      "heroName": "Khufra",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Initiator",
-        "Crowd Control"
-      ],
-      "score": 0.1679999977350235,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 77,
-          "name": "Badang",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
-          "score": 0.168
+          "score": 0.145
         }
       ]
     }

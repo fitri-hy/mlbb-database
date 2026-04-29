@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5811,
+      "user_id": 16469,
+      "username": "Arch",
+      "hero_id": 83,
+      "hero_name": "X.Borg",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "items": [
+        99,
+        72,
+        17,
+        45,
+        70,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          7,
+          14,
+          17
+        ]
+      },
+      "description": "Balance build for X Borg so far. Poke and high regen from passive. ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-18T09:45:26.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5919,
+      "user_id": 17871,
+      "username": "HeySanzN",
+      "hero_id": 83,
+      "hero_name": "X.Borg",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "items": [
+        100,
+        17,
+        70,
+        72,
+        68,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          17
+        ]
+      },
+      "description": "build ini cocok dibawa late game, karena true damage dari war axe dan pasif nya terus bertambah per levelnya maka build ini cocok untuk tb juga",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-23T04:07:39.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7372,
+      "user_id": 21057,
+      "username": "Try.Again",
+      "hero_id": 83,
+      "hero_name": "X.Borg",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "items": [
+        91,
+        97,
+        17,
+        68,
+        16,
+        45
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          7,
+          14,
+          17
+        ]
+      },
+      "description": "Always be the first get to level 2 before the enemy if you can, This way you can quickly do the exp crab, then zone the enemy to deny the exp. You will dominate the game if you build up stacks for sky piercer early. This build is what gets me to mythical immortal 200+ stars. Kasi dooy si guile.",
+      "battle_spell": null,
+      "created_at": "2026-04-28T12:10:49.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7337,
+      "user_id": 20956,
+      "username": "gendul",
+      "hero_id": 83,
+      "hero_name": "X.Borg",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "items": [
+        100,
+        17,
+        45,
+        74,
+        68,
+        73
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          14,
+          24
+        ]
+      },
+      "description": "strong defender and attacker unkillable when there is lot of minion",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-27T07:12:17.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6043,
+      "user_id": 7671,
+      "username": "Furunama",
+      "hero_id": 83,
+      "hero_name": "X.Borg",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "items": [
+        97,
+        74,
+        68,
+        72,
+        71,
+        89
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          9,
+          24
+        ]
+      },
+      "description": "ROTASI CEPET, ANTI RECALL! (Slot terakhir buat counter hero bounty/core hero)",
+      "battle_spell": null,
+      "created_at": "2026-02-26T06:28:49.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

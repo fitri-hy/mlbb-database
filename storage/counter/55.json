@@ -17,14 +17,39 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 5.521999835968018,
+      "score": 5.675000190734863,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 55,
           "name": "Angela",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
-          "score": 5.522
+          "score": 5.675
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "heroName": "Franco",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Control"
+      ],
+      "score": 5.546000003814697,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 55,
+          "name": "Angela",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
+          "score": 5.546
         }
       ]
     },
@@ -43,39 +68,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 5.485000133514404,
+      "score": 5.497000217437744,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 55,
           "name": "Angela",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
-          "score": 5.485
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "heroName": "Franco",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Initiator",
-        "Control"
-      ],
-      "score": 5.402999877929688,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 55,
-          "name": "Angela",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
-          "score": 5.403
+          "score": 5.497
         }
       ]
     },
@@ -95,14 +95,14 @@
         "Burst",
         "Control"
       ],
-      "score": 4.428999900817871,
+      "score": 4.5929999351501465,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 55,
           "name": "Angela",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
-          "score": 4.429
+          "score": 4.593
         }
       ]
     },
@@ -120,14 +120,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 2.82699990272522,
+      "score": 2.9040000438690186,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 55,
           "name": "Angela",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
-          "score": 2.827
+          "score": 2.904
         }
       ]
     },
@@ -145,14 +145,14 @@
         "Initiator",
         "Magic Damage"
       ],
-      "score": 2.174999952316284,
+      "score": 2.181999921798706,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 55,
           "name": "Angela",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
-          "score": 2.175
+          "score": 2.182
         }
       ]
     }

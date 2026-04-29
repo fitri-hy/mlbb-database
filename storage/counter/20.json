@@ -16,14 +16,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 12.75,
+      "score": 13.29300022125244,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 20,
           "name": "Lolita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-          "score": 12.75
+          "score": 13.293
         }
       ]
     },
@@ -41,14 +41,14 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 10.960000038146973,
+      "score": 10.9350004196167,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 20,
           "name": "Lolita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-          "score": 10.96
+          "score": 10.935
         }
       ]
     },
@@ -66,65 +66,14 @@
         "Crowd Control",
         "Poke"
       ],
-      "score": 10.312999725341797,
+      "score": 10.892000198364258,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 20,
           "name": "Lolita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-          "score": 10.313
-        }
-      ]
-    },
-    {
-      "id": 81,
-      "heroName": "Esmeralda",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
-      "role": [
-        "Tank",
-        "Mage"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Regen",
-        "Mixed Damage"
-      ],
-      "score": 9.243000030517578,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 20,
-          "name": "Lolita",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-          "score": 9.243
-        }
-      ]
-    },
-    {
-      "id": 114,
-      "heroName": "Melissa",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Damage"
-      ],
-      "score": 4.53000020980835,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 20,
-          "name": "Lolita",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-          "score": 4.53
+          "score": 10.892
         }
       ]
     },
@@ -143,14 +92,40 @@
         "Burst",
         "Charge"
       ],
-      "score": 4.065000057220459,
-      "tier": "B",
+      "score": 8.376999855041504,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 20,
           "name": "Lolita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-          "score": 4.065
+          "score": 8.377
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "heroName": "Esmeralda",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
+      "role": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Mixed Damage"
+      ],
+      "score": 8.199999809265137,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 20,
+          "name": "Lolita",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
+          "score": 8.2
         }
       ]
     },
@@ -168,40 +143,40 @@
         "Finisher",
         "Burst"
       ],
-      "score": 0.5479999780654907,
-      "tier": "D",
+      "score": 1.7489999532699585,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 20,
           "name": "Lolita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-          "score": 0.548
+          "score": 1.749
         }
       ]
     },
     {
-      "id": 73,
-      "heroName": "Harith",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "id": 98,
+      "heroName": "Khaleed",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
       "role": [
-        "Mage"
+        "Fighter"
       ],
       "lane": [
-        "Gold Lane",
-        "Mid Lane"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
-        "Chase",
-        "Damage"
+        "Damage",
+        "Regen"
       ],
-      "score": 0.5299999713897705,
-      "tier": "D",
+      "score": 0.4429999887943268,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 20,
           "name": "Lolita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-          "score": 0.53
+          "score": 0.443
         }
       ]
     },
@@ -219,40 +194,14 @@
         "Poke",
         "Finisher"
       ],
-      "score": 0.4519999921321869,
-      "tier": "D",
+      "score": 0.4359999895095825,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 20,
           "name": "Lolita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-          "score": 0.452
-        }
-      ]
-    },
-    {
-      "id": 62,
-      "heroName": "Kaja",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-      "role": [
-        "Support",
-        "Fighter"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Control",
-        "Charge"
-      ],
-      "score": 0.4149999916553497,
-      "tier": "B",
-      "counteredHeroes": [
-        {
-          "id": 20,
-          "name": "Lolita",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-          "score": 0.415
+          "score": 0.436
         }
       ]
     }

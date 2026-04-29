@@ -16,14 +16,14 @@
         "Regen",
         "Guard"
       ],
-      "score": 7.078000068664551,
+      "score": 6.85099983215332,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 59,
           "name": "Uranus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-          "score": 7.078
+          "score": 6.851
         }
       ]
     },
@@ -42,91 +42,14 @@
         "Charge",
         "Burst"
       ],
-      "score": 6.251999855041504,
+      "score": 6.138000011444092,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 59,
           "name": "Uranus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-          "score": 6.252
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "heroName": "Freya",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane",
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Damage"
-      ],
-      "score": 2.700000047683716,
-      "tier": "S",
-      "counteredHeroes": [
-        {
-          "id": 59,
-          "name": "Uranus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-          "score": 2.7
-        }
-      ]
-    },
-    {
-      "id": 64,
-      "heroName": "Aldous",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Support"
-      ],
-      "score": 2.6600000858306885,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 59,
-          "name": "Uranus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-          "score": 2.66
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "heroName": "Alpha",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle",
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Charge",
-        "Damage"
-      ],
-      "score": 2.650000095367432,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 59,
-          "name": "Uranus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-          "score": 2.65
+          "score": 6.138
         }
       ]
     },
@@ -144,39 +67,14 @@
         "Guard",
         "Support"
       ],
-      "score": 2.571000099182129,
-      "tier": "C",
+      "score": 4.938000202178955,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 59,
           "name": "Uranus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-          "score": 2.571
-        }
-      ]
-    },
-    {
-      "id": 108,
-      "heroName": "Aulus",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Crowd Control"
-      ],
-      "score": 1.6050000190734863,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 59,
-          "name": "Uranus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-          "score": 1.605
+          "score": 4.938
         }
       ]
     },
@@ -196,14 +94,40 @@
         "Damage",
         "Magic Damage"
       ],
-      "score": 1.1050000190734863,
+      "score": 3.555000066757202,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 59,
+          "name": "Uranus",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+          "score": 3.555
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "heroName": "Alpha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Damage"
+      ],
+      "score": 2.4600000381469727,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 59,
           "name": "Uranus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-          "score": 1.105
+          "score": 2.46
         }
       ]
     },
@@ -221,14 +145,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 1.059000015258789,
+      "score": 2.25,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 59,
           "name": "Uranus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-          "score": 1.059
+          "score": 2.25
         }
       ]
     },
@@ -246,14 +170,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.7080000042915344,
+      "score": 1.256999969482422,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 59,
           "name": "Uranus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-          "score": 0.708
+          "score": 1.257
         }
       ]
     },
@@ -271,14 +195,14 @@
         "Burst",
         "Magic Damage"
       ],
-      "score": 0.23100000619888303,
+      "score": 0.2380000054836273,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 59,
           "name": "Uranus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-          "score": 0.231
+          "score": 0.238
         }
       ]
     }

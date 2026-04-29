@@ -16,14 +16,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 5.811999797821045,
+      "score": 5.76800012588501,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 101,
           "name": "Yve",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 5.812
+          "score": 5.768
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Push",
         "Burst"
       ],
-      "score": 5.6479997634887695,
+      "score": 5.256999969482422,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 101,
           "name": "Yve",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 5.648
+          "score": 5.257
         }
       ]
     },
@@ -67,66 +67,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 5.163000106811523,
+      "score": 5.111000061035156,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 101,
           "name": "Yve",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 5.163
-        }
-      ]
-    },
-    {
-      "id": 63,
-      "heroName": "Selena",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
-      "role": [
-        "Assassin",
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane",
-        "Roam"
-      ],
-      "speciality": [
-        "Initiator",
-        "Finisher"
-      ],
-      "score": 2.539999961853028,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 101,
-          "name": "Yve",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 2.54
-        }
-      ]
-    },
-    {
-      "id": 64,
-      "heroName": "Aldous",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Support"
-      ],
-      "score": 2.3399999141693115,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 101,
-          "name": "Yve",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 2.34
+          "score": 5.111
         }
       ]
     },
@@ -146,41 +94,41 @@
         "Burst",
         "Control"
       ],
-      "score": 1.5149999856948853,
+      "score": 4.488999843597412,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 101,
           "name": "Yve",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 1.515
+          "score": 4.489
         }
       ]
     },
     {
-      "id": 42,
-      "heroName": "Harley",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "id": 63,
+      "heroName": "Selena",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
       "role": [
         "Assassin",
         "Mage"
       ],
       "lane": [
-        "Jungle",
-        "Mid Lane"
+        "Mid Lane",
+        "Roam"
       ],
       "speciality": [
-        "Burst",
-        "Poke"
+        "Initiator",
+        "Finisher"
       ],
-      "score": 1.1050000190734863,
-      "tier": "SS",
+      "score": 2.619999885559082,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 101,
           "name": "Yve",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 1.105
+          "score": 2.62
         }
       ]
     },
@@ -198,14 +146,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 0.9240000247955322,
+      "score": 1.3730000257492063,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 101,
           "name": "Yve",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 0.924
+          "score": 1.373
         }
       ]
     },
@@ -223,14 +171,39 @@
         "Poke",
         "Burst"
       ],
-      "score": 0.4580000042915344,
+      "score": 0.5619999766349792,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 101,
           "name": "Yve",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 0.458
+          "score": 0.562
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "heroName": "Guinevere",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Magic Damage"
+      ],
+      "score": 0.37599998712539673,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 101,
+          "name": "Yve",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+          "score": 0.376
         }
       ]
     },
@@ -248,14 +221,14 @@
         "Burst",
         "Poke"
       ],
-      "score": 0.29600000381469727,
+      "score": 0.3659999966621399,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 101,
           "name": "Yve",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 0.296
+          "score": 0.366
         }
       ]
     },
@@ -274,64 +247,39 @@
         "Control",
         "Charge"
       ],
-      "score": 0.2750000059604645,
-      "tier": "B",
+      "score": 0.2939999997615814,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 101,
           "name": "Yve",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 0.275
+          "score": 0.294
         }
       ]
     },
     {
-      "id": 122,
-      "heroName": "Nolan",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
+      "id": 105,
+      "heroName": "Beatrix",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
       "role": [
-        "Assassin"
+        "Marksman"
       ],
       "lane": [
-        "Jungle"
+        "Gold Lane"
       ],
       "speciality": [
-        "Chase",
-        "Burst"
+        "Finisher",
+        "Damage"
       ],
-      "score": 0.239999994635582,
-      "tier": "D",
+      "score": 0.2639999985694885,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 101,
           "name": "Yve",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 0.24
-        }
-      ]
-    },
-    {
-      "id": 84,
-      "heroName": "Ling",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Burst"
-      ],
-      "score": 0.23199999332427976,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 101,
-          "name": "Yve",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 0.232
+          "score": 0.264
         }
       ]
     },
@@ -349,33 +297,59 @@
         "Chase",
         "Damage"
       ],
-      "score": 0.2070000022649765,
+      "score": 0.2460000067949295,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 101,
           "name": "Yve",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-          "score": 0.207
+          "score": 0.246
         }
       ]
     },
     {
-      "id": 110,
-      "heroName": "Valentina",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "id": 31,
+      "heroName": "Moskov",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
       "role": [
-        "Mage"
+        "Marksman"
       ],
       "lane": [
-        "Mid Lane"
+        "Gold Lane"
       ],
       "speciality": [
-        "Burst",
-        "Finisher"
+        "Finisher",
+        "Chase"
+      ],
+      "score": 0.20399999618530276,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 101,
+          "name": "Yve",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+          "score": 0.204
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "heroName": "Freya",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
       ],
       "score": 0,
-      "tier": "D",
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 101,

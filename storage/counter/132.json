@@ -16,14 +16,14 @@
         "Guard",
         "Support"
       ],
-      "score": 9.565999984741213,
-      "tier": "C",
+      "score": 9.824000358581545,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 132,
           "name": "Marcel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-          "score": 9.566
+          "score": 9.824
         }
       ]
     },
@@ -41,14 +41,14 @@
         "Damage",
         "Control"
       ],
-      "score": 8.270000457763672,
+      "score": 8.381999969482422,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 132,
           "name": "Marcel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-          "score": 8.27
+          "score": 8.382
         }
       ]
     },
@@ -67,14 +67,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 7.26800012588501,
-      "tier": "C",
+      "score": 7.314000129699707,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 132,
           "name": "Marcel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-          "score": 7.268
+          "score": 7.314
         }
       ]
     },
@@ -93,39 +93,14 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 7.211999893188477,
+      "score": 6.90500020980835,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 132,
           "name": "Marcel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-          "score": 7.212
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "heroName": "Layla",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Damage"
-      ],
-      "score": 3.660000085830689,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 132,
-          "name": "Marcel",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-          "score": 3.66
+          "score": 6.905
         }
       ]
     },
@@ -143,39 +118,14 @@
         "Poke",
         "Guard"
       ],
-      "score": 2.884999990463257,
-      "tier": "B",
+      "score": 6.642000198364258,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 132,
           "name": "Marcel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-          "score": 2.885
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "heroName": "Irithel",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Burst"
-      ],
-      "score": 0.3070000112056732,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 132,
-          "name": "Marcel",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-          "score": 0.307
+          "score": 6.642
         }
       ]
     },
@@ -193,14 +143,39 @@
         "Chase",
         "Magic Damage"
       ],
-      "score": 0.25600001215934753,
-      "tier": "C",
+      "score": 0.5299999713897705,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 132,
           "name": "Marcel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-          "score": 0.256
+          "score": 0.53
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.32100000977516174,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 132,
+          "name": "Marcel",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+          "score": 0.321
         }
       ]
     },
@@ -218,39 +193,14 @@
         "Regen",
         "Guard"
       ],
-      "score": 0.22200000286102292,
-      "tier": "D",
+      "score": 0.2189999967813492,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 132,
           "name": "Marcel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-          "score": 0.222
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "heroName": "Estes",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Regen",
-        "Guard"
-      ],
-      "score": 0.210999995470047,
-      "tier": "S",
-      "counteredHeroes": [
-        {
-          "id": 132,
-          "name": "Marcel",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-          "score": 0.211
+          "score": 0.219
         }
       ]
     }

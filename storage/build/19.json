@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5551,
+      "user_id": 17051,
+      "username": "Alifdin",
+      "hero_id": 19,
+      "hero_name": "Minotaur",
+      "role": "Tank, Support",
+      "lane": "Roam",
+      "speciality": "Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+      "items": [
+        97,
+        40,
+        73,
+        71,
+        70,
+        68
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          11,
+          21
+        ]
+      },
+      "description": "Nikmat mana lagi yang kamu dustakan\ndiam, diserang, dan skill 2 nambah darah",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-08T21:57:46.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7206,
+      "user_id": 20660,
+      "username": "rajamokel",
+      "hero_id": 19,
+      "hero_name": "Minotaur",
+      "role": "Tank, Support",
+      "lane": "Roam",
+      "speciality": "Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+      "items": [
+        99,
+        40,
+        73,
+        65,
+        117,
+        90
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          9,
+          17,
+          7
+        ]
+      },
+      "description": "healer and ulti",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-04-21T21:24:49.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5384,
+      "user_id": 16609,
+      "username": "NamMax",
+      "hero_id": 19,
+      "hero_name": "Minotaur",
+      "role": "Tank, Support",
+      "lane": "Roam",
+      "speciality": "Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+      "items": [
+        99,
+        40,
+        70,
+        73,
+        76,
+        117
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          21,
+          11
+        ]
+      },
+      "description": "Hi",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-02T05:47:43.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

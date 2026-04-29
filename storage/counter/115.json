@@ -17,14 +17,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 7.283999919891357,
-      "tier": "D",
+      "score": 7.34600019454956,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 115,
           "name": "Xavier",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
-          "score": 7.284
+          "score": 7.346
         }
       ]
     },
@@ -43,14 +43,14 @@
         "Push",
         "Burst"
       ],
-      "score": 5.230000019073486,
+      "score": 5.348999977111816,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 115,
           "name": "Xavier",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
-          "score": 5.23
+          "score": 5.349
         }
       ]
     },
@@ -69,14 +69,14 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 5.159999847412109,
+      "score": 5.26800012588501,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 115,
           "name": "Xavier",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
-          "score": 5.16
+          "score": 5.268
         }
       ]
     },
@@ -94,14 +94,14 @@
         "Guard",
         "Support"
       ],
-      "score": 4.436999797821045,
-      "tier": "C",
+      "score": 4.439000129699707,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 115,
           "name": "Xavier",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
-          "score": 4.437
+          "score": 4.439
         }
       ]
     },
@@ -119,40 +119,66 @@
         "Chase",
         "Magic Damage"
       ],
-      "score": 3.724999904632568,
-      "tier": "C",
+      "score": 2.4800000190734863,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 115,
           "name": "Xavier",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
-          "score": 3.725
+          "score": 2.48
         }
       ]
     },
     {
-      "id": 16,
-      "heroName": "Zilong",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+      "id": 113,
+      "heroName": "Yin",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png",
       "role": [
         "Fighter",
         "Assassin"
       ],
       "lane": [
+        "Jungle",
         "Exp Lane"
       ],
       "speciality": [
-        "Chase",
-        "Damage"
+        "Burst",
+        "Control"
       ],
-      "score": 0.4020000100135803,
+      "score": 1.159999966621399,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 115,
           "name": "Xavier",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
-          "score": 0.402
+          "score": 1.16
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "heroName": "Aldous",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Support"
+      ],
+      "score": 0.39399999380111694,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 115,
+          "name": "Xavier",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
+          "score": 0.394
         }
       ]
     },
@@ -170,14 +196,14 @@
         "Finisher",
         "Chase"
       ],
-      "score": 0.35600000619888306,
-      "tier": "D",
+      "score": 0.34200000762939453,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 115,
           "name": "Xavier",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
-          "score": 0.356
+          "score": 0.342
         }
       ]
     }

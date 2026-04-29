@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6842,
+      "user_id": 18986,
+      "username": "Dook33",
+      "hero_id": 102,
+      "hero_name": "Mathilda",
+      "role": "Support, Assassin",
+      "lane": "Roam",
+      "speciality": "Initiator, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+      "items": [
+        94,
+        35,
+        43,
+        68,
+        40,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          11,
+          18
+        ]
+      },
+      "description": "Use encourage roam blessing,I didnt see it on build page. You can go for cod if you want, but late game you should swap it for a situational item. Ie. Team taking massive damage go vial if heavy magic radiant armor.  Need blade armor? Maybe! \n\nFocuses on heavy harass and vision, take out split pushes, ambush, and poke. Make use of quantum charge speed boost cool down and petrify for escapes. Isolate and help kidnap with your jungler. Matilda is not a babysitter get to level 4 asap help mage rotate or jungle clear with skill two. Snowball and end game early.",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-31T06:38:58.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6997,
+      "user_id": 20155,
+      "username": "Saisai",
+      "hero_id": 102,
+      "hero_name": "Mathilda",
+      "role": "Support, Assassin",
+      "lane": "Roam",
+      "speciality": "Initiator, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+      "items": [
+        94,
+        38,
+        40,
+        43,
+        73,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          18
+        ]
+      },
+      "description": "Not sure about this one lols ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-13T05:14:19.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6878,
+      "user_id": 19748,
+      "username": "Mestredasbuilds",
+      "hero_id": 102,
+      "hero_name": "Mathilda",
+      "role": "Support, Assassin",
+      "lane": "Roam",
+      "speciality": "Initiator, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+      "items": [
+        94,
+        38,
+        47,
+        42,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          17
+        ]
+      },
+      "description": "Build Jungle play for Mathilda S40: this build is very aggressive and deals high magic damage. Take advantage of it early in the game, as I've already gone 12/0/4 just at the start. Enjoy this build! :)",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-02T03:07:00.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6054,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 102,
+      "hero_name": "Mathilda",
+      "role": "Support, Assassin",
+      "lane": "Roam",
+      "speciality": "Initiator, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+      "items": [
+        96,
+        40,
+        43,
+        45,
+        44,
+        73
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "Support damage ",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-26T15:14:57.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

@@ -17,14 +17,14 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 7.291999816894531,
+      "score": 7.765999794006348,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 61,
           "name": "Chang'e",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
-          "score": 7.292
+          "score": 7.766
         }
       ]
     },
@@ -36,46 +36,21 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 6.26200008392334,
+      "score": 5.803999900817871,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 61,
           "name": "Chang'e",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
-          "score": 6.262
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "heroName": "Irithel",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Burst"
-      ],
-      "score": 4.271999835968018,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 61,
-          "name": "Chang'e",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
-          "score": 4.272
+          "score": 5.804
         }
       ]
     },
@@ -93,14 +68,39 @@
         "Burst",
         "Chase"
       ],
-      "score": 3.82699990272522,
-      "tier": "D",
+      "score": 3.766000032424927,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 61,
           "name": "Chang'e",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
-          "score": 3.827
+          "score": 3.766
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "heroName": "Irithel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 3.6559998989105225,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 61,
+          "name": "Chang'e",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
+          "score": 3.656
         }
       ]
     },
@@ -119,14 +119,14 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 3.515000104904175,
+      "score": 3.244999885559082,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 61,
           "name": "Chang'e",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
-          "score": 3.515
+          "score": 3.245
         }
       ]
     },
@@ -145,14 +145,40 @@
         "Push",
         "Burst"
       ],
-      "score": 0.6710000038146973,
+      "score": 0.5149999856948853,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 61,
           "name": "Chang'e",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
-          "score": 0.671
+          "score": 0.515
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "heroName": "Baxia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Damage"
+      ],
+      "score": 0.3389999866485596,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 61,
+          "name": "Chang'e",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
+          "score": 0.339
         }
       ]
     },
@@ -165,20 +191,20 @@
       ],
       "lane": [
         "Gold Lane",
-        "Mid Lane"
+        "Jungle"
       ],
       "speciality": [
         "Chase",
         "Damage"
       ],
-      "score": 0.1430000066757202,
-      "tier": "D",
+      "score": 0.1449999958276749,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 61,
           "name": "Chang'e",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
-          "score": 0.143
+          "score": 0.145
         }
       ]
     }

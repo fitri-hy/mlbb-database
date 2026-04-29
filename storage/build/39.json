@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6209,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 39,
+      "hero_name": "Roger",
+      "role": "Fighter, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+      "items": [
+        98,
+        91,
+        5,
+        6,
+        8,
+        13
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          13,
+          22
+        ]
+      },
+      "description": "hungry wolf, jungle, blue retri",
+      "battle_spell": null,
+      "created_at": "2026-03-03T18:28:15.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6233,
+      "user_id": 18396,
+      "username": "Rogeruser",
+      "hero_id": 39,
+      "hero_name": "Roger",
+      "role": "Fighter, Marksman",
+      "lane": "Jungle",
+      "speciality": "Finisher, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+      "items": [
+        98,
+        19,
+        10,
+        5,
+        2,
+        1
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          16,
+          22
+        ]
+      },
+      "description": "no 1 build\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-04T14:10:38.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

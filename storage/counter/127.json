@@ -16,14 +16,14 @@
         "Regen",
         "Damage"
       ],
-      "score": 6.389999866485596,
+      "score": 6.333000183105469,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 127,
           "name": "Lukas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
-          "score": 6.39
+          "score": 6.333
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Support",
         "Damage"
       ],
-      "score": 5.013999938964844,
+      "score": 5.60099983215332,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 127,
           "name": "Lukas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
-          "score": 5.014
+          "score": 5.601
         }
       ]
     },
@@ -68,39 +68,14 @@
         "Damage",
         "Regen"
       ],
-      "score": 4.956999778747559,
+      "score": 4.477000236511231,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 127,
           "name": "Lukas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
-          "score": 4.957
-        }
-      ]
-    },
-    {
-      "id": 49,
-      "heroName": "Hylos",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Initiator"
-      ],
-      "score": 2.7699999809265137,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 127,
-          "name": "Lukas",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
-          "score": 2.77
+          "score": 4.477
         }
       ]
     },
@@ -119,14 +94,39 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 2.7699999809265137,
+      "score": 4.045000076293945,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 127,
           "name": "Lukas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
-          "score": 2.77
+          "score": 4.045
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "heroName": "Hylos",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Initiator"
+      ],
+      "score": 2.684000015258789,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 127,
+          "name": "Lukas",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
+          "score": 2.684
         }
       ]
     },
@@ -145,14 +145,14 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 1.8869999647140503,
-      "tier": "A",
+      "score": 1.8450000286102293,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 127,
           "name": "Lukas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
-          "score": 1.887
+          "score": 1.845
         }
       ]
     },
@@ -170,64 +170,91 @@
         "Chase",
         "Damage"
       ],
-      "score": 1.6990000009536743,
-      "tier": "D",
+      "score": 0.3919999897480011,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 127,
           "name": "Lukas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
-          "score": 1.699
+          "score": 0.392
         }
       ]
     },
     {
-      "id": 83,
-      "heroName": "X.Borg",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "id": 28,
+      "heroName": "Alpha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png",
       "role": [
         "Fighter"
       ],
       "lane": [
+        "Jungle",
         "Exp Lane"
       ],
       "speciality": [
-        "Regen",
-        "Burst"
+        "Charge",
+        "Damage"
       ],
-      "score": 0.16500000655651093,
+      "score": 0.36000001430511475,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 127,
           "name": "Lukas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
-          "score": 0.165
+          "score": 0.36
         }
       ]
     },
     {
-      "id": 110,
-      "heroName": "Valentina",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "id": 40,
+      "heroName": "Karrie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
       "role": [
-        "Mage"
+        "Marksman"
       ],
       "lane": [
-        "Mid Lane"
+        "Gold Lane"
       ],
       "speciality": [
-        "Burst",
-        "Finisher"
+        "Finisher",
+        "Damage"
       ],
-      "score": 0.1469999998807907,
-      "tier": "D",
+      "score": 0.28999999165534973,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 127,
           "name": "Lukas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
-          "score": 0.147
+          "score": 0.29
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "heroName": "Kaja",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
+      "role": [
+        "Support",
+        "Fighter"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Control",
+        "Charge"
+      ],
+      "score": 0.11100000143051147,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 127,
+          "name": "Lukas",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
+          "score": 0.111
         }
       ]
     }

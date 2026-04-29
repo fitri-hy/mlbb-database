@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6357,
+      "user_id": 18647,
+      "username": "Neptune",
+      "hero_id": 84,
+      "hero_name": "Ling",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+      "items": [
+        1,
+        9,
+        99,
+        7,
+        13,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          8,
+          10,
+          18
+        ]
+      },
+      "description": "Use red retri,u dmg in early will more burst",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-10T01:30:25.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7196,
+      "user_id": 20634,
+      "username": "adudu",
+      "hero_id": 84,
+      "hero_name": "Ling",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+      "items": [
+        99,
+        1,
+        10,
+        2,
+        13,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          8,
+          19,
+          10
+        ]
+      },
+      "description": "harus menjadi carry untuk item cepat jadi\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-21T08:33:37.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6847,
+      "user_id": 19684,
+      "username": "Renz",
+      "hero_id": 84,
+      "hero_name": "Ling",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+      "items": [
+        1,
+        96,
+        7,
+        13,
+        2,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          16,
+          19
+        ]
+      },
+      "description": "Damage ",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-31T09:11:21.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6128,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 84,
+      "hero_name": "Ling",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+      "items": [
+        99,
+        1,
+        10,
+        7,
+        2,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          19,
+          10,
+          8
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-28T09:38:41.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6377,
+      "user_id": 18699,
+      "username": "pranata",
+      "hero_id": 84,
+      "hero_name": "Ling",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+      "items": [
+        5,
+        96,
+        10,
+        1,
+        2,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          8,
+          10,
+          19
+        ]
+      },
+      "description": "Awal Awal Beli Mentahan Corrosion",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-10T16:21:04.000Z",
+      "likes_count": 1,
+      "dislikes_count": 3
+    }
+  ]
+}

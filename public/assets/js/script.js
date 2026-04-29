@@ -30,10 +30,17 @@ document.documentElement.classList.add('dark');
 
     menuBtn.addEventListener('click', () => {
         mobileMenu.classList.toggle('hidden');
+        menuBtn.querySelector('svg').classList.toggle('rotate-90');
     });
 
     function toggleDropdown(id, el) {
         const menu = document.getElementById(id);
+        const allMenus = el.closest('#mobileMenu').querySelectorAll('[id$="Menu"]');
+        
+        allMenus.forEach(m => {
+            if (m.id !== id) m.classList.add('hidden');
+        });
+
         menu.classList.toggle('hidden');
         const icon = el.querySelector('svg');
         icon.classList.toggle('rotate-180');

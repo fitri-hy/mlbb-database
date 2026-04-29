@@ -1,0 +1,614 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5650,
+      "user_id": 17237,
+      "username": "andri666",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        99,
+        91,
+        17,
+        74,
+        2,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          7,
+          14,
+          19
+        ]
+      },
+      "description": "f",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-12T01:08:08.000Z",
+      "likes_count": 7,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5316,
+      "user_id": 16144,
+      "username": "KUROU",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        99,
+        17,
+        16,
+        74,
+        2,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          19
+        ]
+      },
+      "description": "MARTEEZNUTS",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-01-31T04:13:30.000Z",
+      "likes_count": 5,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5943,
+      "user_id": 17070,
+      "username": "EddyHusin",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        100,
+        17,
+        16,
+        71,
+        74,
+        73
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          23
+        ]
+      },
+      "description": "Use this build my friend Sigung Jovvy becomes MVP",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-24T01:19:47.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6638,
+      "user_id": 19271,
+      "username": "Retzen",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        99,
+        91,
+        17,
+        7,
+        74,
+        68
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "Good in everyfight, short ult and s2 cd, high hp that helps surviving and harvest enemies with burst true damage, spell vamp and lifesteal, well balanced in damage and defense, high mobility tanks to ult cd and bruteforce ms\n\nIt maximizes sustain and physical attack while accumulating HP pool so the fighter can sustain while doing damage and ripping off enemies\n\nYou could change Brute force with Inmortality or Ice Domain if playing jungle, recommended to use flicker and wild blessing when playing exp.",
+      "battle_spell": null,
+      "created_at": "2026-03-22T00:39:08.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5797,
+      "user_id": 17577,
+      "username": "Ustry",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        97,
+        70,
+        2,
+        13,
+        16,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          14,
+          17
+        ]
+      },
+      "description": "Build exp pra segurar o tranco",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-18T01:24:06.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5715,
+      "user_id": 17404,
+      "username": "YuuraIbari",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        100,
+        70,
+        71,
+        75,
+        65,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          2,
+          11,
+          21
+        ]
+      },
+      "description": "Fighter Roam\nFirst item Warrior Boots with Passive - Encourage\nokay i wanna talk about item movement if you buy tough boots, when your enemies have so much cc and just going for it.\nMy tips : \n- You must have the mindset to bully the jungler until the end.\n- Your job is bully the jungler and protect your team lanes.\n- Why i choose Revitalize ? It's good sustain for Martis because you can dive the tower and execute hero with ultimate like 5 seconds.\n- Martis is really good to tanking enemies with Skill 2 (Damage reduction 60%) and adding it to helping your team.\nWhat do i think about Martis ? Hes just good fighter as roam and he has tough body.",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-15T06:05:09.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7024,
+      "user_id": 20198,
+      "username": "SLayeR09",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        99,
+        17,
+        11,
+        13,
+        65,
+        66
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          6,
+          14,
+          22
+        ]
+      },
+      "description": "Shoes can be swapped out for combat boots depending on the situation. Armor should be chosen based on the enemies you’re facing; the armor options here generally work well. Instead of Malefic Roar, you can opt for the Atlantis Spear, Endless War, Blade of Despair, or armor. If you’re unfamiliar with the items, this build generally works well.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-14T03:09:22.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6951,
+      "user_id": 19694,
+      "username": "MD_kakashi",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        11,
+        17,
+        9,
+        13,
+        16,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          19,
+          14,
+          2
+        ]
+      },
+      "description": "Best build",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-09T14:18:40.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6584,
+      "user_id": 19128,
+      "username": "whum",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        91,
+        99,
+        70,
+        74,
+        68,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          6,
+          14,
+          22
+        ]
+      },
+      "description": "sustain x snowball martis",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-18T18:05:16.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6068,
+      "user_id": 18087,
+      "username": "bantaidulu",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        91,
+        100,
+        17,
+        11,
+        74,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "Sakit di early-mid game, pembantai hero tipis, farming cepet, sustain di mid game",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-27T04:45:35.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7380,
+      "user_id": 19964,
+      "username": "Moba_nerfharley",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        98,
+        2,
+        17,
+        73,
+        74,
+        71
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          19,
+          14,
+          2
+        ]
+      },
+      "description": "Build for burst and lifesteal ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-28T13:21:18.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7243,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        99,
+        16,
+        91,
+        14,
+        2,
+        6
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          22,
+          16,
+          1
+        ]
+      },
+      "description": "Assassin playstyle\n\nUse passive stacks for attack speed\n\nExecute hero on low hp with ult",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-22T23:09:25.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6674,
+      "user_id": 19335,
+      "username": "Otong",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        92,
+        91,
+        90,
+        94,
+        2,
+        1
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          18,
+          12,
+          5
+        ]
+      },
+      "description": "Build tersakit",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-24T10:22:18.000Z",
+      "likes_count": 2,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6665,
+      "user_id": 19351,
+      "username": "Wisdom10",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        99,
+        91,
+        19,
+        70,
+        74,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          22,
+          10,
+          1
+        ]
+      },
+      "description": "windtalker helps a lot. Feels weird but has pretty nice synergy with Martin. also can get haas claws for extra LS and crit. ",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-23T20:25:43.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6583,
+      "user_id": 19128,
+      "username": "whum",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        91,
+        99,
+        16,
+        14,
+        74,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          22
+        ]
+      },
+      "description": "snowball martis build against squishies",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-18T18:04:09.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5767,
+      "user_id": 17537,
+      "username": "Alphanerys",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        97,
+        16,
+        91,
+        11,
+        68,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          14,
+          23
+        ]
+      },
+      "description": "Maç başında iş gören mükemmel dizilim. Doğru hamleler oynarsanız rakipler size yaklaşmaya korkacaktır.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-17T11:11:44.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5572,
+      "user_id": 17087,
+      "username": "Kenyx",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        11,
+        100,
+        2,
+        17,
+        74,
+        91
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Hunter Strike\n\nWarrior Boots\n\nBlade of Despair\n\nWar Axe\n\nQueen's Wings\n\nSky Piercer\n",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-09T13:15:24.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6582,
+      "user_id": 19128,
+      "username": "whum",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        16,
+        99,
+        17,
+        13,
+        7,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          17
+        ]
+      },
+      "description": "best build on martis trust!",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-18T18:02:53.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5608,
+      "user_id": 17150,
+      "username": "dave",
+      "hero_id": 58,
+      "hero_name": "Martis",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Finisher, Charge",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+      "items": [
+        17,
+        70,
+        11,
+        65,
+        66,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          6,
+          24
+        ]
+      },
+      "description": "VERY STRONG MARTIS BUILD (trust)\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-10T10:43:19.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

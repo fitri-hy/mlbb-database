@@ -16,65 +16,14 @@
         "Burst",
         "Magic Damage"
       ],
-      "score": 4.02899980545044,
-      "tier": "S",
+      "score": 4.0960001945495605,
+      "tier": "SS",
       "counteredHeroes": [
         {
           "id": 116,
           "name": "Julian",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
-          "score": 4.029
-        }
-      ]
-    },
-    {
-      "id": 74,
-      "heroName": "Minsitthar",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane",
-        "Roam"
-      ],
-      "speciality": [
-        "Initiator",
-        "Crowd Control"
-      ],
-      "score": 3.2950000762939453,
-      "tier": "A",
-      "counteredHeroes": [
-        {
-          "id": 116,
-          "name": "Julian",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
-          "score": 3.295
-        }
-      ]
-    },
-    {
-      "id": 79,
-      "heroName": "Granger",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Finisher"
-      ],
-      "score": 3.240000009536743,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 116,
-          "name": "Julian",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
-          "score": 3.24
+          "score": 4.096
         }
       ]
     },
@@ -93,14 +42,65 @@
         "Support",
         "Damage"
       ],
-      "score": 2.815000057220459,
+      "score": 3.4040000438690186,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 116,
           "name": "Julian",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
-          "score": 2.815
+          "score": 3.404
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "heroName": "Granger",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 3.4030001163482666,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 116,
+          "name": "Julian",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
+          "score": 3.403
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "heroName": "Minsitthar",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "score": 3.2980000972747803,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 116,
+          "name": "Julian",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
+          "score": 3.298
         }
       ]
     },
@@ -117,14 +117,14 @@
       "speciality": [
         "Crowd Control"
       ],
-      "score": 2.296999931335449,
+      "score": 1.840999960899353,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 116,
           "name": "Julian",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
-          "score": 2.297
+          "score": 1.841
         }
       ]
     },
@@ -142,14 +142,40 @@
         "Chase",
         "Damage"
       ],
-      "score": 1.121000051498413,
+      "score": 1.008999943733215,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 116,
+          "name": "Julian",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
+          "score": 1.009
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.0989999994635582,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 116,
           "name": "Julian",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
-          "score": 1.121
+          "score": 0.099
         }
       ]
     },
@@ -167,39 +193,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.119999997317791,
-      "tier": "D",
+      "score": 0,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 116,
           "name": "Julian",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
-          "score": 0.12
-        }
-      ]
-    },
-    {
-      "id": 49,
-      "heroName": "Hylos",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Initiator"
-      ],
-      "score": 0.0989999994635582,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 116,
-          "name": "Julian",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
-          "score": 0.099
+          "score": 0
         }
       ]
     }

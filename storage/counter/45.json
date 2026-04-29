@@ -3,32 +3,6 @@
   "message": "Counter pick suggestions retrieved successfully",
   "data": [
     {
-      "id": 117,
-      "heroName": "Fredrinn",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-      "role": [
-        "Fighter",
-        "Tank"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Chase"
-      ],
-      "score": 5.72599983215332,
-      "tier": "A",
-      "counteredHeroes": [
-        {
-          "id": 45,
-          "name": "Argus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-          "score": 5.726
-        }
-      ]
-    },
-    {
       "id": 81,
       "heroName": "Esmeralda",
       "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
@@ -43,14 +17,40 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 5.38100004196167,
+      "score": 5.965000152587891,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 45,
           "name": "Argus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-          "score": 5.381
+          "score": 5.965
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "heroName": "Fredrinn",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Chase"
+      ],
+      "score": 5.765999794006348,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 45,
+          "name": "Argus",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+          "score": 5.766
         }
       ]
     },
@@ -68,90 +68,14 @@
         "Crowd Control",
         "Regen"
       ],
-      "score": 2.86899995803833,
-      "tier": "D",
+      "score": 5.52400016784668,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 45,
           "name": "Argus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-          "score": 2.869
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "heroName": "Irithel",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Burst"
-      ],
-      "score": 2.6600000858306885,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 45,
-          "name": "Argus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-          "score": 2.66
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "heroName": "Akai",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Crowd Control"
-      ],
-      "score": 2.609999895095825,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 45,
-          "name": "Argus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-          "score": 2.61
-        }
-      ]
-    },
-    {
-      "id": 104,
-      "heroName": "Gloo",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Exp Lane",
-        "Roam"
-      ],
-      "speciality": [
-        "Regen",
-        "Control"
-      ],
-      "score": 2.5799999237060547,
-      "tier": "SS",
-      "counteredHeroes": [
-        {
-          "id": 45,
-          "name": "Argus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-          "score": 2.58
+          "score": 5.524
         }
       ]
     },
@@ -168,14 +92,40 @@
       "speciality": [
         "Regen"
       ],
-      "score": 2.558000087738037,
-      "tier": "D",
+      "score": 4.840000152587891,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 45,
           "name": "Argus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-          "score": 2.558
+          "score": 4.84
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "heroName": "Gloo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Control"
+      ],
+      "score": 2.809999942779541,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 45,
+          "name": "Argus",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+          "score": 2.81
         }
       ]
     },
@@ -194,14 +144,14 @@
         "Burst",
         "Crowd Control"
       ],
-      "score": 1.77400004863739,
-      "tier": "D",
+      "score": 1.565999984741211,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 45,
           "name": "Argus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-          "score": 1.774
+          "score": 1.566
         }
       ]
     },
@@ -219,14 +169,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 0.9710000157356262,
+      "score": 0.7490000128746033,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 45,
           "name": "Argus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-          "score": 0.971
+          "score": 0.749
         }
       ]
     }

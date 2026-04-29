@@ -17,14 +17,14 @@
         "Push",
         "Damage"
       ],
-      "score": 8.246999740600586,
-      "tier": "B",
+      "score": 8.126999855041504,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 123,
           "name": "Cici",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-          "score": 8.247
+          "score": 8.127
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Regen",
         "Guard"
       ],
-      "score": 7.920000076293945,
+      "score": 7.764999866485596,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 123,
           "name": "Cici",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-          "score": 7.92
+          "score": 7.765
         }
       ]
     },
@@ -67,14 +67,14 @@
         "Regen",
         "Burst"
       ],
-      "score": 7.617000102996826,
-      "tier": "D",
+      "score": 7.308000087738037,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 123,
           "name": "Cici",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-          "score": 7.617
+          "score": 7.308
         }
       ]
     },
@@ -92,66 +92,14 @@
         "Chase",
         "Magic Damage"
       ],
-      "score": 6.709000110626221,
-      "tier": "C",
+      "score": 6.696000099182129,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 123,
           "name": "Cici",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-          "score": 6.709
-        }
-      ]
-    },
-    {
-      "id": 120,
-      "heroName": "Arlott",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
-      "role": [
-        "Fighter",
-        "Assassin"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Charge",
-        "Burst"
-      ],
-      "score": 2.680000066757202,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 123,
-          "name": "Cici",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-          "score": 2.68
-        }
-      ]
-    },
-    {
-      "id": 88,
-      "heroName": "Masha",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-      "role": [
-        "Fighter",
-        "Tank"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Push",
-        "Damage"
-      ],
-      "score": 1.225000023841858,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 123,
-          "name": "Cici",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-          "score": 1.225
+          "score": 6.696
         }
       ]
     },
@@ -170,14 +118,40 @@
         "Chase",
         "Damage"
       ],
-      "score": 0.7559999823570251,
+      "score": 3.611000061035156,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 123,
           "name": "Cici",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-          "score": 0.756
+          "score": 3.611
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 1.6469999551773071,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 123,
+          "name": "Cici",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+          "score": 1.647
         }
       ]
     },
@@ -197,14 +171,14 @@
         "Guard",
         "Charge"
       ],
-      "score": 0.23600000143051147,
+      "score": 0.40299999713897705,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 123,
           "name": "Cici",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-          "score": 0.236
+          "score": 0.403
         }
       ]
     }

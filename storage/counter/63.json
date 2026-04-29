@@ -17,14 +17,14 @@
         "Push",
         "Burst"
       ],
-      "score": 5.73199987411499,
+      "score": 5.447999954223633,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 63,
           "name": "Selena",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
-          "score": 5.732
+          "score": 5.448
         }
       ]
     },
@@ -36,21 +36,21 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 5.0920000076293945,
+      "score": 4.620999813079834,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 63,
           "name": "Selena",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
-          "score": 5.092
+          "score": 4.621
         }
       ]
     },
@@ -69,40 +69,14 @@
         "Support",
         "Crowd Control"
       ],
-      "score": 3.5799999237060547,
-      "tier": "D",
+      "score": 3.444999933242798,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 63,
           "name": "Selena",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
-          "score": 3.58
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "heroName": "Sun",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane",
-        "Jungle"
-      ],
-      "speciality": [
-        "Push",
-        "Damage"
-      ],
-      "score": 3.450000047683716,
-      "tier": "B",
-      "counteredHeroes": [
-        {
-          "id": 63,
-          "name": "Selena",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
-          "score": 3.45
+          "score": 3.445
         }
       ]
     },
@@ -121,14 +95,40 @@
         "Support",
         "Crowd Control"
       ],
-      "score": 2.950999975204468,
+      "score": 3.428999900817871,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 63,
           "name": "Selena",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
-          "score": 2.951
+          "score": 3.429
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "heroName": "Sun",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 2.319999933242798,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 63,
+          "name": "Selena",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
+          "score": 2.32
         }
       ]
     },
@@ -147,21 +147,21 @@
         "Push",
         "Damage"
       ],
-      "score": 1.6890000104904177,
+      "score": 2.138000011444092,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 63,
           "name": "Selena",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
-          "score": 1.689
+          "score": 2.138
         }
       ]
     },
     {
-      "id": 89,
-      "heroName": "Wanwan",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "id": 1,
+      "heroName": "Miya",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
       "role": [
         "Marksman"
       ],
@@ -170,16 +170,16 @@
       ],
       "speciality": [
         "Finisher",
-        "Burst"
+        "Damage"
       ],
-      "score": 0.7860000133514404,
-      "tier": "D",
+      "score": 1.0750000476837158,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 63,
           "name": "Selena",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
-          "score": 0.786
+          "score": 1.075
         }
       ]
     },
@@ -197,14 +197,39 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 0.6299999952316284,
+      "score": 0.6510000228881836,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 63,
           "name": "Selena",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
-          "score": 0.63
+          "score": 0.651
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "heroName": "Wanwan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 0.453000009059906,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 63,
+          "name": "Selena",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
+          "score": 0.453
         }
       ]
     },
@@ -223,14 +248,14 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 0.2669999897480011,
+      "score": 0.2290000021457672,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 63,
           "name": "Selena",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
-          "score": 0.267
+          "score": 0.229
         }
       ]
     }

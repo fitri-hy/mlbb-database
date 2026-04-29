@@ -17,14 +17,14 @@
         "Push",
         "Damage"
       ],
-      "score": 6.591000080108643,
-      "tier": "B",
+      "score": 6.388000011444092,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 42,
           "name": "Harley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
-          "score": 6.591
+          "score": 6.388
         }
       ]
     },
@@ -43,14 +43,14 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 6.520999908447266,
+      "score": 6.307000160217285,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 42,
           "name": "Harley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
-          "score": 6.521
+          "score": 6.307
         }
       ]
     },
@@ -69,14 +69,14 @@
         "Push",
         "Burst"
       ],
-      "score": 5.02899980545044,
+      "score": 5.026999950408936,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 42,
           "name": "Harley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
-          "score": 5.029
+          "score": 5.027
         }
       ]
     },
@@ -95,14 +95,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 3.884999990463257,
+      "score": 3.674999952316284,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 42,
           "name": "Harley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
-          "score": 3.885
+          "score": 3.675
         }
       ]
     },
@@ -121,14 +121,14 @@
         "Support",
         "Crowd Control"
       ],
-      "score": 2.7300000190734863,
+      "score": 2.9600000381469727,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 42,
           "name": "Harley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
-          "score": 2.73
+          "score": 2.96
         }
       ]
     },
@@ -147,14 +147,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 1.8509999513626096,
-      "tier": "D",
+      "score": 1.8589999675750728,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 42,
           "name": "Harley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
-          "score": 1.851
+          "score": 1.859
         }
       ]
     },
@@ -173,14 +173,14 @@
         "Charge",
         "Finisher"
       ],
-      "score": 0.968999981880188,
-      "tier": "C",
+      "score": 1.0010000467300415,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 42,
           "name": "Harley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
-          "score": 0.969
+          "score": 1.001
         }
       ]
     },
@@ -198,39 +198,14 @@
         "Control",
         "Burst"
       ],
-      "score": 0.46799999475479126,
+      "score": 0.4429999887943268,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 42,
           "name": "Harley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
-          "score": 0.468
-        }
-      ]
-    },
-    {
-      "id": 100,
-      "heroName": "Brody",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Finisher"
-      ],
-      "score": 0.2070000022649765,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 42,
-          "name": "Harley",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
-          "score": 0.207
+          "score": 0.443
         }
       ]
     }

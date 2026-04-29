@@ -17,14 +17,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 6.914999961853027,
+      "score": 6.980999946594238,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 83,
           "name": "X.Borg",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
-          "score": 6.915
+          "score": 6.981
         }
       ]
     },
@@ -43,14 +43,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 6.75600004196167,
+      "score": 6.861999988555908,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 83,
           "name": "X.Borg",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
-          "score": 6.756
+          "score": 6.862
         }
       ]
     },
@@ -69,39 +69,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 6.209000110626221,
+      "score": 6.206999778747559,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 83,
           "name": "X.Borg",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
-          "score": 6.209
-        }
-      ]
-    },
-    {
-      "id": 118,
-      "heroName": "Joy",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Damage"
-      ],
-      "score": 5.392000198364258,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 83,
-          "name": "X.Borg",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
-          "score": 5.392
+          "score": 6.207
         }
       ]
     },
@@ -120,14 +95,64 @@
         "Push",
         "Damage"
       ],
-      "score": 3.7899999618530273,
-      "tier": "B",
+      "score": 5.929999828338623,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 83,
           "name": "X.Borg",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
-          "score": 3.79
+          "score": 5.93
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "heroName": "Joy",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 5.431000232696533,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 83,
+          "name": "X.Borg",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+          "score": 5.431
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "heroName": "Valentina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 1.52400004863739,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 83,
+          "name": "X.Borg",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+          "score": 1.524
         }
       ]
     },
@@ -146,39 +171,14 @@
         "Push",
         "Burst"
       ],
-      "score": 2.986000061035156,
+      "score": 1.218000054359436,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 83,
           "name": "X.Borg",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
-          "score": 2.986
-        }
-      ]
-    },
-    {
-      "id": 110,
-      "heroName": "Valentina",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Finisher"
-      ],
-      "score": 1.5180000066757202,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 83,
-          "name": "X.Borg",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
-          "score": 1.518
+          "score": 1.218
         }
       ]
     },
@@ -197,14 +197,14 @@
         "Chase",
         "Control"
       ],
-      "score": 0.257999986410141,
+      "score": 0.25,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 83,
           "name": "X.Borg",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
-          "score": 0.258
+          "score": 0.25
         }
       ]
     },
@@ -222,14 +222,14 @@
         "Burst",
         "Magic Damage"
       ],
-      "score": 0.25600001215934753,
+      "score": 0.2290000021457672,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 83,
           "name": "X.Borg",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
-          "score": 0.256
+          "score": 0.229
         }
       ]
     },

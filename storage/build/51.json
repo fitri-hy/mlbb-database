@@ -1,0 +1,582 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6011,
+      "user_id": 17978,
+      "username": "Choxen",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        3,
+        97,
+        6,
+        13,
+        11,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          23
+        ]
+      },
+      "description": "Oneshot ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-25T01:18:22.000Z",
+      "likes_count": 10,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6348,
+      "user_id": 18610,
+      "username": "MAQ",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        97,
+        91,
+        11,
+        13,
+        2,
+        7
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          16,
+          17
+        ]
+      },
+      "description": "This build is for roam Helcurt",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-09T12:49:37.000Z",
+      "likes_count": 7,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5542,
+      "user_id": 17034,
+      "username": "MophHarry",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        97,
+        3,
+        7,
+        6,
+        2,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          12,
+          23
+        ]
+      },
+      "description": "Helcurt Roam focusing on burst.\n\nNotes :\n\n1. Replace demon hunter with hunter strike if the enemy comp has no tank.\n\n2. Replace malefic roar with corrosion scythe if you have high surviability.\n\n3. Replace the last item with any defensive if the enemy mm can burst you own before you can kill\n\n4. Replace the last item with windtalker if you are going to play for maximum tower pushing game play\n\n5. Replace demon sword with sea helberd if you want to focus on bursting out the shield rather than dealing dmg to those with higher hp.",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-08T11:34:05.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6943,
+      "user_id": 13142,
+      "username": "Brzozaq",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        97,
+        3,
+        91,
+        6,
+        5,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          23
+        ]
+      },
+      "description": "Cool dmg, malefic roar can be instead gold rose meteor \n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-09T05:34:05.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6861,
+      "user_id": 19711,
+      "username": "Htvj",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        97,
+        5,
+        3,
+        6,
+        11,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          12,
+          1,
+          23
+        ]
+      },
+      "description": "Coward hit and run cockroach",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-01T02:08:18.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6768,
+      "user_id": 19561,
+      "username": "Helcurt_fan1",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        6,
+        3,
+        16,
+        14,
+        91,
+        99
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          6,
+          12,
+          22
+        ]
+      },
+      "description": "Other version of the build HELCURT.",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-03-28T14:31:14.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6767,
+      "user_id": 19561,
+      "username": "Helcurt_fan1",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        6,
+        99,
+        91,
+        3,
+        16,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          14,
+          22
+        ]
+      },
+      "description": "Op used to kill killing spree,could 3 shot a maze with the ability.",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-28T14:27:54.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6749,
+      "user_id": 19522,
+      "username": "sXwaDe",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        97,
+        3,
+        91,
+        6,
+        13,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          22,
+          12,
+          4
+        ]
+      },
+      "description": "easy pickings",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-27T16:39:00.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6299,
+      "user_id": 18518,
+      "username": "deezNutz",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        6,
+        98,
+        91,
+        3,
+        11,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          23
+        ]
+      },
+      "description": "good for squishy hero and snowball condition",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-03-07T11:29:05.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6246,
+      "user_id": 18422,
+      "username": "Sindu",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        97,
+        3,
+        91,
+        6,
+        5,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          22
+        ]
+      },
+      "description": "Build anti tanh",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-05T10:07:37.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6069,
+      "user_id": 18088,
+      "username": "J05HUAOP",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        99,
+        3,
+        91,
+        13,
+        16,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          22
+        ]
+      },
+      "description": "This Helcurt Jungle Build, is to give maximum damage and try to kill an enemy as fast as possible. This build often two-taps squishies.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-27T04:47:01.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5343,
+      "user_id": 203,
+      "username": "ViolenceMessiah",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        97,
+        11,
+        6,
+        91,
+        13,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          10,
+          23
+        ]
+      },
+      "description": "SLOT GUIDE FOR HELCURT\n\nFLAME RETRIBUTION IS RECOMMENDED\n\nCOMBO = S3 (OPTIONAL) - S1 - RETRI - S2 - BASIC ATTACK\n\n1st - BOOTS\n\n2nd and 3rd - CORE ITEMS (NON-NEGOTIABLE)\n\n4th - AMPLIFIER (BOD/SKYPIERCER)\n\n5th - COUNTER (MALEFIC ROAR/SEA HALBERD)\n\n6th - SURVIVAL ITEM (IMMORTALITY/WINTER CROWN/ROSE GOLD)\n",
+      "battle_spell": "Retribution",
+      "created_at": "2026-01-31T20:02:42.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6796,
+      "user_id": 19630,
+      "username": "mikssdn",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        99,
+        11,
+        6,
+        91,
+        3,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          12,
+          23
+        ]
+      },
+      "description": "J",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-30T03:48:48.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6731,
+      "user_id": 19492,
+      "username": "DANiiiiiiiiiiiii",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        97,
+        3,
+        91,
+        5,
+        13,
+        11
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          12,
+          23
+        ]
+      },
+      "description": "untuk roam Klau korang takpandai guna execute guna petrify",
+      "battle_spell": "Execute",
+      "created_at": "2026-03-26T16:53:51.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6635,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        97,
+        6,
+        3,
+        5,
+        13,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          23
+        ]
+      },
+      "description": "Roam Damage",
+      "battle_spell": null,
+      "created_at": "2026-03-21T15:20:05.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5793,
+      "user_id": 17541,
+      "username": "kamedaaa",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        97,
+        19,
+        5,
+        9,
+        76,
+        7
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          9,
+          20
+        ]
+      },
+      "description": "helcurt izin tampil, ngetes lari pake rapid emblem support+pasif dan ulti beh+conceal-sprint=musuh susah ngejar",
+      "battle_spell": "Sprint",
+      "created_at": "2026-02-17T18:05:18.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5557,
+      "user_id": 11677,
+      "username": "Apiss",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        97,
+        3,
+        6,
+        5,
+        13,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          10,
+          23
+        ]
+      },
+      "description": "Build jungle ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-09T10:05:39.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5724,
+      "user_id": 17423,
+      "username": "kingkodeTH",
+      "hero_id": 51,
+      "hero_name": "Helcurt",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Push, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "items": [
+        100,
+        33,
+        44,
+        39,
+        2,
+        1
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          22
+        ]
+      },
+      "description": "Fuck your dad",
+      "battle_spell": "Execute",
+      "created_at": "2026-02-15T11:56:01.000Z",
+      "likes_count": 0,
+      "dislikes_count": 6
+    }
+  ]
+}

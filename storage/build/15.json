@@ -1,0 +1,390 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5931,
+      "user_id": 17895,
+      "username": "seudoer",
+      "hero_id": 15,
+      "hero_name": "Eudora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "items": [
+        94,
+        42,
+        91,
+        37,
+        44,
+        43
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          22,
+          16,
+          5
+        ]
+      },
+      "description": "its 1hit build build\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-23T12:01:59.000Z",
+      "likes_count": 8,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6351,
+      "user_id": 18612,
+      "username": "sunfish",
+      "hero_id": 15,
+      "hero_name": "Eudora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "items": [
+        97,
+        38,
+        43,
+        47,
+        51,
+        50
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          13,
+          17
+        ]
+      },
+      "description": "Hybrid CD and Ambush",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-09T13:35:42.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5602,
+      "user_id": 17131,
+      "username": "unu",
+      "hero_id": 15,
+      "hero_name": "Eudora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "items": [
+        94,
+        47,
+        42,
+        44,
+        33,
+        91
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          23,
+          13,
+          5
+        ]
+      },
+      "description": "Build burst",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-10T06:03:18.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6182,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 15,
+      "hero_name": "Eudora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "items": [
+        96,
+        38,
+        47,
+        33,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          13,
+          23,
+          5
+        ]
+      },
+      "description": "minion deletus, mid, flicker",
+      "battle_spell": null,
+      "created_at": "2026-03-02T19:10:44.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6193,
+      "user_id": 18321,
+      "username": "MeWantML",
+      "hero_id": 15,
+      "hero_name": "Eudora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "items": [
+        38,
+        96,
+        91,
+        47,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          7,
+          16,
+          23
+        ]
+      },
+      "description": "Poke and Damage(Experiment) if Sky Piercer ain't effective try changing it to glowing wand or genius wand",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-03T08:49:07.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6955,
+      "user_id": 19421,
+      "username": "Junior_BOBJD",
+      "hero_id": 15,
+      "hero_name": "Eudora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "items": [
+        42,
+        47,
+        44,
+        37,
+        50,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          23,
+          16
+        ]
+      },
+      "description": "ONE SHOT ONE KILL",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-09T23:41:18.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7032,
+      "user_id": 20220,
+      "username": "kurirMLBB",
+      "hero_id": 15,
+      "hero_name": "Eudora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "items": [
+        94,
+        42,
+        91,
+        33,
+        37,
+        43
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          23,
+          16,
+          4
+        ]
+      },
+      "description": "Penetration, Finisher",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-14T11:30:25.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6883,
+      "user_id": 19748,
+      "username": "Mestredasbuilds",
+      "hero_id": 15,
+      "hero_name": "Eudora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "items": [
+        94,
+        42,
+        47,
+        38,
+        91,
+        44
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "This build has a lot of magic damage. I played several matches with this build and got 20 eliminations in just one game.You can change the sky piercer for the Divine glave If the enemy team has a lot of healing, use the cut heals.Enjoy the build! :)",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-02T11:17:37.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6802,
+      "user_id": 3700,
+      "username": "lazerbunny",
+      "hero_id": 15,
+      "hero_name": "Eudora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "items": [
+        96,
+        42,
+        37,
+        43,
+        44,
+        91
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          17
+        ]
+      },
+      "description": "i like it",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-03-30T04:46:15.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5901,
+      "user_id": 17803,
+      "username": "Elraff",
+      "hero_id": 15,
+      "hero_name": "Eudora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "items": [
+        94,
+        43,
+        47,
+        51,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          16,
+          23
+        ]
+      },
+      "description": "You need to be aggressive in the early game",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-21T17:45:13.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5505,
+      "user_id": 16919,
+      "username": "MartRayGaming",
+      "hero_id": 15,
+      "hero_name": "Eudora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "items": [
+        94,
+        42,
+        37,
+        43,
+        47,
+        44
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          9,
+          23
+        ]
+      },
+      "description": "Build Penetration",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-06T16:43:22.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5743,
+      "user_id": 17478,
+      "username": "Ah_mad",
+      "hero_id": 15,
+      "hero_name": "Eudora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "items": [
+        5,
+        11,
+        10,
+        14,
+        16,
+        1
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          16,
+          26
+        ]
+      },
+      "description": "Buat ngetroll",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-16T13:22:41.000Z",
+      "likes_count": 0,
+      "dislikes_count": 6
+    }
+  ]
+}

@@ -3,6 +3,31 @@
   "message": "Counter pick suggestions retrieved successfully",
   "data": [
     {
+      "id": 93,
+      "heroName": "Atlas",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Initiator"
+      ],
+      "score": 7.361000061035156,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 94,
+          "name": "Popol and Kupa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+          "score": 7.361
+        }
+      ]
+    },
+    {
       "id": 4,
       "heroName": "Alice",
       "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
@@ -18,39 +43,14 @@
         "Charge",
         "Regen"
       ],
-      "score": 7.513000011444092,
-      "tier": "B",
+      "score": 7.123000144958496,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 94,
           "name": "Popol and Kupa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
-          "score": 7.513
-        }
-      ]
-    },
-    {
-      "id": 93,
-      "heroName": "Atlas",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Initiator"
-      ],
-      "score": 7.36899995803833,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 94,
-          "name": "Popol and Kupa",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
-          "score": 7.369
+          "score": 7.123
         }
       ]
     },
@@ -69,14 +69,14 @@
         "Crowd Control",
         "Damage"
       ],
-      "score": 6.770999908447266,
-      "tier": "D",
+      "score": 6.835999965667725,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 94,
           "name": "Popol and Kupa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
-          "score": 6.771
+          "score": 6.836
         }
       ]
     },
@@ -94,14 +94,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 6.534999847412109,
+      "score": 6.439000129699707,
       "tier": "B",
       "counteredHeroes": [
         {
           "id": 94,
           "name": "Popol and Kupa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
-          "score": 6.535
+          "score": 6.439
         }
       ]
     },
@@ -119,14 +119,39 @@
         "Chase",
         "Burst"
       ],
-      "score": 3.880000114440918,
+      "score": 3.549999952316284,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 94,
           "name": "Popol and Kupa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
-          "score": 3.88
+          "score": 3.55
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "heroName": "Luo Yi",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 1.440000057220459,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 94,
+          "name": "Popol and Kupa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+          "score": 1.44
         }
       ]
     },
@@ -145,14 +170,14 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 2.0980000495910645,
+      "score": 0.7549999952316284,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 94,
           "name": "Popol and Kupa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
-          "score": 2.098
+          "score": 0.755
         }
       ]
     },
@@ -171,40 +196,14 @@
         "Push",
         "Damage"
       ],
-      "score": 0.4779999852180481,
-      "tier": "B",
+      "score": 0.4690000116825104,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 94,
           "name": "Popol and Kupa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
-          "score": 0.478
-        }
-      ]
-    },
-    {
-      "id": 82,
-      "heroName": "Terizla",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
-      "role": [
-        "Fighter",
-        "Tank"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Crowd Control"
-      ],
-      "score": 0.2189999967813492,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 94,
-          "name": "Popol and Kupa",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
-          "score": 0.219
+          "score": 0.469
         }
       ]
     },
@@ -222,14 +221,39 @@
         "Crowd Control",
         "Support"
       ],
-      "score": 0.18700000643730164,
+      "score": 0.2280000001192093,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 94,
           "name": "Popol and Kupa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
-          "score": 0.187
+          "score": 0.228
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "heroName": "Hanzo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.20600000023841855,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 94,
+          "name": "Popol and Kupa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+          "score": 0.206
         }
       ]
     }

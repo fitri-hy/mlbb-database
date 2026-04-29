@@ -1,0 +1,614 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5515,
+      "user_id": 9592,
+      "username": "chameminder",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        98,
+        10,
+        1,
+        11,
+        12,
+        9
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          16,
+          26
+        ]
+      },
+      "description": "crit build",
+      "battle_spell": "Aegis",
+      "created_at": "2026-02-07T05:01:55.000Z",
+      "likes_count": 7,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6907,
+      "user_id": 19829,
+      "username": "obsidiathequeen",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        99,
+        19,
+        10,
+        1,
+        9,
+        16
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          26,
+          2,
+          16
+        ]
+      },
+      "description": "very good",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-06T11:14:36.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5828,
+      "user_id": 17638,
+      "username": "kikyo_611",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        19,
+        91,
+        10,
+        1,
+        18,
+        12
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          13,
+          26
+        ]
+      },
+      "description": "aşkıma obsi build",
+      "battle_spell": "Aegis",
+      "created_at": "2026-02-18T23:01:23.000Z",
+      "likes_count": 4,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7116,
+      "user_id": 20454,
+      "username": "Gamersproyt",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        1,
+        8,
+        6,
+        7,
+        19,
+        12
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          12,
+          26
+        ]
+      },
+      "description": "Best for rank killing easy dmg build at speed only since she is based on it",
+      "battle_spell": "Aegis",
+      "created_at": "2026-04-18T05:30:59.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6093,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        99,
+        19,
+        10,
+        1,
+        12,
+        18
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          18,
+          12,
+          2
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-27T18:43:02.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7045,
+      "user_id": 20257,
+      "username": "Abcj",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        98,
+        10,
+        1,
+        19,
+        9,
+        12
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          18,
+          16,
+          2
+        ]
+      },
+      "description": "Highest Crit Damage ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-15T09:34:16.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7044,
+      "user_id": 20257,
+      "username": "Abcj",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        91,
+        10,
+        16,
+        9,
+        6,
+        7
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          13,
+          18
+        ]
+      },
+      "description": "Early kills, sustain and late game power.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-15T09:27:32.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6970,
+      "user_id": 20047,
+      "username": "amophobia",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        98,
+        5,
+        6,
+        8,
+        14,
+        12
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          16,
+          26
+        ]
+      },
+      "description": "IDK",
+      "battle_spell": "Aegis",
+      "created_at": "2026-04-10T19:09:17.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6931,
+      "user_id": 11342,
+      "username": "A.M",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        100,
+        19,
+        91,
+        10,
+        1,
+        12
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          13,
+          26
+        ]
+      },
+      "description": "Build ini bagus dipake kalo musuh banyak yang tipis dan jika musuh banyak yang tebal saya rekomendasi pake build trinity. Di early beli mentahan sepatu dulu lalu terserah anda kalo sudah sampai mid game mau di jual atau dijadikan. Berhati hatilah ketika musuh menggunakan spell vengence dan juga item blade armor. Hati hati juga kalo tank musuh menggunakan hero Belerick dan jika di lane anda lawan lesley, hanabi, miya, dan wanwan tolong jaga jarak dulu minimal item windtalker dan hass's claws jadi. Dan jika lawan anda adalah granger, claude, dan beatrix jangan ragu untuk poking lawan ini akan sangat untung dan juga jangan lupa freeze minion agar musuh tidak mendapat gold. Dan jika 3 musuh sekaligus punya CC lebih baik anda menggunakan spell puriffy mengapa tidak memakai spell Flicker, karena kurang efektif lebih baik andalkan skill 2 obsidia untuk kabur atau mengejar musuh tapi jika anda merasa lebih bagus menggunakan Flicker saya mempersilakan anda untuk memakai nya tidak ada yang melarang anda menggunakannya. Dan jika tim anda kalah gold dengan musuh saya sarankan ganti sky piercer dan beli rose gold agar mendapatkan shield saat HP rendah. ",
+      "battle_spell": "Aegis",
+      "created_at": "2026-04-08T04:54:59.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5560,
+      "user_id": 17087,
+      "username": "Kenyx",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        19,
+        5,
+        10,
+        1,
+        12,
+        18
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          16,
+          26
+        ]
+      },
+      "description": "Attack Speed & Crit Chance\nWindtalker\nCorrosion Scythe\nHaas' Claws\nBerserker's Fury\nMalefic Gun\nWind of Nature",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-09T12:32:46.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7284,
+      "user_id": 18960,
+      "username": "skibidi_skillz",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        96,
+        5,
+        6,
+        8,
+        7,
+        12
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          18,
+          9,
+          7
+        ]
+      },
+      "description": "testing",
+      "battle_spell": null,
+      "created_at": "2026-04-24T17:26:45.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7259,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        97,
+        16,
+        91,
+        6,
+        13,
+        8
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          26,
+          12,
+          4
+        ]
+      },
+      "description": "Huntress Obsidia\n\nThis build has a unique executioner style which is a mix of penetration and damage increase on the core damage dealer (demon hunter sword) which triggers due to her passive \n\nPlaystyle is to hunt targets one by one\n\nWeakness: sustain is bad sadly, only healing item is demon hunter sword and even then it isn't good at its job, power potion does help you cope with it but it's a late game item so it really isn't a fix",
+      "battle_spell": "Sprint",
+      "created_at": "2026-04-23T22:06:38.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7253,
+      "user_id": 11342,
+      "username": "A.M",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        5,
+        100,
+        91,
+        6,
+        8,
+        12
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          14,
+          26
+        ]
+      },
+      "description": "Jika musuh tipis bisa sekali pakai critical. Jika tim anda kalah gold usahakan ganti item sky piercer nya. Dan jika anda tidak menyukai sky piercer bisa di ganti dengan apa saja. Jika di late game jual saja sepatu dan beli rose gold supaya ada pelindung tambahan.",
+      "battle_spell": "Aegis",
+      "created_at": "2026-04-23T07:48:08.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7173,
+      "user_id": 18960,
+      "username": "skibidi_skillz",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        96,
+        19,
+        6,
+        5,
+        14,
+        13
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          9,
+          18
+        ]
+      },
+      "description": "WIP",
+      "battle_spell": "Purify",
+      "created_at": "2026-04-20T11:37:32.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7001,
+      "user_id": 19845,
+      "username": "Zoey99",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        98,
+        8,
+        5,
+        6,
+        10,
+        12
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          26,
+          14,
+          2
+        ]
+      },
+      "description": "Obsidia attack speed",
+      "battle_spell": "Inspire",
+      "created_at": "2026-04-13T10:53:29.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6677,
+      "user_id": 7295,
+      "username": "Viper_Kung",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        5,
+        19,
+        6,
+        10,
+        1,
+        12
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          7,
+          16,
+          26
+        ]
+      },
+      "description": "Good",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-24T16:24:57.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6423,
+      "user_id": 18773,
+      "username": "Ryanmtxp",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        5,
+        19,
+        10,
+        1,
+        12,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          16,
+          18
+        ]
+      },
+      "description": "Thais build is one mix off Attack Speed + Critical Chance, good for papering weak enemies with low hp",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-12T05:02:22.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5380,
+      "user_id": 16605,
+      "username": "Global11",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        19,
+        98,
+        10,
+        1,
+        9,
+        16
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          18,
+          16,
+          8
+        ]
+      },
+      "description": "Kalo musuh pick Hero tebel.. dilate gak kalian bisa jual sepatu dan beli malefic roar.. kalo musuh pick Hero tipis kalian bisa tuker sepatu ke malefic gun.. see youu😪",
+      "battle_spell": "Aegis",
+      "created_at": "2026-02-02T04:48:34.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6782,
+      "user_id": 18960,
+      "username": "skibidi_skillz",
+      "hero_id": 130,
+      "hero_name": "Obsidia",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "items": [
+        96,
+        5,
+        6,
+        8,
+        14,
+        13
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          9,
+          18
+        ]
+      },
+      "description": "Tank melter",
+      "battle_spell": null,
+      "created_at": "2026-03-29T08:35:21.000Z",
+      "likes_count": 1,
+      "dislikes_count": 2
+    }
+  ]
+}

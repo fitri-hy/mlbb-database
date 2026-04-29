@@ -1,0 +1,486 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5807,
+      "user_id": 16469,
+      "username": "Arch",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        99,
+        76,
+        7,
+        70,
+        13,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          16,
+          18
+        ]
+      },
+      "description": "Pure Hybrid Defense, DPS, and lifesteal. ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-18T09:36:41.000Z",
+      "likes_count": 13,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5540,
+      "user_id": 17032,
+      "username": "M_e",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        97,
+        3,
+        11,
+        7,
+        2,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          18,
+          9,
+          7
+        ]
+      },
+      "description": "ลองไช้ดูนะ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-08T10:59:48.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6718,
+      "user_id": 19421,
+      "username": "Junior_BOBJD",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        96,
+        3,
+        11,
+        13,
+        2,
+        16
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          12,
+          18
+        ]
+      },
+      "description": "ONE SHOT BYE BYE",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-26T10:50:51.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6274,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        97,
+        3,
+        13,
+        90,
+        14,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          13,
+          20
+        ]
+      },
+      "description": "farm and lose, exp, flicker",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-06T19:18:55.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6808,
+      "user_id": 19635,
+      "username": "agitated_cornwall",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        99,
+        13,
+        7,
+        74,
+        14,
+        2
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          9,
+          26
+        ]
+      },
+      "description": "High movement speed build with defensive capabilities and damage",
+      "battle_spell": "Sprint",
+      "created_at": "2026-03-30T05:28:11.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5838,
+      "user_id": 17602,
+      "username": "Bangjali",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        96,
+        3,
+        91,
+        2,
+        7,
+        71
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          12,
+          24,
+          6
+        ]
+      },
+      "description": "Build aldous tanky tapi sangat sakit",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-19T01:49:25.000Z",
+      "likes_count": 5,
+      "dislikes_count": 3
+    },
+    {
+      "build_id": 5664,
+      "user_id": 17276,
+      "username": "Handofko",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        97,
+        91,
+        76,
+        6,
+        7,
+        3
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          23,
+          10,
+          2
+        ]
+      },
+      "description": "....",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-12T13:20:18.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7221,
+      "user_id": 20703,
+      "username": "Bedos",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        7,
+        10,
+        14,
+        73,
+        74,
+        97
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          9,
+          18
+        ]
+      },
+      "description": "Aldous kekebalan tubuh ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-22T15:39:05.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6973,
+      "user_id": 20056,
+      "username": "Mezuslive",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        76,
+        99,
+        7,
+        68,
+        70,
+        12
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          18,
+          9,
+          4
+        ]
+      },
+      "description": "Semitank",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-11T00:58:40.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6653,
+      "user_id": 19323,
+      "username": "Black00",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        97,
+        7,
+        10,
+        14,
+        73,
+        74
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          9,
+          18
+        ]
+      },
+      "description": "Best for lifesteal ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-23T03:45:40.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5476,
+      "user_id": 16815,
+      "username": "Azumiqwq",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        97,
+        7,
+        74,
+        13,
+        70,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          9,
+          18
+        ]
+      },
+      "description": "You can change imo for magic def, this build is a sustain and also can  also deel more dmg when low hp ",
+      "battle_spell": "Sprint",
+      "created_at": "2026-02-05T05:13:36.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5382,
+      "user_id": 16606,
+      "username": "nower",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        99,
+        7,
+        68,
+        13,
+        66,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          9,
+          18
+        ]
+      },
+      "description": "For solo players",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-02T04:57:21.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7038,
+      "user_id": 20236,
+      "username": "DALI",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        13,
+        11,
+        2,
+        1,
+        9,
+        99
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          12,
+          4,
+          23
+        ]
+      },
+      "description": "ELEGAMPI PUESSS\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-14T21:45:43.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5308,
+      "user_id": 2866,
+      "username": "YouWillTry",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        99,
+        91,
+        7,
+        3,
+        13,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          18,
+          9,
+          7
+        ]
+      },
+      "description": "Contrução de Dano Aldous",
+      "battle_spell": "Flicker",
+      "created_at": "2026-01-30T14:45:18.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5753,
+      "user_id": 17497,
+      "username": "zhaaaaa1",
+      "hero_id": 64,
+      "hero_name": "Aldous",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Support",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "items": [
+        78,
+        52,
+        67,
+        10,
+        22,
+        87
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          15,
+          23,
+          6
+        ]
+      },
+      "description": "1153513",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-16T19:56:41.000Z",
+      "likes_count": 0,
+      "dislikes_count": 5
+    }
+  ]
+}

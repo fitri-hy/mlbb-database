@@ -17,14 +17,14 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 7.540999889373779,
+      "score": 6.651000022888184,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 90,
           "name": "Silvanna",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
-          "score": 7.541
+          "score": 6.651
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Finisher",
         "Magic Damage"
       ],
-      "score": 5.906000137329102,
+      "score": 5.741000175476074,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 90,
           "name": "Silvanna",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
-          "score": 5.906
+          "score": 5.741
         }
       ]
     },
@@ -69,14 +69,14 @@
         "Control",
         "Burst"
       ],
-      "score": 5.623000144958496,
+      "score": 5.48199987411499,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 90,
           "name": "Silvanna",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
-          "score": 5.623
+          "score": 5.482
         }
       ]
     },
@@ -95,14 +95,14 @@
         "Push",
         "Damage"
       ],
-      "score": 4.855000019073486,
+      "score": 5.322000026702881,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 90,
           "name": "Silvanna",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
-          "score": 4.855
+          "score": 5.322
         }
       ]
     },
@@ -120,14 +120,14 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 3.3239998817443848,
+      "score": 2.950000047683716,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 90,
           "name": "Silvanna",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
-          "score": 3.324
+          "score": 2.95
         }
       ]
     },
@@ -146,39 +146,39 @@
         "Chase",
         "Burst"
       ],
-      "score": 2.615000009536743,
+      "score": 2.5840001106262207,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 90,
           "name": "Silvanna",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
-          "score": 2.615
+          "score": 2.584
         }
       ]
     },
     {
-      "id": 89,
-      "heroName": "Wanwan",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "id": 48,
+      "heroName": "Diggie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
       "role": [
-        "Marksman"
+        "Support"
       ],
       "lane": [
-        "Gold Lane"
+        "Roam"
       ],
       "speciality": [
-        "Finisher",
-        "Burst"
+        "Guard",
+        "Poke"
       ],
-      "score": 0.49799999594688416,
-      "tier": "D",
+      "score": 0.2189999967813492,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 90,
           "name": "Silvanna",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
-          "score": 0.498
+          "score": 0.219
         }
       ]
     },
@@ -196,39 +196,64 @@
         "Chase",
         "Burst"
       ],
-      "score": 0.41999998688697815,
+      "score": 0.210999995470047,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 90,
           "name": "Silvanna",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
-          "score": 0.42
+          "score": 0.211
         }
       ]
     },
     {
-      "id": 93,
-      "heroName": "Atlas",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "id": 84,
+      "heroName": "Ling",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
       "role": [
-        "Tank"
+        "Assassin"
       ],
       "lane": [
-        "Roam"
+        "Jungle"
       ],
       "speciality": [
-        "Crowd Control",
-        "Initiator"
+        "Chase",
+        "Burst"
       ],
-      "score": 0.1860000044107437,
+      "score": 0.17399999499320984,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 90,
           "name": "Silvanna",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
-          "score": 0.186
+          "score": 0.174
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "heroName": "Yu Zhong",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Damage"
+      ],
+      "score": 0.16899999976158142,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 90,
+          "name": "Silvanna",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+          "score": 0.169
         }
       ]
     }

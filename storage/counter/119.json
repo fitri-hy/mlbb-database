@@ -17,14 +17,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 6.901999950408936,
-      "tier": "D",
+      "score": 6.864999771118164,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 119,
           "name": "Novaria",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
-          "score": 6.902
+          "score": 6.865
         }
       ]
     },
@@ -42,39 +42,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 5.401999950408936,
+      "score": 5.361000061035156,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 119,
           "name": "Novaria",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
-          "score": 5.402
-        }
-      ]
-    },
-    {
-      "id": 64,
-      "heroName": "Aldous",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Support"
-      ],
-      "score": 4.775000095367432,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 119,
-          "name": "Novaria",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
-          "score": 4.775
+          "score": 5.361
         }
       ]
     },
@@ -94,14 +69,14 @@
         "Damage",
         "Regen"
       ],
-      "score": 4.625999927520752,
-      "tier": "A",
+      "score": 4.519999980926514,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 119,
           "name": "Novaria",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
-          "score": 4.626
+          "score": 4.52
         }
       ]
     },
@@ -119,14 +94,65 @@
         "Poke",
         "Burst"
       ],
-      "score": 2.7300000190734863,
+      "score": 2.720000028610229,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 119,
           "name": "Novaria",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
-          "score": 2.73
+          "score": 2.72
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "heroName": "Sun",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 2.680000066757202,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 119,
+          "name": "Novaria",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+          "score": 2.68
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "heroName": "Aldous",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Support"
+      ],
+      "score": 2.08899998664856,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 119,
+          "name": "Novaria",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+          "score": 2.089
         }
       ]
     },
@@ -171,14 +197,14 @@
         "Push",
         "Damage"
       ],
-      "score": 0.8489999771118164,
+      "score": 0.6779999732971191,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 119,
           "name": "Novaria",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
-          "score": 0.849
+          "score": 0.678
         }
       ]
     },
@@ -196,40 +222,14 @@
         "Finisher",
         "Chase"
       ],
-      "score": 0.4620000123977661,
-      "tier": "D",
+      "score": 0.4309999942779541,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 119,
           "name": "Novaria",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
-          "score": 0.462
-        }
-      ]
-    },
-    {
-      "id": 73,
-      "heroName": "Harith",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Gold Lane",
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Chase",
-        "Damage"
-      ],
-      "score": 0.2140000015497208,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 119,
-          "name": "Novaria",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
-          "score": 0.214
+          "score": 0.431
         }
       ]
     },
@@ -247,14 +247,40 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.20499999821186063,
+      "score": 0.4300000071525574,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 119,
           "name": "Novaria",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
-          "score": 0.205
+          "score": 0.43
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "heroName": "Harith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Gold Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 119,
+          "name": "Novaria",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+          "score": 0
         }
       ]
     }

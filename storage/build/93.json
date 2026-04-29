@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 7084,
+      "user_id": 20380,
+      "username": "MVU!",
+      "hero_id": 93,
+      "hero_name": "Atlas",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control, Initiator",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "items": [
+        97,
+        70,
+        65,
+        66,
+        117,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          15,
+          21
+        ]
+      },
+      "description": "play safe, full defense (Hybrid Defense)",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-16T18:23:55.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7240,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 93,
+      "hero_name": "Atlas",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control, Initiator",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "items": [
+        97,
+        71,
+        90,
+        70,
+        75,
+        65
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          21,
+          15,
+          6
+        ]
+      },
+      "description": "Roam blessing: Encourage\n\nSpare items:\nBlade armor\nAthena's shield\n\nNote: Don't question the item order, and don't mess with it",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-22T22:58:47.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6571,
+      "user_id": 19118,
+      "username": "c1tr0v",
+      "hero_id": 93,
+      "hero_name": "Atlas",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control, Initiator",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "items": [
+        97,
+        70,
+        71,
+        67,
+        72,
+        75
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          11,
+          21
+        ]
+      },
+      "description": "atlas ni c1tr0v",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-18T16:16:19.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6534,
+      "user_id": 19006,
+      "username": "Algoritma",
+      "hero_id": 93,
+      "hero_name": "Atlas",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control, Initiator",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "items": [
+        97,
+        70,
+        90,
+        65,
+        75,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          9,
+          21
+        ]
+      },
+      "description": "Rotasi cepat, montage, tahan lama, dan cooldown reduction.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-16T08:55:45.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5918,
+      "user_id": 3194,
+      "username": "Laksh",
+      "hero_id": 93,
+      "hero_name": "Atlas",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control, Initiator",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "items": [
+        97,
+        73,
+        40,
+        117,
+        71,
+        35
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          24,
+          3,
+          13
+        ]
+      },
+      "description": "Reached Immortal by this emblem setup. Its easier to save strong carry in our team to win hard games. \nAlso it gives a surprise to enemy about being strong healer with cc too",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-23T04:00:44.000Z",
+      "likes_count": 2,
+      "dislikes_count": 2
+    }
+  ]
+}

@@ -16,14 +16,14 @@
         "Damage",
         "Guard"
       ],
-      "score": 6.4629998207092285,
+      "score": 6.815000057220459,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 117,
           "name": "Fredrinn",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-          "score": 6.463
+          "score": 6.815
         }
       ]
     },
@@ -41,64 +41,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 5.561999797821045,
-      "tier": "D",
+      "score": 5.455999851226807,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 117,
           "name": "Fredrinn",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-          "score": 5.562
-        }
-      ]
-    },
-    {
-      "id": 123,
-      "heroName": "Cici",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Regen"
-      ],
-      "score": 3.484999895095825,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 117,
-          "name": "Fredrinn",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-          "score": 3.485
-        }
-      ]
-    },
-    {
-      "id": 132,
-      "heroName": "Marcel",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Support"
-      ],
-      "score": 2.650000095367432,
-      "tier": "SS",
-      "counteredHeroes": [
-        {
-          "id": 117,
-          "name": "Fredrinn",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-          "score": 2.65
+          "score": 5.456
         }
       ]
     },
@@ -116,14 +66,39 @@
         "Poke",
         "Burst"
       ],
-      "score": 2.5460000038146973,
+      "score": 5.091000080108643,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 117,
           "name": "Fredrinn",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-          "score": 2.546
+          "score": 5.091
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "heroName": "Cici",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 2.7300000190734863,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 117,
+          "name": "Fredrinn",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
+          "score": 2.73
         }
       ]
     },
@@ -141,40 +116,39 @@
         "Regen",
         "Burst"
       ],
-      "score": 2.4170000553131104,
-      "tier": "D",
+      "score": 2.595000028610229,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 117,
           "name": "Fredrinn",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-          "score": 2.417
+          "score": 2.595
         }
       ]
     },
     {
-      "id": 2,
-      "heroName": "Balmond",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "id": 132,
+      "heroName": "Marcel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
       "role": [
-        "Fighter"
+        "Support"
       ],
       "lane": [
-        "Jungle",
-        "Exp Lane"
+        "Roam"
       ],
       "speciality": [
-        "Damage",
-        "Regen"
+        "Crowd Control",
+        "Support"
       ],
-      "score": 2.400000095367432,
-      "tier": "D",
+      "score": 2.5,
+      "tier": "SS",
       "counteredHeroes": [
         {
           "id": 117,
           "name": "Fredrinn",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-          "score": 2.4
+          "score": 2.5
         }
       ]
     },
@@ -192,40 +166,39 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.6819999814033508,
+      "score": 1.2940000295639038,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 117,
           "name": "Fredrinn",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-          "score": 0.682
+          "score": 1.294
         }
       ]
     },
     {
-      "id": 28,
-      "heroName": "Alpha",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png",
+      "id": 108,
+      "heroName": "Aulus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
       "role": [
         "Fighter"
       ],
       "lane": [
-        "Jungle",
-        "Exp Lane"
+        "Jungle"
       ],
       "speciality": [
-        "Charge",
-        "Damage"
+        "Damage",
+        "Charge"
       ],
-      "score": 0.5239999890327454,
-      "tier": "D",
+      "score": 1.225000023841858,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 117,
           "name": "Fredrinn",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-          "score": 0.524
+          "score": 1.225
         }
       ]
     }

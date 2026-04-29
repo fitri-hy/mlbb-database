@@ -16,14 +16,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 6.189000129699707,
-      "tier": "D",
+      "score": 6.206999778747559,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 60,
           "name": "Hanabi",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
-          "score": 6.189
+          "score": 6.207
         }
       ]
     },
@@ -41,14 +41,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 5.934000015258789,
-      "tier": "D",
+      "score": 6.071000099182129,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 60,
           "name": "Hanabi",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
-          "score": 5.934
+          "score": 6.071
         }
       ]
     },
@@ -66,14 +66,14 @@
         "Charge",
         "Burst"
       ],
-      "score": 4.340000152587891,
+      "score": 4.269999980926514,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 60,
           "name": "Hanabi",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
-          "score": 4.34
+          "score": 4.27
         }
       ]
     },
@@ -91,14 +91,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 3.3299999237060547,
+      "score": 3.450000047683716,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 60,
           "name": "Hanabi",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
-          "score": 3.33
+          "score": 3.45
         }
       ]
     },
@@ -118,65 +118,14 @@
         "Burst",
         "Control"
       ],
-      "score": 3.2799999713897705,
+      "score": 2.990000009536743,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 60,
           "name": "Hanabi",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
-          "score": 3.28
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "heroName": "Natalia",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle",
-        "Roam"
-      ],
-      "speciality": [
-        "Chase",
-        "Finisher"
-      ],
-      "score": 2.190000057220459,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 60,
-          "name": "Hanabi",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
-          "score": 2.19
-        }
-      ]
-    },
-    {
-      "id": 69,
-      "heroName": "Hanzo",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Poke",
-        "Burst"
-      ],
-      "score": 1.774999976158142,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 60,
-          "name": "Hanabi",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
-          "score": 1.775
+          "score": 2.99
         }
       ]
     },
@@ -195,14 +144,39 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 0.9639999866485596,
+      "score": 2.0309998989105225,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 60,
           "name": "Hanabi",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
-          "score": 0.964
+          "score": 2.031
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "heroName": "Karina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Finisher",
+        "Magic Damage"
+      ],
+      "score": 1.2699999809265137,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 60,
+          "name": "Hanabi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+          "score": 1.27
         }
       ]
     },
@@ -220,14 +194,40 @@
         "Burst",
         "Finisher"
       ],
-      "score": 0.49900001287460327,
+      "score": 0.9760000109672546,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 60,
           "name": "Hanabi",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
-          "score": 0.499
+          "score": 0.976
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "heroName": "Natalia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 0.7960000038146973,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 60,
+          "name": "Hanabi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+          "score": 0.796
         }
       ]
     },
@@ -245,14 +245,39 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.2380000054836273,
+      "score": 0.4909999966621399,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 60,
           "name": "Hanabi",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
-          "score": 0.238
+          "score": 0.491
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "heroName": "Hanzo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 60,
+          "name": "Hanabi",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+          "score": 0
         }
       ]
     }

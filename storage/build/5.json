@@ -1,0 +1,422 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5685,
+      "user_id": 17027,
+      "username": "Solomon",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        94,
+        47,
+        42,
+        44,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          14,
+          17,
+          1
+        ]
+      },
+      "description": "Boomerang Thunderstorm",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-02-13T17:48:20.000Z",
+      "likes_count": 10,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5598,
+      "user_id": 17128,
+      "username": "Meix",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        100,
+        35,
+        74,
+        17,
+        37,
+        71
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          14,
+          23
+        ]
+      },
+      "description": "Exp Nana",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-10T05:26:22.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6216,
+      "user_id": 18361,
+      "username": "rrq_kairi",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        98,
+        5,
+        10,
+        19,
+        43,
+        8
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          26,
+          9,
+          2
+        ]
+      },
+      "description": "NANA INSPIRASI\n",
+      "battle_spell": "Inspire",
+      "created_at": "2026-03-04T02:50:08.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6172,
+      "user_id": 18277,
+      "username": "Murid_kokoa",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        94,
+        43,
+        37,
+        51,
+        44,
+        47
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          23
+        ]
+      },
+      "description": "Burst tanky hero and fluffy hero",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-03-02T13:34:18.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7349,
+      "user_id": 20984,
+      "username": "Yuw",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        19,
+        44,
+        51,
+        33,
+        72,
+        94
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          8,
+          13,
+          25
+        ]
+      },
+      "description": "I dont know,i just make it",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-27T13:21:29.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7296,
+      "user_id": 761,
+      "username": "SoulDark",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        94,
+        38,
+        43,
+        42,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          23
+        ]
+      },
+      "description": "dmg, velocita CD, tanta vita",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-04-25T12:33:37.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6982,
+      "user_id": 20090,
+      "username": "MAYO",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        5,
+        98,
+        6,
+        8,
+        19,
+        13
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          16,
+          26
+        ]
+      },
+      "description": "nana Good at Early and Laning Phase\nSustain at lane and War\n\nGood againts slow Hero Like Miya, Zetian, Pharsha",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-11T14:32:19.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6913,
+      "user_id": 8705,
+      "username": "Khr@7799",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        5,
+        98,
+        8,
+        6,
+        13,
+        14
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          16,
+          18
+        ]
+      },
+      "description": "Nana paling brutal",
+      "battle_spell": "Inspire",
+      "created_at": "2026-04-06T22:55:26.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6801,
+      "user_id": 3700,
+      "username": "lazerbunny",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        94,
+        50,
+        37,
+        43,
+        44,
+        47
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          24
+        ]
+      },
+      "description": "try it out",
+      "battle_spell": "Sprint",
+      "created_at": "2026-03-30T04:44:15.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6655,
+      "user_id": 19324,
+      "username": "chaozmotion",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        96,
+        38,
+        33,
+        72,
+        47,
+        90
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          7,
+          13,
+          24
+        ]
+      },
+      "description": "Tank Support Build - Utilizing 2nd skill of nana to support team, using fast cooldown and durability at team clashes.",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-03-23T04:38:12.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6218,
+      "user_id": 17933,
+      "username": "Kiboy969",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        99,
+        117,
+        70,
+        73,
+        74,
+        66
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          13,
+          21
+        ]
+      },
+      "description": "#kata sasi\n",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-03-04T02:53:33.000Z",
+      "likes_count": 2,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5665,
+      "user_id": 12298,
+      "username": "Kadek23",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        38,
+        51,
+        73,
+        72,
+        90,
+        96
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          11,
+          20
+        ]
+      },
+      "description": "Nana paling resek ",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-12T13:49:04.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6306,
+      "user_id": 18483,
+      "username": "1shot",
+      "hero_id": 5,
+      "hero_name": "Nana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
+      "items": [
+        33,
+        42,
+        45,
+        47,
+        38,
+        51
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          13,
+          23
+        ]
+      },
+      "description": "Use this build and you'll see how annoying you can be and her true burst potential yourself. Bloodwings provides a massive shield based on magic power acting like another health bar enemies must break before they can actually trigger your passive and with a 20 second cooldown say less. Genius wand stacks on top of skill two's magic defense reduction. Ice Queen applies a heavy slow turning molina from an avoidable nuisance into an inescapable trap (one the chase starts the enemy is slowed so much they cannot outrun your follow up). Lightning trunch provides additional AoE burst to your ultimate. Enchanted provides 45% CD reduction and mana allowing you to poke and spam S1 every two seconds. And wishing lantern deals extra damage based on enemy's max HP, so by constantly poking, you're forcing the enemy to focus on you because of your damage output baiting them into your traps, ultimate and passive. Flameshot for clutch snipes and a full mage emblem for cooldown reductions, item discounts and burn damage.",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-03-07T15:10:44.000Z",
+      "likes_count": 0,
+      "dislikes_count": 2
+    }
+  ]
+}

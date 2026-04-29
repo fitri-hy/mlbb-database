@@ -1,0 +1,262 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5851,
+      "user_id": 17680,
+      "username": "balmond>Main",
+      "hero_id": 2,
+      "hero_name": "Balmond",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "items": [
+        99,
+        17,
+        69,
+        74,
+        73,
+        70
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          10,
+          21
+        ]
+      },
+      "description": "balmond build for sustain ",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-02-19T15:11:08.000Z",
+      "likes_count": 10,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6940,
+      "user_id": 19718,
+      "username": "Fillet",
+      "hero_id": 2,
+      "hero_name": "Balmond",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "items": [
+        96,
+        69,
+        117,
+        71,
+        75,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          1,
+          10,
+          21
+        ]
+      },
+      "description": "Jungle (HP)",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-04-09T00:17:27.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5713,
+      "user_id": 17404,
+      "username": "YuuraIbari",
+      "hero_id": 2,
+      "hero_name": "Balmond",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "items": [
+        99,
+        70,
+        117,
+        65,
+        75,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          24,
+          6,
+          11
+        ]
+      },
+      "description": "Fighter Roam\nFirst item tough boots with Passive - Encourage\nMy tips : \n- You must have the mindset to bully the jungler to the end.\n- Your job is vision and join team fight, You have to open the map and see the enemy's position.\n- Why i choose Revitalize ? because you need sustain to join teamfight and poking enemies with skill 1\n- Don't worry about KDAs, you need cooperation your team to win. just ignore teammates trashtalk you and you just need have jobdesk to contribute your team.\n- You will win this because i love the fighter.",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-15T05:54:17.000Z",
+      "likes_count": 3,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 7344,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 2,
+      "hero_name": "Balmond",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "items": [
+        99,
+        17,
+        91,
+        74,
+        2,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          22,
+          14,
+          1
+        ]
+      },
+      "description": "Cannibal balmond\n\n2 main features:\n\nUlt has improved execution\n\nKilling grants a great amount of health back, you can sustain yourself by endless slaughter ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-27T10:24:25.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6939,
+      "user_id": 19718,
+      "username": "Fillet",
+      "hero_id": 2,
+      "hero_name": "Balmond",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "items": [
+        96,
+        17,
+        74,
+        117,
+        75,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "Jungle (Spell Vamp)",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-04-09T00:14:06.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6615,
+      "user_id": 19177,
+      "username": "Keroronom",
+      "hero_id": 2,
+      "hero_name": "Balmond",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "items": [
+        99,
+        17,
+        70,
+        73,
+        74,
+        68
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          7,
+          14,
+          24
+        ]
+      },
+      "description": "Defensive Balmond, focus on healing with passive",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-20T13:40:25.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6365,
+      "user_id": 18671,
+      "username": "Orang",
+      "hero_id": 2,
+      "hero_name": "Balmond",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "items": [
+        99,
+        17,
+        74,
+        73,
+        71,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "Gak tau gabut ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-10T07:27:28.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6303,
+      "user_id": 18483,
+      "username": "1shot",
+      "hero_id": 2,
+      "hero_name": "Balmond",
+      "role": "Fighter",
+      "lane": "Jungle, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "items": [
+        73,
+        91,
+        17,
+        69,
+        68,
+        11
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          6,
+          14,
+          24
+        ]
+      },
+      "description": "This build completely leans into his sustain and ability to execute enemies, Oracle for his passive HP regen (one kill cna practically reset your health bar with this item), sky piercer adding an execute threshold to your ult, war axe providing spell vamp during cyclone sweep as well as cursed helmet for that annoying continuous burning aura for your skill 2 and objective securing as standing directly on the lord or turtle while spinning, that extra tick damage is guaranteed to get you your objective. Balmond doesn't have mana so BFB provides stacking defense and movement speed as you spam your skills constantly providing permanent and consistent tankiness and finally Hunter provides a massive physical penetration to your skill one's armor shred because why not and hitting an enemy 5 times (skill 2 handles this) provides a huge speed boost to keep up with fleeing targets. Flicker for that ULT-FLICKER Combo, ifykyk (tap the ult then immediately flicker towards low HP enemies to catch them by surprise), you don't know how satisfying hitting this combo feels. And the fighter emblem for spell vamp and physical attack",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-07T14:59:16.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

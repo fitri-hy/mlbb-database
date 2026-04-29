@@ -16,39 +16,14 @@
         "Finisher",
         "Magic Damage"
       ],
-      "score": 6.896999835968018,
+      "score": 6.822999954223633,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 51,
           "name": "Helcurt",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
-          "score": 6.897
-        }
-      ]
-    },
-    {
-      "id": 64,
-      "heroName": "Aldous",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Support"
-      ],
-      "score": 5.5,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 51,
-          "name": "Helcurt",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
-          "score": 5.5
+          "score": 6.823
         }
       ]
     },
@@ -66,14 +41,39 @@
         "Control",
         "Burst"
       ],
-      "score": 5.230999946594238,
+      "score": 5.3379998207092285,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 51,
           "name": "Helcurt",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
-          "score": 5.231
+          "score": 5.338
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "heroName": "Aldous",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Support"
+      ],
+      "score": 5.152999877929688,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 51,
+          "name": "Helcurt",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+          "score": 5.153
         }
       ]
     },
@@ -91,14 +91,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 5.013999938964844,
+      "score": 4.380000114440918,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 51,
           "name": "Helcurt",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
-          "score": 5.014
+          "score": 4.38
         }
       ]
     },
@@ -116,14 +116,14 @@
         "Charge",
         "Burst"
       ],
-      "score": 3.3399999141693115,
+      "score": 3.130000114440918,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 51,
           "name": "Helcurt",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
-          "score": 3.34
+          "score": 3.13
         }
       ]
     },
@@ -142,14 +142,39 @@
         "Chase",
         "Finisher"
       ],
-      "score": 2.6559998989105225,
-      "tier": "D",
+      "score": 2.640000104904175,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 51,
           "name": "Helcurt",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
-          "score": 2.656
+          "score": 2.64
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "heroName": "Brody",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 0.9020000100135804,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 51,
+          "name": "Helcurt",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+          "score": 0.902
         }
       ]
     },
@@ -168,39 +193,14 @@
         "Support",
         "Crowd Control"
       ],
-      "score": 0.515999972820282,
+      "score": 0.5199999809265137,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 51,
           "name": "Helcurt",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
-          "score": 0.516
-        }
-      ]
-    },
-    {
-      "id": 100,
-      "heroName": "Brody",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Finisher"
-      ],
-      "score": 0.4639999866485596,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 51,
-          "name": "Helcurt",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
-          "score": 0.464
+          "score": 0.52
         }
       ]
     },
@@ -219,14 +219,14 @@
         "Charge",
         "Finisher"
       ],
-      "score": 0.1860000044107437,
-      "tier": "C",
+      "score": 0.1850000023841858,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 51,
           "name": "Helcurt",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
-          "score": 0.186
+          "score": 0.185
         }
       ]
     }

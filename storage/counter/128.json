@@ -16,39 +16,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 4.559000015258789,
+      "score": 4.086999893188477,
       "tier": "B",
       "counteredHeroes": [
         {
           "id": 128,
           "name": "Kalea",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
-          "score": 4.559
-        }
-      ]
-    },
-    {
-      "id": 106,
-      "heroName": "Phoveus",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Regen",
-        "Damage"
-      ],
-      "score": 3.50600004196167,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 128,
-          "name": "Kalea",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
-          "score": 3.506
+          "score": 4.087
         }
       ]
     },
@@ -66,64 +41,90 @@
         "Poke",
         "Burst"
       ],
-      "score": 3.345000028610229,
+      "score": 3.822000026702881,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 128,
           "name": "Kalea",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
-          "score": 3.345
+          "score": 3.822
         }
       ]
     },
     {
-      "id": 6,
-      "heroName": "Tigreal",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "id": 106,
+      "heroName": "Phoveus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
       "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Damage"
+      ],
+      "score": 3.513999938964844,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 128,
+          "name": "Kalea",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+          "score": 3.514
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "heroName": "Carmilla",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
+      "role": [
+        "Support",
         "Tank"
       ],
       "lane": [
         "Roam"
       ],
       "speciality": [
-        "Crowd Control"
+        "Crowd Control",
+        "Damage"
       ],
-      "score": 2.181999921798706,
+      "score": 1.8200000524520876,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 128,
           "name": "Kalea",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
-          "score": 2.182
+          "score": 1.82
         }
       ]
     },
     {
-      "id": 2,
-      "heroName": "Balmond",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "id": 89,
+      "heroName": "Wanwan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
       "role": [
-        "Fighter"
+        "Marksman"
       ],
       "lane": [
-        "Jungle",
-        "Exp Lane"
+        "Gold Lane"
       ],
       "speciality": [
-        "Damage",
-        "Regen"
+        "Finisher",
+        "Burst"
       ],
-      "score": 1.9299999475479128,
+      "score": 1.75,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 128,
           "name": "Kalea",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
-          "score": 1.93
+          "score": 1.75
         }
       ]
     },
@@ -141,14 +142,14 @@
         "Crowd Control",
         "Support"
       ],
-      "score": 1.61899995803833,
+      "score": 1.0299999713897705,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 128,
           "name": "Kalea",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
-          "score": 1.619
+          "score": 1.03
         }
       ]
     },
@@ -168,14 +169,14 @@
         "Push",
         "Burst"
       ],
-      "score": 0.8949999809265137,
+      "score": 0.7900000214576721,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 128,
           "name": "Kalea",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
-          "score": 0.895
+          "score": 0.79
         }
       ]
     },
@@ -194,14 +195,38 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 0.5860000252723694,
-      "tier": "A",
+      "score": 0.6290000081062317,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 128,
           "name": "Kalea",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
-          "score": 0.586
+          "score": 0.629
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "heroName": "Tigreal",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control"
+      ],
+      "score": 0.3240000009536743,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 128,
+          "name": "Kalea",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+          "score": 0.324
         }
       ]
     },
@@ -219,14 +244,92 @@
         "Poke",
         "Burst"
       ],
-      "score": 0.19699999690055847,
+      "score": 0.26100000739097595,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 128,
           "name": "Kalea",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
-          "score": 0.197
+          "score": 0.261
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "heroName": "Kaja",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
+      "role": [
+        "Support",
+        "Fighter"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Control",
+        "Charge"
+      ],
+      "score": 0.1710000038146973,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 128,
+          "name": "Kalea",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+          "score": 0.171
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.14900000393390656,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 128,
+          "name": "Kalea",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+          "score": 0.149
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "heroName": "Balmond",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 0.13600000739097595,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 128,
+          "name": "Kalea",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+          "score": 0.136
         }
       ]
     }

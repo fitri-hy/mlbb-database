@@ -18,14 +18,14 @@
         "Charge",
         "Regen"
       ],
-      "score": 6.781000137329102,
-      "tier": "B",
+      "score": 6.787000179290772,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 6,
           "name": "Tigreal",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
-          "score": 6.781
+          "score": 6.787
         }
       ]
     },
@@ -43,14 +43,39 @@
         "Regen",
         "Burst"
       ],
-      "score": 5.440000057220459,
-      "tier": "D",
+      "score": 5.380000114440918,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 6,
           "name": "Tigreal",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
-          "score": 5.44
+          "score": 5.38
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "heroName": "Valir",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Guard"
+      ],
+      "score": 4.318999767303467,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 6,
+          "name": "Tigreal",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+          "score": 4.319
         }
       ]
     },
@@ -68,14 +93,14 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 3.6679999828338623,
-      "tier": "A",
+      "score": 3.553999900817871,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 6,
           "name": "Tigreal",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
-          "score": 3.668
+          "score": 3.554
         }
       ]
     },
@@ -93,14 +118,14 @@
         "Guard",
         "Poke"
       ],
-      "score": 2.7790000438690186,
+      "score": 3.0980000495910645,
       "tier": "B",
       "counteredHeroes": [
         {
           "id": 6,
           "name": "Tigreal",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
-          "score": 2.779
+          "score": 3.098
         }
       ]
     },
@@ -119,14 +144,39 @@
         "Damage",
         "Regen"
       ],
-      "score": 2.7100000381469727,
+      "score": 2.7300000190734863,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 6,
           "name": "Tigreal",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
-          "score": 2.71
+          "score": 2.73
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "heroName": "Akai",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Crowd Control"
+      ],
+      "score": 0.2119999974966049,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 6,
+          "name": "Tigreal",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+          "score": 0.212
         }
       ]
     },
@@ -146,64 +196,14 @@
         "Guard",
         "Charge"
       ],
-      "score": 2.450999975204468,
+      "score": 0.18299999833106995,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 6,
           "name": "Tigreal",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
-          "score": 2.451
-        }
-      ]
-    },
-    {
-      "id": 57,
-      "heroName": "Valir",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Guard"
-      ],
-      "score": 2.183000087738037,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 6,
-          "name": "Tigreal",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
-          "score": 2.183
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "heroName": "Akai",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Crowd Control"
-      ],
-      "score": 0.19599999487400052,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 6,
-          "name": "Tigreal",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
-          "score": 0.196
+          "score": 0.183
         }
       ]
     }

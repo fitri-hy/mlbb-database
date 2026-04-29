@@ -16,14 +16,39 @@
         "Regen",
         "Burst"
       ],
-      "score": 7.13100004196167,
+      "score": 7.209000110626221,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 49,
+          "name": "Hylos",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
+          "score": 7.209
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "heroName": "Cici",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 4.163000106811523,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 49,
           "name": "Hylos",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-          "score": 7.131
+          "score": 4.163
         }
       ]
     },
@@ -41,64 +66,14 @@
         "Damage",
         "Guard"
       ],
-      "score": 4.679999828338623,
+      "score": 4.021999835968018,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 49,
           "name": "Hylos",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-          "score": 4.68
-        }
-      ]
-    },
-    {
-      "id": 132,
-      "heroName": "Marcel",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Support"
-      ],
-      "score": 4.041999816894531,
-      "tier": "SS",
-      "counteredHeroes": [
-        {
-          "id": 49,
-          "name": "Hylos",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-          "score": 4.042
-        }
-      ]
-    },
-    {
-      "id": 96,
-      "heroName": "Luo Yi",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Support",
-        "Crowd Control"
-      ],
-      "score": 2.390000104904175,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 49,
-          "name": "Hylos",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-          "score": 2.39
+          "score": 4.022
         }
       ]
     },
@@ -118,14 +93,39 @@
         "Damage",
         "Magic Damage"
       ],
-      "score": 2.369999885559082,
-      "tier": "D",
+      "score": 3.575000047683716,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 49,
           "name": "Hylos",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-          "score": 2.37
+          "score": 3.575
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "heroName": "Marcel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Support"
+      ],
+      "score": 3.338000059127808,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 49,
+          "name": "Hylos",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
+          "score": 3.338
         }
       ]
     },
@@ -143,39 +143,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 2.321000099182129,
+      "score": 2.26200008392334,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 49,
           "name": "Hylos",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-          "score": 2.321
-        }
-      ]
-    },
-    {
-      "id": 123,
-      "heroName": "Cici",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Regen"
-      ],
-      "score": 1.919999957084656,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 49,
-          "name": "Hylos",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-          "score": 1.92
+          "score": 2.262
         }
       ]
     },
@@ -193,39 +168,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 1.0210000276565552,
+      "score": 1.0420000553131104,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 49,
           "name": "Hylos",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-          "score": 1.021
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "heroName": "Rafaela",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Regen",
-        "Guard"
-      ],
-      "score": 0.2380000054836273,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 49,
-          "name": "Hylos",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-          "score": 0.238
+          "score": 1.042
         }
       ]
     },
@@ -243,14 +193,41 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 0.2179999947547913,
+      "score": 0.4970000088214874,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 49,
           "name": "Hylos",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-          "score": 0.218
+          "score": 0.497
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "heroName": "Faramis",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "role": [
+        "Support",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Charge"
+      ],
+      "score": 0.257999986410141,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 49,
+          "name": "Hylos",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
+          "score": 0.258
         }
       ]
     }

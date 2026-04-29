@@ -16,14 +16,14 @@
         "Chase",
         "Magic Damage"
       ],
-      "score": 5.436999797821045,
-      "tier": "C",
+      "score": 5.293000221252441,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 35,
           "name": "Hilda",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
-          "score": 5.437
+          "score": 5.293
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Charge",
         "Damage"
       ],
-      "score": 4.644999980926514,
+      "score": 4.209000110626221,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 35,
           "name": "Hilda",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
-          "score": 4.645
+          "score": 4.209
         }
       ]
     },
@@ -67,39 +67,14 @@
         "Regen",
         "Guard"
       ],
-      "score": 4.419000148773193,
+      "score": 3.690000057220459,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 35,
           "name": "Hilda",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
-          "score": 4.419
-        }
-      ]
-    },
-    {
-      "id": 93,
-      "heroName": "Atlas",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Initiator"
-      ],
-      "score": 3.430000066757202,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 35,
-          "name": "Hilda",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
-          "score": 3.43
+          "score": 3.69
         }
       ]
     },
@@ -119,14 +94,64 @@
         "Damage",
         "Magic Damage"
       ],
-      "score": 3.312999963760376,
-      "tier": "D",
+      "score": 3.0350000858306885,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 35,
           "name": "Hilda",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
-          "score": 3.313
+          "score": 3.035
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "heroName": "X.Borg",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Burst"
+      ],
+      "score": 2.130000114440918,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 35,
+          "name": "Hilda",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+          "score": 2.13
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "heroName": "Phoveus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Damage"
+      ],
+      "score": 0.9649999737739564,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 35,
+          "name": "Hilda",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+          "score": 0.965
         }
       ]
     },
@@ -144,14 +169,39 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.8930000066757202,
+      "score": 0.9340000152587892,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 35,
           "name": "Hilda",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
-          "score": 0.893
+          "score": 0.934
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "heroName": "Atlas",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Initiator"
+      ],
+      "score": 0.5960000157356262,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 35,
+          "name": "Hilda",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+          "score": 0.596
         }
       ]
     },
@@ -170,14 +220,14 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 0.3880000114440918,
-      "tier": "A",
+      "score": 0.3700000047683716,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 35,
           "name": "Hilda",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
-          "score": 0.388
+          "score": 0.37
         }
       ]
     },
@@ -196,14 +246,40 @@
         "Finisher",
         "Burst"
       ],
-      "score": 0.19699999690055847,
-      "tier": "C",
+      "score": 0.3680000007152557,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 35,
           "name": "Hilda",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
-          "score": 0.197
+          "score": 0.368
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.2450000047683716,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 35,
+          "name": "Hilda",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+          "score": 0.245
         }
       ]
     },
@@ -248,13 +324,39 @@
         "Damage"
       ],
       "score": 0.17299999296665192,
-      "tier": "B",
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 35,
           "name": "Hilda",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
           "score": 0.173
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "heroName": "Esmeralda",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
+      "role": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Mixed Damage"
+      ],
+      "score": 0.1720000058412552,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 35,
+          "name": "Hilda",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+          "score": 0.172
         }
       ]
     }

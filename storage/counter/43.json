@@ -16,14 +16,14 @@
         "Burst",
         "Finisher"
       ],
-      "score": 5.727000236511231,
-      "tier": "D",
+      "score": 6.0920000076293945,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 43,
           "name": "Irithel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-          "score": 5.727
+          "score": 6.092
         }
       ]
     },
@@ -40,14 +40,40 @@
       "speciality": [
         "Regen"
       ],
-      "score": 5.5929999351501465,
-      "tier": "D",
+      "score": 5.307000160217285,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 43,
           "name": "Irithel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-          "score": 5.593
+          "score": 5.307
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "heroName": "Fredrinn",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Chase"
+      ],
+      "score": 4.03000020980835,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 43,
+          "name": "Irithel",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
+          "score": 4.03
         }
       ]
     },
@@ -60,46 +86,20 @@
       ],
       "lane": [
         "Gold Lane",
-        "Mid Lane"
+        "Jungle"
       ],
       "speciality": [
         "Chase",
         "Damage"
       ],
-      "score": 5.427000045776367,
-      "tier": "D",
+      "score": 2.9200000762939453,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 43,
           "name": "Irithel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-          "score": 5.427
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "heroName": "Barats",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-      "role": [
-        "Tank",
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Crowd Control"
-      ],
-      "score": 3.3340001106262207,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 43,
-          "name": "Irithel",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-          "score": 3.334
+          "score": 2.92
         }
       ]
     },
@@ -119,14 +119,14 @@
         "Damage",
         "Regen"
       ],
-      "score": 2.7699999809265137,
-      "tier": "A",
+      "score": 2.900000095367432,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 43,
           "name": "Irithel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-          "score": 2.77
+          "score": 2.9
         }
       ]
     },
@@ -144,40 +144,14 @@
         "Control",
         "Burst"
       ],
-      "score": 2.427000045776367,
+      "score": 2.407999992370605,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 43,
           "name": "Irithel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-          "score": 2.427
-        }
-      ]
-    },
-    {
-      "id": 117,
-      "heroName": "Fredrinn",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-      "role": [
-        "Fighter",
-        "Tank"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Chase"
-      ],
-      "score": 1.3799999952316284,
-      "tier": "A",
-      "counteredHeroes": [
-        {
-          "id": 43,
-          "name": "Irithel",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-          "score": 1.38
+          "score": 2.408
         }
       ]
     },
@@ -195,14 +169,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 0.2840000092983246,
+      "score": 1.6330000162124634,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 43,
           "name": "Irithel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-          "score": 0.284
+          "score": 1.633
         }
       ]
     },
@@ -220,14 +194,40 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.25999999046325684,
+      "score": 0.7379999756813049,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 43,
           "name": "Irithel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-          "score": 0.26
+          "score": 0.738
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "heroName": "Barats",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 0.5860000252723694,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 43,
+          "name": "Irithel",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
+          "score": 0.586
         }
       ]
     },
@@ -245,14 +245,40 @@
         "Damage",
         "Control"
       ],
-      "score": 0.210999995470047,
+      "score": 0.2119999974966049,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 43,
           "name": "Irithel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-          "score": 0.211
+          "score": 0.212
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.1770000010728836,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 43,
+          "name": "Irithel",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
+          "score": 0.177
         }
       ]
     },
@@ -271,14 +297,14 @@
         "Charge",
         "Finisher"
       ],
-      "score": 0.193000003695488,
-      "tier": "C",
+      "score": 0.1720000058412552,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 43,
           "name": "Irithel",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-          "score": 0.193
+          "score": 0.172
         }
       ]
     }

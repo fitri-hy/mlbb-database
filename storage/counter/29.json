@@ -16,14 +16,14 @@
         "Regen",
         "Burst"
       ],
-      "score": 7.729000091552734,
-      "tier": "D",
+      "score": 7.735000133514404,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 29,
           "name": "Ruby",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
-          "score": 7.729
+          "score": 7.735
         }
       ]
     },
@@ -41,14 +41,14 @@
         "Regen",
         "Damage"
       ],
-      "score": 6.640999794006348,
+      "score": 6.623000144958496,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 29,
           "name": "Ruby",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
-          "score": 6.641
+          "score": 6.623
         }
       ]
     },
@@ -66,14 +66,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 5.599999904632568,
-      "tier": "D",
+      "score": 5.400000095367432,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 29,
           "name": "Ruby",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
-          "score": 5.6
+          "score": 5.4
         }
       ]
     },
@@ -92,66 +92,14 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 4.3979997634887695,
+      "score": 4.070000171661377,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 29,
           "name": "Ruby",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
-          "score": 4.398
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "heroName": "Barats",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-      "role": [
-        "Tank",
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Crowd Control"
-      ],
-      "score": 2.0299999713897705,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 29,
-          "name": "Ruby",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
-          "score": 2.03
-        }
-      ]
-    },
-    {
-      "id": 120,
-      "heroName": "Arlott",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
-      "role": [
-        "Fighter",
-        "Assassin"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Charge",
-        "Burst"
-      ],
-      "score": 1.7630000114440918,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 29,
-          "name": "Ruby",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
-          "score": 1.763
+          "score": 4.07
         }
       ]
     },
@@ -170,8 +118,59 @@
         "Burst",
         "Crowd Control"
       ],
-      "score": 0.37400001287460327,
+      "score": 3.424000024795532,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 29,
+          "name": "Ruby",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
+          "score": 3.424
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "heroName": "Arlott",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Burst"
+      ],
+      "score": 0.4779999852180481,
       "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 29,
+          "name": "Ruby",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
+          "score": 0.478
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "heroName": "Ixia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.37400001287460327,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 29,
@@ -195,14 +194,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 0.27799999713897705,
+      "score": 0.27000001072883606,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 29,
           "name": "Ruby",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
-          "score": 0.278
+          "score": 0.27
         }
       ]
     }

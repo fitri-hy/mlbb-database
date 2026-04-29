@@ -16,14 +16,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 6.068999767303467,
+      "score": 5.830999851226807,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 80,
           "name": "Guinevere",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
-          "score": 6.069
+          "score": 5.831
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Push",
         "Damage"
       ],
-      "score": 5.4710001945495605,
+      "score": 5.51200008392334,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 80,
           "name": "Guinevere",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
-          "score": 5.471
+          "score": 5.512
         }
       ]
     },
@@ -67,14 +67,14 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 4.682000160217285,
+      "score": 4.736000061035156,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 80,
           "name": "Guinevere",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
-          "score": 4.682
+          "score": 4.736
         }
       ]
     },
@@ -92,64 +92,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 2.5360000133514404,
+      "score": 2.476999998092652,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 80,
           "name": "Guinevere",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
-          "score": 2.536
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "heroName": "Fanny",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Finisher"
-      ],
-      "score": 2.049999952316284,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 80,
-          "name": "Guinevere",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
-          "score": 2.05
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "heroName": "Argus",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Charge",
-        "Burst"
-      ],
-      "score": 1.5570000410079956,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 80,
-          "name": "Guinevere",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
-          "score": 1.557
+          "score": 2.477
         }
       ]
     },
@@ -167,39 +117,64 @@
         "Guard",
         "Poke"
       ],
-      "score": 1.059000015258789,
+      "score": 2.311000108718872,
       "tier": "B",
       "counteredHeroes": [
         {
           "id": 80,
           "name": "Guinevere",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
-          "score": 1.059
+          "score": 2.311
         }
       ]
     },
     {
-      "id": 1,
-      "heroName": "Miya",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
+      "id": 17,
+      "heroName": "Fanny",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
       "role": [
-        "Marksman"
+        "Assassin"
       ],
       "lane": [
-        "Gold Lane"
+        "Jungle"
       ],
       "speciality": [
-        "Finisher",
-        "Damage"
+        "Chase",
+        "Finisher"
       ],
-      "score": 1.0549999475479126,
+      "score": 2.130000114440918,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 80,
           "name": "Guinevere",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
-          "score": 1.055
+          "score": 2.13
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "heroName": "Argus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Burst"
+      ],
+      "score": 1.621999979019165,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 80,
+          "name": "Guinevere",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+          "score": 1.622
         }
       ]
     },
@@ -218,14 +193,14 @@
         "Support",
         "Crowd Control"
       ],
-      "score": 0.1770000010728836,
+      "score": 0.20600000023841855,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 80,
           "name": "Guinevere",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
-          "score": 0.177
+          "score": 0.206
         }
       ]
     }

@@ -10,21 +10,21 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 4.22599983215332,
+      "score": 4.0980000495910645,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 129,
           "name": "Zetian",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
-          "score": 4.226
+          "score": 4.098
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Burst",
         "Finisher"
       ],
-      "score": 3.7829999923706055,
+      "score": 3.861999988555908,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 129,
           "name": "Zetian",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
-          "score": 3.783
+          "score": 3.862
         }
       ]
     },
@@ -67,14 +67,14 @@
         "Poke",
         "Guard"
       ],
-      "score": 3.226999998092652,
-      "tier": "B",
+      "score": 3.311000108718872,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 129,
           "name": "Zetian",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
-          "score": 3.227
+          "score": 3.311
         }
       ]
     },
@@ -91,14 +91,65 @@
       "speciality": [
         "Regen"
       ],
-      "score": 2.9560000896453857,
+      "score": 2.690999984741211,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 129,
+          "name": "Zetian",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+          "score": 2.691
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "heroName": "Baxia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Damage"
+      ],
+      "score": 1.8799999952316284,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 129,
           "name": "Zetian",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
-          "score": 2.956
+          "score": 1.88
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 1.402999997138977,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 129,
+          "name": "Zetian",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+          "score": 1.403
         }
       ]
     },
@@ -117,39 +168,14 @@
         "Initiator",
         "Guard"
       ],
-      "score": 2.555000066757202,
+      "score": 0.12099999934434892,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 129,
           "name": "Zetian",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
-          "score": 2.555
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "heroName": "Estes",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Regen",
-        "Guard"
-      ],
-      "score": 0.5910000205039978,
-      "tier": "S",
-      "counteredHeroes": [
-        {
-          "id": 129,
-          "name": "Zetian",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
-          "score": 0.591
+          "score": 0.121
         }
       ]
     },
@@ -167,14 +193,40 @@
         "Finisher",
         "Burst"
       ],
-      "score": 0.1040000021457672,
-      "tier": "D",
+      "score": 0.10499999672174454,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 129,
           "name": "Zetian",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
-          "score": 0.104
+          "score": 0.105
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "heroName": "Harith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Gold Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 129,
+          "name": "Zetian",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+          "score": 0
         }
       ]
     }

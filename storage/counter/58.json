@@ -16,14 +16,14 @@
         "Regen",
         "Burst"
       ],
-      "score": 8.319000244140625,
-      "tier": "D",
+      "score": 8.180999755859375,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 58,
           "name": "Martis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-          "score": 8.319
+          "score": 8.181
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 5.449999809265137,
-      "tier": "A",
+      "score": 5.480000019073486,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 58,
           "name": "Martis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-          "score": 5.45
+          "score": 5.48
         }
       ]
     },
@@ -67,14 +67,14 @@
         "Crowd Control",
         "Support"
       ],
-      "score": 4.843999862670898,
+      "score": 4.36899995803833,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 58,
           "name": "Martis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-          "score": 4.844
+          "score": 4.369
         }
       ]
     },
@@ -94,14 +94,14 @@
         "Guard",
         "Charge"
       ],
-      "score": 2.4800000190734863,
+      "score": 2.359999895095825,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 58,
           "name": "Martis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-          "score": 2.48
+          "score": 2.36
         }
       ]
     },
@@ -120,39 +120,14 @@
         "Control",
         "Charge"
       ],
-      "score": 2.4100000858306885,
-      "tier": "B",
+      "score": 2.319999933242798,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 58,
           "name": "Martis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-          "score": 2.41
-        }
-      ]
-    },
-    {
-      "id": 101,
-      "heroName": "Yve",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Poke",
-        "Burst"
-      ],
-      "score": 1.062000036239624,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 58,
-          "name": "Martis",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-          "score": 1.062
+          "score": 2.32
         }
       ]
     },
@@ -170,21 +145,21 @@
         "Poke",
         "Burst"
       ],
-      "score": 0.9850000143051147,
+      "score": 0.9449999928474426,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 58,
           "name": "Martis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-          "score": 0.985
+          "score": 0.945
         }
       ]
     },
     {
-      "id": 119,
-      "heroName": "Novaria",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
       "role": [
         "Mage"
       ],
@@ -192,43 +167,17 @@
         "Mid Lane"
       ],
       "speciality": [
-        "Burst",
-        "Poke"
+        "Poke",
+        "Burst"
       ],
-      "score": 0.33000001311302185,
+      "score": 0.7799999713897705,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 58,
           "name": "Martis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-          "score": 0.33
-        }
-      ]
-    },
-    {
-      "id": 102,
-      "heroName": "Mathilda",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
-      "role": [
-        "Support",
-        "Assassin"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Initiator",
-        "Guard"
-      ],
-      "score": 0.32199999690055847,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 58,
-          "name": "Martis",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-          "score": 0.322
+          "score": 0.78
         }
       ]
     },
@@ -247,14 +196,65 @@
         "Damage",
         "Regen"
       ],
-      "score": 0.1860000044107437,
+      "score": 0.5559999942779541,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 58,
           "name": "Martis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-          "score": 0.186
+          "score": 0.556
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "heroName": "Novaria",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Poke"
+      ],
+      "score": 0.33799999952316284,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 58,
+          "name": "Martis",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+          "score": 0.338
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "heroName": "Lesley",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+      "role": [
+        "Marksman",
+        "Assassin"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 0.2509999871253968,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 58,
+          "name": "Martis",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+          "score": 0.251
         }
       ]
     },
@@ -272,14 +272,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 0.12600000202655792,
+      "score": 0.1169999986886978,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 58,
           "name": "Martis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-          "score": 0.126
+          "score": 0.117
         }
       ]
     },
@@ -297,14 +297,14 @@
         "Regen",
         "Damage"
       ],
-      "score": 0.125,
+      "score": 0.11100000143051147,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 58,
           "name": "Martis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-          "score": 0.125
+          "score": 0.111
         }
       ]
     }

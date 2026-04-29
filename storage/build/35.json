@@ -1,0 +1,486 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6298,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        97,
+        3,
+        11,
+        69,
+        2,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          20,
+          9
+        ]
+      },
+      "description": "fnaf foxy, exp, sprint",
+      "battle_spell": "Sprint",
+      "created_at": "2026-03-07T10:50:23.000Z",
+      "likes_count": 7,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6579,
+      "user_id": 19118,
+      "username": "c1tr0v",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        97,
+        76,
+        3,
+        73,
+        74,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          7,
+          14,
+          21
+        ]
+      },
+      "description": "hilda ni c1tr0v",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-18T16:29:21.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6514,
+      "user_id": 4133,
+      "username": "Drunk",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        97,
+        76,
+        65,
+        70,
+        71,
+        117
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          1,
+          9,
+          21
+        ]
+      },
+      "description": "top build",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-15T05:23:53.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6446,
+      "user_id": 18811,
+      "username": "AideNN",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        97,
+        76,
+        3,
+        73,
+        71,
+        68
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          21,
+          11
+        ]
+      },
+      "description": "Just try\n",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-12T12:56:58.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6086,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        99,
+        65,
+        70,
+        66,
+        117,
+        68
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          21,
+          9,
+          1
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-27T18:31:44.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6289,
+      "user_id": 18494,
+      "username": "shionmitii",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        100,
+        16,
+        68,
+        117,
+        73,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          21,
+          9,
+          1
+        ]
+      },
+      "description": "semi build, good for all rank",
+      "battle_spell": "Sprint",
+      "created_at": "2026-03-07T04:44:45.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6019,
+      "user_id": 17994,
+      "username": "just.MJ",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        97,
+        20,
+        70,
+        73,
+        75,
+        117
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          1,
+          9,
+          21
+        ]
+      },
+      "description": "sustain/aggresive Hilda build",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-25T06:41:35.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5670,
+      "user_id": 17283,
+      "username": "AlsiKm",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        100,
+        68,
+        76,
+        7,
+        74,
+        13
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          11,
+          24
+        ]
+      },
+      "description": "It worked for me. Feel free to try. :)",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-12T16:06:12.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5430,
+      "user_id": 5435,
+      "username": "Djboy",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        97,
+        3,
+        2,
+        13,
+        14,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          12,
+          21
+        ]
+      },
+      "description": "Assasin",
+      "battle_spell": "Sprint",
+      "created_at": "2026-02-03T21:02:59.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7249,
+      "user_id": 20718,
+      "username": "arlendo",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        100,
+        3,
+        71,
+        66,
+        70,
+        72
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          1,
+          9,
+          21
+        ]
+      },
+      "description": "Roam Hilda, with this build u gonna be quite dealy at the Early game and tank at the late game, when u finish the first item just rush to kill as much as you can.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-23T02:40:50.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7232,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        99,
+        76,
+        70,
+        71,
+        69,
+        73
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          21,
+          9,
+          3
+        ]
+      },
+      "description": "Roam blessing: encourage\n\nNote: some items of this build can be changed depending on your playstyle, the goal of this build is to harass enemy jungler as early as possible while still remaining a tank\n\nPossible Changes:\n\nTough boots can be switched with Rapid boots\n\nWilderness blessing can be switched with master assassin\n\nRevitalise can be switched to with vengeance",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-04-22T22:25:06.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6420,
+      "user_id": 7295,
+      "username": "Viper_Kung",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        100,
+        76,
+        70,
+        71,
+        65,
+        73
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          9,
+          21
+        ]
+      },
+      "description": "ดี",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-12T03:07:39.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5950,
+      "user_id": 17938,
+      "username": "Sablexito_01",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        99,
+        76,
+        70,
+        75,
+        65,
+        73
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          26,
+          9
+        ]
+      },
+      "description": "Hilda full defense cover your teammates hit cover escape hit cover escape",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-24T06:53:54.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5842,
+      "user_id": 17646,
+      "username": "grim",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        100,
+        91,
+        3,
+        2,
+        18,
+        74
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          12,
+          21
+        ]
+      },
+      "description": "heavy damage",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-19T03:44:26.000Z",
+      "likes_count": 1,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5859,
+      "user_id": 17710,
+      "username": "megalogonJH",
+      "hero_id": 35,
+      "hero_name": "Hilda",
+      "role": "Fighter, Tank",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+      "items": [
+        100,
+        3,
+        65,
+        70,
+        66,
+        76
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          21,
+          12,
+          6
+        ]
+      },
+      "description": "ini build buat rusuh sebisa mungkin dari early sampai late game\n",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-20T02:28:00.000Z",
+      "likes_count": 1,
+      "dislikes_count": 3
+    }
+  ]
+}

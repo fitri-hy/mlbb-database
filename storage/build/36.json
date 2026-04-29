@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6822,
+      "user_id": 19643,
+      "username": "سوكونا",
+      "hero_id": 36,
+      "hero_name": "Aurora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Crowd Control, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
+      "items": [
+        7,
+        33,
+        44,
+        35,
+        91,
+        92
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          6,
+          16,
+          19
+        ]
+      },
+      "description": "-",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-30T12:46:15.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6183,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 36,
+      "hero_name": "Aurora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Crowd Control, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
+      "items": [
+        94,
+        47,
+        33,
+        44,
+        37,
+        51
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          13,
+          20
+        ]
+      },
+      "description": "frozen queen, mid, flicker",
+      "battle_spell": null,
+      "created_at": "2026-03-02T19:23:43.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5856,
+      "user_id": 17696,
+      "username": "Jinx20",
+      "hero_id": 36,
+      "hero_name": "Aurora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Crowd Control, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
+      "items": [
+        94,
+        90,
+        43,
+        33,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          17,
+          13,
+          4
+        ]
+      },
+      "description": "If you don't need anti-healing, replace it with a lightning rod. The build is designed for frequent use of Aurora's ultimate and high magical power for longer control.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-19T20:47:54.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5613,
+      "user_id": 17157,
+      "username": "Torn",
+      "hero_id": 36,
+      "hero_name": "Aurora",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Crowd Control, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
+      "items": [
+        94,
+        45,
+        33,
+        43,
+        90,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          20
+        ]
+      },
+      "description": "I noticed that Aurora has quite disruptive skills but struggles to deal damage effectively. Therefore, I thought a mage support who can continuously use skills might be better. However, I felt that buying two cooldown reduction items wasted item slots, so this is the final build.\n\nThe simple principle is to use your ultimate as a last resort, but if that's not possible, use any other skill first. However, if you're completely out of options and have to use your ultimate first, the ability to reduce the cooldown of remaining skills by 1.5 times will still be effective, though perhaps not at its best. Use it according to the situation.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-10T14:15:06.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

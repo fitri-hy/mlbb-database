@@ -17,14 +17,14 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 7.210000038146973,
+      "score": 6.804999828338623,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 100,
           "name": "Brody",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-          "score": 7.21
+          "score": 6.805
         }
       ]
     },
@@ -43,14 +43,14 @@
         "Push",
         "Damage"
       ],
-      "score": 4.75600004196167,
-      "tier": "B",
+      "score": 4.8979997634887695,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 100,
           "name": "Brody",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-          "score": 4.756
+          "score": 4.898
         }
       ]
     },
@@ -62,46 +62,21 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 4.428999900817871,
+      "score": 4.01800012588501,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 100,
           "name": "Brody",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-          "score": 4.429
-        }
-      ]
-    },
-    {
-      "id": 48,
-      "heroName": "Diggie",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Poke"
-      ],
-      "score": 4.013000011444092,
-      "tier": "B",
-      "counteredHeroes": [
-        {
-          "id": 100,
-          "name": "Brody",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-          "score": 4.013
+          "score": 4.018
         }
       ]
     },
@@ -119,65 +94,39 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 3.311000108718872,
+      "score": 3.424999952316284,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 100,
           "name": "Brody",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-          "score": 3.311
+          "score": 3.425
         }
       ]
     },
     {
-      "id": 117,
-      "heroName": "Fredrinn",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
+      "id": 48,
+      "heroName": "Diggie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
       "role": [
-        "Fighter",
-        "Tank"
+        "Support"
       ],
       "lane": [
-        "Jungle"
+        "Roam"
       ],
       "speciality": [
-        "Damage",
-        "Chase"
+        "Guard",
+        "Poke"
       ],
-      "score": 0.3680000007152557,
-      "tier": "A",
-      "counteredHeroes": [
-        {
-          "id": 100,
-          "name": "Brody",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-          "score": 0.368
-        }
-      ]
-    },
-    {
-      "id": 67,
-      "heroName": "Leomord",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Burst"
-      ],
-      "score": 0.3479999899864197,
+      "score": 3.21399998664856,
       "tier": "B",
       "counteredHeroes": [
         {
           "id": 100,
           "name": "Brody",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-          "score": 0.348
+          "score": 3.214
         }
       ]
     },
@@ -196,14 +145,14 @@
         "Push",
         "Burst"
       ],
-      "score": 0.22499999403953552,
+      "score": 0.7749999761581421,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 100,
           "name": "Brody",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-          "score": 0.225
+          "score": 0.775
         }
       ]
     },
@@ -221,14 +170,40 @@
         "Chase",
         "Damage"
       ],
-      "score": 0.20000000298023224,
+      "score": 0.5659999847412109,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 100,
           "name": "Brody",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-          "score": 0.2
+          "score": 0.566
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "heroName": "Kaja",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
+      "role": [
+        "Support",
+        "Fighter"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Control",
+        "Charge"
+      ],
+      "score": 0.22100000083446503,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 100,
+          "name": "Brody",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
+          "score": 0.221
         }
       ]
     },

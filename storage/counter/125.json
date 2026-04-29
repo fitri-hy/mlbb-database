@@ -16,14 +16,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 5.539000034332275,
+      "score": 5.255000114440918,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 125,
           "name": "Zhuxin",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-          "score": 5.539
+          "score": 5.255
         }
       ]
     },
@@ -41,14 +41,14 @@
         "Damage",
         "Guard"
       ],
-      "score": 5.3460001945495605,
+      "score": 5.1570000648498535,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 125,
           "name": "Zhuxin",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-          "score": 5.346
+          "score": 5.157
         }
       ]
     },
@@ -66,14 +66,14 @@
         "Guard",
         "Poke"
       ],
-      "score": 4.701000213623047,
+      "score": 4.8429999351501465,
       "tier": "B",
       "counteredHeroes": [
         {
           "id": 125,
           "name": "Zhuxin",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-          "score": 4.701
+          "score": 4.843
         }
       ]
     },
@@ -91,39 +91,39 @@
         "Finisher",
         "Damage"
       ],
-      "score": 3.5269999504089355,
+      "score": 2.9800000190734863,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 125,
           "name": "Zhuxin",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-          "score": 3.527
+          "score": 2.98
         }
       ]
     },
     {
-      "id": 70,
-      "heroName": "Belerick",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
+      "id": 132,
+      "heroName": "Marcel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
       "role": [
-        "Tank"
+        "Support"
       ],
       "lane": [
         "Roam"
       ],
       "speciality": [
         "Crowd Control",
-        "Regen"
+        "Support"
       ],
-      "score": 2,
-      "tier": "D",
+      "score": 2.2699999809265137,
+      "tier": "SS",
       "counteredHeroes": [
         {
           "id": 125,
           "name": "Zhuxin",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-          "score": 2
+          "score": 2.27
         }
       ]
     },
@@ -141,65 +141,40 @@
         "Regen",
         "Guard"
       ],
-      "score": 1.8899999856948853,
+      "score": 1.756999969482422,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 125,
           "name": "Zhuxin",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-          "score": 1.89
+          "score": 1.757
         }
       ]
     },
     {
-      "id": 74,
-      "heroName": "Minsitthar",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+      "id": 120,
+      "heroName": "Arlott",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
       "role": [
-        "Fighter"
+        "Fighter",
+        "Assassin"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Exp Lane"
       ],
       "speciality": [
-        "Initiator",
-        "Crowd Control"
+        "Charge",
+        "Burst"
       ],
-      "score": 0.22200000286102292,
-      "tier": "A",
-      "counteredHeroes": [
-        {
-          "id": 125,
-          "name": "Zhuxin",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-          "score": 0.222
-        }
-      ]
-    },
-    {
-      "id": 50,
-      "heroName": "Zhask",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Chase",
-        "Damage"
-      ],
-      "score": 0.20399999618530276,
+      "score": 0.6010000109672546,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 125,
           "name": "Zhuxin",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-          "score": 0.204
+          "score": 0.601
         }
       ]
     },
@@ -218,14 +193,40 @@
         "Chase",
         "Damage"
       ],
-      "score": 0.19599999487400052,
+      "score": 0.2759999930858612,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 125,
           "name": "Zhuxin",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-          "score": 0.196
+          "score": 0.276
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "heroName": "Minsitthar",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "score": 0.20999999344348907,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 0.21
         }
       ]
     },
@@ -244,41 +245,39 @@
         "Charge",
         "Finisher"
       ],
-      "score": 0.1879999935626984,
+      "score": 0.17399999499320984,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 0.174
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "heroName": "Rafaela",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 0.13699999451637268,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 125,
           "name": "Zhuxin",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-          "score": 0.188
-        }
-      ]
-    },
-    {
-      "id": 76,
-      "heroName": "Faramis",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-      "role": [
-        "Support",
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane",
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Charge"
-      ],
-      "score": 0.1710000038146973,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 125,
-          "name": "Zhuxin",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-          "score": 0.171
+          "score": 0.137
         }
       ]
     },
@@ -298,6 +297,32 @@
       ],
       "score": 0,
       "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 125,
+          "name": "Zhuxin",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "heroName": "Dyrroth",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Charge",
+        "Burst"
+      ],
+      "score": 0,
+      "tier": "D",
       "counteredHeroes": [
         {
           "id": 125,

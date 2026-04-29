@@ -11,107 +11,109 @@
             </svg>
         </button>
 
-        <nav class="hidden md:flex items-center gap-10 text-white">
-            <a href="/" class="text-[#ffbd00] text-xs font-bold tracking-[0.3em] uppercase transition-all duration-300 hover:drop-shadow-[0_0_6px_#ffbd00]">
-                Home
-            </a>
+		<nav class="hidden md:flex items-center gap-10 text-white">
+			<a href="/" class="text-[#ffbd00] text-xs font-bold tracking-[0.3em] uppercase transition-all duration-300 hover:drop-shadow-[0_0_6px_#ffbd00]">
+				Home
+			</a>
 
-            <div class="group relative">
-                <div class="flex items-center gap-1 cursor-pointer py-2">
-                    <span class="text-xs font-bold tracking-[0.3em] uppercase group-hover:text-[#ffbd00] transition-all duration-300">
-                        Heroes
-                    </span>
-                    <svg class="w-3 h-3 transition-transform duration-300 group-hover:rotate-180 group-hover:text-[#ffbd00]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-                    </svg>
-                </div>
-                <div class="absolute top-full right-0 pt-2 w-48">
-                    <div class="bg-black/80 backdrop-blur-lg rounded-lg opacity-0 invisible translate-y-2 group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 transition-all duration-300 shadow-xl">
-                        <a href="/heroes" class="block px-4 py-2 text-xs hover:bg-[#ffbd00] hover:text-black transition">Hero List</a>
-                        <a href="/tiers" class="block px-4 py-2 text-xs hover:bg-[#ffbd00] hover:text-black transition">Tier List</a>
-                        <a href="/counter" class="block px-4 py-2 text-xs hover:bg-[#ffbd00] hover:text-black transition">Hero Counters</a>
-                    </div>
-                </div>
-            </div>
+			<div class="group relative">
+				<div class="flex items-center gap-1 cursor-pointer py-2">
+					<span class="text-xs font-bold tracking-[0.3em] uppercase group-hover:text-[#ffbd00] transition-all duration-300">
+						Heroes
+					</span>
+					<svg class="w-3 h-3 transition-transform duration-300 group-hover:rotate-180 group-hover:text-[#ffbd00]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+					</svg>
+				</div>
+				<div class="absolute top-full right-0 pt-2 w-max min-w-[180px] opacity-0 invisible translate-y-2 group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 transition-all duration-300 z-50">
+					<div class="bg-black/90 backdrop-blur-lg rounded-lg border border-white/10 shadow-2xl py-2 overflow-hidden">
+						<a href="/heroes" class="block px-6 py-2 text-[10px] font-bold uppercase tracking-widest hover:bg-[#ffbd00] hover:text-black transition">Hero List</a>
+						<a href="/tiers" class="block px-6 py-2 text-[10px] font-bold uppercase tracking-widest hover:bg-[#ffbd00] hover:text-black transition">Tier List</a>
+						<a href="/counter" class="block px-6 py-2 text-[10px] font-bold uppercase tracking-widest hover:bg-[#ffbd00] hover:text-black transition">Hero Counters</a>
+					</div>
+				</div>
+			</div>
 
-            <div class="group relative">
-                <div class="flex items-center gap-1 cursor-pointer py-2">
-                    <span class="text-xs font-bold tracking-[0.3em] uppercase group-hover:text-[#ffbd00] transition-all duration-300">
-                        Library
-                    </span>
-                    <svg class="w-3 h-3 transition-transform duration-300 group-hover:rotate-180 group-hover:text-[#ffbd00]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-                    </svg>
-                </div>
-                <div class="absolute top-full right-0 pt-2 w-48">
-                    <div class="bg-black/80 backdrop-blur-lg rounded-lg opacity-0 invisible translate-y-2 group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 transition-all duration-300 shadow-xl">
-                        <a href="/emblem" class="block px-4 py-2 text-xs hover:bg-[#ffbd00] hover:text-black transition">Emblems</a>
-                        <a href="/ability" class="block px-4 py-2 text-xs hover:bg-[#ffbd00] hover:text-black transition">Abilities</a>
-                        <a href="/items" class="block px-4 py-2 text-xs hover:bg-[#ffbd00] hover:text-black transition">Items</a>
-                    </div>
-                </div>
-            </div>
+			<div class="group relative">
+				<div class="flex items-center gap-1 cursor-pointer py-2">
+					<span class="text-xs font-bold tracking-[0.3em] uppercase group-hover:text-[#ffbd00] transition-all duration-300">
+						Library
+					</span>
+					<svg class="w-3 h-3 transition-transform duration-300 group-hover:rotate-180 group-hover:text-[#ffbd00]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+					</svg>
+				</div>
+				<div class="absolute top-full right-0 pt-2 w-max min-w-[180px] opacity-0 invisible translate-y-2 group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 transition-all duration-300 z-50">
+					<div class="bg-black/90 backdrop-blur-lg rounded-lg border border-white/10 shadow-2xl py-2 overflow-hidden">
+						<a href="/emblem" class="block px-6 py-2 text-[10px] font-bold uppercase tracking-widest hover:bg-[#ffbd00] hover:text-black transition">Emblems</a>
+						<a href="/ability" class="block px-6 py-2 text-[10px] font-bold uppercase tracking-widest hover:bg-[#ffbd00] hover:text-black transition">Abilities</a>
+						<a href="/items" class="block px-6 py-2 text-[10px] font-bold uppercase tracking-widest hover:bg-[#ffbd00] hover:text-black transition">Items</a>
+						<a href="/builds" class="block px-6 py-2 text-[10px] font-bold uppercase tracking-widest hover:bg-[#ffbd00] hover:text-black transition">Builds</a>
+					</div>
+				</div>
+			</div>
 
-            <div class="group relative">
-                <div class="flex items-center gap-1 cursor-pointer py-2">
-                    <span class="text-xs font-bold tracking-[0.3em] uppercase group-hover:text-[#ffbd00] transition-all duration-300">
-                        Stats
-                    </span>
-                    <svg class="w-3 h-3 transition-transform duration-300 group-hover:rotate-180 group-hover:text-[#ffbd00]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-                    </svg>
-                </div>
-                <div class="absolute top-full right-0 pt-2 w-48">
-                    <div class="bg-black/80 backdrop-blur-lg rounded-lg opacity-0 invisible translate-y-2 group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 transition-all duration-300 shadow-xl">
-                        <a href="/stats" class="block px-4 py-2 text-xs hover:bg-[#ffbd00] hover:text-black transition">Win Rates</a>
-                        <a href="/tournament" class="block px-4 py-2 text-xs hover:bg-[#ffbd00] hover:text-black transition">Tournaments</a>
-                    </div>
-                </div>
-            </div>
-        </nav>
+			<div class="group relative">
+				<div class="flex items-center gap-1 cursor-pointer py-2">
+					<span class="text-xs font-bold tracking-[0.3em] uppercase group-hover:text-[#ffbd00] transition-all duration-300">
+						Stats
+					</span>
+					<svg class="w-3 h-3 transition-transform duration-300 group-hover:rotate-180 group-hover:text-[#ffbd00]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+					</svg>
+				</div>
+				<div class="absolute top-full right-0 pt-2 w-max min-w-[180px] opacity-0 invisible translate-y-2 group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 transition-all duration-300 z-50">
+					<div class="bg-black/90 backdrop-blur-lg rounded-lg border border-white/10 shadow-2xl py-2 overflow-hidden">
+						<a href="/stats" class="block px-6 py-2 text-[10px] font-bold uppercase tracking-widest hover:bg-[#ffbd00] hover:text-black transition">Win Rates</a>
+						<a href="/tournament" class="block px-6 py-2 text-[10px] font-bold uppercase tracking-widest hover:bg-[#ffbd00] hover:text-black transition">Tournaments</a>
+					</div>
+				</div>
+			</div>
+		</nav>
     </div>
 
     <div id="mobileMenu" class="hidden flex-col bg-black/90 text-white px-4 pb-4 space-y-2 md:hidden transition-all duration-300">
-        <a href="/" class="block py-2 text-xs font-bold uppercase text-[#ffbd00]">Home</a>
+        <a href="/" class="hover:text-[#ffbd00] block py-2 text-xs font-bold uppercase text-[#ffbd00]">Home</a>
 
         <div>
-            <button class="w-full flex justify-between items-center py-2 text-xs font-bold uppercase" onclick="toggleDropdown('heroesMenu', this)">
+            <button class="hover:text-[#ffbd00] w-full flex justify-between items-center py-2 text-xs font-bold uppercase" onclick="toggleDropdown('heroesMenu', this)">
                 Heroes
                 <svg class="w-3 h-3 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                 </svg>
             </button>
             <div id="heroesMenu" class="hidden pl-4 space-y-1">
-                <a href="/heroes" class="block py-1 text-xs">Hero List</a>
-                <a href="/tiers" class="block py-1 text-xs">Tier List</a>
-                <a href="/counter" class="block py-1 text-xs">Hero Counters</a>
+                <a href="/heroes" class="block py-1 text-xs hover:text-[#ffbd00]">Hero List</a>
+                <a href="/tiers" class="block py-1 text-xs hover:text-[#ffbd00]">Tier List</a>
+                <a href="/counter" class="block py-1 text-xs hover:text-[#ffbd00]">Hero Counters</a>
             </div>
         </div>
 
         <div>
-            <button class="w-full flex justify-between items-center py-2 text-xs font-bold uppercase" onclick="toggleDropdown('libraryMenu', this)">
+            <button class="hover:text-[#ffbd00] w-full flex justify-between items-center py-2 text-xs font-bold uppercase" onclick="toggleDropdown('libraryMenu', this)">
                 Library
                 <svg class="w-3 h-3 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                 </svg>
             </button>
             <div id="libraryMenu" class="hidden pl-4 space-y-1">
-                <a href="/emblem" class="block py-1 text-xs">Emblems</a>
-                <a href="/ability" class="block py-1 text-xs">Abilities</a>
-                <a href="/items" class="block py-1 text-xs">Items</a>
+                <a href="/emblem" class="block py-1 text-xs hover:text-[#ffbd00]">Emblems</a>
+                <a href="/ability" class="block py-1 text-xs hover:text-[#ffbd00]">Abilities</a>
+                <a href="/items" class="block py-1 text-xs hover:text-[#ffbd00]">Items</a>
+                <a href="/builds" class="block py-1 text-xs hover:text-[#ffbd00]">Builds</a>
             </div>
         </div>
 
         <div>
-            <button class="w-full flex justify-between items-center py-2 text-xs font-bold uppercase" onclick="toggleDropdown('statsMenu', this)">
+            <button class="hover:text-[#ffbd00] w-full flex justify-between items-center py-2 text-xs font-bold uppercase" onclick="toggleDropdown('statsMenu', this)">
                 Stats
                 <svg class="w-3 h-3 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                 </svg>
             </button>
             <div id="statsMenu" class="hidden pl-4 space-y-1">
-                <a href="/stats" class="block py-1 text-xs">Win Rates</a>
-                <a href="/tournament" class="block py-1 text-xs">Tournaments</a>
+                <a href="/stats" class="block py-1 text-xs hover:text-[#ffbd00]">Win Rates</a>
+                <a href="/tournament" class="block py-1 text-xs hover:text-[#ffbd00]">Tournaments</a>
             </div>
         </div>
     </div>

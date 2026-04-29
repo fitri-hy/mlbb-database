@@ -1,0 +1,742 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5409,
+      "user_id": 16694,
+      "username": "RyzzCC",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        94,
+        39,
+        42,
+        43,
+        44,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          3,
+          11,
+          23
+        ]
+      },
+      "description": "GATOT BUILD MAGIC",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-03T11:12:26.000Z",
+      "likes_count": 5,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6156,
+      "user_id": 18236,
+      "username": "Elpatric3719",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        99,
+        76,
+        70,
+        75,
+        69,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          11,
+          21
+        ]
+      },
+      "description": "Si el quipo tiene daño esto es para que aguantes\nTank",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-01T15:31:14.000Z",
+      "likes_count": 5,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6616,
+      "user_id": 19190,
+      "username": "creamysenpai",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        99,
+        76,
+        70,
+        35,
+        73,
+        117
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          15,
+          21
+        ]
+      },
+      "description": "EXP focused laning and teamfight\nlast item can be changed according to the match and also vengeance or revitalize accordingly",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-20T13:48:51.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5610,
+      "user_id": 13894,
+      "username": "Edygaming",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        94,
+        39,
+        36,
+        51,
+        91,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          21,
+          12,
+          3
+        ]
+      },
+      "description": "Gatot sustaind dengan damage yang brutal \n",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-10T12:53:44.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5544,
+      "user_id": 13894,
+      "username": "Edygaming",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        94,
+        50,
+        36,
+        42,
+        44,
+        91
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          21,
+          12,
+          4
+        ]
+      },
+      "description": "Udah sakit di awal kalau udah late game Hero tipis auto one hit \n",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-08T12:04:10.000Z",
+      "likes_count": 4,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6412,
+      "user_id": 18748,
+      "username": "LAPORTE",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        43,
+        36,
+        73,
+        35,
+        74,
+        71
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          3,
+          14,
+          22
+        ]
+      },
+      "description": "Passif regen ",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-11T11:20:19.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7332,
+      "user_id": 20937,
+      "username": "SSR+",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        96,
+        47,
+        35,
+        33,
+        70,
+        72
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          14,
+          23
+        ]
+      },
+      "description": "anomaly_chicken+SMASH!",
+      "battle_spell": "Purify",
+      "created_at": "2026-04-27T02:32:33.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6783,
+      "user_id": 7454,
+      "username": "Vix",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        76,
+        70,
+        36,
+        117,
+        35,
+        73
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "Cobain XP sangat sustain",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-29T09:28:19.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6702,
+      "user_id": 19445,
+      "username": "SenjuHadez",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        99,
+        76,
+        39,
+        70,
+        73,
+        74
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          11,
+          21
+        ]
+      },
+      "description": "Build untuk EXP Lane, enak untuk clear lane dan bisa sustain. \nNB : item corenya ada di thunderbelt dan feather of heaven. item sisanya menyesuaikan musuh, kalau ingin lebih sakit damagenya domi bisa di ganti dengan glowing wand tapi jadi kurang sustain.\n\nGameplay: \ndi early cukup main aman dulu jangan terlalu maksa, fokus clear lane, cicil EXP lane musuh, dan tunggu ada temen yang nyamperin buat punish/kill. jangan buta map, selalu kasih info kalo musuh missing atau mungkin untuk cek apa ada war yang kita bisa dateng di sekitar kita.",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-25T18:42:22.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5408,
+      "user_id": 16693,
+      "username": "SRWK.KaiZer",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        97,
+        91,
+        10,
+        7,
+        44,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          1,
+          14,
+          19
+        ]
+      },
+      "description": "ini item sangat sakit di late game coba lah. Kalau jadi like ye.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-03T11:08:30.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7293,
+      "user_id": 20849,
+      "username": "Blazing_Asha",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        99,
+        50,
+        36,
+        44,
+        43,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          6,
+          11,
+          23
+        ]
+      },
+      "description": "Use Glowing wand for regenerable enemies, or else use Lightning Truncheon and the same with your Immortality can change any defence build. Make sure use my emblem to sustain and give massive damage to enemy. For battle spell you may use vengeance or revelation. ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-25T11:17:04.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7152,
+      "user_id": 18583,
+      "username": "kazpi",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        99,
+        76,
+        70,
+        75,
+        67,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          11,
+          21
+        ]
+      },
+      "description": "Maximum defense for Thunder Belt smash.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-19T12:44:58.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7136,
+      "user_id": 20510,
+      "username": "Kujo1987",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        76,
+        70,
+        74,
+        39,
+        73,
+        14
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          11,
+          22
+        ]
+      },
+      "description": "ohhhhhh yeah",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-04-19T03:24:11.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6689,
+      "user_id": 19423,
+      "username": "take160",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        99,
+        70,
+        75,
+        65,
+        117,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          11,
+          21
+        ]
+      },
+      "description": "Gatotkaca Best Item Defense 2026",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-25T10:03:40.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6577,
+      "user_id": 19118,
+      "username": "c1tr0v",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        97,
+        70,
+        71,
+        74,
+        69,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          11,
+          21,
+          3
+        ]
+      },
+      "description": "gatotkaca ni c1tr0v",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-18T16:26:12.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6133,
+      "user_id": 4542,
+      "username": "Dio-brando",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        36,
+        91,
+        70,
+        73,
+        76,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          2,
+          11,
+          19
+        ]
+      },
+      "description": "Sus",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-28T12:35:47.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6095,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        99,
+        70,
+        75,
+        65,
+        117,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          21,
+          11,
+          6
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-27T18:47:03.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6025,
+      "user_id": 17994,
+      "username": "just.MJ",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        99,
+        70,
+        75,
+        117,
+        67,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          11,
+          21
+        ]
+      },
+      "description": "tank",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-25T08:28:16.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5990,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        94,
+        36,
+        91,
+        44,
+        43,
+        50
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          11,
+          21
+        ]
+      },
+      "description": "Life steal rate : %99\nDamage rate : %50 \nDefense rate : %20",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-24T16:10:06.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5902,
+      "user_id": 17803,
+      "username": "Elraff",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        99,
+        69,
+        43,
+        117,
+        75,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          14,
+          23
+        ]
+      },
+      "description": "The only problem when using this hero is the mage enemy. ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-21T17:52:50.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5649,
+      "user_id": 17190,
+      "username": "Gateau",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        39,
+        36,
+        73,
+        74,
+        10,
+        6
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          14,
+          18
+        ]
+      },
+      "description": "Ini enak buat by one bukan main rank",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-12T01:05:36.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5569,
+      "user_id": 17087,
+      "username": "Kenyx",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        94,
+        42,
+        44,
+        36,
+        50,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "Arcane Boots\nGenius Wand\nHoly Crystal\nConcentrated Energy\nStarlium Scythe\nBlood Wings\n\nUlti, one shot ;-)",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-09T13:08:33.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7279,
+      "user_id": 20791,
+      "username": "wallysouth",
+      "hero_id": 41,
+      "hero_name": "Gatotkaca",
+      "role": "Tank, Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Crowd Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+      "items": [
+        1,
+        67,
+        2,
+        3,
+        33,
+        91
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          8,
+          16,
+          23
+        ]
+      },
+      "description": "good build",
+      "battle_spell": "Inspire",
+      "created_at": "2026-04-24T12:16:57.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

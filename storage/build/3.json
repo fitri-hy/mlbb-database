@@ -1,0 +1,358 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5342,
+      "user_id": 203,
+      "username": "ViolenceMessiah",
+      "hero_id": 3,
+      "hero_name": "Saber",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Charge, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "items": [
+        96,
+        11,
+        3,
+        2,
+        13,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          10,
+          23
+        ]
+      },
+      "description": "SLOT GUIDE FOR SABER\n\nFLAME RETRIBUTION IS RECOMMENDED\n\nCOMBO = S1 - S2 - RETRI - S3 - BASIC ATTACK\n\n1st - BOOTS\n\n2nd and 3rd - CORE ITEMS (NON-NEGOTIABLE)\n\n4th - AMPLIFIER (BOD/ SKYPIERCER)\n\n5th - COUNTER (MALEFIC ROAR/ SEA HALBERD)\n\n6th - SURVIVAL ITEM (IMMORTALITY/ WINTER CROWN/ ROSE GOLD)\n",
+      "battle_spell": null,
+      "created_at": "2026-01-31T19:19:37.000Z",
+      "likes_count": 6,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6271,
+      "user_id": 18483,
+      "username": "1shot",
+      "hero_id": 3,
+      "hero_name": "Saber",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Charge, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "items": [
+        13,
+        11,
+        91,
+        7,
+        2,
+        3
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          23
+        ]
+      },
+      "description": "With this build, you are not a frontline fighter but a ghost. Use your MS from hunter and heptaseas to rotate between bushes and achieve a surprising amount of ambush kills. Your only goal is to wait for your enemy marksman and mage to step slightly out of position and the microsecond they do, delete them and dash away before their tank or support can blink. I suggest petrify over execute and flicker since your ult knocks up enemies and petrify can be used just as they land preventing them from using WoN, Winter crown or any dash skills to escape your follow up endless battle enhanced basic attack. And the assassin emblem is non negotiable for its high adaptive pen and MS. If the game goes very late and the enemy builds antique cuirass you could sell blade of heptaseas for either a sea halberd or a second BoD to overpower their defense",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-06T17:03:31.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7360,
+      "user_id": 21027,
+      "username": "isnowwayne",
+      "hero_id": 3,
+      "hero_name": "Saber",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Charge, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "items": [
+        96,
+        11,
+        91,
+        7,
+        2,
+        16
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          13,
+          26
+        ]
+      },
+      "description": "\"Onimaru is unpredictable.\" No one expects an Inspire Saber. Swap the Piercer for Malefic Roar or Sea Halberd if your teammates are vegetables, or do it late game by selling your boots instead. Prioritize squishies, of course, and turret pushing. You need Bargain Hunter for expensive items and Weakness Finder to ensure they won't escape you (unless they have multiple blinks or dashes, so use this strategically). If the squishies are close to each other and you think you won't be stunned, you can use S1 + Inspire to, as Saber puts it, \"KILL ALL AT ONCE.\" Or just use S1 + Inspire to rush turrets.",
+      "battle_spell": "Inspire",
+      "created_at": "2026-04-27T23:14:31.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6532,
+      "user_id": 18316,
+      "username": "Kazato",
+      "hero_id": 3,
+      "hero_name": "Saber",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Charge, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "items": [
+        96,
+        11,
+        3,
+        7,
+        2,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          23,
+          12,
+          4
+        ]
+      },
+      "description": "Full damage",
+      "battle_spell": "Execute",
+      "created_at": "2026-03-16T06:48:39.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6356,
+      "user_id": 18642,
+      "username": "Cark",
+      "hero_id": 3,
+      "hero_name": "Saber",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Charge, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "items": [
+        3,
+        11,
+        14,
+        13,
+        2,
+        16
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          16,
+          23,
+          4
+        ]
+      },
+      "description": "One hit delete",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-10T00:19:40.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5847,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 3,
+      "hero_name": "Saber",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Charge, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "items": [
+        17,
+        97,
+        70,
+        65,
+        66,
+        7
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          23
+        ]
+      },
+      "description": "roam build tanky",
+      "battle_spell": "Execute",
+      "created_at": "2026-02-19T07:35:51.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5846,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 3,
+      "hero_name": "Saber",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Charge, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "items": [
+        17,
+        97,
+        11,
+        68,
+        74,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          23,
+          16
+        ]
+      },
+      "description": "roam normal",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-19T06:53:24.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7251,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 3,
+      "hero_name": "Saber",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Charge, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "items": [
+        97,
+        3,
+        91,
+        2,
+        74,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          12,
+          23
+        ]
+      },
+      "description": "roam",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-23T06:05:32.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6679,
+      "user_id": 19400,
+      "username": "KokoIZ",
+      "hero_id": 3,
+      "hero_name": "Saber",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Charge, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "items": [
+        96,
+        11,
+        16,
+        7,
+        13,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          10,
+          23,
+          1
+        ]
+      },
+      "description": "1st - build boots don't go straight for magic shoes\n2nd - build fury hammer again don't go straight for hunter strike\n3rd - if there is a high sustain hero go sea halberd as your first item\n4th - go either endless battle or complete hunter striken depending on opponents lineup (go endless when opponents lineup is tanky or sustain rely), (go hunter strike when opponent is squishy and has a lot of moblity)\n5th - go malefic roar (you can also change malefic roar with battle axe for sustain. battle axe for burst type heroes on enemy side)\n6th - blade of despair, on late game you can switch it with (rose gold meteor, immortality, winter crown) for survivability",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-24T17:39:54.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5863,
+      "user_id": 17711,
+      "username": "Studi",
+      "hero_id": 3,
+      "hero_name": "Saber",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Charge, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "items": [
+        96,
+        16,
+        11,
+        7,
+        13,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          12,
+          19
+        ]
+      },
+      "description": "Conter tamuz\n",
+      "battle_spell": "Execute",
+      "created_at": "2026-02-20T04:10:31.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6120,
+      "user_id": 10491,
+      "username": "Gloo_bima",
+      "hero_id": 3,
+      "hero_name": "Saber",
+      "role": "Assassin",
+      "lane": "Jungle, Roam",
+      "speciality": "Charge, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "items": [
+        96,
+        3,
+        11,
+        14,
+        2,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          12,
+          23
+        ]
+      },
+      "description": "Build sakit+durabilitas untuk emblem master assasin bisa diganti dengan seasoned hunter biar farming lebih cepat",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-28T04:59:13.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

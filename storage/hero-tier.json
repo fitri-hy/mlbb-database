@@ -4,42 +4,6 @@
   "data": {
     "heroes": [
       {
-        "hero_id": 131,
-        "hero_name": "Sora",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
-        "role": [
-          "Fighter",
-          "Assassin"
-        ],
-        "lane": [
-          "Exp Lane"
-        ],
-        "speciality": [
-          "Charge",
-          "Burst"
-        ],
-        "tier": "SS",
-        "score": 1191.35
-      },
-      {
-        "hero_id": 104,
-        "hero_name": "Gloo",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
-        "role": [
-          "Tank"
-        ],
-        "lane": [
-          "Exp Lane",
-          "Roam"
-        ],
-        "speciality": [
-          "Regen",
-          "Control"
-        ],
-        "tier": "SS",
-        "score": 1180.93
-      },
-      {
         "hero_id": 42,
         "hero_name": "Harley",
         "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
@@ -56,7 +20,43 @@
           "Poke"
         ],
         "tier": "SS",
-        "score": 1155.05
+        "score": 1216.29
+      },
+      {
+        "hero_id": 104,
+        "hero_name": "Gloo",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Roam",
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Regen",
+          "Control"
+        ],
+        "tier": "SS",
+        "score": 1184.63
+      },
+      {
+        "hero_id": 131,
+        "hero_name": "Sora",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
+        "role": [
+          "Fighter",
+          "Assassin"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Charge",
+          "Burst"
+        ],
+        "tier": "SS",
+        "score": 1101.22
       },
       {
         "hero_id": 132,
@@ -73,7 +73,7 @@
           "Support"
         ],
         "tier": "SS",
-        "score": 896.556
+        "score": 956.464
       },
       {
         "hero_id": 80,
@@ -89,8 +89,8 @@
           "Burst",
           "Magic Damage"
         ],
-        "tier": "S",
-        "score": 794.697
+        "tier": "SS",
+        "score": 774.594
       },
       {
         "hero_id": 22,
@@ -108,7 +108,7 @@
           "Damage"
         ],
         "tier": "S",
-        "score": 746.482
+        "score": 646.63
       },
       {
         "hero_id": 125,
@@ -125,24 +125,7 @@
           "Crowd Control"
         ],
         "tier": "S",
-        "score": 647.801
-      },
-      {
-        "hero_id": 34,
-        "hero_name": "Estes",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
-        "role": [
-          "Support"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Regen",
-          "Guard"
-        ],
-        "tier": "S",
-        "score": 579.334
+        "score": 596.094
       },
       {
         "hero_id": 51,
@@ -160,7 +143,24 @@
           "Burst"
         ],
         "tier": "S",
-        "score": 565.277
+        "score": 536.899
+      },
+      {
+        "hero_id": 34,
+        "hero_name": "Estes",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Regen",
+          "Guard"
+        ],
+        "tier": "S",
+        "score": 519.215
       },
       {
         "hero_id": 126,
@@ -177,8 +177,43 @@
           "Chase",
           "Burst"
         ],
-        "tier": "A",
-        "score": 468.466
+        "tier": "S",
+        "score": 499.804
+      },
+      {
+        "hero_id": 74,
+        "hero_name": "Minsitthar",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane",
+          "Roam"
+        ],
+        "speciality": [
+          "Initiator",
+          "Crowd Control"
+        ],
+        "tier": "S",
+        "score": 468.756
+      },
+      {
+        "hero_id": 129,
+        "hero_name": "Zetian",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Damage",
+          "Crowd Control"
+        ],
+        "tier": "S",
+        "score": 456.26
       },
       {
         "hero_id": 35,
@@ -196,26 +231,43 @@
           "Damage",
           "Regen"
         ],
-        "tier": "A",
-        "score": 468.123
+        "tier": "S",
+        "score": 443.674
       },
       {
-        "hero_id": 74,
-        "hero_name": "Minsitthar",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+        "hero_id": 27,
+        "hero_name": "Sun",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
         "role": [
           "Fighter"
         ],
         "lane": [
           "Exp Lane",
-          "Roam"
+          "Jungle"
         ],
         "speciality": [
-          "Initiator",
-          "Crowd Control"
+          "Push",
+          "Damage"
         ],
-        "tier": "A",
-        "score": 460.834
+        "tier": "S",
+        "score": 431.033
+      },
+      {
+        "hero_id": 108,
+        "hero_name": "Aulus",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Damage",
+          "Charge"
+        ],
+        "tier": "S",
+        "score": 421.377
       },
       {
         "hero_id": 117,
@@ -233,24 +285,7 @@
           "Chase"
         ],
         "tier": "A",
-        "score": 455.9
-      },
-      {
-        "hero_id": 129,
-        "hero_name": "Zetian",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
-        "role": [
-          "Mage"
-        ],
-        "lane": [
-          "Mid Lane"
-        ],
-        "speciality": [
-          "Damage",
-          "Crowd Control"
-        ],
-        "tier": "A",
-        "score": 434.159
+        "score": 394.92
       },
       {
         "hero_id": 30,
@@ -268,7 +303,24 @@
           "Chase"
         ],
         "tier": "A",
-        "score": 429.826
+        "score": 389.129
+      },
+      {
+        "hero_id": 112,
+        "hero_name": "Floryn",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Poke",
+          "Guard"
+        ],
+        "tier": "A",
+        "score": 357.727
       },
       {
         "hero_id": 40,
@@ -285,42 +337,25 @@
           "Damage"
         ],
         "tier": "A",
-        "score": 400.591
+        "score": 323.155
       },
       {
-        "hero_id": 112,
-        "hero_name": "Floryn",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
+        "hero_id": 56,
+        "hero_name": "Gusion",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
         "role": [
-          "Support"
+          "Assassin"
         ],
         "lane": [
-          "Roam"
+          "Jungle",
+          "Mid Lane"
         ],
         "speciality": [
-          "Poke",
-          "Guard"
+          "Burst",
+          "Magic Damage"
         ],
-        "tier": "B",
-        "score": 368.294
-      },
-      {
-        "hero_id": 27,
-        "hero_name": "Sun",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
-        "role": [
-          "Fighter"
-        ],
-        "lane": [
-          "Exp Lane",
-          "Jungle"
-        ],
-        "speciality": [
-          "Push",
-          "Damage"
-        ],
-        "tier": "B",
-        "score": 362.412
+        "tier": "A",
+        "score": 323.082
       },
       {
         "hero_id": 4,
@@ -338,8 +373,8 @@
           "Charge",
           "Regen"
         ],
-        "tier": "B",
-        "score": 350.546
+        "tier": "A",
+        "score": 315.379
       },
       {
         "hero_id": 62,
@@ -356,26 +391,26 @@
           "Control",
           "Charge"
         ],
-        "tier": "B",
-        "score": 347.815
+        "tier": "A",
+        "score": 315.139
       },
       {
-        "hero_id": 56,
-        "hero_name": "Gusion",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+        "hero_id": 73,
+        "hero_name": "Harith",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
         "role": [
-          "Assassin"
+          "Mage"
         ],
         "lane": [
-          "Jungle",
-          "Mid Lane"
+          "Gold Lane",
+          "Jungle"
         ],
         "speciality": [
-          "Burst",
-          "Magic Damage"
+          "Chase",
+          "Damage"
         ],
-        "tier": "B",
-        "score": 338.074
+        "tier": "A",
+        "score": 312.423
       },
       {
         "hero_id": 75,
@@ -392,8 +427,8 @@
           "Burst",
           "Charge"
         ],
-        "tier": "B",
-        "score": 327.14
+        "tier": "A",
+        "score": 309.169
       },
       {
         "hero_id": 67,
@@ -410,24 +445,7 @@
           "Burst"
         ],
         "tier": "B",
-        "score": 289.372
-      },
-      {
-        "hero_id": 48,
-        "hero_name": "Diggie",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
-        "role": [
-          "Support"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Guard",
-          "Poke"
-        ],
-        "tier": "B",
-        "score": 288.715
+        "score": 275.693
       },
       {
         "hero_id": 60,
@@ -444,30 +462,12 @@
           "Damage"
         ],
         "tier": "B",
-        "score": 282.476
+        "score": 273.132
       },
       {
-        "hero_id": 44,
-        "hero_name": "Grock",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-        "role": [
-          "Tank",
-          "Fighter"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Crowd Control",
-          "Initiator"
-        ],
-        "tier": "C",
-        "score": 251.13
-      },
-      {
-        "hero_id": 55,
-        "hero_name": "Angela",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
+        "hero_id": 48,
+        "hero_name": "Diggie",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
         "role": [
           "Support"
         ],
@@ -476,10 +476,10 @@
         ],
         "speciality": [
           "Guard",
-          "Support"
+          "Poke"
         ],
-        "tier": "C",
-        "score": 238.653
+        "tier": "B",
+        "score": 265.707
       },
       {
         "hero_id": 3,
@@ -496,8 +496,43 @@
           "Charge",
           "Finisher"
         ],
-        "tier": "C",
-        "score": 223.48
+        "tier": "B",
+        "score": 236.144
+      },
+      {
+        "hero_id": 55,
+        "hero_name": "Angela",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Guard",
+          "Support"
+        ],
+        "tier": "B",
+        "score": 233.729
+      },
+      {
+        "hero_id": 44,
+        "hero_name": "Grock",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
+        "role": [
+          "Tank",
+          "Fighter"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Crowd Control",
+          "Initiator"
+        ],
+        "tier": "B",
+        "score": 229.67
       },
       {
         "hero_id": 109,
@@ -513,30 +548,13 @@
           "Chase",
           "Magic Damage"
         ],
-        "tier": "C",
-        "score": 218.356
-      },
-      {
-        "hero_id": 19,
-        "hero_name": "Minotaur",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
-        "role": [
-          "Tank",
-          "Support"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Crowd Control"
-        ],
-        "tier": "C",
-        "score": 211.415
+        "tier": "B",
+        "score": 214.347
       },
       {
         "hero_id": 10,
         "hero_name": "Franco",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png",
         "role": [
           "Tank"
         ],
@@ -547,8 +565,8 @@
           "Initiator",
           "Control"
         ],
-        "tier": "C",
-        "score": 207.147
+        "tier": "B",
+        "score": 207.316
       },
       {
         "hero_id": 53,
@@ -565,25 +583,25 @@
           "Finisher",
           "Burst"
         ],
-        "tier": "C",
-        "score": 196.524
+        "tier": "B",
+        "score": 206.39
       },
       {
-        "hero_id": 107,
-        "hero_name": "Natan",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
+        "hero_id": 19,
+        "hero_name": "Minotaur",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
         "role": [
-          "Marksman"
+          "Tank",
+          "Support"
         ],
         "lane": [
-          "Gold Lane"
+          "Roam"
         ],
         "speciality": [
-          "Burst",
-          "Magic Damage"
+          "Crowd Control"
         ],
-        "tier": "C",
-        "score": 195.837
+        "tier": "B",
+        "score": 202.662
       },
       {
         "hero_id": 6,
@@ -599,7 +617,41 @@
           "Crowd Control"
         ],
         "tier": "C",
-        "score": 194.663
+        "score": 197.825
+      },
+      {
+        "hero_id": 1,
+        "hero_name": "Miya",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Damage"
+        ],
+        "tier": "C",
+        "score": 188.306
+      },
+      {
+        "hero_id": 106,
+        "hero_name": "Phoveus",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Regen",
+          "Damage"
+        ],
+        "tier": "C",
+        "score": 182.862
       },
       {
         "hero_id": 88,
@@ -617,109 +669,7 @@
           "Damage"
         ],
         "tier": "C",
-        "score": 187.818
-      },
-      {
-        "hero_id": 69,
-        "hero_name": "Hanzo",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
-        "role": [
-          "Assassin"
-        ],
-        "lane": [
-          "Jungle"
-        ],
-        "speciality": [
-          "Poke",
-          "Burst"
-        ],
-        "tier": "C",
-        "score": 182.393
-      },
-      {
-        "hero_id": 1,
-        "hero_name": "Miya",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
-        "role": [
-          "Marksman"
-        ],
-        "lane": [
-          "Gold Lane"
-        ],
-        "speciality": [
-          "Finisher",
-          "Damage"
-        ],
-        "tier": "C",
-        "score": 182.045
-      },
-      {
-        "hero_id": 130,
-        "hero_name": "Obsidia",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
-        "role": [
-          "Marksman"
-        ],
-        "lane": [
-          "Gold Lane"
-        ],
-        "speciality": [
-          "Finisher",
-          "Damage"
-        ],
-        "tier": "C",
-        "score": 182.035
-      },
-      {
-        "hero_id": 21,
-        "hero_name": "Hayabusa",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
-        "role": [
-          "Assassin"
-        ],
-        "lane": [
-          "Jungle"
-        ],
-        "speciality": [
-          "Chase",
-          "Burst"
-        ],
-        "tier": "C",
-        "score": 180.94
-      },
-      {
-        "hero_id": 78,
-        "hero_name": "Khufra",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
-        "role": [
-          "Tank"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Initiator",
-          "Crowd Control"
-        ],
-        "tier": "C",
-        "score": 180.761
-      },
-      {
-        "hero_id": 106,
-        "hero_name": "Phoveus",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-        "role": [
-          "Fighter"
-        ],
-        "lane": [
-          "Exp Lane"
-        ],
-        "speciality": [
-          "Regen",
-          "Damage"
-        ],
-        "tier": "C",
-        "score": 180.325
+        "score": 182.838
       },
       {
         "hero_id": 57,
@@ -736,7 +686,58 @@
           "Guard"
         ],
         "tier": "C",
-        "score": 178.574
+        "score": 182.678
+      },
+      {
+        "hero_id": 21,
+        "hero_name": "Hayabusa",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Chase",
+          "Burst"
+        ],
+        "tier": "C",
+        "score": 180.19
+      },
+      {
+        "hero_id": 78,
+        "hero_name": "Khufra",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Initiator",
+          "Crowd Control"
+        ],
+        "tier": "C",
+        "score": 178.328
+      },
+      {
+        "hero_id": 69,
+        "hero_name": "Hanzo",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Poke",
+          "Burst"
+        ],
+        "tier": "C",
+        "score": 177.284
       },
       {
         "hero_id": 77,
@@ -746,33 +747,32 @@
           "Fighter"
         ],
         "lane": [
-          "Exp Lane",
-          "Roam"
+          "Roam",
+          "Exp Lane"
         ],
         "speciality": [
           "Charge",
           "Burst"
         ],
         "tier": "C",
-        "score": 177.714
+        "score": 176.521
       },
       {
-        "hero_id": 97,
-        "hero_name": "Benedetta",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+        "hero_id": 130,
+        "hero_name": "Obsidia",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
         "role": [
-          "Assassin",
-          "Fighter"
+          "Marksman"
         ],
         "lane": [
-          "Exp Lane"
+          "Gold Lane"
         ],
         "speciality": [
-          "Chase",
-          "Burst"
+          "Finisher",
+          "Damage"
         ],
         "tier": "C",
-        "score": 177.413
+        "score": 175.865
       },
       {
         "hero_id": 116,
@@ -791,24 +791,76 @@
           "Magic Damage"
         ],
         "tier": "C",
-        "score": 175.55
+        "score": 175.219
       },
       {
-        "hero_id": 17,
-        "hero_name": "Fanny",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
+        "hero_id": 90,
+        "hero_name": "Silvanna",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
         "role": [
-          "Assassin"
+          "Fighter"
         ],
         "lane": [
-          "Jungle"
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Initiator",
+          "Magic Damage"
+        ],
+        "tier": "C",
+        "score": 174.706
+      },
+      {
+        "hero_id": 70,
+        "hero_name": "Belerick",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Crowd Control",
+          "Regen"
+        ],
+        "tier": "C",
+        "score": 174.103
+      },
+      {
+        "hero_id": 23,
+        "hero_name": "Gord",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Poke",
+          "Burst"
+        ],
+        "tier": "C",
+        "score": 172.887
+      },
+      {
+        "hero_id": 97,
+        "hero_name": "Benedetta",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+        "role": [
+          "Assassin",
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
         ],
         "speciality": [
           "Chase",
-          "Finisher"
+          "Burst"
         ],
         "tier": "C",
-        "score": 174.779
+        "score": 172.58
       },
       {
         "hero_id": 20,
@@ -826,58 +878,24 @@
           "Crowd Control"
         ],
         "tier": "C",
-        "score": 174.135
+        "score": 172.214
       },
       {
-        "hero_id": 90,
-        "hero_name": "Silvanna",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+        "hero_id": 107,
+        "hero_name": "Natan",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
         "role": [
-          "Fighter"
+          "Marksman"
         ],
         "lane": [
-          "Exp Lane"
+          "Gold Lane"
         ],
         "speciality": [
-          "Initiator",
+          "Burst",
           "Magic Damage"
         ],
         "tier": "C",
-        "score": 174.008
-      },
-      {
-        "hero_id": 95,
-        "hero_name": "Yu Zhong",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
-        "role": [
-          "Fighter"
-        ],
-        "lane": [
-          "Exp Lane"
-        ],
-        "speciality": [
-          "Regen",
-          "Damage"
-        ],
-        "tier": "C",
-        "score": 173.592
-      },
-      {
-        "hero_id": 23,
-        "hero_name": "Gord",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
-        "role": [
-          "Mage"
-        ],
-        "lane": [
-          "Mid Lane"
-        ],
-        "speciality": [
-          "Poke",
-          "Burst"
-        ],
-        "tier": "D",
-        "score": 171.837
+        "score": 172.201
       },
       {
         "hero_id": 83,
@@ -893,8 +911,42 @@
           "Regen",
           "Burst"
         ],
-        "tier": "D",
-        "score": 170.622
+        "tier": "C",
+        "score": 171.898
+      },
+      {
+        "hero_id": 17,
+        "hero_name": "Fanny",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
+        ],
+        "speciality": [
+          "Chase",
+          "Finisher"
+        ],
+        "tier": "C",
+        "score": 171.175
+      },
+      {
+        "hero_id": 9,
+        "hero_name": "Akai",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Guard",
+          "Crowd Control"
+        ],
+        "tier": "C",
+        "score": 170.96
       },
       {
         "hero_id": 98,
@@ -911,59 +963,8 @@
           "Damage",
           "Regen"
         ],
-        "tier": "D",
-        "score": 169.954
-      },
-      {
-        "hero_id": 9,
-        "hero_name": "Akai",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-        "role": [
-          "Tank"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Guard",
-          "Crowd Control"
-        ],
-        "tier": "D",
-        "score": 169.596
-      },
-      {
-        "hero_id": 70,
-        "hero_name": "Belerick",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
-        "role": [
-          "Tank"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Crowd Control",
-          "Regen"
-        ],
-        "tier": "D",
-        "score": 169.242
-      },
-      {
-        "hero_id": 46,
-        "hero_name": "Odette",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
-        "role": [
-          "Mage"
-        ],
-        "lane": [
-          "Mid Lane"
-        ],
-        "speciality": [
-          "Burst",
-          "Poke"
-        ],
-        "tier": "D",
-        "score": 168.55
+        "tier": "C",
+        "score": 170.634
       },
       {
         "hero_id": 72,
@@ -979,8 +980,111 @@
           "Chase",
           "Damage"
         ],
-        "tier": "D",
-        "score": 167.387
+        "tier": "C",
+        "score": 170.022
+      },
+      {
+        "hero_id": 95,
+        "hero_name": "Yu Zhong",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Regen",
+          "Damage"
+        ],
+        "tier": "C",
+        "score": 169.426
+      },
+      {
+        "hero_id": 82,
+        "hero_name": "Terizla",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+        "role": [
+          "Fighter",
+          "Tank"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Crowd Control"
+        ],
+        "tier": "C",
+        "score": 169.308
+      },
+      {
+        "hero_id": 46,
+        "hero_name": "Odette",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Poke"
+        ],
+        "tier": "C",
+        "score": 169.119
+      },
+      {
+        "hero_id": 114,
+        "hero_name": "Melissa",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Damage"
+        ],
+        "tier": "C",
+        "score": 168.457
+      },
+      {
+        "hero_id": 121,
+        "hero_name": "Ixia",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Damage"
+        ],
+        "tier": "C",
+        "score": 166.638
+      },
+      {
+        "hero_id": 31,
+        "hero_name": "Moskov",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Chase"
+        ],
+        "tier": "C",
+        "score": 166.226
       },
       {
         "hero_id": 24,
@@ -997,25 +1101,8 @@
           "Chase",
           "Finisher"
         ],
-        "tier": "D",
-        "score": 166.602
-      },
-      {
-        "hero_id": 121,
-        "hero_name": "Ixia",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
-        "role": [
-          "Marksman"
-        ],
-        "lane": [
-          "Gold Lane"
-        ],
-        "speciality": [
-          "Finisher",
-          "Damage"
-        ],
-        "tier": "D",
-        "score": 165.934
+        "tier": "C",
+        "score": 165.895
       },
       {
         "hero_id": 13,
@@ -1031,25 +1118,8 @@
           "Finisher",
           "Burst"
         ],
-        "tier": "D",
-        "score": 165.71
-      },
-      {
-        "hero_id": 25,
-        "hero_name": "Kagura",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-        "role": [
-          "Mage"
-        ],
-        "lane": [
-          "Mid Lane"
-        ],
-        "speciality": [
-          "Poke",
-          "Finisher"
-        ],
-        "tier": "D",
-        "score": 164.1
+        "tier": "C",
+        "score": 165.505
       },
       {
         "hero_id": 59,
@@ -1064,59 +1134,8 @@
         "speciality": [
           "Regen"
         ],
-        "tier": "D",
-        "score": 163.959
-      },
-      {
-        "hero_id": 14,
-        "hero_name": "Rafaela",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
-        "role": [
-          "Support"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Regen",
-          "Guard"
-        ],
-        "tier": "D",
-        "score": 163.617
-      },
-      {
-        "hero_id": 31,
-        "hero_name": "Moskov",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-        "role": [
-          "Marksman"
-        ],
-        "lane": [
-          "Gold Lane"
-        ],
-        "speciality": [
-          "Finisher",
-          "Chase"
-        ],
-        "tier": "D",
-        "score": 163.568
-      },
-      {
-        "hero_id": 29,
-        "hero_name": "Ruby",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
-        "role": [
-          "Fighter"
-        ],
-        "lane": [
-          "Exp Lane"
-        ],
-        "speciality": [
-          "Crowd Control",
-          "Regen"
-        ],
-        "tier": "D",
-        "score": 163.381
+        "tier": "C",
+        "score": 164.28
       },
       {
         "hero_id": 38,
@@ -1132,8 +1151,8 @@
           "Poke",
           "Control"
         ],
-        "tier": "D",
-        "score": 162.806
+        "tier": "C",
+        "score": 164.206
       },
       {
         "hero_id": 127,
@@ -1150,13 +1169,101 @@
           "Regen",
           "Damage"
         ],
-        "tier": "D",
-        "score": 162.762
+        "tier": "C",
+        "score": 163.44
       },
       {
-        "hero_id": 65,
-        "hero_name": "Claude",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
+        "hero_id": 14,
+        "hero_name": "Rafaela",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+        "role": [
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Regen",
+          "Guard"
+        ],
+        "tier": "C",
+        "score": 163.412
+      },
+      {
+        "hero_id": 25,
+        "hero_name": "Kagura",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Poke",
+          "Finisher"
+        ],
+        "tier": "C",
+        "score": 162.524
+      },
+      {
+        "hero_id": 63,
+        "hero_name": "Selena",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
+        "role": [
+          "Assassin",
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane",
+          "Roam"
+        ],
+        "speciality": [
+          "Initiator",
+          "Finisher"
+        ],
+        "tier": "C",
+        "score": 162.263
+      },
+      {
+        "hero_id": 93,
+        "hero_name": "Atlas",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Crowd Control",
+          "Initiator"
+        ],
+        "tier": "C",
+        "score": 161.714
+      },
+      {
+        "hero_id": 32,
+        "hero_name": "Johnson",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
+        "role": [
+          "Tank",
+          "Support"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Support",
+          "Crowd Control"
+        ],
+        "tier": "C",
+        "score": 161.53
+      },
+      {
+        "hero_id": 105,
+        "hero_name": "Beatrix",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
         "role": [
           "Marksman"
         ],
@@ -1164,11 +1271,63 @@
           "Gold Lane"
         ],
         "speciality": [
-          "Burst",
-          "Chase"
+          "Finisher",
+          "Damage"
         ],
-        "tier": "D",
-        "score": 162.383
+        "tier": "C",
+        "score": 160.739
+      },
+      {
+        "hero_id": 43,
+        "hero_name": "Irithel",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Burst"
+        ],
+        "tier": "C",
+        "score": 160.673
+      },
+      {
+        "hero_id": 92,
+        "hero_name": "Carmilla",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
+        "role": [
+          "Support",
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Crowd Control",
+          "Damage"
+        ],
+        "tier": "C",
+        "score": 160.466
+      },
+      {
+        "hero_id": 29,
+        "hero_name": "Ruby",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Crowd Control",
+          "Regen"
+        ],
+        "tier": "C",
+        "score": 160.44
       },
       {
         "hero_id": 71,
@@ -1186,13 +1345,13 @@
           "Damage",
           "Magic Damage"
         ],
-        "tier": "D",
-        "score": 162.213
+        "tier": "C",
+        "score": 160.331
       },
       {
-        "hero_id": 114,
-        "hero_name": "Melissa",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
+        "hero_id": 65,
+        "hero_name": "Claude",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
         "role": [
           "Marksman"
         ],
@@ -1200,63 +1359,11 @@
           "Gold Lane"
         ],
         "speciality": [
-          "Finisher",
-          "Damage"
+          "Burst",
+          "Chase"
         ],
-        "tier": "D",
-        "score": 161.183
-      },
-      {
-        "hero_id": 43,
-        "hero_name": "Irithel",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-        "role": [
-          "Marksman"
-        ],
-        "lane": [
-          "Gold Lane"
-        ],
-        "speciality": [
-          "Finisher",
-          "Burst"
-        ],
-        "tier": "D",
-        "score": 161.034
-      },
-      {
-        "hero_id": 93,
-        "hero_name": "Atlas",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-        "role": [
-          "Tank"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Crowd Control",
-          "Initiator"
-        ],
-        "tier": "D",
-        "score": 160.459
-      },
-      {
-        "hero_id": 87,
-        "hero_name": "Baxia",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
-        "role": [
-          "Tank"
-        ],
-        "lane": [
-          "Jungle",
-          "Roam"
-        ],
-        "speciality": [
-          "Support",
-          "Damage"
-        ],
-        "tier": "D",
-        "score": 160.219
+        "tier": "C",
+        "score": 160.207
       },
       {
         "hero_id": 100,
@@ -1272,8 +1379,59 @@
           "Burst",
           "Finisher"
         ],
+        "tier": "C",
+        "score": 160.111
+      },
+      {
+        "hero_id": 15,
+        "hero_name": "Eudora",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Control",
+          "Burst"
+        ],
         "tier": "D",
-        "score": 159.812
+        "score": 159.379
+      },
+      {
+        "hero_id": 45,
+        "hero_name": "Argus",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Charge",
+          "Burst"
+        ],
+        "tier": "D",
+        "score": 159.109
+      },
+      {
+        "hero_id": 33,
+        "hero_name": "Cyclops",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Damage",
+          "Control"
+        ],
+        "tier": "D",
+        "score": 158.793
       },
       {
         "hero_id": 76,
@@ -1292,7 +1450,7 @@
           "Charge"
         ],
         "tier": "D",
-        "score": 159.69
+        "score": 157.787
       },
       {
         "hero_id": 118,
@@ -1309,165 +1467,25 @@
           "Damage"
         ],
         "tier": "D",
-        "score": 159.427
+        "score": 157.692
       },
       {
-        "hero_id": 63,
-        "hero_name": "Selena",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
+        "hero_id": 87,
+        "hero_name": "Baxia",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
         "role": [
-          "Assassin",
-          "Mage"
-        ],
-        "lane": [
-          "Mid Lane",
-          "Roam"
-        ],
-        "speciality": [
-          "Initiator",
-          "Finisher"
-        ],
-        "tier": "D",
-        "score": 159.417
-      },
-      {
-        "hero_id": 32,
-        "hero_name": "Johnson",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
-        "role": [
-          "Tank",
-          "Support"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Support",
-          "Crowd Control"
-        ],
-        "tier": "D",
-        "score": 159.406
-      },
-      {
-        "hero_id": 33,
-        "hero_name": "Cyclops",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
-        "role": [
-          "Mage"
-        ],
-        "lane": [
-          "Mid Lane"
-        ],
-        "speciality": [
-          "Damage",
-          "Control"
-        ],
-        "tier": "D",
-        "score": 159.141
-      },
-      {
-        "hero_id": 92,
-        "hero_name": "Carmilla",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
-        "role": [
-          "Support",
           "Tank"
         ],
         "lane": [
+          "Jungle",
           "Roam"
         ],
         "speciality": [
-          "Crowd Control",
+          "Support",
           "Damage"
         ],
         "tier": "D",
-        "score": 159.004
-      },
-      {
-        "hero_id": 79,
-        "hero_name": "Granger",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-        "role": [
-          "Marksman"
-        ],
-        "lane": [
-          "Gold Lane"
-        ],
-        "speciality": [
-          "Burst",
-          "Finisher"
-        ],
-        "tier": "D",
-        "score": 158.904
-      },
-      {
-        "hero_id": 15,
-        "hero_name": "Eudora",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-        "role": [
-          "Mage"
-        ],
-        "lane": [
-          "Mid Lane"
-        ],
-        "speciality": [
-          "Control",
-          "Burst"
-        ],
-        "tier": "D",
-        "score": 158.492
-      },
-      {
-        "hero_id": 120,
-        "hero_name": "Arlott",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
-        "role": [
-          "Fighter",
-          "Assassin"
-        ],
-        "lane": [
-          "Exp Lane"
-        ],
-        "speciality": [
-          "Charge",
-          "Burst"
-        ],
-        "tier": "D",
-        "score": 157.889
-      },
-      {
-        "hero_id": 45,
-        "hero_name": "Argus",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-        "role": [
-          "Fighter"
-        ],
-        "lane": [
-          "Exp Lane"
-        ],
-        "speciality": [
-          "Charge",
-          "Burst"
-        ],
-        "tier": "D",
-        "score": 157.725
-      },
-      {
-        "hero_id": 50,
-        "hero_name": "Zhask",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
-        "role": [
-          "Mage"
-        ],
-        "lane": [
-          "Mid Lane"
-        ],
-        "speciality": [
-          "Chase",
-          "Damage"
-        ],
-        "tier": "D",
-        "score": 157.709
+        "score": 157.668
       },
       {
         "hero_id": 7,
@@ -1485,7 +1503,24 @@
           "Damage"
         ],
         "tier": "D",
-        "score": 157.486
+        "score": 157.128
+      },
+      {
+        "hero_id": 79,
+        "hero_name": "Granger",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Finisher"
+        ],
+        "tier": "D",
+        "score": 156.948
       },
       {
         "hero_id": 101,
@@ -1502,41 +1537,25 @@
           "Burst"
         ],
         "tier": "D",
-        "score": 157.113
+        "score": 156.844
       },
       {
-        "hero_id": 105,
-        "hero_name": "Beatrix",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
-        "role": [
-          "Marksman"
-        ],
-        "lane": [
-          "Gold Lane"
-        ],
-        "speciality": [
-          "Finisher",
-          "Damage"
-        ],
-        "tier": "D",
-        "score": 156.464
-      },
-      {
-        "hero_id": 37,
-        "hero_name": "Lapu-Lapu",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+        "hero_id": 85,
+        "hero_name": "Dyrroth",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
         "role": [
           "Fighter"
         ],
         "lane": [
-          "Exp Lane"
+          "Exp Lane",
+          "Jungle"
         ],
         "speciality": [
-          "Chase",
+          "Charge",
           "Burst"
         ],
         "tier": "D",
-        "score": 155.007
+        "score": 156.827
       },
       {
         "hero_id": 94,
@@ -1554,66 +1573,12 @@
           "Burst"
         ],
         "tier": "D",
-        "score": 154.953
+        "score": 156.602
       },
       {
-        "hero_id": 26,
-        "hero_name": "Chou",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
-        "role": [
-          "Fighter"
-        ],
-        "lane": [
-          "Exp Lane",
-          "Roam"
-        ],
-        "speciality": [
-          "Chase",
-          "Control"
-        ],
-        "tier": "D",
-        "score": 154.595
-      },
-      {
-        "hero_id": 124,
-        "hero_name": "Chip",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-        "role": [
-          "Support",
-          "Tank"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Support",
-          "Crowd Control"
-        ],
-        "tier": "D",
-        "score": 154.208
-      },
-      {
-        "hero_id": 128,
-        "hero_name": "Kalea",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
-        "role": [
-          "Support",
-          "Fighter"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Control",
-          "Regen"
-        ],
-        "tier": "D",
-        "score": 153.778
-      },
-      {
-        "hero_id": 119,
-        "hero_name": "Novaria",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+        "hero_id": 50,
+        "hero_name": "Zhask",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
         "role": [
           "Mage"
         ],
@@ -1621,46 +1586,29 @@
           "Mid Lane"
         ],
         "speciality": [
-          "Burst",
-          "Poke"
-        ],
-        "tier": "D",
-        "score": 153.709
-      },
-      {
-        "hero_id": 122,
-        "hero_name": "Nolan",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
-        "role": [
-          "Assassin"
-        ],
-        "lane": [
-          "Jungle"
-        ],
-        "speciality": [
           "Chase",
-          "Burst"
+          "Damage"
         ],
         "tier": "D",
-        "score": 153.575
+        "score": 156.318
       },
       {
-        "hero_id": 82,
-        "hero_name": "Terizla",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+        "hero_id": 120,
+        "hero_name": "Arlott",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
         "role": [
           "Fighter",
-          "Tank"
+          "Assassin"
         ],
         "lane": [
           "Exp Lane"
         ],
         "speciality": [
-          "Burst",
-          "Crowd Control"
+          "Charge",
+          "Burst"
         ],
         "tier": "D",
-        "score": 153.49
+        "score": 156.053
       },
       {
         "hero_id": 5,
@@ -1677,12 +1625,12 @@
           "Burst"
         ],
         "tier": "D",
-        "score": 153.456
+        "score": 155.893
       },
       {
-        "hero_id": 64,
-        "hero_name": "Aldous",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+        "hero_id": 37,
+        "hero_name": "Lapu-Lapu",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
         "role": [
           "Fighter"
         ],
@@ -1690,71 +1638,16 @@
           "Exp Lane"
         ],
         "speciality": [
-          "Burst",
-          "Support"
-        ],
-        "tier": "D",
-        "score": 152.954
-      },
-      {
-        "hero_id": 86,
-        "hero_name": "Lylia",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-        "role": [
-          "Mage"
-        ],
-        "lane": [
-          "Mid Lane"
-        ],
-        "speciality": [
-          "Push",
-          "Damage"
-        ],
-        "tier": "D",
-        "score": 152.942
-      },
-      {
-        "hero_id": 113,
-        "hero_name": "Yin",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png",
-        "role": [
-          "Fighter",
-          "Assassin"
-        ],
-        "lane": [
-          "Jungle",
-          "Exp Lane"
-        ],
-        "speciality": [
-          "Burst",
-          "Control"
-        ],
-        "tier": "D",
-        "score": 152.75
-      },
-      {
-        "hero_id": 11,
-        "hero_name": "Bane",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-        "role": [
-          "Fighter",
-          "Mage"
-        ],
-        "lane": [
-          "Jungle",
-          "Exp Lane"
-        ],
-        "speciality": [
-          "Push",
+          "Chase",
           "Burst"
         ],
         "tier": "D",
-        "score": 152.739
+        "score": 155.144
       },
       {
-        "hero_id": 66,
-        "hero_name": "Vale",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
+        "hero_id": 119,
+        "hero_name": "Novaria",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
         "role": [
           "Mage"
         ],
@@ -1763,27 +1656,10 @@
         ],
         "speciality": [
           "Burst",
-          "Crowd Control"
+          "Poke"
         ],
         "tier": "D",
-        "score": 151.942
-      },
-      {
-        "hero_id": 115,
-        "hero_name": "Xavier",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
-        "role": [
-          "Mage"
-        ],
-        "lane": [
-          "Mid Lane"
-        ],
-        "speciality": [
-          "Damage",
-          "Burst"
-        ],
-        "tier": "D",
-        "score": 151.487
+        "score": 154.061
       },
       {
         "hero_id": 111,
@@ -1802,12 +1678,66 @@
           "Burst"
         ],
         "tier": "D",
-        "score": 151.297
+        "score": 153.803
       },
       {
-        "hero_id": 68,
-        "hero_name": "Lunox",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
+        "hero_id": 11,
+        "hero_name": "Bane",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
+        "role": [
+          "Fighter",
+          "Mage"
+        ],
+        "lane": [
+          "Jungle",
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Push",
+          "Burst"
+        ],
+        "tier": "D",
+        "score": 153.779
+      },
+      {
+        "hero_id": 128,
+        "hero_name": "Kalea",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+        "role": [
+          "Support",
+          "Fighter"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Control",
+          "Regen"
+        ],
+        "tier": "D",
+        "score": 153.774
+      },
+      {
+        "hero_id": 86,
+        "hero_name": "Lylia",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Push",
+          "Damage"
+        ],
+        "tier": "D",
+        "score": 153.624
+      },
+      {
+        "hero_id": 66,
+        "hero_name": "Vale",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
         "role": [
           "Mage"
         ],
@@ -1816,10 +1746,116 @@
         ],
         "speciality": [
           "Burst",
+          "Crowd Control"
+        ],
+        "tier": "D",
+        "score": 153.307
+      },
+      {
+        "hero_id": 124,
+        "hero_name": "Chip",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+        "role": [
+          "Support",
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Support",
+          "Crowd Control"
+        ],
+        "tier": "D",
+        "score": 153.13
+      },
+      {
+        "hero_id": 113,
+        "hero_name": "Yin",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png",
+        "role": [
+          "Fighter",
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle",
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Control"
+        ],
+        "tier": "D",
+        "score": 152.534
+      },
+      {
+        "hero_id": 26,
+        "hero_name": "Chou",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane",
+          "Roam"
+        ],
+        "speciality": [
+          "Chase",
+          "Control"
+        ],
+        "tier": "D",
+        "score": 152.168
+      },
+      {
+        "hero_id": 115,
+        "hero_name": "Xavier",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Damage",
+          "Burst"
+        ],
+        "tier": "D",
+        "score": 152.133
+      },
+      {
+        "hero_id": 64,
+        "hero_name": "Aldous",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+        "role": [
+          "Fighter"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Support"
+        ],
+        "tier": "D",
+        "score": 151.981
+      },
+      {
+        "hero_id": 18,
+        "hero_name": "Layla",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
           "Damage"
         ],
         "tier": "D",
-        "score": 151.003
+        "score": 150.717
       },
       {
         "hero_id": 91,
@@ -1836,24 +1872,7 @@
           "Burst"
         ],
         "tier": "D",
-        "score": 150.947
-      },
-      {
-        "hero_id": 52,
-        "hero_name": "Pharsa",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
-        "role": [
-          "Mage"
-        ],
-        "lane": [
-          "Mid Lane"
-        ],
-        "speciality": [
-          "Burst",
-          "Poke"
-        ],
-        "tier": "D",
-        "score": 149.073
+        "score": 150.713
       },
       {
         "hero_id": 99,
@@ -1871,29 +1890,12 @@
           "Crowd Control"
         ],
         "tier": "D",
-        "score": 148.377
+        "score": 150.408
       },
       {
-        "hero_id": 108,
-        "hero_name": "Aulus",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-        "role": [
-          "Fighter"
-        ],
-        "lane": [
-          "Jungle"
-        ],
-        "speciality": [
-          "Damage",
-          "Crowd Control"
-        ],
-        "tier": "D",
-        "score": 148.159
-      },
-      {
-        "hero_id": 110,
-        "hero_name": "Valentina",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+        "hero_id": 68,
+        "hero_name": "Lunox",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
         "role": [
           "Mage"
         ],
@@ -1902,32 +1904,49 @@
         ],
         "speciality": [
           "Burst",
-          "Finisher"
+          "Damage"
         ],
         "tier": "D",
-        "score": 148.124
+        "score": 150.361
       },
       {
-        "hero_id": 49,
-        "hero_name": "Hylos",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
+        "hero_id": 122,
+        "hero_name": "Nolan",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
         "role": [
-          "Tank"
+          "Assassin"
         ],
         "lane": [
-          "Roam"
+          "Jungle"
         ],
         "speciality": [
-          "Guard",
-          "Initiator"
+          "Chase",
+          "Burst"
         ],
         "tier": "D",
-        "score": 147.654
+        "score": 149.505
       },
       {
-        "hero_id": 61,
-        "hero_name": "Chang'e",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
+        "hero_id": 89,
+        "hero_name": "Wanwan",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
+          "Burst"
+        ],
+        "tier": "D",
+        "score": 149.427
+      },
+      {
+        "hero_id": 52,
+        "hero_name": "Pharsa",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
         "role": [
           "Mage"
         ],
@@ -1935,11 +1954,28 @@
           "Mid Lane"
         ],
         "speciality": [
-          "Poke",
+          "Burst",
+          "Poke"
+        ],
+        "tier": "D",
+        "score": 149.132
+      },
+      {
+        "hero_id": 12,
+        "hero_name": "Bruno",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+        "role": [
+          "Marksman"
+        ],
+        "lane": [
+          "Gold Lane"
+        ],
+        "speciality": [
+          "Finisher",
           "Burst"
         ],
         "tier": "D",
-        "score": 147.404
+        "score": 149.046
       },
       {
         "hero_id": 123,
@@ -1956,24 +1992,58 @@
           "Regen"
         ],
         "tier": "D",
-        "score": 146.859
+        "score": 148.879
       },
       {
-        "hero_id": 18,
-        "hero_name": "Layla",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
+        "hero_id": 61,
+        "hero_name": "Chang'e",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
         "role": [
-          "Marksman"
+          "Mage"
         ],
         "lane": [
-          "Gold Lane"
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Poke",
+          "Burst"
+        ],
+        "tier": "D",
+        "score": 148.241
+      },
+      {
+        "hero_id": 49,
+        "hero_name": "Hylos",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
+        "role": [
+          "Tank"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Guard",
+          "Initiator"
+        ],
+        "tier": "D",
+        "score": 148.239
+      },
+      {
+        "hero_id": 8,
+        "hero_name": "Karina",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+        "role": [
+          "Assassin"
+        ],
+        "lane": [
+          "Jungle"
         ],
         "speciality": [
           "Finisher",
-          "Damage"
+          "Magic Damage"
         ],
         "tier": "D",
-        "score": 146.789
+        "score": 147.319
       },
       {
         "hero_id": 54,
@@ -1991,59 +2061,7 @@
           "Burst"
         ],
         "tier": "D",
-        "score": 146.651
-      },
-      {
-        "hero_id": 8,
-        "hero_name": "Karina",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
-        "role": [
-          "Assassin"
-        ],
-        "lane": [
-          "Jungle"
-        ],
-        "speciality": [
-          "Finisher",
-          "Magic Damage"
-        ],
-        "tier": "D",
-        "score": 145.995
-      },
-      {
-        "hero_id": 103,
-        "hero_name": "Paquito",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-        "role": [
-          "Fighter",
-          "Assassin"
-        ],
-        "lane": [
-          "Exp Lane"
-        ],
-        "speciality": [
-          "Chase",
-          "Damage"
-        ],
-        "tier": "D",
-        "score": 145.884
-      },
-      {
-        "hero_id": 12,
-        "hero_name": "Bruno",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-        "role": [
-          "Marksman"
-        ],
-        "lane": [
-          "Gold Lane"
-        ],
-        "speciality": [
-          "Finisher",
-          "Burst"
-        ],
-        "tier": "D",
-        "score": 145.451
+        "score": 147.187
       },
       {
         "hero_id": 58,
@@ -2061,7 +2079,7 @@
           "Charge"
         ],
         "tier": "D",
-        "score": 145.428
+        "score": 146.263
       },
       {
         "hero_id": 36,
@@ -2078,7 +2096,25 @@
           "Poke"
         ],
         "tier": "D",
-        "score": 144.989
+        "score": 145.764
+      },
+      {
+        "hero_id": 103,
+        "hero_name": "Paquito",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
+        "role": [
+          "Fighter",
+          "Assassin"
+        ],
+        "lane": [
+          "Exp Lane"
+        ],
+        "speciality": [
+          "Chase",
+          "Damage"
+        ],
+        "tier": "D",
+        "score": 145.478
       },
       {
         "hero_id": 41,
@@ -2097,25 +2133,7 @@
           "Burst"
         ],
         "tier": "D",
-        "score": 143.915
-      },
-      {
-        "hero_id": 16,
-        "hero_name": "Zilong",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
-        "role": [
-          "Fighter",
-          "Assassin"
-        ],
-        "lane": [
-          "Exp Lane"
-        ],
-        "speciality": [
-          "Chase",
-          "Damage"
-        ],
-        "tier": "D",
-        "score": 143.047
+        "score": 144.523
       },
       {
         "hero_id": 39,
@@ -2133,25 +2151,42 @@
           "Burst"
         ],
         "tier": "D",
-        "score": 142.823
+        "score": 143.98
       },
       {
-        "hero_id": 73,
-        "hero_name": "Harith",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+        "hero_id": 16,
+        "hero_name": "Zilong",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
         "role": [
-          "Mage"
+          "Fighter",
+          "Assassin"
         ],
         "lane": [
-          "Gold Lane",
-          "Mid Lane"
+          "Exp Lane"
         ],
         "speciality": [
           "Chase",
           "Damage"
         ],
         "tier": "D",
-        "score": 141.611
+        "score": 143.94
+      },
+      {
+        "hero_id": 110,
+        "hero_name": "Valentina",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+        "role": [
+          "Mage"
+        ],
+        "lane": [
+          "Mid Lane"
+        ],
+        "speciality": [
+          "Burst",
+          "Finisher"
+        ],
+        "tier": "D",
+        "score": 143.777
       },
       {
         "hero_id": 96,
@@ -2168,42 +2203,7 @@
           "Crowd Control"
         ],
         "tier": "D",
-        "score": 139.953
-      },
-      {
-        "hero_id": 89,
-        "hero_name": "Wanwan",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
-        "role": [
-          "Marksman"
-        ],
-        "lane": [
-          "Gold Lane"
-        ],
-        "speciality": [
-          "Finisher",
-          "Burst"
-        ],
-        "tier": "D",
-        "score": 139.057
-      },
-      {
-        "hero_id": 102,
-        "hero_name": "Mathilda",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
-        "role": [
-          "Support",
-          "Assassin"
-        ],
-        "lane": [
-          "Roam"
-        ],
-        "speciality": [
-          "Initiator",
-          "Guard"
-        ],
-        "tier": "D",
-        "score": 136.671
+        "score": 141.438
       },
       {
         "hero_id": 28,
@@ -2221,7 +2221,7 @@
           "Damage"
         ],
         "tier": "D",
-        "score": 136.008
+        "score": 137.262
       },
       {
         "hero_id": 47,
@@ -2238,7 +2238,7 @@
           "Burst"
         ],
         "tier": "D",
-        "score": 135.658
+        "score": 136.336
       },
       {
         "hero_id": 84,
@@ -2255,7 +2255,25 @@
           "Burst"
         ],
         "tier": "D",
-        "score": 135.64
+        "score": 134.726
+      },
+      {
+        "hero_id": 102,
+        "hero_name": "Mathilda",
+        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+        "role": [
+          "Support",
+          "Assassin"
+        ],
+        "lane": [
+          "Roam"
+        ],
+        "speciality": [
+          "Initiator",
+          "Guard"
+        ],
+        "tier": "D",
+        "score": 133.262
       },
       {
         "hero_id": 81,
@@ -2273,25 +2291,7 @@
           "Mixed Damage"
         ],
         "tier": "D",
-        "score": 132.403
-      },
-      {
-        "hero_id": 85,
-        "hero_name": "Dyrroth",
-        "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
-        "role": [
-          "Fighter"
-        ],
-        "lane": [
-          "Exp Lane",
-          "Jungle"
-        ],
-        "speciality": [
-          "Charge",
-          "Burst"
-        ],
-        "tier": "D",
-        "score": 132.374
+        "score": 133.222
       },
       {
         "hero_id": 2,
@@ -2309,9 +2309,9 @@
           "Regen"
         ],
         "tier": "D",
-        "score": 122.161
+        "score": 122.052
       }
     ],
-    "lastUpdated": "2026-04-20T21:00:58.000Z"
+    "lastUpdated": "2026-04-28T23:00:46.000Z"
   }
 }

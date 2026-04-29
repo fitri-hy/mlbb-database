@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 7355,
+      "user_id": 21002,
+      "username": "therian",
+      "hero_id": 119,
+      "hero_name": "Novaria",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+      "items": [
+        94,
+        91,
+        47,
+        44,
+        51,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          17,
+          4,
+          16
+        ]
+      },
+      "description": "can change skypiercer for glowing or genius",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-04-27T15:49:47.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7230,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 119,
+      "hero_name": "Novaria",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+      "items": [
+        94,
+        91,
+        47,
+        44,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          17,
+          16,
+          4
+        ]
+      },
+      "description": "This build has enough damage to one shot while not leaving you defenseless, it also has great movement speed for running\n\nSprint is a personal favourite but you can also use flameshot or flicker, doesn't really matter much",
+      "battle_spell": "Sprint",
+      "created_at": "2026-04-22T22:04:07.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7091,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 119,
+      "hero_name": "Novaria",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+      "items": [
+        96,
+        38,
+        43,
+        90,
+        91,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          9,
+          23
+        ]
+      },
+      "description": "Utility / Poke",
+      "battle_spell": null,
+      "created_at": "2026-04-16T23:41:55.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6692,
+      "user_id": 19423,
+      "username": "take160",
+      "hero_id": 119,
+      "hero_name": "Novaria",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+      "items": [
+        94,
+        38,
+        43,
+        37,
+        51,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          17
+        ]
+      },
+      "description": "Cobain Aja",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-25T10:27:38.000Z",
+      "likes_count": 0,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6926,
+      "user_id": 15566,
+      "username": "Aiden",
+      "hero_id": 119,
+      "hero_name": "Novaria",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+      "items": [
+        94,
+        43,
+        37,
+        51,
+        45,
+        47
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          15,
+          26
+        ]
+      },
+      "description": "Very easy to play 99%",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-07T16:58:49.000Z",
+      "likes_count": 0,
+      "dislikes_count": 5
+    }
+  ]
+}

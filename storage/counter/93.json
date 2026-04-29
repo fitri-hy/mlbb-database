@@ -16,14 +16,39 @@
         "Crowd Control",
         "Support"
       ],
-      "score": 11.446999549865724,
+      "score": 11.526000022888184,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 93,
           "name": "Atlas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-          "score": 11.447
+          "score": 11.526
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "heroName": "Wanwan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 7.50600004196167,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 93,
+          "name": "Atlas",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+          "score": 7.506
         }
       ]
     },
@@ -43,39 +68,14 @@
         "Charge",
         "Regen"
       ],
-      "score": 7.302000045776367,
-      "tier": "B",
+      "score": 7.117000102996826,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 93,
           "name": "Atlas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-          "score": 7.302
-        }
-      ]
-    },
-    {
-      "id": 89,
-      "heroName": "Wanwan",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Burst"
-      ],
-      "score": 7.132999897003174,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 93,
-          "name": "Atlas",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-          "score": 7.133
+          "score": 7.117
         }
       ]
     },
@@ -93,21 +93,21 @@
         "Chase",
         "Burst"
       ],
-      "score": 5.324999809265137,
+      "score": 3.509999990463257,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 93,
           "name": "Atlas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-          "score": 5.325
+          "score": 3.51
         }
       ]
     },
     {
-      "id": 17,
-      "heroName": "Fanny",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
+      "id": 84,
+      "heroName": "Ling",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
       "role": [
         "Assassin"
       ],
@@ -116,16 +116,66 @@
       ],
       "speciality": [
         "Chase",
-        "Finisher"
+        "Burst"
       ],
-      "score": 3.680999994277954,
-      "tier": "C",
+      "score": 3.509999990463257,
+      "tier": "D",
       "counteredHeroes": [
         {
           "id": 93,
           "name": "Atlas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-          "score": 3.681
+          "score": 3.51
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "heroName": "Valentina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 3.3399999141693115,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 93,
+          "name": "Atlas",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+          "score": 3.34
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "heroName": "Diggie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Poke"
+      ],
+      "score": 1.8339999914169312,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 93,
+          "name": "Atlas",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+          "score": 1.834
         }
       ]
     },
@@ -144,64 +194,39 @@
         "Chase",
         "Burst"
       ],
-      "score": 2.351999998092652,
+      "score": 1.6799999475479126,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 93,
           "name": "Atlas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-          "score": 2.352
+          "score": 1.68
         }
       ]
     },
     {
-      "id": 110,
-      "heroName": "Valentina",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "id": 17,
+      "heroName": "Fanny",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
       "role": [
-        "Mage"
+        "Assassin"
       ],
       "lane": [
-        "Mid Lane"
+        "Jungle"
       ],
       "speciality": [
-        "Burst",
+        "Chase",
         "Finisher"
       ],
-      "score": 1.4800000190734863,
-      "tier": "D",
+      "score": 0.3540000021457672,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 93,
           "name": "Atlas",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-          "score": 1.48
-        }
-      ]
-    },
-    {
-      "id": 48,
-      "heroName": "Diggie",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Poke"
-      ],
-      "score": 1.0800000429153442,
-      "tier": "B",
-      "counteredHeroes": [
-        {
-          "id": 93,
-          "name": "Atlas",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-          "score": 1.08
+          "score": 0.354
         }
       ]
     }

@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6570,
+      "user_id": 19111,
+      "username": "Relic",
+      "hero_id": 111,
+      "hero_name": "Edith",
+      "role": "Tank, Marksman",
+      "lane": "Exp Lane, Roam",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png",
+      "items": [
+        100,
+        76,
+        70,
+        39,
+        50,
+        35
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          14,
+          24
+        ]
+      },
+      "description": "New build for the exp lane quite good at bursting down enemies",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-18T14:56:26.000Z",
+      "likes_count": 5,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7315,
+      "user_id": 20904,
+      "username": "Lickmwinner.",
+      "hero_id": 111,
+      "hero_name": "Edith",
+      "role": "Tank, Marksman",
+      "lane": "Exp Lane, Roam",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png",
+      "items": [
+        99,
+        76,
+        70,
+        39,
+        67,
+        75
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          2,
+          11,
+          24
+        ]
+      },
+      "description": "Tebal, Tahan Badan, Damage lumayan",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-26T11:49:49.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7110,
+      "user_id": 20421,
+      "username": "AFZZAT",
+      "hero_id": 111,
+      "hero_name": "Edith",
+      "role": "Tank, Marksman",
+      "lane": "Exp Lane, Roam",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png",
+      "items": [
+        99,
+        19,
+        70,
+        71,
+        69,
+        39
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          14,
+          21
+        ]
+      },
+      "description": "good damage",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-17T13:41:07.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6738,
+      "user_id": 19505,
+      "username": "Hunters9",
+      "hero_id": 111,
+      "hero_name": "Edith",
+      "role": "Tank, Marksman",
+      "lane": "Exp Lane, Roam",
+      "speciality": "Control, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png",
+      "items": [
+        99,
+        76,
+        39,
+        70,
+        65,
+        75
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          14,
+          19
+        ]
+      },
+      "description": "sc: codenamenafan (ig) ",
+      "battle_spell": "Inspire",
+      "created_at": "2026-03-27T03:48:51.000Z",
+      "likes_count": 0,
+      "dislikes_count": 2
+    }
+  ]
+}

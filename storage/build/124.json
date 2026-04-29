@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6288,
+      "user_id": 4648,
+      "username": "Pogisaurus",
+      "hero_id": 124,
+      "hero_name": "Chip",
+      "role": "Support, Tank",
+      "lane": "Roam",
+      "speciality": "Support, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "items": [
+        76,
+        97,
+        70,
+        71,
+        69,
+        66
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          3,
+          9,
+          21
+        ]
+      },
+      "description": "Best Build For Chip",
+      "battle_spell": null,
+      "created_at": "2026-03-07T03:41:30.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6575,
+      "user_id": 19118,
+      "username": "c1tr0v",
+      "hero_id": 124,
+      "hero_name": "Chip",
+      "role": "Support, Tank",
+      "lane": "Roam",
+      "speciality": "Support, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "items": [
+        97,
+        76,
+        70,
+        73,
+        69,
+        72
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          15,
+          21
+        ]
+      },
+      "description": "chip ni c1tr0v",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-18T16:23:35.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5575,
+      "user_id": 17087,
+      "username": "Kenyx",
+      "hero_id": 124,
+      "hero_name": "Chip",
+      "role": "Support, Tank",
+      "lane": "Roam",
+      "speciality": "Support, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "items": [
+        100,
+        70,
+        67,
+        73,
+        75,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          11,
+          21
+        ]
+      },
+      "description": "Warrior Boots\n\nDominance Ice\n\nBlade Armor\n\nOracle\n\nRadiant Armor\n\nImmortality\n",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-09T13:21:59.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

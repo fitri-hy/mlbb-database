@@ -1,0 +1,678 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5669,
+      "user_id": 17278,
+      "username": "FinZ",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        11,
+        99,
+        74,
+        73,
+        68,
+        71
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          18
+        ]
+      },
+      "description": "Build ini cocok untuk zoning lawan",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-12T14:08:18.000Z",
+      "likes_count": 14,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6652,
+      "user_id": 19033,
+      "username": "Cala",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        100,
+        11,
+        73,
+        74,
+        72,
+        71
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          18,
+          1,
+          14
+        ]
+      },
+      "description": ".",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-22T22:58:43.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6088,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        99,
+        11,
+        74,
+        70,
+        65,
+        68
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          18,
+          14,
+          1
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-27T18:35:24.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6338,
+      "user_id": 18592,
+      "username": "kobz",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        11,
+        99,
+        74,
+        73,
+        70,
+        75
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          18
+        ]
+      },
+      "description": "a3",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-09T04:49:27.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6236,
+      "user_id": 17879,
+      "username": "malpetz",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        11,
+        99,
+        17,
+        74,
+        73,
+        70
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          19,
+          14,
+          1
+        ]
+      },
+      "description": "best build menurut gua, domi opsional",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-04T15:29:42.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5627,
+      "user_id": 17190,
+      "username": "Gateau",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        17,
+        102,
+        74,
+        68,
+        70,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          14,
+          21
+        ]
+      },
+      "description": "Enk nih, coba aja pas late game Masih bisa bersaing dikit. Soalnya tebelan dikit",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-11T05:13:25.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5403,
+      "user_id": 16668,
+      "username": "hielo",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        17,
+        74,
+        73,
+        70,
+        14,
+        66
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          24,
+          7
+        ]
+      },
+      "description": "this build is for sustain, TF, durability and regeneration of spell",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-03T02:56:44.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5358,
+      "user_id": 16469,
+      "username": "Arch",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        99,
+        17,
+        11,
+        70,
+        14,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          18
+        ]
+      },
+      "description": "This build is best for hunting Mages and Marksman. Also, covers sustain and survivability for Yu Zhong. At late game, change the Hunter's Strike to Blade of Despair at late game. Don't buy the Red Potion if you still didn't build the Blade of Despair. You can sell the boots in the late game and buy Oracle for maximum Adaptive Lifesteal, Spell Vamp, and Rose Gold's shield output. ",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-01T07:25:48.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6389,
+      "user_id": 16324,
+      "username": "Shiroi",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        17,
+        99,
+        11,
+        73,
+        74,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          19,
+          14,
+          1
+        ]
+      },
+      "description": "Build yang cocok untuk semua keadaan damage ada dan tahan lama di war. Untuk awalan buat furry hammer dan sepatu lalu buat war axe kalau mau tahan lama lagi bisa ganti furry hammer ganti brute force atau domi",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-11T02:57:26.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5834,
+      "user_id": 17643,
+      "username": "ExpLaner123",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        100,
+        65,
+        66,
+        17,
+        70,
+        11
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          11,
+          24,
+          4
+        ]
+      },
+      "description": "My usual build for Yu Zhong, If enemy deals burst physical damage, go for dreadnaught armor for the early then build warrior boots, after that, you can build war axe, then dominance ice for anti-heal...\nThis build is very situational and defense Items can be replaced by other items but this is the most common build I use in most fights, study the build and which to build next so you will dominate the battlefield.",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-19T01:41:39.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5415,
+      "user_id": 16700,
+      "username": "SSS-Ikir",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        99,
+        17,
+        73,
+        11,
+        74,
+        68
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          22
+        ]
+      },
+      "description": "Regen, Dano, susten, shield.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-03T14:31:43.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5402,
+      "user_id": 16668,
+      "username": "hielo",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        99,
+        17,
+        74,
+        70,
+        6,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          7,
+          14,
+          24
+        ]
+      },
+      "description": "this build is for the TF, for damage and sustain in 1v1 and desapire tanks ",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-03T02:51:46.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7375,
+      "user_id": 19964,
+      "username": "Moba_nerfharley",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        99,
+        11,
+        70,
+        17,
+        74,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          19,
+          1
+        ]
+      },
+      "description": "Good for early to mid game ",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-28T13:09:28.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5682,
+      "user_id": 17322,
+      "username": "Ism41l",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        67,
+        99,
+        11,
+        73,
+        14,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          13,
+          24
+        ]
+      },
+      "description": "Build ini kebal di early game dan dapat mendominasi kalau ada team fight jadi cocok ngincer mm,assassin,fighter(kecuali freya)",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-13T13:02:47.000Z",
+      "likes_count": 3,
+      "dislikes_count": 3
+    },
+    {
+      "build_id": 7310,
+      "user_id": 20896,
+      "username": "Probuilds123",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        100,
+        8,
+        70,
+        11,
+        74,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          11,
+          22
+        ]
+      },
+      "description": "Unlimited passive\n",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-26T07:15:22.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7068,
+      "user_id": 20256,
+      "username": "Pro45",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        17,
+        99,
+        11,
+        73,
+        1,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          24
+        ]
+      },
+      "description": "Lifesteal & damge",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-16T07:14:55.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6633,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        99,
+        11,
+        70,
+        73,
+        68,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          18
+        ]
+      },
+      "description": "YuZhong Backline Target",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-21T15:15:37.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6609,
+      "user_id": 14063,
+      "username": "elzahar",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        11,
+        100,
+        17,
+        73,
+        74,
+        71
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          19,
+          14,
+          1
+        ]
+      },
+      "description": "If enemies has 2 crowd control/control hero,use breastplate if not use guardian helmet.this build focus after buying war axe.i use this build and savage 6x",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-20T04:43:10.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6154,
+      "user_id": 18229,
+      "username": "ParhanSukaKidding",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        99,
+        17,
+        68,
+        73,
+        66,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          14,
+          18
+        ]
+      },
+      "description": "My Favorite Build Kesukaan Racikan Gwehh :v (Fokus Spell Vamp, Defense & Sustain pas War / Objective)",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-01T13:39:58.000Z",
+      "likes_count": 2,
+      "dislikes_count": 3
+    },
+    {
+      "build_id": 5722,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        8,
+        17,
+        6,
+        97,
+        11,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          10,
+          20
+        ]
+      },
+      "description": "yz sussy baka build core",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-15T11:21:19.000Z",
+      "likes_count": 2,
+      "dislikes_count": 5
+    },
+    {
+      "build_id": 6166,
+      "user_id": 18261,
+      "username": "C-Moon",
+      "hero_id": 95,
+      "hero_name": "Yu Zhong",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+      "items": [
+        99,
+        11,
+        74,
+        7,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          18
+        ]
+      },
+      "description": "Build untuk Zoning atau Damage Tinggi",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-02T06:40:14.000Z",
+      "likes_count": 0,
+      "dislikes_count": 4
+    }
+  ]
+}

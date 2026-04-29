@@ -1,0 +1,230 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6050,
+      "user_id": 17027,
+      "username": "Solomon",
+      "hero_id": 6,
+      "hero_name": "Tigreal",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "items": [
+        99,
+        70,
+        66,
+        65,
+        72,
+        67
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          5,
+          15,
+          21
+        ]
+      },
+      "description": "Max: S2 (Sacred Hammer Engage) > S1 (Attack Wave Slow) > Ult | Lv1: S2 (Gank ไว)\nRoam Gank: S2 Dash + Knock Up → S1 Slow → Ult Pull\nTeamfight Engage: Flicker + Ult (Implosion Pull 5 คน Stun) → S2 Knock Up → S1 Slow + AA – CC Chain ทีมตายทั้งกลุ่ม!",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-26T13:35:38.000Z",
+      "likes_count": 6,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6409,
+      "user_id": 18682,
+      "username": "Aj67",
+      "hero_id": 6,
+      "hero_name": "Tigreal",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "items": [
+        96,
+        65,
+        66,
+        71,
+        79,
+        76
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          6,
+          11,
+          25
+        ]
+      },
+      "description": "Hybrid defense",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-11T09:53:43.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6516,
+      "user_id": 18965,
+      "username": "Alekk",
+      "hero_id": 6,
+      "hero_name": "Tigreal",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "items": [
+        99,
+        70,
+        90,
+        117,
+        66,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          9,
+          21
+        ]
+      },
+      "description": "The regular build for Tigreal and used by top global",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-15T06:14:54.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5739,
+      "user_id": 17477,
+      "username": "Say59",
+      "hero_id": 6,
+      "hero_name": "Tigreal",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "items": [
+        99,
+        91,
+        3,
+        11,
+        16,
+        71
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          22,
+          14,
+          1
+        ]
+      },
+      "description": "เซตนี้เป็นเซตที่แลงที่สุด",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-16T12:38:34.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7086,
+      "user_id": 20386,
+      "username": "Tsuyoi",
+      "hero_id": 6,
+      "hero_name": "Tigreal",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "items": [
+        97,
+        3,
+        90,
+        13,
+        16,
+        2
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          15,
+          5,
+          24
+        ]
+      },
+      "description": "One shot tigreal ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-16T21:13:53.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6330,
+      "user_id": 1609,
+      "username": "DR.Ultramen",
+      "hero_id": 6,
+      "hero_name": "Tigreal",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "items": [
+        99,
+        7,
+        1,
+        91,
+        3,
+        117
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          21,
+          6
+        ]
+      },
+      "description": "dmg",
+      "battle_spell": null,
+      "created_at": "2026-03-08T10:06:20.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6147,
+      "user_id": 18218,
+      "username": "Mielkavra",
+      "hero_id": 6,
+      "hero_name": "Tigreal",
+      "role": "Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "items": [
+        100,
+        70,
+        65,
+        66,
+        67,
+        117
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          21,
+          9
+        ]
+      },
+      "description": "*Use Conceal as Roamer blessing.\n\n*Wilderness Blessing or Tenacity should are the 2 options that i always use because rotations are more important to me, i use Wilderness Blessing more.\n\n*I have not changed by actual build, but if I will play Tigreal even more to get from Epic to Legend or even Mythic, my build priorities will change and different items will be used. This build should be used as a baseline for general matchups (after building Dominance Ice) then adjusting vs the team compositions of your team vs the enemy.\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-01T10:51:02.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    }
+  ]
+}

@@ -16,14 +16,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 7.175000190734863,
+      "score": 7.361000061035156,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 79,
           "name": "Granger",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-          "score": 7.175
+          "score": 7.361
         }
       ]
     },
@@ -43,14 +43,14 @@
         "Damage",
         "Regen"
       ],
-      "score": 5.104000091552734,
-      "tier": "A",
+      "score": 5.111999988555908,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 79,
           "name": "Granger",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-          "score": 5.104
+          "score": 5.112
         }
       ]
     },
@@ -68,14 +68,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 3.891000032424927,
+      "score": 4.426000118255615,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 79,
           "name": "Granger",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-          "score": 3.891
+          "score": 4.426
         }
       ]
     },
@@ -94,14 +94,14 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 3.234999895095825,
+      "score": 2.140000104904175,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 79,
           "name": "Granger",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-          "score": 3.235
+          "score": 2.14
         }
       ]
     },
@@ -120,38 +120,14 @@
         "Charge",
         "Finisher"
       ],
-      "score": 1.9600000381469729,
-      "tier": "C",
+      "score": 1.919999957084656,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 79,
           "name": "Granger",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-          "score": 1.96
-        }
-      ]
-    },
-    {
-      "id": 59,
-      "heroName": "Uranus",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Regen"
-      ],
-      "score": 1.7710000276565552,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 79,
-          "name": "Granger",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-          "score": 1.771
+          "score": 1.92
         }
       ]
     },
@@ -170,14 +146,38 @@
         "Initiator",
         "Guard"
       ],
-      "score": 0.6129999756813049,
+      "score": 1.6239999532699585,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 79,
           "name": "Granger",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-          "score": 0.613
+          "score": 1.624
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "heroName": "Uranus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen"
+      ],
+      "score": 1.090000033378601,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 79,
+          "name": "Granger",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
+          "score": 1.09
         }
       ]
     },
@@ -195,14 +195,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.4850000143051148,
+      "score": 0.9269999861717224,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 79,
           "name": "Granger",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-          "score": 0.485
+          "score": 0.927
         }
       ]
     },
@@ -220,14 +220,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 0.35600000619888306,
-      "tier": "D",
+      "score": 0.6010000109672546,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 79,
           "name": "Granger",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-          "score": 0.356
+          "score": 0.601
         }
       ]
     }

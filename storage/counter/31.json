@@ -16,14 +16,14 @@
         "Damage",
         "Control"
       ],
-      "score": 4.5329999923706055,
+      "score": 4.482999801635742,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 31,
           "name": "Moskov",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-          "score": 4.533
+          "score": 4.483
         }
       ]
     },
@@ -41,14 +41,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 4.308000087738037,
+      "score": 4.150000095367432,
       "tier": "B",
       "counteredHeroes": [
         {
           "id": 31,
           "name": "Moskov",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-          "score": 4.308
+          "score": 4.15
         }
       ]
     },
@@ -66,39 +66,39 @@
         "Finisher",
         "Magic Damage"
       ],
-      "score": 4.203000068664551,
+      "score": 4.01200008392334,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 31,
           "name": "Moskov",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-          "score": 4.203
+          "score": 4.012
         }
       ]
     },
     {
-      "id": 15,
-      "heroName": "Eudora",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "id": 1,
+      "heroName": "Miya",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
       "role": [
-        "Mage"
+        "Marksman"
       ],
       "lane": [
-        "Mid Lane"
+        "Gold Lane"
       ],
       "speciality": [
-        "Control",
-        "Burst"
+        "Finisher",
+        "Damage"
       ],
-      "score": 3.4779999256134038,
-      "tier": "D",
+      "score": 3.6449999809265137,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 31,
           "name": "Moskov",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-          "score": 3.478
+          "score": 3.645
         }
       ]
     },
@@ -117,91 +117,39 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 2.289999961853028,
+      "score": 2.009999990463257,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 31,
           "name": "Moskov",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-          "score": 2.29
+          "score": 2.01
         }
       ]
     },
     {
-      "id": 1,
-      "heroName": "Miya",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
+      "id": 15,
+      "heroName": "Eudora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
       "role": [
-        "Marksman"
+        "Mage"
       ],
       "lane": [
-        "Gold Lane"
+        "Mid Lane"
       ],
       "speciality": [
-        "Finisher",
-        "Damage"
+        "Control",
+        "Burst"
       ],
-      "score": 1.8229999542236328,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 31,
-          "name": "Moskov",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-          "score": 1.823
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "heroName": "Saber",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle",
-        "Roam"
-      ],
-      "speciality": [
-        "Charge",
-        "Finisher"
-      ],
-      "score": 0.3240000009536743,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 31,
-          "name": "Moskov",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-          "score": 0.324
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "heroName": "Barats",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-      "role": [
-        "Tank",
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Crowd Control"
-      ],
-      "score": 0.16699999570846558,
+      "score": 1.5130000114440918,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 31,
           "name": "Moskov",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-          "score": 0.167
+          "score": 1.513
         }
       ]
     },
@@ -220,14 +168,92 @@
         "Charge",
         "Damage"
       ],
-      "score": 0.15800000727176666,
+      "score": 0.4860000014305115,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 31,
           "name": "Moskov",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-          "score": 0.158
+          "score": 0.486
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "heroName": "Saber",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Charge",
+        "Finisher"
+      ],
+      "score": 0.30799999833106995,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 31,
+          "name": "Moskov",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
+          "score": 0.308
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "heroName": "Barats",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 0.15600000321865082,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 31,
+          "name": "Moskov",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
+          "score": 0.156
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.13899999856948853,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 31,
+          "name": "Moskov",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
+          "score": 0.139
         }
       ]
     },

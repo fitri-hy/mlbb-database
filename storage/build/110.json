@@ -1,0 +1,390 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6313,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 110,
+      "hero_name": "Valentina",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "items": [
+        97,
+        47,
+        42,
+        44,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          1,
+          13,
+          20
+        ]
+      },
+      "description": "my granny, mid, flameshot",
+      "battle_spell": null,
+      "created_at": "2026-03-07T20:57:04.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7085,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 110,
+      "hero_name": "Valentina",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "items": [
+        94,
+        50,
+        73,
+        44,
+        37,
+        51
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          4,
+          9,
+          17
+        ]
+      },
+      "description": "Burst / Sustain",
+      "battle_spell": null,
+      "created_at": "2026-04-16T20:25:44.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5758,
+      "user_id": 17509,
+      "username": "pedromendoncareal",
+      "hero_id": 110,
+      "hero_name": "Valentina",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "items": [
+        96,
+        47,
+        33,
+        44,
+        51,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          24
+        ]
+      },
+      "description": "Dano no início e fim de jogo, ótimo para a Valentina.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-17T03:01:57.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5447,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 110,
+      "hero_name": "Valentina",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "items": [
+        73,
+        96,
+        68,
+        74,
+        117,
+        92
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          5,
+          14,
+          17
+        ]
+      },
+      "description": "Valentina EXP, Buat counter hero sora dan lukas",
+      "battle_spell": null,
+      "created_at": "2026-02-04T06:49:48.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7374,
+      "user_id": 21060,
+      "username": "10PROFESSOR10",
+      "hero_id": 110,
+      "hero_name": "Valentina",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "items": [
+        96,
+        35,
+        68,
+        73,
+        36,
+        37
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          4,
+          11,
+          24
+        ]
+      },
+      "description": "in exp line livesteal and position damage ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-28T13:00:36.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7351,
+      "user_id": 20987,
+      "username": "KiK.TH",
+      "hero_id": 110,
+      "hero_name": "Valentina",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "items": [
+        94,
+        43,
+        47,
+        44,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          17
+        ]
+      },
+      "description": "Test skills play",
+      "battle_spell": null,
+      "created_at": "2026-04-27T14:06:49.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7162,
+      "user_id": 20571,
+      "username": "R17",
+      "hero_id": 110,
+      "hero_name": "Valentina",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "items": [
+        94,
+        47,
+        43,
+        37,
+        44,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          9,
+          17,
+          1
+        ]
+      },
+      "description": "Ganti aja glowing pake winter kalo gak ada musuh yg ngandelin spellvamp atau lifesteal",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-20T06:20:16.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6779,
+      "user_id": 19579,
+      "username": "Aesa.",
+      "hero_id": 110,
+      "hero_name": "Valentina",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "items": [
+        96,
+        43,
+        47,
+        37,
+        33,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          17
+        ]
+      },
+      "description": "Anti-heal Valentina: Glowing Wand and Divine Glaive can be swapped depending on the situation. This build was used in MPL PH Season 17 (Aurora Yue, TNC Storm, and Falcons Hadji). You can also use Purify as your battle spell, depending on the situation.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-29T03:53:58.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6777,
+      "user_id": 19579,
+      "username": "Aesa.",
+      "hero_id": 110,
+      "hero_name": "Valentina",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "items": [
+        96,
+        76,
+        73,
+        33,
+        92,
+        68
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Team Liquid PH Sanford Anti Lukas.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-29T03:31:28.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6727,
+      "user_id": 18050,
+      "username": "Buildation",
+      "hero_id": 110,
+      "hero_name": "Valentina",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "items": [
+        99,
+        43,
+        47,
+        33,
+        37,
+        92
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          9,
+          24
+        ]
+      },
+      "description": "So my build basically for utility, You can change winter crown with anything. Btw I dont think wishing lantern a good pair for Valen. For the emblem, I prefer brave smite than others. Also, I use Wilderness blessing because it make rotation faster. For the spell, flicker or purify",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-26T14:07:09.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6106,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 110,
+      "hero_name": "Valentina",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "items": [
+        99,
+        65,
+        68,
+        74,
+        75,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          24,
+          5,
+          9
+        ]
+      },
+      "description": "valen xp",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-27T22:05:59.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6020,
+      "user_id": 17998,
+      "username": "Kailei",
+      "hero_id": 110,
+      "hero_name": "Valentina",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Burst, Finisher",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "items": [
+        73,
+        99,
+        45,
+        68,
+        74,
+        72
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          5,
+          14,
+          17
+        ]
+      },
+      "description": "Kuat lawan hero fighter meta",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-25T07:15:57.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

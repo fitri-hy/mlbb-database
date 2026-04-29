@@ -18,39 +18,14 @@
         "Charge",
         "Regen"
       ],
-      "score": 5.386000156402588,
-      "tier": "B",
+      "score": 5.23799991607666,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 44,
           "name": "Grock",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-          "score": 5.386
-        }
-      ]
-    },
-    {
-      "id": 132,
-      "heroName": "Marcel",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Support"
-      ],
-      "score": 3.575999975204468,
-      "tier": "SS",
-      "counteredHeroes": [
-        {
-          "id": 44,
-          "name": "Grock",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-          "score": 3.576
+          "score": 5.238
         }
       ]
     },
@@ -69,14 +44,39 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 3.5339999198913574,
+      "score": 3.562000036239624,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 44,
           "name": "Grock",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-          "score": 3.534
+          "score": 3.562
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "heroName": "Marcel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Support"
+      ],
+      "score": 2.8980000019073486,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 44,
+          "name": "Grock",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
+          "score": 2.898
         }
       ]
     },
@@ -94,14 +94,14 @@
         "Burst",
         "Finisher"
       ],
-      "score": 2.8919999599456787,
+      "score": 2.5299999713897705,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 44,
           "name": "Grock",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-          "score": 2.892
+          "score": 2.53
         }
       ]
     },
@@ -118,14 +118,14 @@
       "speciality": [
         "Regen"
       ],
-      "score": 2.1619999408721924,
-      "tier": "D",
+      "score": 1.98199999332428,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 44,
           "name": "Grock",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-          "score": 2.162
+          "score": 1.982
         }
       ]
     },
@@ -143,14 +143,14 @@
         "Guard",
         "Support"
       ],
-      "score": 1.3009999990463257,
-      "tier": "C",
+      "score": 1.1540000438690186,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 44,
           "name": "Grock",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-          "score": 1.301
+          "score": 1.154
         }
       ]
     },
@@ -168,14 +168,65 @@
         "Poke",
         "Burst"
       ],
-      "score": 0.8349999785423279,
+      "score": 0.824999988079071,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 44,
           "name": "Grock",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-          "score": 0.835
+          "score": 0.825
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "heroName": "Natalia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Finisher"
+      ],
+      "score": 0.8199999928474426,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 44,
+          "name": "Grock",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
+          "score": 0.82
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.19900000095367432,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 44,
+          "name": "Grock",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
+          "score": 0.199
         }
       ]
     },
@@ -195,64 +246,14 @@
         "Guard",
         "Charge"
       ],
-      "score": 0.2809999883174896,
+      "score": 0.17800000309944153,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 44,
           "name": "Grock",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-          "score": 0.281
-        }
-      ]
-    },
-    {
-      "id": 125,
-      "heroName": "Zhuxin",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Crowd Control"
-      ],
-      "score": 0.15600000321865082,
-      "tier": "S",
-      "counteredHeroes": [
-        {
-          "id": 44,
-          "name": "Grock",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-          "score": 0.156
-        }
-      ]
-    },
-    {
-      "id": 60,
-      "heroName": "Hanabi",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Damage"
-      ],
-      "score": 0.1550000011920929,
-      "tier": "B",
-      "counteredHeroes": [
-        {
-          "id": 44,
-          "name": "Grock",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-          "score": 0.155
+          "score": 0.178
         }
       ]
     },
@@ -270,14 +271,89 @@
         "Chase",
         "Damage"
       ],
-      "score": 0.15399999916553497,
+      "score": 0.17499999701976776,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 44,
           "name": "Grock",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-          "score": 0.154
+          "score": 0.175
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "heroName": "Hanabi",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.1589999943971634,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 44,
+          "name": "Grock",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
+          "score": 0.159
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "heroName": "Karrie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.1509999930858612,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 44,
+          "name": "Grock",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
+          "score": 0.151
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "heroName": "Xavier",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Burst"
+      ],
+      "score": 0.1509999930858612,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 44,
+          "name": "Grock",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
+          "score": 0.151
         }
       ]
     }

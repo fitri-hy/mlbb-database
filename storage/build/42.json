@@ -1,0 +1,582 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6486,
+      "user_id": 18883,
+      "username": "skiwi",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        36,
+        42,
+        47,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          23
+        ]
+      },
+      "description": "High explosive damage, penetration, and minor vampirism",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-13T21:05:01.000Z",
+      "likes_count": 32,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5558,
+      "user_id": 16979,
+      "username": "EXODUS",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        42,
+        36,
+        50,
+        44,
+        33
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          23
+        ]
+      },
+      "description": "Focus on farming early and killing squishes early. Don't stay in overextended fights since Harley is a squishy hero, Harley should focus on burst and safety since he is squishy and positioning and map awareness matters for this build. Buy Divine Glaive if the enemy's are high on Magic defense and buy Wishing Lantern for extra survivability.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-09T10:43:45.000Z",
+      "likes_count": 5,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 7104,
+      "user_id": 20326,
+      "username": "syahdan",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        42,
+        47,
+        37,
+        44,
+        92
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          17,
+          10,
+          1
+        ]
+      },
+      "description": "Harley Kairi ",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-17T08:56:50.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6991,
+      "user_id": 19989,
+      "username": "ame_no_rose",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        36,
+        68,
+        42,
+        47,
+        44
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          17
+        ]
+      },
+      "description": "-",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-04-12T15:09:51.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6780,
+      "user_id": 19585,
+      "username": "jmaj",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        96,
+        42,
+        47,
+        44,
+        37,
+        50
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          10,
+          17
+        ]
+      },
+      "description": "Have fun with my build",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-29T06:59:47.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7258,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        91,
+        47,
+        44,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          10,
+          5,
+          17
+        ]
+      },
+      "description": "Offers:\n\ncooldown reduction to escape and spam 2nd skill\n\nSpare item: genius wand if you can't stack sky piercer\n\nDamage to instantly assassinate with ult\n\nDefense to survive during assassination process",
+      "battle_spell": null,
+      "created_at": "2026-04-23T21:44:57.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7113,
+      "user_id": 20319,
+      "username": "Donwillibarreto",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        47,
+        42,
+        44,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          10,
+          17
+        ]
+      },
+      "description": "Eres un burst mage/assassin que limpia la jungla en segundos gracias a Retribution + Seasoned Hunter. Spameas habilidades con Impure Rage (daño extra + mana regen), reduces defensas mágicas enemigas y borras squishies en team fight con combo rápido. Alta movilidad para entrar/salir, poco sustain propio pero mucho daño y poke constante.\n\nCombo principal (gank/TF):\nSkill 2 (dash al sombrero para posicionarte)\nUltimate (marca al objetivo)\nSkill 1 (daño + reduce MR)\nReactiva Skill 2 (regresa al sombrero y escapa)",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-17T20:42:41.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7105,
+      "user_id": 20409,
+      "username": "Tiodanzz",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        42,
+        96,
+        47,
+        44,
+        39,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          13,
+          23
+        ]
+      },
+      "description": "BUILD HARLEY OPP COBAINN",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-17T08:59:18.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6906,
+      "user_id": 19823,
+      "username": "irrelevant",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        96,
+        53,
+        42,
+        47,
+        39,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "Mid Harley, Elegant Gem can be turned to Clock of Destiny, which will in turn make your 2nd skill spammable.\nIt can also be replaced by any relevant magic/defense item depending on the situation.\n\nElegant Gem is your overall sustainer in HP and Mana in most fights.\n\nFOCUS: Magic Penetration > Magic Power > CD > HP & Mana Sustain Regen-type Build",
+      "battle_spell": "Purify",
+      "created_at": "2026-04-06T08:46:46.000Z",
+      "likes_count": 4,
+      "dislikes_count": 3
+    },
+    {
+      "build_id": 6905,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        96,
+        38,
+        39,
+        68,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          23
+        ]
+      },
+      "description": "mid",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-06T08:37:24.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7111,
+      "user_id": 20433,
+      "username": "ARLOT222",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        39,
+        43,
+        42,
+        44,
+        33
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          10,
+          1,
+          18
+        ]
+      },
+      "description": "SITUASI BLOOD WINGS BISA DI GANTI IMORTAL/WINTER \n",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-04-17T16:12:07.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7100,
+      "user_id": 7295,
+      "username": "Viper_Kung",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        39,
+        91,
+        50,
+        51,
+        44
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          19
+        ]
+      },
+      "description": "Good",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-17T06:25:51.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6989,
+      "user_id": 20124,
+      "username": "Corazenn",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        42,
+        47,
+        44,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          2,
+          10,
+          17
+        ]
+      },
+      "description": "Harley mpl build",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-12T11:57:25.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6968,
+      "user_id": 20038,
+      "username": "Lynx.",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        96,
+        42,
+        47,
+        44,
+        37,
+        43
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          13,
+          17
+        ]
+      },
+      "description": "build ini cocok untuk ciduk mm/mage musuh karena nge burst parah ",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-04-10T15:31:54.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6962,
+      "user_id": 16692,
+      "username": "ronaldoyusuf",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        42,
+        43,
+        47,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          10,
+          23
+        ]
+      },
+      "description": "Harley ",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-10T09:04:31.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6444,
+      "user_id": 18812,
+      "username": "HarleyID",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        42,
+        43,
+        37,
+        36,
+        50
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          22
+        ]
+      },
+      "description": "Balances slowing + damage + high magic damage + lifesteal",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-12T12:54:11.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6001,
+      "user_id": 17966,
+      "username": "Berbs",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        39,
+        38,
+        36,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          17
+        ]
+      },
+      "description": "Split push and counter jungle.\nOnly poke with W-auto-Q or W-auto-SS-auto-Q. Go aggressive with the split/trades after concentrated energy. Ban Gusion.\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-24T20:20:07.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6998,
+      "user_id": 20156,
+      "username": "angqt",
+      "hero_id": 42,
+      "hero_name": "Harley",
+      "role": "Assassin, Mage",
+      "lane": "Jungle, Mid Lane",
+      "speciality": "Burst, Poke",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+      "items": [
+        94,
+        36,
+        76,
+        74,
+        68,
+        73
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          10,
+          17
+        ]
+      },
+      "description": "tank build\n",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-13T05:18:28.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

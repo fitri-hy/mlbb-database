@@ -14,16 +14,23 @@ async function run() {
   try {
     console.log('Loading hero list...');
 
-    const { data: raw } = await fs.readJson(HERO_LIST);
-    const heroes = raw?.data;
+    const raw = await fs.readJson(HERO_LIST);
 
-    if (!Array.isArray(heroes)) throw new Error('Invalid hero list');
+    if (!raw || !Array.isArray(raw.data)) {
+      throw new Error('Invalid hero list: missing data array');
+    }
+
+    const heroes = raw.data;
 
     await fs.ensureDir(BUILD_DIR);
 
     for (const hero of heroes) {
-      const id = hero.id;
-      const name = hero.hero_name;
+      const { id, hero_name: name } = hero;
+
+      if (!id || !name) {
+        console.warn('Skipping invalid hero:', hero);
+        continue;
+      }
 
       try {
         const { data } = await axios.get(
@@ -33,10 +40,11 @@ async function run() {
         const file = path.join(BUILD_DIR, `${id}.json`);
         await fs.writeJson(file, data, { spaces: 2 });
 
-        console.log(`Saved build ${id}`);
+        console.log(`Saved build ${id} - ${name}`);
+
         await delay(200);
       } catch (err) {
-        console.error(`Hero ${id}:`, err.message);
+        console.error(`Hero ${id} (${name}):`, err.message);
       }
     }
 

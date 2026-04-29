@@ -3,32 +3,6 @@
   "message": "Counter pick suggestions retrieved successfully",
   "data": [
     {
-      "id": 104,
-      "heroName": "Gloo",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Exp Lane",
-        "Roam"
-      ],
-      "speciality": [
-        "Regen",
-        "Control"
-      ],
-      "score": 3.427999973297119,
-      "tier": "SS",
-      "counteredHeroes": [
-        {
-          "id": 36,
-          "name": "Aurora",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 3.428
-        }
-      ]
-    },
-    {
       "id": 69,
       "heroName": "Hanzo",
       "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
@@ -42,14 +16,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 3.4040000438690186,
+      "score": 4.257999897003174,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 36,
           "name": "Aurora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 3.404
+          "score": 4.258
         }
       ]
     },
@@ -67,14 +41,14 @@
         "Guard",
         "Poke"
       ],
-      "score": 2.694000005722046,
+      "score": 3.700999975204468,
       "tier": "B",
       "counteredHeroes": [
         {
           "id": 36,
           "name": "Aurora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 2.694
+          "score": 3.701
         }
       ]
     },
@@ -92,64 +66,40 @@
         "Poke",
         "Burst"
       ],
-      "score": 2.319999933242798,
+      "score": 2.4200000762939453,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 36,
           "name": "Aurora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 2.32
+          "score": 2.42
         }
       ]
     },
     {
-      "id": 89,
-      "heroName": "Wanwan",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Burst"
-      ],
-      "score": 2.1600000858306885,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 36,
-          "name": "Aurora",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 2.16
-        }
-      ]
-    },
-    {
-      "id": 93,
-      "heroName": "Atlas",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "id": 104,
+      "heroName": "Gloo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
       "role": [
         "Tank"
       ],
       "lane": [
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
-        "Crowd Control",
-        "Initiator"
+        "Regen",
+        "Control"
       ],
-      "score": 1.2599999904632568,
-      "tier": "D",
+      "score": 2.190000057220459,
+      "tier": "SS",
       "counteredHeroes": [
         {
           "id": 36,
           "name": "Aurora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 1.26
+          "score": 2.19
         }
       ]
     },
@@ -167,39 +117,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 0.8830000162124634,
+      "score": 1.7350000143051147,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 36,
           "name": "Aurora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 0.883
-        }
-      ]
-    },
-    {
-      "id": 105,
-      "heroName": "Beatrix",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Damage"
-      ],
-      "score": 0.875,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 36,
-          "name": "Aurora",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 0.875
+          "score": 1.735
         }
       ]
     },
@@ -218,39 +143,64 @@
         "Chase",
         "Burst"
       ],
-      "score": 0.4880000054836273,
+      "score": 1.2869999408721924,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 36,
           "name": "Aurora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 0.488
+          "score": 1.287
         }
       ]
     },
     {
-      "id": 83,
-      "heroName": "X.Borg",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "id": 93,
+      "heroName": "Atlas",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
       "role": [
-        "Fighter"
+        "Tank"
       ],
       "lane": [
-        "Exp Lane"
+        "Roam"
       ],
       "speciality": [
-        "Regen",
-        "Burst"
+        "Crowd Control",
+        "Initiator"
       ],
-      "score": 0.30399999022483826,
-      "tier": "D",
+      "score": 1.1109999418258667,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 36,
           "name": "Aurora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 0.304
+          "score": 1.111
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "heroName": "Beatrix",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.7549999952316284,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 36,
+          "name": "Aurora",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
+          "score": 0.755
         }
       ]
     },
@@ -270,14 +220,39 @@
         "Burst",
         "Control"
       ],
-      "score": 0.25999999046325684,
+      "score": 0.5460000038146973,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 36,
           "name": "Aurora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 0.26
+          "score": 0.546
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "heroName": "Joy",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0.125,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 36,
+          "name": "Aurora",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
+          "score": 0.125
         }
       ]
     },
@@ -295,67 +270,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 0.12200000137090684,
+      "score": 0.11800000071525574,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 36,
           "name": "Aurora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 0.122
-        }
-      ]
-    },
-    {
-      "id": 87,
-      "heroName": "Baxia",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Jungle",
-        "Roam"
-      ],
-      "speciality": [
-        "Support",
-        "Damage"
-      ],
-      "score": 0.1080000028014183,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 36,
-          "name": "Aurora",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 0.108
-        }
-      ]
-    },
-    {
-      "id": 41,
-      "heroName": "Gatotkaca",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-      "role": [
-        "Tank",
-        "Fighter"
-      ],
-      "lane": [
-        "Roam",
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Burst"
-      ],
-      "score": 0.1040000021457672,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 36,
-          "name": "Aurora",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 0.104
+          "score": 0.118
         }
       ]
     },
@@ -373,14 +295,14 @@
         "Crowd Control",
         "Regen"
       ],
-      "score": 0.09000000357627869,
-      "tier": "D",
+      "score": 0.09200000017881392,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 36,
           "name": "Aurora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-          "score": 0.09
+          "score": 0.092
         }
       ]
     }

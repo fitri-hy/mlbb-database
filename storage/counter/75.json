@@ -16,14 +16,14 @@
         "Crowd Control",
         "Support"
       ],
-      "score": 5.5920000076293945,
+      "score": 5.7230000495910645,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 75,
           "name": "Kadita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
-          "score": 5.592
+          "score": 5.723
         }
       ]
     },
@@ -41,14 +41,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 3.921999931335449,
+      "score": 3.999000072479248,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 75,
           "name": "Kadita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
-          "score": 3.922
+          "score": 3.999
         }
       ]
     },
@@ -66,40 +66,39 @@
         "Burst",
         "Finisher"
       ],
-      "score": 3.509000062942505,
+      "score": 3.318000078201294,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 75,
           "name": "Kadita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
-          "score": 3.509
+          "score": 3.318
         }
       ]
     },
     {
-      "id": 2,
-      "heroName": "Balmond",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "id": 108,
+      "heroName": "Aulus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
       "role": [
         "Fighter"
       ],
       "lane": [
-        "Jungle",
-        "Exp Lane"
+        "Jungle"
       ],
       "speciality": [
         "Damage",
-        "Regen"
+        "Charge"
       ],
-      "score": 1.950000047683716,
-      "tier": "D",
+      "score": 1.8200000524520876,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 75,
           "name": "Kadita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
-          "score": 1.95
+          "score": 1.82
         }
       ]
     },
@@ -117,14 +116,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 1.8899999856948853,
+      "score": 1.7699999809265137,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 75,
           "name": "Kadita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
-          "score": 1.89
+          "score": 1.77
         }
       ]
     },
@@ -143,14 +142,14 @@
         "Control",
         "Charge"
       ],
-      "score": 1.7020000219345093,
-      "tier": "B",
+      "score": 1.715000033378601,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 75,
           "name": "Kadita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
-          "score": 1.702
+          "score": 1.715
         }
       ]
     },
@@ -168,14 +167,39 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 1.2510000467300415,
+      "score": 0.875,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 75,
           "name": "Kadita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
-          "score": 1.251
+          "score": 0.875
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "heroName": "Kagura",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Finisher"
+      ],
+      "score": 0.3499999940395355,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 75,
+          "name": "Kadita",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
+          "score": 0.35
         }
       ]
     },
@@ -195,14 +219,91 @@
         "Guard",
         "Charge"
       ],
-      "score": 0.5040000081062317,
+      "score": 0.2529999911785126,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 75,
           "name": "Kadita",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
-          "score": 0.504
+          "score": 0.253
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "heroName": "Cyclops",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Control"
+      ],
+      "score": 0.1720000058412552,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 75,
+          "name": "Kadita",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
+          "score": 0.172
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "heroName": "Alice",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "role": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Charge",
+        "Regen"
+      ],
+      "score": 0.13699999451637268,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 75,
+          "name": "Kadita",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
+          "score": 0.137
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "heroName": "Irithel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 0.12999999523162842,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 75,
+          "name": "Kadita",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
+          "score": 0.13
         }
       ]
     }

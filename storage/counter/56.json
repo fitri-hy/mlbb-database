@@ -17,14 +17,39 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 4.86899995803833,
+      "score": 4.814000129699707,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 56,
           "name": "Gusion",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
-          "score": 4.869
+          "score": 4.814
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "heroName": "Eudora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Control",
+        "Burst"
+      ],
+      "score": 3.9179999828338623,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 56,
+          "name": "Gusion",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+          "score": 3.918
         }
       ]
     },
@@ -43,115 +68,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 3.624000072479248,
+      "score": 3.6050000190734863,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 56,
           "name": "Gusion",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
-          "score": 3.624
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "heroName": "Eudora",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Control",
-        "Burst"
-      ],
-      "score": 3.5999999046325684,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 56,
-          "name": "Gusion",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
-          "score": 3.6
-        }
-      ]
-    },
-    {
-      "id": 124,
-      "heroName": "Chip",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-      "role": [
-        "Support",
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Support",
-        "Crowd Control"
-      ],
-      "score": 2.388000011444092,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 56,
-          "name": "Gusion",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
-          "score": 2.388
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "heroName": "Ruby",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Regen"
-      ],
-      "score": 1.809999942779541,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 56,
-          "name": "Gusion",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
-          "score": 1.81
-        }
-      ]
-    },
-    {
-      "id": 46,
-      "heroName": "Odette",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Poke"
-      ],
-      "score": 0.975000023841858,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 56,
-          "name": "Gusion",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
-          "score": 0.975
+          "score": 3.605
         }
       ]
     },
@@ -170,14 +94,40 @@
         "Push",
         "Burst"
       ],
-      "score": 0.9399999976158142,
+      "score": 2.7049999237060547,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 56,
           "name": "Gusion",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
-          "score": 0.94
+          "score": 2.705
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 2.130000114440918,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 56,
+          "name": "Gusion",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+          "score": 2.13
         }
       ]
     },
@@ -196,14 +146,39 @@
         "Chase",
         "Damage"
       ],
-      "score": 0.6880000233650208,
+      "score": 1.5839999914169312,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 56,
           "name": "Gusion",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
-          "score": 0.688
+          "score": 1.584
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "heroName": "Odette",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Poke"
+      ],
+      "score": 0.4629999995231629,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 56,
+          "name": "Gusion",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+          "score": 0.463
         }
       ]
     },
@@ -222,14 +197,14 @@
         "Charge",
         "Finisher"
       ],
-      "score": 0.18400000035762787,
-      "tier": "C",
+      "score": 0.20499999821186063,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 56,
           "name": "Gusion",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
-          "score": 0.184
+          "score": 0.205
         }
       ]
     }

@@ -1,0 +1,646 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6192,
+      "user_id": 14056,
+      "username": "Linglung",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        100,
+        5,
+        8,
+        6,
+        2,
+        12
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          16,
+          26
+        ]
+      },
+      "description": "Ini yg damage nya gede",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-03T07:31:02.000Z",
+      "likes_count": 22,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6253,
+      "user_id": 18446,
+      "username": "xiaoxuan",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        98,
+        10,
+        1,
+        9,
+        13,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          16,
+          18
+        ]
+      },
+      "description": "it is a crit build for players that wants to play aggressive it is best for killing squishy heroes and you can win one vs one fight with most of the heroes ",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-05T20:43:40.000Z",
+      "likes_count": 15,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6155,
+      "user_id": 17803,
+      "username": "Elraff",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        97,
+        10,
+        19,
+        1,
+        14,
+        16
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          12,
+          1,
+          23
+        ]
+      },
+      "description": "Situational",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-01T15:20:10.000Z",
+      "likes_count": 5,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6027,
+      "user_id": 17994,
+      "username": "just.MJ",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        99,
+        5,
+        8,
+        6,
+        12,
+        18
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          11,
+          26
+        ]
+      },
+      "description": "best build",
+      "battle_spell": "Aegis",
+      "created_at": "2026-02-25T08:36:27.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7209,
+      "user_id": 20661,
+      "username": "Hsk",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        1,
+        10,
+        19,
+        12,
+        2,
+        18
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          8,
+          13,
+          26
+        ]
+      },
+      "description": "Critical",
+      "battle_spell": "Aegis",
+      "created_at": "2026-04-21T21:59:04.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6709,
+      "user_id": 19455,
+      "username": "Santzy",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        98,
+        5,
+        6,
+        8,
+        12,
+        14
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          2,
+          16,
+          26
+        ]
+      },
+      "description": "OP Hanabi Trinity Build: Damage Dealer\nSustain di team fight, Anti CC, damage gede.\nBattle spell disarankan: Aegis",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-25T23:34:09.000Z",
+      "likes_count": 4,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5328,
+      "user_id": 14965,
+      "username": "melissa",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        5,
+        91,
+        6,
+        8,
+        3,
+        14
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          6,
+          11,
+          26
+        ]
+      },
+      "description": "this is a lifesteal build and crit build and they have unli shield i hope you like this build\n",
+      "battle_spell": "Aegis",
+      "created_at": "2026-01-31T11:16:29.000Z",
+      "likes_count": 5,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5319,
+      "user_id": 14965,
+      "username": "melissa",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        5,
+        6,
+        8,
+        16,
+        3,
+        14
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          26,
+          11,
+          6
+        ]
+      },
+      "description": "THIS IS A LIFESTEAL",
+      "battle_spell": "Aegis",
+      "created_at": "2026-01-31T08:24:04.000Z",
+      "likes_count": 5,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 7089,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        98,
+        5,
+        6,
+        8,
+        12,
+        18
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          9,
+          26
+        ]
+      },
+      "description": "Burst / Sustained Damage",
+      "battle_spell": null,
+      "created_at": "2026-04-16T23:14:02.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6927,
+      "user_id": 14615,
+      "username": "Tears",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        100,
+        5,
+        8,
+        10,
+        12,
+        2
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          16,
+          26
+        ]
+      },
+      "description": "Wild vampire",
+      "battle_spell": "Aegis",
+      "created_at": "2026-04-07T21:55:55.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5353,
+      "user_id": 16434,
+      "username": "Yugo",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        98,
+        5,
+        8,
+        6,
+        18,
+        12
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          13,
+          26
+        ]
+      },
+      "description": "Attak speeed no counter\n",
+      "battle_spell": "Aegis",
+      "created_at": "2026-02-01T05:09:58.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6820,
+      "user_id": 3700,
+      "username": "lazerbunny",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        98,
+        5,
+        19,
+        8,
+        2,
+        12
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          13,
+          18
+        ]
+      },
+      "description": "da fast",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-30T09:33:57.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6101,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        100,
+        5,
+        6,
+        8,
+        12,
+        18
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          18,
+          2,
+          11
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Aegis",
+      "created_at": "2026-02-27T18:55:45.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5924,
+      "user_id": 17199,
+      "username": "SHRXMIA>⁠.⁠<_*™",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        5,
+        6,
+        8,
+        19,
+        1,
+        2
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          23,
+          13,
+          2
+        ]
+      },
+      "description": "This build is a attack speed I hope this build and use inspire",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-23T08:36:40.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5755,
+      "user_id": 17277,
+      "username": "Efac",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        99,
+        5,
+        8,
+        18,
+        14,
+        2
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          4,
+          16,
+          26
+        ]
+      },
+      "description": "General build \n",
+      "battle_spell": "Aegis",
+      "created_at": "2026-02-16T21:00:19.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5362,
+      "user_id": 14965,
+      "username": "melissa",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        5,
+        1,
+        8,
+        6,
+        3,
+        14
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          26,
+          11,
+          6
+        ]
+      },
+      "description": "hhhh this is hope build lifesteal in criltal build and attack spedddd hanabi\n",
+      "battle_spell": "Aegis",
+      "created_at": "2026-02-01T09:58:38.000Z",
+      "likes_count": 3,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5972,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        98,
+        5,
+        8,
+        6,
+        12,
+        19
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          11,
+          18
+        ]
+      },
+      "description": "I hope you like it thanks ",
+      "battle_spell": "Aegis",
+      "created_at": "2026-02-24T15:35:03.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5938,
+      "user_id": 15852,
+      "username": "screqn",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        98,
+        5,
+        6,
+        8,
+        2,
+        18
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          16,
+          26
+        ]
+      },
+      "description": "atk speed hanabi build 1.0",
+      "battle_spell": "Aegis",
+      "created_at": "2026-02-23T19:03:04.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5700,
+      "user_id": 12339,
+      "username": "Zyou-çaune",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        5,
+        97,
+        6,
+        8,
+        12,
+        14
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          2,
+          13,
+          26
+        ]
+      },
+      "description": "Best for Hanabi w/ High Shield, High CD Reduction and Movement Speed, Has High Damage perfect for bursting. And has High lifestyle.",
+      "battle_spell": "Aegis",
+      "created_at": "2026-02-14T21:45:25.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6157,
+      "user_id": 17803,
+      "username": "Elraff",
+      "hero_id": 60,
+      "hero_name": "Hanabi",
+      "role": "Marksman",
+      "lane": "Gold Lane",
+      "speciality": "Finisher, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+      "items": [
+        97,
+        39,
+        19,
+        10,
+        33,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          12,
+          23
+        ]
+      },
+      "description": "Situational ",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-01T15:37:57.000Z",
+      "likes_count": 3,
+      "dislikes_count": 7
+    }
+  ]
+}

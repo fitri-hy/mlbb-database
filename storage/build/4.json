@@ -1,0 +1,1414 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5441,
+      "user_id": 16742,
+      "username": "SHINCHAN",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        96,
+        73,
+        68,
+        70,
+        65,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          24,
+          11
+        ]
+      },
+      "description": "The last item can be swapped to Queen's Winge (If you want to suck a lot of blood.)\nPart 2 of Embel's section can be changed to Festival of Blood (In the event that you don't encounter any high-damage dealers.)",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-04T06:27:24.000Z",
+      "likes_count": 10,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6398,
+      "user_id": 8094,
+      "username": "Thamuz_Z",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        73,
+        74,
+        68,
+        71,
+        35
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          3,
+          11,
+          17
+        ]
+      },
+      "description": "Alice Build Top Global",
+      "battle_spell": null,
+      "created_at": "2026-03-11T06:07:23.000Z",
+      "likes_count": 7,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5541,
+      "user_id": 17027,
+      "username": "Solomon",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        71,
+        73,
+        70,
+        75,
+        68
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          13,
+          24
+        ]
+      },
+      "description": "1. Battle Spell: Vengeance (สเปลหลัก ใช้ทุกเกม!)\nทำอะไร? สะท้อนความเสียหายกลับศัตรู + ลดดาเมจจาก Ult ของ Alice ได้ 85%! (ศัตรูตีคุณ → พวกเขาตายก่อน)\nทำไมมือใหม่ใช้? EXP Lane โดนกังค์บ่อย Spell นี้ช่วยรอดชีวิต + ไฟต์ชนะง่าย\nทางเลือก: Flicker (หนี/ไล่) ถ้ากลัวตายเร็ว\n2. Emblem: Support (เอ็มเบลมสนับสนุน – ง่ายสุดสำหรับมือใหม่)\nเลือก: Inspire (ลดคูลดาวน์สกิล 5%) > Bargain Hunter (ไอเทมถูกขึ้นต้นเกม) > Brave Smite (ฟื้นเลือดหลังกิล)\nทำอะไร? ทำให้สกิล Alice ใช้บ่อยขึ้น + รักษาตัวดี จุดโฟกัส: HP + CDR + Magic Power\nทำไม? Alice ต้องการคูลดาวน์ต่ำเพื่อดูดเลือดวนๆ ไม่ใช่ดาเมจเยอะ มือใหม่เซ็ตนี้รอดทุกเลน!\n3. Item Build: \"ไม่ตาย + ดูดเลือด\" (ซื้อตามลำดับนี้เลย!)\nซื้อทีละชิ้น เริ่มจากถูกๆ ก่อนนะครับ:\nTough Boots (รองเท้าแรก): ลด CC (สตั๊น/สโลว์) 30% + ทนเวท – ช่วยไม่ตายตอนต้นเกม\nGuardian Helmet (หลัก!): +HP เยอะ + ฟื้นเลือดช้าๆ – ฟาร์มชิลๆ ไม่ต้องรีเทิร์นฐานบ่อย\nOracle: เพิ่มการฟื้นเลือด/โล่ 25% – ดูดเลือด Alice แรงขึ้น 3 เท่า!\nDominance Ice: ชะลอศัตรู + ลดมานา – ไฟต์เลน/ทีม ศัตรูยิงช้า\nRadiant Armor: สะท้อนเวท + ฟื้นเลือด – ป้องกันเมจศัตรู\nTwilight Armor หรือ Brute Force Breastplate: เพิ่ม HP + ความเร็ว – ยืนไฟต์นานสุด\nปรับตามศัตรูง่ายๆ:\nศัตรู AD เยอะ: Dominance Ice 2 ชิ้น\nเมจ Burst: Winter Truncheon (แช่แข็งตัวเอง)\nต้นเกมอ่อน → Mid เกมแข็งแกร่ง!\n4. Skill Order & Combo (อัพสกิล + คอมโบง่ายๆ)\nอัพสกิล: S1 (ลูก orb ไล่/หนี) > S2 (หมุนดูดเลือด) > Ult | เลเวล 1: S2 ก่อน\nคอมโบเลน (Poke): S2 2 ครั้ง (เก็บสแต็ค) → ตีปกติ → S1 โยน orb\nคอมโบทีมไฟต์ (หลัก!): S1 วาง orb → Ult (กับดักศัตรู + ลดดาเมจ 50%) → S2 หมุนดูดเลือด → ตีปกติวนๆ\nกดค้าง Passive (Blood Banquet) เสมอ = ดูดเลือดไม่หยุด!\n5. Tips เล่นง่ายสำหรับมือใหม่ (ทำตามนี้ Carry แน่นอน!)\nต้นเกม (เลเวล 1-4): ฟาร์มมินเนียน/เต่าให้ไว อย่าไล่ฆ่า! ใช้ S2 เก็บสแต็คดูดเลือด รอเลเวล 4 Ult แล้วกังค์มิท/โกล\nกลางเกม (5-12): ช่วยทีม Objective (Lord/Turtle) ใช้ Ult เปิดไฟต์\nท้ายเกม: Ult ไล่ Marksman/เมจหลังทีมศัตรู → ดูดเลือด 1v3 ได้!\nอย่าทำ: อย่าลุยเดี่ยวต้นเกม | ทำ: รักษาสแต็ค Passive 1 ลูกเสมอ\nแพ้เลนไหน? Cici/X.Borg (ซื้อ Dominance Ice) | ชนะ: Chou/Paquito\nWin ด้วย: ฟาร์มไว + ยืนนาน = ทีมคุณชนะ!\n\nผิดพลาดประการได้ก็ต้องขออภัยมานะที่นี้ด้วยขอบคุณครับ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-08T11:07:30.000Z",
+      "likes_count": 8,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5440,
+      "user_id": 16741,
+      "username": "Fal",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        43,
+        74,
+        68,
+        117,
+        67
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          24,
+          14,
+          3
+        ]
+      },
+      "description": "This build is for damage after taking damage from enemy, making low hp trigger the Queen Wings let the ultimate will brust Massive damage, glowing wand is counter regen and extra DPSC",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-04T06:04:21.000Z",
+      "likes_count": 6,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5909,
+      "user_id": 17835,
+      "username": "akiles11",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        35,
+        70,
+        73,
+        45,
+        36
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          11,
+          24
+        ]
+      },
+      "description": "🩸 Alice Roam – Sustain Tank Build \n\nTough Boots – CC reduction so you don’t get chain-stunned.\nClock of Destiny – Core scaling item; gives HP, damage, and stacking defense for long fights.\nDominance Ice – Anti-heal + defense; weakens enemy lifesteal and attack speed.\nOracle – Boosts your healing and shields, making your ultimate much stronger.\nConcentrated Energy – Extra sustain and damage during extended fights.\n\n🧠 Emblem:\n\nMage Emblem – Rupture / Tenacity / Brave Smite\nGives penetration early, defense when low HP, and extra healing from skill damage.\n\n🟢 Battle Spell:\n\nFlicker – For surprise engages and better positioning.\n\n🎯 Goal:\n\nScale safely early → dominate mid to late game → dive into teamfights and out-sustain everyone.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-22T08:50:38.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6058,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        100,
+        36,
+        43,
+        73,
+        71,
+        74
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          11,
+          24
+        ]
+      },
+      "description": "I hate this hero exp use this for your glory joke hahahh",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-26T15:21:31.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5752,
+      "user_id": 17496,
+      "username": "Sardonyx",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        97,
+        69,
+        73,
+        68,
+        75,
+        74
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          14,
+          17
+        ]
+      },
+      "description": "Best EXP Lane general build, suitable for taking damage and DPS",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-16T19:01:38.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6903,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        76,
+        69,
+        73,
+        74,
+        99,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "aura",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-06T08:16:43.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7304,
+      "user_id": 8072,
+      "username": "slayer",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        96,
+        73,
+        43,
+        68,
+        45,
+        74
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "must try",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-26T03:25:14.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7127,
+      "user_id": 20500,
+      "username": "Vix/s",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        73,
+        74,
+        36,
+        35,
+        68
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          7,
+          24,
+          11
+        ]
+      },
+      "description": "𝙏𝙖𝙣𝙦𝙪𝙚 𝙮 daño",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-18T20:43:27.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7070,
+      "user_id": 20326,
+      "username": "syahdan",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        73,
+        69,
+        68,
+        117,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          7,
+          14,
+          24
+        ]
+      },
+      "description": "Gacor build sanford 2026",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-16T07:30:16.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7021,
+      "user_id": 6789,
+      "username": "LilBoom04",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        73,
+        117,
+        75,
+        69,
+        68
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "Sanford build",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-14T02:44:06.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6814,
+      "user_id": 19637,
+      "username": "Darrr",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        96,
+        73,
+        69,
+        68,
+        74,
+        92
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          5,
+          14,
+          17
+        ]
+      },
+      "description": "Menurut sy item core nya adalah oracle dan mentahan cursed helmet, untuk awal lebih baik bersabar dan beli langsung oracle dr pada mentahan cursed helmet, untuk sisanya opsional, jika tidak banyak hero CC bruteforce bisa di ganti. Untuk spell opsional (tergantung cara main)",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-30T07:44:40.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6602,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        76,
+        73,
+        69,
+        74,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "main",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-19T10:55:01.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6513,
+      "user_id": 18720,
+      "username": "@bsdcity",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        69,
+        73,
+        68,
+        74,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          10,
+          17
+        ]
+      },
+      "description": "Build Alice Paling Sesuai Dari Top Global (Vsi Balatak)",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-03-15T04:16:08.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6493,
+      "user_id": 18916,
+      "username": "kantawokiii",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        35,
+        74,
+        43,
+        68,
+        73,
+        99
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          1,
+          24
+        ]
+      },
+      "description": "its so good",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-03-14T09:13:19.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5995,
+      "user_id": 17959,
+      "username": "ma3epa",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        96,
+        81,
+        73,
+        74,
+        70,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          21,
+          10
+        ]
+      },
+      "description": "jngl alice\n64wr 80game",
+      "battle_spell": null,
+      "created_at": "2026-02-24T17:09:00.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5885,
+      "user_id": 17779,
+      "username": "KingSlayer_69",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        94,
+        69,
+        73,
+        70,
+        68,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          14,
+          22
+        ]
+      },
+      "description": "best in early to late game",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-21T08:16:16.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5780,
+      "user_id": 11602,
+      "username": "LifzStécú",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        35,
+        73,
+        74,
+        69,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          14,
+          17
+        ]
+      },
+      "description": "Buat jungle tb",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-02-17T14:19:55.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5511,
+      "user_id": 16943,
+      "username": "TYPM",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        94,
+        36,
+        74,
+        73,
+        45,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          24,
+          12
+        ]
+      },
+      "description": "Best item for alice",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-07T03:22:53.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7361,
+      "user_id": 14116,
+      "username": "MelanioGOTY",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        73,
+        69,
+        65,
+        75,
+        99,
+        71
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "perfect build",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-04-28T00:33:14.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7354,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        35,
+        36,
+        44,
+        73,
+        45
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          14,
+          5,
+          24
+        ]
+      },
+      "description": "The Queen of Blood is back\n\nNo anti heal\nNo penetration\n\nEnjoy ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-27T15:49:19.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7334,
+      "user_id": 20956,
+      "username": "gendul",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        74,
+        69,
+        73,
+        68,
+        71
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "strong jungler for war inside enemy turret",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-27T05:57:20.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7299,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        96,
+        43,
+        36,
+        68,
+        74,
+        44
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          14,
+          22
+        ]
+      },
+      "description": "Sustained Damage / Sustain",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-25T14:15:12.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7260,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        69,
+        73,
+        74,
+        117,
+        68
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "Tanky / Sustained Damage",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-23T22:09:31.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7096,
+      "user_id": 20388,
+      "username": "Alice_son",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        99,
+        73,
+        70,
+        45,
+        74,
+        71
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          14,
+          5,
+          17
+        ]
+      },
+      "description": "A mix of defense and offense",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-17T00:42:06.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6544,
+      "user_id": 19033,
+      "username": "Cala",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        100,
+        45,
+        73,
+        71,
+        68,
+        70
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          24,
+          14,
+          3
+        ]
+      },
+      "description": "GORDITO KIDBOMBAAA M7\n",
+      "battle_spell": null,
+      "created_at": "2026-03-17T01:13:30.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6533,
+      "user_id": 18316,
+      "username": "Kazato",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        73,
+        45,
+        35,
+        71,
+        67,
+        117
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          3
+        ]
+      },
+      "description": "Full tank no shoes",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-16T06:51:07.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6367,
+      "user_id": 13370,
+      "username": "ShatterKnox",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        96,
+        68,
+        35,
+        73,
+        74,
+        43
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          24,
+          11,
+          3
+        ]
+      },
+      "description": "This is a good build for alice",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-10T09:03:03.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6273,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        96,
+        90,
+        44,
+        71,
+        117,
+        37
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          13,
+          20
+        ]
+      },
+      "description": "happy hunting, jungle, bloody retri",
+      "battle_spell": null,
+      "created_at": "2026-03-06T18:45:56.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6269,
+      "user_id": 18477,
+      "username": "sipaaaa",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        73,
+        96,
+        71,
+        69,
+        65,
+        92
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          17,
+          5,
+          14
+        ]
+      },
+      "description": "Best on mid lane,you can play agresive in earlt",
+      "battle_spell": null,
+      "created_at": "2026-03-06T14:10:45.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6228,
+      "user_id": 17638,
+      "username": "kikyo_611",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        96,
+        73,
+        68,
+        43,
+        71,
+        92
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          17,
+          11,
+          3
+        ]
+      },
+      "description": "balıma alice build\n",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-04T08:52:27.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6117,
+      "user_id": 18143,
+      "username": "ZarifMarco",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        35,
+        73,
+        36,
+        43,
+        51,
+        74
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          14,
+          24,
+          3
+        ]
+      },
+      "description": "build for dealing damage whilst still healing, use revitalize or vengeance depending on the enemys lineup",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-28T02:17:44.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5778,
+      "user_id": 17544,
+      "username": "TAVANH",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        97,
+        73,
+        91,
+        68,
+        117,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "สูตรดีไซน์ดีบอกต่อ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-17T13:13:51.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5646,
+      "user_id": 17190,
+      "username": "Gateau",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        102,
+        69,
+        74,
+        73,
+        70,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "Spellnya bisa flic, kolam, atau nih vegeance semuanya bisa tergantung kemauan. Nih gausah pake build dmg pun udah sakit dps nya",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-12T00:58:29.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5538,
+      "user_id": 17025,
+      "username": "Kuro.mlbb",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        100,
+        69,
+        36,
+        73,
+        74,
+        71
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          11,
+          24
+        ]
+      },
+      "description": "for alice you may swap gaurdian helmet wityh anything as per the opponents take immortality or frozen crown.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-08T07:57:02.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5537,
+      "user_id": 17018,
+      "username": "CLN",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        96,
+        76,
+        35,
+        36,
+        17,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "My Build",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-08T06:34:16.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5532,
+      "user_id": 16921,
+      "username": "mixue",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        96,
+        73,
+        70,
+        65,
+        117,
+        75
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          11,
+          21
+        ]
+      },
+      "description": "my ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-07T18:48:23.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5372,
+      "user_id": 16578,
+      "username": "AdamPendek",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        96,
+        69,
+        70,
+        73,
+        90,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "base on what i think would be good please comment",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-01T21:10:09.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6272,
+      "user_id": 18483,
+      "username": "1shot",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        90,
+        73,
+        71,
+        92,
+        45,
+        43
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          11,
+          24
+        ]
+      },
+      "description": "Hear me out on this one peeps. after alice's significant revamp ive done sum experimenting with a modernized kit. Alice traded her mana bar for massive HP-scaling and initiation power so my build focuses solely on Raw HP, Healing Amplification and % Damage.  Alice no longer relies on mana items like CoD or the Purple buff to maintain her ult and skills so we now the only bottleneck was CD....fleeting time deals with this. Oracle is non negotiable synergizing with her new passive boosting healing drastically. Guardian Helmet for her hybrid durability as her damage and healing now scale with extra HP....if your about to die, pop open your passive on some minions and wallah your near full health again. Alice's ult provides control immunity and 50% damage reduction, but she is slowed during the ult, becoming a primary target during the Ult's charge. Winter crown cancels this weakness allowing you to stay invincible while your ult charges and crashes onto the enemy team. Her skill one has wide range why not add a slow effect to it to ensure enemies cannot walk away after that blood stream, then you teleport and ult and the enemy team is wiped out....Ice queen wand handles this like a goat. And finally Her second skills synergy with HP Based scorch of glowing wand. come on ifykykwim glowing wand adding a burn effect to the skill 2 and passive. Its like a double scorch alone brother. Flicker is nice but Vengeance is greater for damage reductions and reflecting magic damage when you're constantly in the enemy's face. And the tank emblem is superior for Max HP and Hybrid defense",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-06T17:24:10.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5893,
+      "user_id": 13370,
+      "username": "ShatterKnox",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        96,
+        35,
+        68,
+        69,
+        73,
+        43
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          17,
+          14,
+          3
+        ]
+      },
+      "description": "This is biuld exp lane there are damage and perfect control",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-21T16:42:33.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6669,
+      "user_id": 19363,
+      "username": "toklo",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        58,
+        68,
+        36,
+        52,
+        78,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          6,
+          14,
+          22
+        ]
+      },
+      "description": "asdasdasd",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-24T03:08:54.000Z",
+      "likes_count": 0,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6300,
+      "user_id": 18519,
+      "username": "FD_ZIDNI",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        69,
+        70,
+        74,
+        68,
+        65,
+        67
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          3,
+          24,
+          14
+        ]
+      },
+      "description": "me",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-07T11:44:15.000Z",
+      "likes_count": 0,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6324,
+      "user_id": 18163,
+      "username": "Gun_11645",
+      "hero_id": 4,
+      "hero_name": "Alice",
+      "role": "Tank, Mage",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "items": [
+        44,
+        42,
+        47,
+        71,
+        73,
+        74
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          13,
+          23
+        ]
+      },
+      "description": "Very good build ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-08T05:06:31.000Z",
+      "likes_count": 0,
+      "dislikes_count": 4
+    }
+  ]
+}

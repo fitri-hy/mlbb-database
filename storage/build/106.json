@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5421,
+      "user_id": 16700,
+      "username": "SSS-Ikir",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        99,
+        17,
+        74,
+        73,
+        70,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          1
+        ]
+      },
+      "description": "Phoveus...",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-03T16:12:59.000Z",
+      "likes_count": 8,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5725,
+      "user_id": 17427,
+      "username": "SlippingJimmy",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        17,
+        99,
+        76,
+        74,
+        65,
+        66
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          1,
+          24
+        ]
+      },
+      "description": "Swap antique with chastise if enemy has attack speed dmg dealer, swap athena with radiant armor if enemy has heroes that deal continuous magic dmg, swap tough boot with warrior boot if enemy has mainly physical dmg dealers. ",
+      "battle_spell": null,
+      "created_at": "2026-02-15T12:39:05.000Z",
+      "likes_count": 5,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6419,
+      "user_id": 16324,
+      "username": "Shiroi",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        99,
+        76,
+        17,
+        73,
+        71,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          24,
+          14,
+          3
+        ]
+      },
+      "description": "Build ini mengikuti patch terbaru dan build ini sangat sustain saat di war cocok untuk war jangka panjang dan dapat TB tim kalian",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-11T18:39:58.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5625,
+      "user_id": 17190,
+      "username": "Gateau",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        65,
+        99,
+        75,
+        68,
+        74,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          14,
+          21
+        ]
+      },
+      "description": "Yang Masih pake war axe gatau tuh gmana. Phove udh sakit dan sustain dari asalnya, tinggal full in def aja, kalopun mau pake item dmg mending pistol doang aja. ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-11T05:02:48.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6102,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        99,
+        17,
+        70,
+        65,
+        74,
+        68
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          6
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-27T22:01:01.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5420,
+      "user_id": 16700,
+      "username": "SSS-Ikir",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        99,
+        17,
+        74,
+        73,
+        70,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          24,
+          7
+        ]
+      },
+      "description": "Phoveus...",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-03T14:57:16.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7379,
+      "user_id": 19964,
+      "username": "Moba_nerfharley",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        100,
+        76,
+        70,
+        17,
+        74,
+        66
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          20
+        ]
+      },
+      "description": "This is a build for pure burst damage and sustain so hard to kill u are stronger than bedrock.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-28T13:19:25.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7215,
+      "user_id": 20029,
+      "username": "ColdBrave",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        99,
+        76,
+        17,
+        75,
+        70,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Faqat agreysiyali herolarga qarshi.\nMasalan: Esmeralda,Dyrroth,Thamuz,Arlott,Benedetta qisqasi yuzma yuz urishadigan herolarga qarshi.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-22T09:27:21.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7109,
+      "user_id": 20421,
+      "username": "AFZZAT",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        97,
+        17,
+        70,
+        75,
+        65,
+        71
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          6,
+          15,
+          24
+        ]
+      },
+      "description": "good damage an sooooooo good",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-17T13:33:22.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7020,
+      "user_id": 6789,
+      "username": "LilBoom04",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        99,
+        65,
+        70,
+        117,
+        75,
+        67
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          14,
+          21
+        ]
+      },
+      "description": "Meta build (mpl ph build)",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-14T02:43:00.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6568,
+      "user_id": 19106,
+      "username": "ParVo",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        99,
+        17,
+        74,
+        73,
+        70,
+        65
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          7,
+          14,
+          24
+        ]
+      },
+      "description": "Basically best build if you play right and you can change you last item depending your game with radiant armor, chastise paldron or athena shield ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-18T12:48:24.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6729,
+      "user_id": 19487,
+      "username": "YuukariNoctis",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        99,
+        69,
+        70,
+        75,
+        71,
+        117
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Sepatu bisa ganti warrior boots kalau lawan kebanyakan physical. Cursed helmet bisa diganti Antiqueras kalau musuh minim Hero heal.  \nJika menggunakan Antiqueras,gunakan sepatu though boots. Di emblem,gunakan rupture jika lawan memiliki hp dan defense yang tinggi.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-26T15:37:22.000Z",
+      "likes_count": 1,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6858,
+      "user_id": 19701,
+      "username": "Palomazo",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        74,
+        99,
+        65,
+        70,
+        75,
+        117
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          11,
+          17
+        ]
+      },
+      "description": "For a Solid tank phobeus that punishes every dash used against him\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-31T20:33:02.000Z",
+      "likes_count": 0,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6538,
+      "user_id": 6912,
+      "username": "Art",
+      "hero_id": 106,
+      "hero_name": "Phoveus",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Regen, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+      "items": [
+        99,
+        11,
+        1,
+        17,
+        117,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          6,
+          16,
+          24
+        ]
+      },
+      "description": "leech and damage and blood",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-16T12:22:39.000Z",
+      "likes_count": 0,
+      "dislikes_count": 3
+    }
+  ]
+}

@@ -1,0 +1,902 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5438,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        99,
+        20,
+        76,
+        73,
+        68,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          6,
+          14,
+          24
+        ]
+      },
+      "description": "Arlott Sustained",
+      "battle_spell": null,
+      "created_at": "2026-02-04T04:16:04.000Z",
+      "likes_count": 7,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6465,
+      "user_id": 18846,
+      "username": "Don_Kihote",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        99,
+        16,
+        3,
+        13,
+        7,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          17
+        ]
+      },
+      "description": "Damage",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-13T08:13:49.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5680,
+      "user_id": 17318,
+      "username": "zryu",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        16,
+        99,
+        11,
+        73,
+        14,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "enak buat lawan hero yang tipis ",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-13T11:54:38.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6705,
+      "user_id": 19453,
+      "username": "fadylaly81@gmail.com",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        99,
+        16,
+        91,
+        3,
+        13,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          23,
+          12,
+          4
+        ]
+      },
+      "description": "Gg",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-25T21:42:16.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6463,
+      "user_id": 18846,
+      "username": "Don_Kihote",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        99,
+        70,
+        117,
+        75,
+        72,
+        74
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          14,
+          24
+        ]
+      },
+      "description": "uhh",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-13T08:05:54.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7065,
+      "user_id": 20329,
+      "username": "Deimoz",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        76,
+        99,
+        3,
+        16,
+        14,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          11,
+          23
+        ]
+      },
+      "description": "Best for damage roam, deals insane burst damage while being tanky enough for late game.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-16T05:36:54.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7018,
+      "user_id": 6789,
+      "username": "LilBoom04",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        99,
+        11,
+        73,
+        117,
+        14,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Meta build ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-14T02:37:30.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6464,
+      "user_id": 18846,
+      "username": "Don_Kihote",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        97,
+        76,
+        70,
+        117,
+        75,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          14,
+          25
+        ]
+      },
+      "description": "Full Roam",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-13T08:09:49.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6461,
+      "user_id": 7295,
+      "username": "Viper_Kung",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        97,
+        76,
+        73,
+        68,
+        71,
+        69
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          14,
+          24
+        ]
+      },
+      "description": "ดี",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-13T02:15:26.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6180,
+      "user_id": 18295,
+      "username": "Ygrisx",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        97,
+        20,
+        17,
+        73,
+        74,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          23
+        ]
+      },
+      "description": "First item Fury Hammer, work together with rupture.\nThen War Axe for consistent damage and def.\nThen Fury Hammer can be anything situational. Item def forsynergy or situational.\nLast item situational it can be bod  immortal and malefic roar.\nSynergy team = Work with hero many CC. ",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-02T18:54:31.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6103,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        20,
+        99,
+        73,
+        68,
+        65,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          1
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-27T22:02:13.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5483,
+      "user_id": 16829,
+      "username": "Ryel",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        3,
+        7,
+        14,
+        73,
+        74,
+        99
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          24,
+          6
+        ]
+      },
+      "description": "yes just try it",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-05T08:23:18.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5470,
+      "user_id": 13237,
+      "username": "OrangHitam",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        99,
+        16,
+        13,
+        73,
+        74,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          19
+        ]
+      },
+      "description": "Gg",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-05T01:20:07.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7323,
+      "user_id": 20810,
+      "username": "mico",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        17,
+        99,
+        74,
+        68,
+        73,
+        65
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "build semi tank untuk hero arlot\n",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-26T16:10:24.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7093,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        97,
+        76,
+        17,
+        74,
+        68,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          12,
+          24
+        ]
+      },
+      "description": "Sustain / Sustained Damage",
+      "battle_spell": null,
+      "created_at": "2026-04-16T23:49:51.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7008,
+      "user_id": 20183,
+      "username": "Ankit_singha",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        11,
+        97,
+        74,
+        17,
+        68,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          23
+        ]
+      },
+      "description": "If u want a balanced damage and sustain hero use this build I built it according to my gameplay and it was very effective cuz this build would greatly reduce cd and enemies cc with high spell vamp and low hp clutch cuz of queen wings malefic roar is not a must but I prefer it the most but other than that u can use (ROSE GOLD METEOR) OR (SEA HELBERD) according to enemies i guarantee you it won't disappoint u. The items are properly managed u won't need to buy them according to enemies most probably so u can just be free to look at ur build just buy what's recommended that's it ",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-13T17:31:25.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6798,
+      "user_id": 19630,
+      "username": "mikssdn",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        100,
+        76,
+        70,
+        66,
+        65,
+        74
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          1,
+          11,
+          24
+        ]
+      },
+      "description": "J",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-30T03:54:28.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6557,
+      "user_id": 19033,
+      "username": "Cala",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        100,
+        20,
+        73,
+        70,
+        66,
+        68
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "ARLOT M7 AURORA",
+      "battle_spell": null,
+      "created_at": "2026-03-18T01:15:51.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6393,
+      "user_id": 18725,
+      "username": "Gus?_Auro?",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        2,
+        3,
+        7,
+        16,
+        11,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          22
+        ]
+      },
+      "description": "Combo for arlot, skill 2 passive, skill 1 cc trigger passive, skill 2 burst passive, petify skill 2 passive, skill 3, skill 2passive (2 time)",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-11T04:38:53.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6373,
+      "user_id": 18689,
+      "username": "blackwofl",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        20,
+        99,
+        73,
+        70,
+        14,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "after buy fury hammer buy tought boots and oracle then hunter strike",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-10T14:21:04.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6305,
+      "user_id": 18527,
+      "username": "30February",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        97,
+        76,
+        70,
+        75,
+        117,
+        74
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "สำหรับ โรมมิ่ง ทำจังหวะ / ทำลายจังหวะ\n* Flameshot * มี คูลส์ดาว ที่ไว ใช้เพื่อบังคับให้ฝ่ายตรงข้ามต้องใช้สกิลหนี้ / ทำลายจังหวะ / ทำลายตำแหน่งการยืน / ใช้เอาชีวิตรอด \n* ข้อเสีย * \nไม่สามารถปิดสกอร์ได้ด้วยตัวเอง \nแพ้การรักษาที่รุนแรง \nพึ่งพาเพื่อนร่วมทีมอย่างมาก\n",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-03-07T15:01:19.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6301,
+      "user_id": 18527,
+      "username": "30February",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        97,
+        11,
+        70,
+        17,
+        73,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          24
+        ]
+      },
+      "description": "สำหรับหัดเล่น  เน้นความสมดุล  ไม่ตายง่ายเมื่อทำผิดพลาด \n*การซื้อของ*\nเริ่มต้นด้วยรองเท้าธรรมดา > เจาะเกราะชิ้นเล็ก > รองเท้าวิ่งเร็ว > และกลับมาซื้อของ ตาม ออเดอร์ ที่ตั้งไว้ \n",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-07T14:38:41.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6251,
+      "user_id": 18439,
+      "username": "jakey",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        100,
+        11,
+        68,
+        73,
+        74,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          23
+        ]
+      },
+      "description": ".",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-05T16:57:42.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5822,
+      "user_id": 17624,
+      "username": "SCARFACEKING",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        99,
+        9,
+        17,
+        74,
+        68,
+        2
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          22
+        ]
+      },
+      "description": "Try it",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-18T17:10:22.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5760,
+      "user_id": 17515,
+      "username": "yukki",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        99,
+        73,
+        70,
+        75,
+        65,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          3,
+          24
+        ]
+      },
+      "description": "Sanford Build\n\nOracle can be replaced by War Axe (Situational)",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-17T04:33:31.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5596,
+      "user_id": 17123,
+      "username": "Skyvenn",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        99,
+        16,
+        11,
+        13,
+        68,
+        74
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          12,
+          19
+        ]
+      },
+      "description": "Damage",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-10T04:24:23.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5595,
+      "user_id": 17123,
+      "username": "Skyvenn",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        100,
+        17,
+        73,
+        74,
+        11,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          11,
+          24
+        ]
+      },
+      "description": "sustain",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-10T04:21:19.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5321,
+      "user_id": 16226,
+      "username": "fwfelix",
+      "hero_id": 120,
+      "hero_name": "Arlott",
+      "role": "Fighter, Assassin",
+      "lane": "Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
+      "items": [
+        99,
+        73,
+        68,
+        17,
+        65,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          1
+        ]
+      },
+      "description": "this build is best for cc heroes and your second skill will heal you",
+      "battle_spell": "Flicker",
+      "created_at": "2026-01-31T09:01:59.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

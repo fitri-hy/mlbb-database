@@ -3,136 +3,87 @@
   "message": "Counter pick suggestions retrieved successfully",
   "data": [
     {
-      "id": 23,
-      "heroName": "Gord",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Poke",
-        "Burst"
-      ],
-      "score": 4.964000225067139,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 108,
-          "name": "Aulus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-          "score": 4.964
-        }
-      ]
-    },
-    {
-      "id": 122,
-      "heroName": "Nolan",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Burst"
-      ],
-      "score": 4.382999897003174,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 108,
-          "name": "Aulus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-          "score": 4.383
-        }
-      ]
-    },
-    {
-      "id": 72,
-      "heroName": "Thamuz",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png",
+      "id": 85,
+      "heroName": "Dyrroth",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
       "role": [
         "Fighter"
       ],
       "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Chase",
-        "Damage"
-      ],
-      "score": 3.2780001163482666,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 108,
-          "name": "Aulus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-          "score": 3.278
-        }
-      ]
-    },
-    {
-      "id": 131,
-      "heroName": "Sora",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
-      "role": [
-        "Fighter",
-        "Assassin"
-      ],
-      "lane": [
-        "Exp Lane"
+        "Exp Lane",
+        "Jungle"
       ],
       "speciality": [
         "Charge",
         "Burst"
       ],
-      "score": 2.9100000858306885,
-      "tier": "SS",
-      "counteredHeroes": [
-        {
-          "id": 108,
-          "name": "Aulus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-          "score": 2.91
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "heroName": "Barats",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-      "role": [
-        "Tank",
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Crowd Control"
-      ],
-      "score": 2.8399999141693115,
+      "score": 7.736999988555908,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 108,
           "name": "Aulus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-          "score": 2.84
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+          "score": 7.737
         }
       ]
     },
     {
-      "id": 14,
-      "heroName": "Rafaela",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+      "id": 73,
+      "heroName": "Harith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Gold Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 5.9629998207092285,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 108,
+          "name": "Aulus",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+          "score": 5.963
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "heroName": "Terizla",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Crowd Control"
+      ],
+      "score": 4.642000198364258,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 108,
+          "name": "Aulus",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+          "score": 4.642
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "heroName": "Floryn",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
       "role": [
         "Support"
       ],
@@ -140,67 +91,70 @@
         "Roam"
       ],
       "speciality": [
-        "Regen",
+        "Poke",
         "Guard"
       ],
-      "score": 2.1549999713897705,
-      "tier": "D",
+      "score": 3.194999933242798,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 108,
           "name": "Aulus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-          "score": 2.155
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+          "score": 3.195
         }
       ]
     },
     {
-      "id": 93,
-      "heroName": "Atlas",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+      "id": 62,
+      "heroName": "Kaja",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
       "role": [
-        "Tank"
+        "Support",
+        "Fighter"
       ],
       "lane": [
         "Roam"
       ],
       "speciality": [
-        "Crowd Control",
-        "Initiator"
+        "Control",
+        "Charge"
       ],
-      "score": 1.6640000343322754,
-      "tier": "D",
+      "score": 2.900000095367432,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 108,
           "name": "Aulus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-          "score": 1.664
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+          "score": 2.9
         }
       ]
     },
     {
-      "id": 86,
-      "heroName": "Lylia",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+      "id": 111,
+      "heroName": "Edith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png",
       "role": [
-        "Mage"
+        "Tank",
+        "Marksman"
       ],
       "lane": [
-        "Mid Lane"
+        "Exp Lane",
+        "Roam"
       ],
       "speciality": [
-        "Push",
-        "Damage"
+        "Control",
+        "Burst"
       ],
-      "score": 1.0750000476837158,
+      "score": 0.975000023841858,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 108,
           "name": "Aulus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-          "score": 1.075
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+          "score": 0.975
         }
       ]
     },
@@ -218,21 +172,21 @@
         "Poke",
         "Burst"
       ],
-      "score": 0.515999972820282,
+      "score": 0.7720000147819519,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 108,
           "name": "Aulus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-          "score": 0.516
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+          "score": 0.772
         }
       ]
     },
     {
-      "id": 80,
-      "heroName": "Guinevere",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "id": 72,
+      "heroName": "Thamuz",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png",
       "role": [
         "Fighter"
       ],
@@ -240,43 +194,17 @@
         "Exp Lane"
       ],
       "speciality": [
-        "Burst",
-        "Magic Damage"
+        "Chase",
+        "Damage"
       ],
-      "score": 0.3610000014305115,
-      "tier": "S",
+      "score": 0.34599998593330383,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 108,
           "name": "Aulus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-          "score": 0.361
-        }
-      ]
-    },
-    {
-      "id": 102,
-      "heroName": "Mathilda",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
-      "role": [
-        "Support",
-        "Assassin"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Initiator",
-        "Guard"
-      ],
-      "score": 0.1860000044107437,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 108,
-          "name": "Aulus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-          "score": 0.186
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+          "score": 0.346
         }
       ]
     },
@@ -294,14 +222,39 @@
         "Poke",
         "Burst"
       ],
-      "score": 0,
+      "score": 0.3199999928474426,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 108,
           "name": "Aulus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-          "score": 0
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+          "score": 0.32
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "heroName": "Guinevere",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Magic Damage"
+      ],
+      "score": 0.13199999928474426,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 108,
+          "name": "Aulus",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+          "score": 0.132
         }
       ]
     }

@@ -17,14 +17,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 7.39300012588501,
-      "tier": "D",
+      "score": 7.676000118255615,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 23,
           "name": "Gord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
-          "score": 7.393
+          "score": 7.676
         }
       ]
     },
@@ -43,14 +43,14 @@
         "Push",
         "Burst"
       ],
-      "score": 6.211999893188477,
+      "score": 6.073999881744385,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 23,
           "name": "Gord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
-          "score": 6.212
+          "score": 6.074
         }
       ]
     },
@@ -68,14 +68,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 6.060999870300293,
+      "score": 5.853000164031982,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 23,
           "name": "Gord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
-          "score": 6.061
+          "score": 5.853
         }
       ]
     },
@@ -93,39 +93,40 @@
         "Poke",
         "Burst"
       ],
-      "score": 5.322999954223633,
+      "score": 5.3460001945495605,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 23,
           "name": "Gord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
-          "score": 5.323
+          "score": 5.346
         }
       ]
     },
     {
-      "id": 17,
-      "heroName": "Fanny",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
+      "id": 27,
+      "heroName": "Sun",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
       "role": [
-        "Assassin"
+        "Fighter"
       ],
       "lane": [
+        "Exp Lane",
         "Jungle"
       ],
       "speciality": [
-        "Chase",
-        "Finisher"
+        "Push",
+        "Damage"
       ],
-      "score": 2.9100000858306885,
-      "tier": "C",
+      "score": 3.0799999237060547,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 23,
           "name": "Gord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
-          "score": 2.91
+          "score": 3.08
         }
       ]
     },
@@ -144,14 +145,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 1.3450000286102295,
+      "score": 1.3700000047683716,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 23,
           "name": "Gord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
-          "score": 1.345
+          "score": 1.37
         }
       ]
     },
@@ -169,14 +170,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 0.7559999823570251,
+      "score": 0.7049999833106995,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 23,
           "name": "Gord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
-          "score": 0.756
+          "score": 0.705
         }
       ]
     },
@@ -196,21 +197,21 @@
         "Burst",
         "Poke"
       ],
-      "score": 0.2329999953508377,
+      "score": 0.4650000035762787,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 23,
           "name": "Gord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
-          "score": 0.233
+          "score": 0.465
         }
       ]
     },
     {
-      "id": 118,
-      "heroName": "Joy",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+      "id": 17,
+      "heroName": "Fanny",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
       "role": [
         "Assassin"
       ],
@@ -219,16 +220,16 @@
       ],
       "speciality": [
         "Chase",
-        "Damage"
+        "Finisher"
       ],
-      "score": 0.22100000083446503,
-      "tier": "D",
+      "score": 0.2160000056028366,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 23,
           "name": "Gord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
-          "score": 0.221
+          "score": 0.216
         }
       ]
     }

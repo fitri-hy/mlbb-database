@@ -1,0 +1,838 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5791,
+      "user_id": 17541,
+      "username": "kamedaaa",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        96,
+        19,
+        5,
+        9,
+        7,
+        16
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          9,
+          20
+        ]
+      },
+      "description": "sun izin tampil, kejar-kejaran cd skill cepat juga",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-17T17:56:52.000Z",
+      "likes_count": 8,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6421,
+      "user_id": 18772,
+      "username": "Hcvkh",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        6,
+        19,
+        9,
+        13,
+        16,
+        1
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          19,
+          16,
+          2
+        ]
+      },
+      "description": "ดี",
+      "battle_spell": "Inspire",
+      "created_at": "2026-03-12T04:05:06.000Z",
+      "likes_count": 6,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6895,
+      "user_id": 19806,
+      "username": "Abeerjr",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        96,
+        5,
+        19,
+        7,
+        68,
+        16
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          9,
+          20
+        ]
+      },
+      "description": "CD Reduction Build with Defense and Petrify for blocking enemy.",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-06T03:30:47.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7137,
+      "user_id": 20510,
+      "username": "Kujo1987",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        97,
+        5,
+        19,
+        6,
+        8,
+        12
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          1,
+          9,
+          20
+        ]
+      },
+      "description": "ดันป้อมDestroy the fort",
+      "battle_spell": "Inspire",
+      "created_at": "2026-04-19T03:26:22.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7028,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        98,
+        5,
+        6,
+        8,
+        2,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          16,
+          21
+        ]
+      },
+      "description": "unli push",
+      "battle_spell": "Arrival",
+      "created_at": "2026-04-14T07:04:25.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6941,
+      "user_id": 19976,
+      "username": "Somebody's_Pleasure",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        97,
+        5,
+        19,
+        9,
+        7,
+        14
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          9,
+          7,
+          21
+        ]
+      },
+      "description": "hit and run, combo nya ulti-kejar musuh-skill 2-skill 3-petri",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-09T02:55:59.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6239,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        96,
+        90,
+        6,
+        8,
+        5,
+        13
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          13,
+          5,
+          20
+        ]
+      },
+      "description": "sun wukong, jungle, blue retri",
+      "battle_spell": null,
+      "created_at": "2026-03-04T19:01:35.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5989,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        98,
+        5,
+        8,
+        6,
+        1,
+        9
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          10,
+          23
+        ]
+      },
+      "description": "Life steal rate : %10\nDamage rate : %89\nDefense rate : %10\n\nIf you exp change spell=inspire and emblem2=weapon master",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-24T16:08:20.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7248,
+      "user_id": 20717,
+      "username": "Andromaqve",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        96,
+        76,
+        19,
+        5,
+        7,
+        73
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          5,
+          10,
+          19
+        ]
+      },
+      "description": "Fighter, sustain ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-23T01:29:07.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7242,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        99,
+        5,
+        6,
+        8,
+        14,
+        16
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          25,
+          9,
+          2
+        ]
+      },
+      "description": "Hail the great monkey king\n\nNote: Focusing mark can buff clone damage\n\nThis build has a unique playstyle of turning a normal fight into an easy 3v1, can take out any hero as long as you're fighting them solo",
+      "battle_spell": "Inspire",
+      "created_at": "2026-04-22T23:06:51.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6603,
+      "user_id": 19157,
+      "username": "Harman",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        96,
+        5,
+        6,
+        16,
+        8,
+        19
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          24
+        ]
+      },
+      "description": "This build really good",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-19T12:27:39.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7385,
+      "user_id": 21067,
+      "username": "Zenro",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        97,
+        5,
+        8,
+        6,
+        13,
+        7
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          9,
+          18
+        ]
+      },
+      "description": "ya\n",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-28T14:18:01.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7171,
+      "user_id": 20579,
+      "username": "JayNvdia",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        96,
+        5,
+        19,
+        7,
+        9,
+        73
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          9,
+          20
+        ]
+      },
+      "description": "sun mood lari",
+      "battle_spell": "Sprint",
+      "created_at": "2026-04-20T10:32:28.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6823,
+      "user_id": 19645,
+      "username": "garlandia",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        96,
+        5,
+        19,
+        6,
+        9,
+        69
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          12,
+          21
+        ]
+      },
+      "description": "testing dulu niii",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-30T13:09:40.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6368,
+      "user_id": 18673,
+      "username": "SCA",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        100,
+        5,
+        6,
+        76,
+        7,
+        73
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          16,
+          20
+        ]
+      },
+      "description": "TANKY clone",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-10T09:29:59.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6189,
+      "user_id": 18308,
+      "username": "Nahum",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        76,
+        19,
+        5,
+        7,
+        11,
+        14
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          9,
+          20
+        ]
+      },
+      "description": "Roam exp or gold",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-03T00:53:46.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6230,
+      "user_id": 18383,
+      "username": "Tasmal",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        96,
+        52,
+        73,
+        19,
+        70,
+        13
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          13,
+          20
+        ]
+      },
+      "description": "Once you've finished buying the wild talker, purchase the Endless battle to complete the set.",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-04T11:10:58.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6170,
+      "user_id": 18270,
+      "username": "frey",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        5,
+        97,
+        19,
+        9,
+        7,
+        16
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          9,
+          20
+        ]
+      },
+      "description": "build sun epic -> mythic SOLO RANKED",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-02T11:10:05.000Z",
+      "likes_count": 1,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5568,
+      "user_id": 17087,
+      "username": "Kenyx",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        100,
+        76,
+        5,
+        17,
+        6,
+        1
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          10,
+          19
+        ]
+      },
+      "description": "Warrior Boots\nThunder Belt\nCorrosion Scythe\nWar Axe\nDemon Hunter Sword\nBerserker's Fury\n\n",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-09T13:06:16.000Z",
+      "likes_count": 1,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5315,
+      "user_id": 16131,
+      "username": "Percuma",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        97,
+        5,
+        19,
+        10,
+        9,
+        6
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          20,
+          10
+        ]
+      },
+      "description": "Sun retri ni mantap untuk awal game biar hyper Enemy susah nak kill kita ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-01-31T03:42:35.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5818,
+      "user_id": 17607,
+      "username": "pewdii",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        97,
+        5,
+        9,
+        8,
+        16,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          10,
+          19
+        ]
+      },
+      "description": "burst damage that can kill enemy who has a high hp",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-18T14:01:43.000Z",
+      "likes_count": 0,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5318,
+      "user_id": 16189,
+      "username": "ajell",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        100,
+        5,
+        19,
+        16,
+        6,
+        8
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          11,
+          21
+        ]
+      },
+      "description": "bagus buat kill tank/turret/burst jadi klo musuh pda tanding lord lu bisa manfaatin buat push alhamdullilah gw sering menang pke build ini tergantung si tapi semoga aja worth",
+      "battle_spell": "Petrify",
+      "created_at": "2026-01-31T06:53:28.000Z",
+      "likes_count": 2,
+      "dislikes_count": 4
+    },
+    {
+      "build_id": 5624,
+      "user_id": 17190,
+      "username": "Gateau",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        5,
+        97,
+        70,
+        9,
+        68,
+        73
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          9,
+          20
+        ]
+      },
+      "description": "Gak terlalu sakit tapi bagus buat draft musuh yang bisa counter Sun pake build ini buat counter balik lewat makro/mikro. Fokus push lane, dorong lane, clear lane jatuh dari Lord, pancing musuh, poke tipis2, bang spell/skill musuh intinya buat musuh gak fokus",
+      "battle_spell": "Sprint",
+      "created_at": "2026-02-11T04:57:59.000Z",
+      "likes_count": 0,
+      "dislikes_count": 3
+    },
+    {
+      "build_id": 6040,
+      "user_id": 11143,
+      "username": "Builderman",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        5,
+        76,
+        6,
+        8,
+        70,
+        117
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          2,
+          12,
+          18
+        ]
+      },
+      "description": "Op",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-26T01:05:08.000Z",
+      "likes_count": 0,
+      "dislikes_count": 4
+    },
+    {
+      "build_id": 6621,
+      "user_id": 19207,
+      "username": "Mmm",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        94,
+        66,
+        79,
+        117,
+        6,
+        8
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          9,
+          21
+        ]
+      },
+      "description": "King build",
+      "battle_spell": "Petrify",
+      "created_at": "2026-03-20T19:11:18.000Z",
+      "likes_count": 0,
+      "dislikes_count": 5
+    },
+    {
+      "build_id": 6294,
+      "user_id": 18493,
+      "username": "K-Pax_MLBB",
+      "hero_id": 27,
+      "hero_name": "Sun",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Push, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "items": [
+        44,
+        33,
+        2,
+        39,
+        8,
+        19
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          16,
+          20,
+          2
+        ]
+      },
+      "description": "For turrets ",
+      "battle_spell": "Inspire",
+      "created_at": "2026-03-07T08:16:53.000Z",
+      "likes_count": 0,
+      "dislikes_count": 8
+    }
+  ]
+}

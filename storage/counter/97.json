@@ -3,31 +3,6 @@
   "message": "Counter pick suggestions retrieved successfully",
   "data": [
     {
-      "id": 130,
-      "heroName": "Obsidia",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Damage"
-      ],
-      "score": 6.048999786376953,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 97,
-          "name": "Benedetta",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
-          "score": 6.049
-        }
-      ]
-    },
-    {
       "id": 106,
       "heroName": "Phoveus",
       "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
@@ -41,14 +16,39 @@
         "Regen",
         "Damage"
       ],
-      "score": 6,
+      "score": 6.263000011444092,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 97,
           "name": "Benedetta",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
-          "score": 6
+          "score": 6.263
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "heroName": "Obsidia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 6.051000118255615,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 97,
+          "name": "Benedetta",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+          "score": 6.051
         }
       ]
     },
@@ -66,14 +66,39 @@
         "Finisher",
         "Burst"
       ],
-      "score": 4.602000236511231,
+      "score": 3.941999912261963,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 97,
+          "name": "Benedetta",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+          "score": 3.942
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "heroName": "Valentina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 2.5199999809265137,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 97,
           "name": "Benedetta",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
-          "score": 4.602
+          "score": 2.52
         }
       ]
     },
@@ -92,14 +117,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 2.759999990463257,
+      "score": 2.470000028610229,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 97,
           "name": "Benedetta",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
-          "score": 2.76
+          "score": 2.47
         }
       ]
     },
@@ -118,39 +143,14 @@
         "Charge",
         "Finisher"
       ],
-      "score": 2.450000047683716,
-      "tier": "C",
+      "score": 2.319999933242798,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 97,
           "name": "Benedetta",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
-          "score": 2.45
-        }
-      ]
-    },
-    {
-      "id": 110,
-      "heroName": "Valentina",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Finisher"
-      ],
-      "score": 2.197000026702881,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 97,
-          "name": "Benedetta",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
-          "score": 2.197
+          "score": 2.32
         }
       ]
     },
@@ -168,39 +168,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 1.6970000267028809,
+      "score": 2.311000108718872,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 97,
           "name": "Benedetta",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
-          "score": 1.697
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "heroName": "Cyclops",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Control"
-      ],
-      "score": 0.5120000243186951,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 97,
-          "name": "Benedetta",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
-          "score": 0.512
+          "score": 2.311
         }
       ]
     },
@@ -218,40 +193,39 @@
         "Damage",
         "Regen"
       ],
-      "score": 0.5019999742507935,
+      "score": 0.7300000190734863,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 97,
           "name": "Benedetta",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
-          "score": 0.502
+          "score": 0.73
         }
       ]
     },
     {
-      "id": 88,
-      "heroName": "Masha",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "id": 33,
+      "heroName": "Cyclops",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
       "role": [
-        "Fighter",
-        "Tank"
+        "Mage"
       ],
       "lane": [
-        "Exp Lane"
+        "Mid Lane"
       ],
       "speciality": [
-        "Push",
-        "Damage"
+        "Damage",
+        "Control"
       ],
-      "score": 0,
-      "tier": "C",
+      "score": 0.2870000004768372,
+      "tier": "D",
       "counteredHeroes": [
         {
           "id": 97,
           "name": "Benedetta",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
-          "score": 0
+          "score": 0.287
         }
       ]
     }

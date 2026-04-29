@@ -16,39 +16,14 @@
         "Regen",
         "Guard"
       ],
-      "score": 8.413000106811523,
+      "score": 8.456000328063965,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 76,
           "name": "Faramis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-          "score": 8.413
-        }
-      ]
-    },
-    {
-      "id": 108,
-      "heroName": "Aulus",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Crowd Control"
-      ],
-      "score": 7.323999881744385,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 76,
-          "name": "Faramis",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-          "score": 7.324
+          "score": 8.456
         }
       ]
     },
@@ -66,14 +41,14 @@
         "Guard",
         "Support"
       ],
-      "score": 6.64300012588501,
-      "tier": "C",
+      "score": 6.511000156402588,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 76,
           "name": "Faramis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-          "score": 6.643
+          "score": 6.511
         }
       ]
     },
@@ -93,14 +68,39 @@
         "Control",
         "Burst"
       ],
-      "score": 5.283999919891357,
+      "score": 5.23199987411499,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 76,
           "name": "Faramis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-          "score": 5.284
+          "score": 5.232
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "heroName": "Floryn",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Poke",
+        "Guard"
+      ],
+      "score": 4.715000152587891,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 76,
+          "name": "Faramis",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+          "score": 4.715
         }
       ]
     },
@@ -118,14 +118,14 @@
         "Burst",
         "Poke"
       ],
-      "score": 3.150000095367432,
+      "score": 3.069999933242798,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 76,
           "name": "Faramis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-          "score": 3.15
+          "score": 3.07
         }
       ]
     },
@@ -145,39 +145,39 @@
         "Chase",
         "Magic Damage"
       ],
-      "score": 1.8289999961853027,
+      "score": 1.559999942779541,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 76,
           "name": "Faramis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-          "score": 1.829
+          "score": 1.56
         }
       ]
     },
     {
-      "id": 112,
-      "heroName": "Floryn",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
+      "id": 114,
+      "heroName": "Melissa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
       "role": [
-        "Support"
+        "Marksman"
       ],
       "lane": [
-        "Roam"
+        "Gold Lane"
       ],
       "speciality": [
-        "Poke",
-        "Guard"
+        "Finisher",
+        "Damage"
       ],
-      "score": 0.7170000076293945,
-      "tier": "B",
+      "score": 0.4819999933242798,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 76,
           "name": "Faramis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-          "score": 0.717
+          "score": 0.482
         }
       ]
     },
@@ -196,41 +196,14 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 0.3470000028610229,
+      "score": 0.37599998712539673,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 76,
           "name": "Faramis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-          "score": 0.347
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "heroName": "Bane",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-      "role": [
-        "Fighter",
-        "Mage"
-      ],
-      "lane": [
-        "Jungle",
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Push",
-        "Burst"
-      ],
-      "score": 0.26899999380111694,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 76,
-          "name": "Faramis",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-          "score": 0.269
+          "score": 0.376
         }
       ]
     },
@@ -249,14 +222,91 @@
         "Push",
         "Damage"
       ],
-      "score": 0.25600001215934753,
+      "score": 0.32600000500679016,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 76,
           "name": "Faramis",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-          "score": 0.256
+          "score": 0.326
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "heroName": "Aulus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Charge"
+      ],
+      "score": 0.2939999997615814,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 76,
+          "name": "Faramis",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+          "score": 0.294
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.28299999237060547,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 76,
+          "name": "Faramis",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+          "score": 0.283
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "heroName": "Yin",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Control"
+      ],
+      "score": 0.2240000069141388,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 76,
+          "name": "Faramis",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+          "score": 0.224
         }
       ]
     }

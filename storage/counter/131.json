@@ -16,14 +16,14 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 4.563000202178955,
+      "score": 4.642000198364258,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 131,
           "name": "Sora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
-          "score": 4.563
+          "score": 4.642
         }
       ]
     },
@@ -41,14 +41,14 @@
         "Regen",
         "Damage"
       ],
-      "score": 4.4720001220703125,
+      "score": 4.556000232696533,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 131,
           "name": "Sora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
-          "score": 4.472
+          "score": 4.556
         }
       ]
     },
@@ -66,39 +66,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 3.678999900817871,
-      "tier": "D",
+      "score": 3.9040000438690186,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 131,
           "name": "Sora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
-          "score": 3.679
-        }
-      ]
-    },
-    {
-      "id": 110,
-      "heroName": "Valentina",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Finisher"
-      ],
-      "score": 2.9800000190734863,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 131,
-          "name": "Sora",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
-          "score": 2.98
+          "score": 3.904
         }
       ]
     },
@@ -118,14 +93,39 @@
         "Crowd Control",
         "Burst"
       ],
-      "score": 2.2739999294281006,
+      "score": 2.6600000858306885,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 131,
           "name": "Sora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
-          "score": 2.274
+          "score": 2.66
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "heroName": "Valentina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 1.850000023841858,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 131,
+          "name": "Sora",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
+          "score": 1.85
         }
       ]
     },
@@ -145,14 +145,14 @@
         "Charge",
         "Regen"
       ],
-      "score": 1.3849999904632568,
-      "tier": "B",
+      "score": 1.0119999647140503,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 131,
           "name": "Sora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
-          "score": 1.385
+          "score": 1.012
         }
       ]
     },
@@ -171,14 +171,40 @@
         "Finisher",
         "Charge"
       ],
-      "score": 0.35100001096725464,
+      "score": 0.6740000247955322,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 131,
           "name": "Sora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
-          "score": 0.351
+          "score": 0.674
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "heroName": "Balmond",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 0.3160000145435333,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 131,
+          "name": "Sora",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
+          "score": 0.316
         }
       ]
     },
@@ -196,14 +222,40 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.13500000536441803,
+      "score": 0.1330000013113022,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 131,
           "name": "Sora",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
-          "score": 0.135
+          "score": 0.133
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "heroName": "Minsitthar",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "score": 0.13199999928474426,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 131,
+          "name": "Sora",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
+          "score": 0.132
         }
       ]
     }

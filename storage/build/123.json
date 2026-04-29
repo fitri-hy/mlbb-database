@@ -1,0 +1,198 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6468,
+      "user_id": 17087,
+      "username": "Kenyx",
+      "hero_id": 123,
+      "hero_name": "Cici",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "items": [
+        100,
+        17,
+        11,
+        68,
+        73,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          5,
+          14,
+          17
+        ]
+      },
+      "description": "Durable",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-13T09:55:19.000Z",
+      "likes_count": 5,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6559,
+      "user_id": 19033,
+      "username": "Cala",
+      "hero_id": 123,
+      "hero_name": "Cici",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "items": [
+        100,
+        17,
+        68,
+        73,
+        75,
+        66
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          7
+        ]
+      },
+      "description": "CICI SELANGOR M7",
+      "battle_spell": null,
+      "created_at": "2026-03-18T01:37:17.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5448,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 123,
+      "hero_name": "Cici",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "items": [
+        97,
+        17,
+        73,
+        11,
+        68,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          5,
+          14,
+          17
+        ]
+      },
+      "description": "Cici mobilitas 100%",
+      "battle_spell": "Sprint",
+      "created_at": "2026-02-04T06:53:48.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6032,
+      "user_id": 18014,
+      "username": "Bella",
+      "hero_id": 123,
+      "hero_name": "Cici",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "items": [
+        97,
+        17,
+        73,
+        74,
+        11,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          1
+        ]
+      },
+      "description": "I want you all to try it.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-25T13:32:47.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7017,
+      "user_id": 6789,
+      "username": "LilBoom04",
+      "hero_id": 123,
+      "hero_name": "Cici",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "items": [
+        99,
+        17,
+        68,
+        11,
+        73,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          1
+        ]
+      },
+      "description": "Meta build",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-14T02:35:34.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5562,
+      "user_id": 17087,
+      "username": "Kenyx",
+      "hero_id": 123,
+      "hero_name": "Cici",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Damage, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "items": [
+        96,
+        17,
+        11,
+        68,
+        13,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          7,
+          14,
+          24
+        ]
+      },
+      "description": "Magic Shoes\nWar Axe\nHunter Strike\nBrute Force Breastplate\nMalefic Roar\nOracle",
+      "battle_spell": "Sprint",
+      "created_at": "2026-02-09T12:38:10.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

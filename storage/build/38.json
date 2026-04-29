@@ -1,0 +1,422 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6515,
+      "user_id": 4133,
+      "username": "Drunk",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        94,
+        43,
+        33,
+        47,
+        37,
+        51
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          9,
+          23
+        ]
+      },
+      "description": "top build",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-15T05:45:47.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6339,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        43,
+        94,
+        47,
+        44,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          17
+        ]
+      },
+      "description": "Burst Vexana",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-09T07:59:12.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6851,
+      "user_id": 12305,
+      "username": "JOKER08",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        94,
+        33,
+        42,
+        44,
+        47,
+        43
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          10,
+          23,
+          1
+        ]
+      },
+      "description": "Try",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-31T13:57:45.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5632,
+      "user_id": 17197,
+      "username": "jianrzy",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        99,
+        43,
+        35,
+        51,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          9,
+          17
+        ]
+      },
+      "description": "build sustain",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-11T07:58:32.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7050,
+      "user_id": 20277,
+      "username": "velatko",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        94,
+        47,
+        37,
+        33,
+        44,
+        43
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          17
+        ]
+      },
+      "description": "burst and poke",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-15T14:44:55.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6413,
+      "user_id": 18682,
+      "username": "Aj67",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        96,
+        38,
+        47,
+        51,
+        74,
+        90
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          15,
+          20
+        ]
+      },
+      "description": "cooldown reduction, sharp damage increase early game, before sustain and more cooldown reduction late game",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-03-11T13:10:23.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6212,
+      "user_id": 17834,
+      "username": "apalah_itu",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        94,
+        47,
+        44,
+        43,
+        51,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          9,
+          23
+        ]
+      },
+      "description": "Build vexana jahat",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-04T00:15:23.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5981,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        94,
+        38,
+        47,
+        44,
+        91,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          12,
+          23
+        ]
+      },
+      "description": "My combo skill : 3-1-2 use this for 1 hit sure the target is marksman ",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-02-24T15:50:10.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5911,
+      "user_id": 17834,
+      "username": "apalah_itu",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        95,
+        47,
+        42,
+        44,
+        37,
+        51
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          17
+        ]
+      },
+      "description": "silahkan dicoba : )",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-02-22T08:55:02.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5796,
+      "user_id": 16919,
+      "username": "MartRayGaming",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        94,
+        43,
+        42,
+        47,
+        33,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          17
+        ]
+      },
+      "description": "Build Damage Magic",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-02-17T20:59:20.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5784,
+      "user_id": 17548,
+      "username": "Angoux",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        96,
+        38,
+        90,
+        44,
+        43,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          16,
+          17
+        ]
+      },
+      "description": "Good for spam ultimate with good damage",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-17T15:00:52.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5666,
+      "user_id": 12298,
+      "username": "Kadek23",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        90,
+        96,
+        72,
+        38,
+        51,
+        43
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          11,
+          20
+        ]
+      },
+      "description": "Vexana satpam ulti skill 3 terus menerus bikin menyebalkan",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-02-12T13:52:53.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5466,
+      "user_id": 16799,
+      "username": "Zeys",
+      "hero_id": 38,
+      "hero_name": "Vexana",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Poke, Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+      "items": [
+        94,
+        44,
+        42,
+        47,
+        91,
+        37
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          4,
+          9,
+          17
+        ]
+      },
+      "description": "Good",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-04T18:01:45.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6122,
+      "user_id": 18149,
+      "username": "System",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        99,
+        11,
+        17,
+        16,
+        13,
+        2
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Damage and damage and left right goodnight ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-28T07:40:54.000Z",
+      "likes_count": 12,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5500,
+      "user_id": 16893,
+      "username": "Lonely_Cats",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        99,
+        17,
+        70,
+        68,
+        73,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Build ini untuk sustain dalam war panjang, mengandalkan skill player dalam memaksimalkan pasif dari lapu lapu",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-06T12:16:55.000Z",
+      "likes_count": 7,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5312,
+      "user_id": 16128,
+      "username": "zalllxx",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        100,
+        17,
+        74,
+        70,
+        73,
+        65
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Lifesteal & Daya Tahan",
+      "battle_spell": "Flicker",
+      "created_at": "2026-01-31T03:27:22.000Z",
+      "likes_count": 5,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5554,
+      "user_id": 17070,
+      "username": "EddyHusin",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        99,
+        17,
+        11,
+        70,
+        73,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Very good",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-09T04:09:14.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6275,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        96,
+        17,
+        74,
+        73,
+        14,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          19
+        ]
+      },
+      "description": "you die you gay, exp, flicker",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-06T19:31:00.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5958,
+      "user_id": 17533,
+      "username": "ruslan",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        100,
+        17,
+        73,
+        11,
+        74,
+        70
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "it's cool  figher items and emblems",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-24T11:14:46.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7022,
+      "user_id": 6789,
+      "username": "LilBoom04",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        99,
+        17,
+        117,
+        74,
+        75,
+        68
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Sanford build (tanky build)",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-14T02:45:35.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6754,
+      "user_id": 19539,
+      "username": "bars",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        5,
+        8,
+        6,
+        16,
+        14,
+        97
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          9,
+          20,
+          7
+        ]
+      },
+      "description": "LAPU LAPU INSPIRASI\n",
+      "battle_spell": "Inspire",
+      "created_at": "2026-03-28T03:10:36.000Z",
+      "likes_count": 3,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6291,
+      "user_id": 18499,
+      "username": "Igris",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        100,
+        17,
+        13,
+        74,
+        73,
+        2
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          19
+        ]
+      },
+      "description": "This build can kill tanky fighters\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-07T06:37:12.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6281,
+      "user_id": 18490,
+      "username": "sukarno",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        70,
+        17,
+        74,
+        73,
+        117,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          6,
+          14,
+          24
+        ]
+      },
+      "description": "tebal sustain di lane sama di war sakit juga jadi ,main harus berani maju paling depan saat war",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-07T02:02:31.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5886,
+      "user_id": 17780,
+      "username": "tes",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        100,
+        11,
+        70,
+        67,
+        75,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          24
+        ]
+      },
+      "description": "Build Lapu-Lapu By ONIC BUTSSS ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-21T08:48:31.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5850,
+      "user_id": 17644,
+      "username": "Archillian",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        99,
+        11,
+        70,
+        74,
+        117,
+        75
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          24
+        ]
+      },
+      "description": "All round hunter ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-19T12:38:32.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6558,
+      "user_id": 19033,
+      "username": "Cala",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        100,
+        17,
+        74,
+        73,
+        68,
+        66
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          7,
+          14,
+          24
+        ]
+      },
+      "description": "LAPU M7 AURORA",
+      "battle_spell": null,
+      "created_at": "2026-03-18T01:18:24.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6243,
+      "user_id": 18418,
+      "username": "King7",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        17,
+        73,
+        74,
+        75,
+        71,
+        67
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          24
+        ]
+      },
+      "description": "Kekebalan tubuh boyy🤪🤪",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-05T08:26:19.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5765,
+      "user_id": 17533,
+      "username": "ruslan",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        100,
+        16,
+        74,
+        7,
+        73,
+        66
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          6,
+          14,
+          23
+        ]
+      },
+      "description": "it's great emblem and fighter build ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-17T10:23:34.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5496,
+      "user_id": 16878,
+      "username": "twelve.",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        96,
+        17,
+        68,
+        74,
+        70,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          19,
+          14,
+          5
+        ]
+      },
+      "description": "BANTAII",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-06T05:35:01.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5486,
+      "user_id": 16854,
+      "username": "r@zzz",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        17,
+        99,
+        74,
+        68,
+        73,
+        11
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          7
+        ]
+      },
+      "description": "build lapu lapu yang sangat keras ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-05T14:28:49.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5461,
+      "user_id": 16783,
+      "username": "Rasyaada",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        99,
+        17,
+        8,
+        74,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          11,
+          21
+        ]
+      },
+      "description": "Misal darah hero lawan tebal pakai (imortal), tapi kalau darahnya tipis pakai (bod) ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-04T13:45:37.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5357,
+      "user_id": 16469,
+      "username": "Arch",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        99,
+        17,
+        11,
+        14,
+        70,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "This is my personal build for Lapu Lapu in this current season. Rose Gold and Queen's Wings is a forgotten combo item. Since the Fighter emblem has now a adaptive lifesteal, Rose Gold will boost that and also Queen's Wings will boost the Spell Vamp of Festival of Blood. Moreover, you can gain 30 damage from Rose Gold than partnering the Queen's Wings with Oracle. Also, Rose Gold gives more defense than Oracle. Lastly, for maximum Spell Vamp and Adaptive Lifesteal output. Change the Hunter's Strike to Blade of Despair. Once all the items are brought, don't buy the Red Potion. Raise your gold up to 1800 and sell the Hunter's Strike and buy Blade of Despair. \n\nP.S. This is just a theory and opinion on my build. ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-01T07:19:50.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5381,
+      "user_id": 16469,
+      "username": "Arch",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        99,
+        17,
+        76,
+        70,
+        14,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Pure hybrid defense, balance spell vamp and hybrid lifesteal, stack defense, and slowing enemies.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-02T04:56:15.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5582,
+      "user_id": 17098,
+      "username": "Jimmy1988",
+      "hero_id": 37,
+      "hero_name": "Lapu-Lapu",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "items": [
+        102,
+        27,
+        93,
+        85,
+        29,
+        30
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          20
+        ]
+      },
+      "description": "Kkkof",
+      "battle_spell": "Arrival",
+      "created_at": "2026-02-09T14:27:24.000Z",
+      "likes_count": 1,
+      "dislikes_count": 8
+    }
+  ]
+}

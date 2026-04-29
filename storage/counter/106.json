@@ -16,14 +16,14 @@
         "Regen",
         "Burst"
       ],
-      "score": 9.184000015258787,
-      "tier": "D",
+      "score": 8.958999633789062,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 106,
           "name": "Phoveus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-          "score": 9.184
+          "score": 8.959
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Charge",
         "Damage"
       ],
-      "score": 8.494000434875488,
+      "score": 8.343000411987305,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 106,
           "name": "Phoveus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-          "score": 8.494
+          "score": 8.343
         }
       ]
     },
@@ -68,65 +68,65 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 7.603000164031982,
-      "tier": "A",
+      "score": 7.21999979019165,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 106,
           "name": "Phoveus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-          "score": 7.603
+          "score": 7.22
         }
       ]
     },
     {
-      "id": 108,
-      "heroName": "Aulus",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
+      "id": 23,
+      "heroName": "Gord",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 6.843999862670898,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 106,
+          "name": "Phoveus",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+          "score": 6.844
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "heroName": "Sun",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
       "role": [
         "Fighter"
       ],
       "lane": [
+        "Exp Lane",
         "Jungle"
       ],
       "speciality": [
-        "Damage",
-        "Crowd Control"
+        "Push",
+        "Damage"
       ],
-      "score": 7.10699987411499,
-      "tier": "D",
+      "score": 3.759999990463257,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 106,
           "name": "Phoveus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-          "score": 7.107
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "heroName": "Balmond",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle",
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Regen"
-      ],
-      "score": 4.289999961853027,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 106,
-          "name": "Phoveus",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-          "score": 4.29
+          "score": 3.76
         }
       ]
     },
@@ -145,39 +145,40 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 3.000999927520752,
+      "score": 2.9539999961853027,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 106,
           "name": "Phoveus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-          "score": 3.001
+          "score": 2.954
         }
       ]
     },
     {
-      "id": 23,
-      "heroName": "Gord",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
+      "id": 87,
+      "heroName": "Baxia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
       "role": [
-        "Mage"
+        "Tank"
       ],
       "lane": [
-        "Mid Lane"
+        "Jungle",
+        "Roam"
       ],
       "speciality": [
-        "Poke",
-        "Burst"
+        "Support",
+        "Damage"
       ],
-      "score": 0.5199999809265137,
+      "score": 0.20900000631809235,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 106,
           "name": "Phoveus",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-          "score": 0.52
+          "score": 0.209
         }
       ]
     }

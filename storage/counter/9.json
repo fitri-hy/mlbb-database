@@ -16,14 +16,14 @@
         "Crowd Control",
         "Support"
       ],
-      "score": 7.217999935150146,
+      "score": 7.407999992370605,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 9,
           "name": "Akai",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-          "score": 7.218
+          "score": 7.408
         }
       ]
     },
@@ -43,14 +43,14 @@
         "Charge",
         "Regen"
       ],
-      "score": 6.2220001220703125,
-      "tier": "B",
+      "score": 6.111999988555908,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 9,
           "name": "Akai",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-          "score": 6.222
+          "score": 6.112
         }
       ]
     },
@@ -68,90 +68,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 4.421000003814697,
+      "score": 4.392000198364258,
       "tier": "B",
       "counteredHeroes": [
         {
           "id": 9,
           "name": "Akai",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-          "score": 4.421
-        }
-      ]
-    },
-    {
-      "id": 123,
-      "heroName": "Cici",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Regen"
-      ],
-      "score": 3.3580000400543213,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 9,
-          "name": "Akai",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-          "score": 3.358
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "heroName": "Balmond",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle",
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Regen"
-      ],
-      "score": 3.069999933242798,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 9,
-          "name": "Akai",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-          "score": 3.07
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "heroName": "Cyclops",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Control"
-      ],
-      "score": 1.8960000276565552,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 9,
-          "name": "Akai",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-          "score": 1.896
+          "score": 4.392
         }
       ]
     },
@@ -170,39 +94,91 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 1.39900004863739,
+      "score": 3.8410000801086426,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 9,
           "name": "Akai",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-          "score": 1.399
+          "score": 3.841
         }
       ]
     },
     {
-      "id": 40,
-      "heroName": "Karrie",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+      "id": 123,
+      "heroName": "Cici",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
       "role": [
-        "Marksman"
+        "Fighter"
       ],
       "lane": [
-        "Gold Lane"
+        "Exp Lane"
       ],
       "speciality": [
-        "Finisher",
-        "Damage"
+        "Damage",
+        "Regen"
       ],
-      "score": 0.2179999947547913,
-      "tier": "A",
+      "score": 3.2070000171661377,
+      "tier": "D",
       "counteredHeroes": [
         {
           "id": 9,
           "name": "Akai",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-          "score": 0.218
+          "score": 3.207
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "heroName": "Cyclops",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Control"
+      ],
+      "score": 2.121999979019165,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 9,
+          "name": "Akai",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
+          "score": 2.122
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "heroName": "Faramis",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+      "role": [
+        "Support",
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Charge"
+      ],
+      "score": 0.28999999165534973,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 9,
+          "name": "Akai",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
+          "score": 0.29
         }
       ]
     },
@@ -221,14 +197,14 @@
         "Support",
         "Crowd Control"
       ],
-      "score": 0.2179999947547913,
+      "score": 0.2150000035762787,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 9,
           "name": "Akai",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-          "score": 0.218
+          "score": 0.215
         }
       ]
     }

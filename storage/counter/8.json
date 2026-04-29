@@ -16,14 +16,14 @@
         "Burst",
         "Finisher"
       ],
-      "score": 8.460000038146973,
+      "score": 8.791000366210938,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 8,
           "name": "Karina",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
-          "score": 8.46
+          "score": 8.791
         }
       ]
     },
@@ -41,14 +41,39 @@
         "Burst",
         "Finisher"
       ],
-      "score": 6.192999839782715,
-      "tier": "D",
+      "score": 6.255000114440918,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 8,
           "name": "Karina",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
-          "score": 6.193
+          "score": 6.255
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "heroName": "Clint",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a8345c69a4c9c611fdfce91089fe74a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 5.173999786376953,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 8,
+          "name": "Karina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+          "score": 5.174
         }
       ]
     },
@@ -60,21 +85,21 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 5.396999835968018,
+      "score": 3.767999887466431,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 8,
           "name": "Karina",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
-          "score": 5.397
+          "score": 3.768
         }
       ]
     },
@@ -93,65 +118,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 3.369999885559082,
+      "score": 2.8499999046325684,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 8,
           "name": "Karina",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
-          "score": 3.37
-        }
-      ]
-    },
-    {
-      "id": 131,
-      "heroName": "Sora",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
-      "role": [
-        "Fighter",
-        "Assassin"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Charge",
-        "Burst"
-      ],
-      "score": 2.970000028610229,
-      "tier": "SS",
-      "counteredHeroes": [
-        {
-          "id": 8,
-          "name": "Karina",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
-          "score": 2.97
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "heroName": "Clint",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a8345c69a4c9c611fdfce91089fe74a.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Burst"
-      ],
-      "score": 2.345000028610229,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 8,
-          "name": "Karina",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
-          "score": 2.345
+          "score": 2.85
         }
       ]
     },
@@ -169,14 +143,14 @@
         "Burst",
         "Damage"
       ],
-      "score": 2.263999938964844,
+      "score": 2.1040000915527344,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 8,
           "name": "Karina",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
-          "score": 2.264
+          "score": 2.104
         }
       ]
     },
@@ -196,33 +170,58 @@
         "Guard",
         "Charge"
       ],
-      "score": 0.2290000021457672,
+      "score": 1.3200000524520874,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 8,
           "name": "Karina",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
-          "score": 0.229
+          "score": 1.32
         }
       ]
     },
     {
-      "id": 48,
-      "heroName": "Diggie",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+      "id": 114,
+      "heroName": "Melissa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
       "role": [
-        "Support"
+        "Marksman"
       ],
       "lane": [
-        "Roam"
+        "Gold Lane"
       ],
       "speciality": [
-        "Guard",
-        "Poke"
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.4160000085830689,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 8,
+          "name": "Karina",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+          "score": 0.416
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "heroName": "Joy",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
       ],
       "score": 0.20900000631809235,
-      "tier": "B",
+      "tier": "D",
       "counteredHeroes": [
         {
           "id": 8,

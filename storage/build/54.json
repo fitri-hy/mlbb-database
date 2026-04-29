@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5819,
+      "user_id": 17617,
+      "username": "isaacezra1",
+      "hero_id": 54,
+      "hero_name": "Jawhead",
+      "role": "Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
+      "items": [
+        3,
+        100,
+        91,
+        13,
+        11,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          9,
+          23
+        ]
+      },
+      "description": "Burst",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-18T15:24:45.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6933,
+      "user_id": 13142,
+      "username": "Brzozaq",
+      "hero_id": 54,
+      "hero_name": "Jawhead",
+      "role": "Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
+      "items": [
+        11,
+        99,
+        17,
+        2,
+        68,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          21,
+          14,
+          7
+        ]
+      },
+      "description": "Exp cooldown vamp and cool dmg",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-08T12:33:58.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5977,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 54,
+      "hero_name": "Jawhead",
+      "role": "Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
+      "items": [
+        96,
+        17,
+        91,
+        2,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          11,
+          23
+        ]
+      },
+      "description": "This is lane exp build ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-24T15:43:11.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5573,
+      "user_id": 17087,
+      "username": "Kenyx",
+      "hero_id": 54,
+      "hero_name": "Jawhead",
+      "role": "Fighter",
+      "lane": "Roam, Exp Lane",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
+      "items": [
+        3,
+        100,
+        91,
+        13,
+        11,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          9,
+          23
+        ]
+      },
+      "description": "Blade of the Heptaseas\n\nWarrior Boots\n\nSky Piercer\n\nMalefic Roar\n\nHunter Strike\n\nBlade of Despair\n",
+      "battle_spell": "Retribution",
+      "created_at": "2026-02-09T13:17:11.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

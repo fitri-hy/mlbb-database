@@ -16,21 +16,21 @@
         "Finisher",
         "Burst"
       ],
-      "score": 6.125999927520752,
+      "score": 6.011000156402588,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 17,
           "name": "Fanny",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
-          "score": 6.126
+          "score": 6.011
         }
       ]
     },
     {
       "id": 10,
       "heroName": "Franco",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png",
       "role": [
         "Tank"
       ],
@@ -41,40 +41,14 @@
         "Initiator",
         "Control"
       ],
-      "score": 5.317999839782715,
-      "tier": "C",
+      "score": 5.059999942779541,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 17,
           "name": "Fanny",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
-          "score": 5.318
-        }
-      ]
-    },
-    {
-      "id": 88,
-      "heroName": "Masha",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-      "role": [
-        "Fighter",
-        "Tank"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Push",
-        "Damage"
-      ],
-      "score": 4.885000228881836,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 17,
-          "name": "Fanny",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
-          "score": 4.885
+          "score": 5.06
         }
       ]
     },
@@ -93,39 +67,65 @@
         "Chase",
         "Damage"
       ],
-      "score": 4.184999942779541,
+      "score": 4.8979997634887695,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 17,
           "name": "Fanny",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
-          "score": 4.185
+          "score": 4.898
         }
       ]
     },
     {
-      "id": 100,
-      "heroName": "Brody",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
       "role": [
-        "Marksman"
+        "Fighter",
+        "Tank"
       ],
       "lane": [
-        "Gold Lane"
+        "Exp Lane"
       ],
       "speciality": [
-        "Burst",
-        "Finisher"
+        "Push",
+        "Damage"
       ],
-      "score": 2.549999952316284,
+      "score": 4.257999897003174,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 17,
+          "name": "Fanny",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
+          "score": 4.258
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "heroName": "Eudora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Control",
+        "Burst"
+      ],
+      "score": 2.609999895095825,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 17,
           "name": "Fanny",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
-          "score": 2.55
+          "score": 2.61
         }
       ]
     },
@@ -143,14 +143,14 @@
         "Finisher",
         "Chase"
       ],
-      "score": 2.5160000324249268,
-      "tier": "D",
+      "score": 2.601999998092652,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 17,
           "name": "Fanny",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
-          "score": 2.516
+          "score": 2.602
         }
       ]
     },
@@ -162,8 +162,8 @@
         "Fighter"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Charge",
@@ -195,14 +195,14 @@
         "Charge",
         "Finisher"
       ],
-      "score": 0.296999990940094,
-      "tier": "C",
+      "score": 0.34599998593330383,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 17,
           "name": "Fanny",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
-          "score": 0.297
+          "score": 0.346
         }
       ]
     },
@@ -221,14 +221,39 @@
         "Control",
         "Charge"
       ],
-      "score": 0.289000004529953,
-      "tier": "B",
+      "score": 0.2870000004768372,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 17,
           "name": "Fanny",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
-          "score": 0.289
+          "score": 0.287
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "heroName": "Brody",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 0.2800000011920929,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 17,
+          "name": "Fanny",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
+          "score": 0.28
         }
       ]
     },
@@ -247,14 +272,14 @@
         "Chase",
         "Control"
       ],
-      "score": 0.24899999797344208,
+      "score": 0.25699999928474426,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 17,
           "name": "Fanny",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
-          "score": 0.249
+          "score": 0.257
         }
       ]
     }

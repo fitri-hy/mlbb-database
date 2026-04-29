@@ -3,6 +3,31 @@
   "message": "Counter pick suggestions retrieved successfully",
   "data": [
     {
+      "id": 118,
+      "heroName": "Joy",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 3.1440000534057617,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 86,
+          "name": "Lylia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+          "score": 3.144
+        }
+      ]
+    },
+    {
       "id": 102,
       "heroName": "Mathilda",
       "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
@@ -17,39 +42,14 @@
         "Initiator",
         "Guard"
       ],
-      "score": 3.438999891281128,
+      "score": 3.1050000190734863,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 86,
           "name": "Lylia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-          "score": 3.439
-        }
-      ]
-    },
-    {
-      "id": 118,
-      "heroName": "Joy",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Damage"
-      ],
-      "score": 3.253000020980835,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 86,
-          "name": "Lylia",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-          "score": 3.253
+          "score": 3.105
         }
       ]
     },
@@ -61,46 +61,21 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 2.9820001125335693,
+      "score": 2.6549999713897705,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 86,
           "name": "Lylia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-          "score": 2.982
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "heroName": "Rafaela",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Regen",
-        "Guard"
-      ],
-      "score": 1.8200000524520876,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 86,
-          "name": "Lylia",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-          "score": 1.82
+          "score": 2.655
         }
       ]
     },
@@ -118,14 +93,14 @@
         "Burst",
         "Finisher"
       ],
-      "score": 1.5399999618530271,
+      "score": 1.4199999570846558,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 86,
           "name": "Lylia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-          "score": 1.54
+          "score": 1.42
         }
       ]
     },
@@ -143,14 +118,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 1.36899995803833,
+      "score": 1.3589999675750732,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 86,
           "name": "Lylia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-          "score": 1.369
+          "score": 1.359
         }
       ]
     },
@@ -169,14 +144,165 @@
         "Chase",
         "Finisher"
       ],
-      "score": 0.75,
+      "score": 1.3200000524520874,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 86,
+          "name": "Lylia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+          "score": 1.32
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "heroName": "Chou",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Chase",
+        "Control"
+      ],
+      "score": 1.0110000371932983,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 86,
           "name": "Lylia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-          "score": 0.75
+          "score": 1.011
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "heroName": "Obsidia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.4760000109672546,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 86,
+          "name": "Lylia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+          "score": 0.476
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "heroName": "Guinevere",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Magic Damage"
+      ],
+      "score": 0.3310000002384186,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 86,
+          "name": "Lylia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+          "score": 0.331
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "heroName": "Clint",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a8345c69a4c9c611fdfce91089fe74a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 0.15800000727176666,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 86,
+          "name": "Lylia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+          "score": 0.158
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "heroName": "Rafaela",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 0.1330000013113022,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 86,
+          "name": "Lylia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+          "score": 0.133
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.1330000013113022,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 86,
+          "name": "Lylia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+          "score": 0.133
         }
       ]
     },
@@ -195,89 +321,14 @@
         "Control",
         "Charge"
       ],
-      "score": 0.4600000083446503,
-      "tier": "B",
+      "score": 0,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 86,
           "name": "Lylia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-          "score": 0.46
-        }
-      ]
-    },
-    {
-      "id": 80,
-      "heroName": "Guinevere",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Magic Damage"
-      ],
-      "score": 0.33000001311302185,
-      "tier": "S",
-      "counteredHeroes": [
-        {
-          "id": 86,
-          "name": "Lylia",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-          "score": 0.33
-        }
-      ]
-    },
-    {
-      "id": 130,
-      "heroName": "Obsidia",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Damage"
-      ],
-      "score": 0.17399999499320984,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 86,
-          "name": "Lylia",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-          "score": 0.174
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "heroName": "Irithel",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Burst"
-      ],
-      "score": 0.13699999451637268,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 86,
-          "name": "Lylia",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-          "score": 0.137
+          "score": 0
         }
       ]
     }

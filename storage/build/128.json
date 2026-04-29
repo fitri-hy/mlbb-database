@@ -1,0 +1,582 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6021,
+      "user_id": 17999,
+      "username": "BangBang.exe",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        99,
+        90,
+        73,
+        70,
+        75,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          15,
+          21
+        ]
+      },
+      "description": "Try This Build xD",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-25T07:38:44.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5379,
+      "user_id": 16603,
+      "username": "43thdgf",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        99,
+        90,
+        70,
+        66,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          11,
+          25
+        ]
+      },
+      "description": "weADSFGRETGHWS",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-02T04:39:52.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5642,
+      "user_id": 17233,
+      "username": "Qaro",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        99,
+        73,
+        90,
+        70,
+        117,
+        75
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          15,
+          21
+        ]
+      },
+      "description": ".",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-11T22:17:55.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7386,
+      "user_id": 21067,
+      "username": "Zenro",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        99,
+        73,
+        90,
+        66,
+        65,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          9,
+          3,
+          21
+        ]
+      },
+      "description": "ya\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-28T14:21:35.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6813,
+      "user_id": 19637,
+      "username": "Darrr",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        97,
+        75,
+        70,
+        65,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          5,
+          15,
+          21
+        ]
+      },
+      "description": "Selama sy pake kalea, sy selalu bertemu macam lylia, zuxin, makanya saya pakai Radiant (bisa digati tergantung hero lawan) dan untuk thunder lebih baik sy ganti dengan antique, karna saya pikir kalea ini hero yg bukan sepenuhnya TB (Tahan Badan)",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-30T07:40:11.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6535,
+      "user_id": 19007,
+      "username": "UCOK",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        99,
+        76,
+        65,
+        73,
+        117,
+        66
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          21,
+          3,
+          15
+        ]
+      },
+      "description": "TANK SUPPORT",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-16T09:27:14.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5375,
+      "user_id": 16596,
+      "username": "kimowa",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        96,
+        9,
+        11,
+        90,
+        91,
+        68
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          5,
+          13,
+          21
+        ]
+      },
+      "description": " tank/damage and lower CD",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-02T03:27:26.000Z",
+      "likes_count": 3,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 7326,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        100,
+        3,
+        68,
+        75,
+        65,
+        73
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          11,
+          21
+        ]
+      },
+      "description": "Sustained Damage / Sustain",
+      "battle_spell": null,
+      "created_at": "2026-04-26T18:57:32.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7208,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        99,
+        40,
+        117,
+        66,
+        73,
+        65
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          9,
+          21
+        ]
+      },
+      "description": "Sustain / Utility ",
+      "battle_spell": null,
+      "created_at": "2026-04-21T21:32:11.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7204,
+      "user_id": 19519,
+      "username": "TT:Frutiño_De_Uva",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        73,
+        96,
+        70,
+        90,
+        66,
+        72
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          15,
+          25
+        ]
+      },
+      "description": "I've played Kalea a lot and have already mastered her, so much so that I'm almost at Mythic with this build.\n\nPros: Ability spam, frequent ultimate availability, good anti-heal, annoying in team fights, and great team utility.\n\nCons: Low survivability (you must know how to initiate and finish with your life remaining), you're 100% dependent on your team, and low assist damage.\n\n*Hands are not included with the build.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-21T16:15:25.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7161,
+      "user_id": 20569,
+      "username": "ItsyourKei:D",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        76,
+        71,
+        73,
+        66,
+        70,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          15,
+          21
+        ]
+      },
+      "description": "itu ada yang situasional klo misalnya ada hanabi mending jual guardian helmet ganti ke chastise atau ga lade armor, soalnya guard helmet cuman nambah heal deres doang",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-20T04:49:20.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6994,
+      "user_id": 18489,
+      "username": "selen",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        99,
+        76,
+        73,
+        70,
+        90,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          15,
+          18
+        ]
+      },
+      "description": "Kalea ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-12T19:17:21.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6867,
+      "user_id": 19718,
+      "username": "Fillet",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        90,
+        100,
+        70,
+        40,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          6,
+          15,
+          25
+        ]
+      },
+      "description": "Roam",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-01T06:09:13.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6836,
+      "user_id": 17710,
+      "username": "megalogonJH",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        99,
+        76,
+        70,
+        13,
+        75,
+        117
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          6,
+          9,
+          21
+        ]
+      },
+      "description": "main aman di early, ambil skill 2 dia awal",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-31T02:18:21.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6232,
+      "user_id": 18392,
+      "username": "ẞ2011",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        99,
+        76,
+        17,
+        73,
+        71,
+        70
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          21,
+          15,
+          3
+        ]
+      },
+      "description": "This bill is good on late game.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-04T13:47:26.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6037,
+      "user_id": 18023,
+      "username": "SHETTY",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        76,
+        99,
+        70,
+        90,
+        66,
+        73
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          14,
+          23
+        ]
+      },
+      "description": "U CAN STACK 30-40",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-25T18:56:33.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6222,
+      "user_id": 18362,
+      "username": "EL-GLOWING",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        99,
+        11,
+        17,
+        2,
+        13,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          19
+        ]
+      },
+      "description": ".",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-04T02:57:33.000Z",
+      "likes_count": 2,
+      "dislikes_count": 3
+    },
+    {
+      "build_id": 6884,
+      "user_id": 19066,
+      "username": "NOOB346",
+      "hero_id": 128,
+      "hero_name": "Kalea",
+      "role": "Support, Fighter",
+      "lane": "Roam",
+      "speciality": "Control, Regen",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+      "items": [
+        97,
+        91,
+        73,
+        90,
+        74,
+        76
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          14,
+          21
+        ]
+      },
+      "description": "(*/ω＼*)(*/ω＼*))👍👍👍👍",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-04-02T11:19:25.000Z",
+      "likes_count": 0,
+      "dislikes_count": 3
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5490,
+      "user_id": 16861,
+      "username": "Redcherry",
+      "hero_id": 92,
+      "hero_name": "Carmilla",
+      "role": "Support, Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
+      "items": [
+        99,
+        76,
+        70,
+        69,
+        67,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          11,
+          21
+        ]
+      },
+      "description": "This build is for those who like to tank, have resistance, and be able to hold off everyone on the team.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-05T17:11:02.000Z",
+      "likes_count": 7,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6295,
+      "user_id": 18509,
+      "username": "vindutch",
+      "hero_id": 92,
+      "hero_name": "Carmilla",
+      "role": "Support, Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
+      "items": [
+        99,
+        76,
+        70,
+        73,
+        74,
+        47
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          11,
+          6,
+          24
+        ]
+      },
+      "description": "Carmilla tuh lebih enak pake build sustain, karena skill-skill nya itu cocok buat war jangka panjang ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-07T08:43:04.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7255,
+      "user_id": 3812,
+      "username": "Aimanj",
+      "hero_id": 92,
+      "hero_name": "Carmilla",
+      "role": "Support, Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
+      "items": [
+        65,
+        117,
+        70,
+        68,
+        69,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          11,
+          21
+        ]
+      },
+      "description": "best",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-23T14:41:28.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7123,
+      "user_id": 20493,
+      "username": "Mirza22",
+      "hero_id": 92,
+      "hero_name": "Carmilla",
+      "role": "Support, Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
+      "items": [
+        99,
+        69,
+        71,
+        70,
+        66,
+        72
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          7,
+          10,
+          21
+        ]
+      },
+      "description": "Carmilla jungle meta my own ideas",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-04-18T17:17:35.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6574,
+      "user_id": 19118,
+      "username": "c1tr0v",
+      "hero_id": 92,
+      "hero_name": "Carmilla",
+      "role": "Support, Tank",
+      "lane": "Roam",
+      "speciality": "Crowd Control, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
+      "items": [
+        97,
+        70,
+        76,
+        74,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          21,
+          14
+        ]
+      },
+      "description": "carmilla ni c1tr0v",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-18T16:22:33.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

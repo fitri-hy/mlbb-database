@@ -1,0 +1,518 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6764,
+      "user_id": 19335,
+      "username": "Otong",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        96,
+        11,
+        2,
+        17,
+        73,
+        16
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          17,
+          1,
+          10
+        ]
+      },
+      "description": "Pasti sakit\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-28T11:26:07.000Z",
+      "likes_count": 7,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7151,
+      "user_id": 20539,
+      "username": "Lexx",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        96,
+        11,
+        17,
+        13,
+        68,
+        2
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          1,
+          10,
+          23
+        ]
+      },
+      "description": "In the early game, he farms quickly and is suitable for those who play aggressively. Using this emblem has high snowball potential, as the marksman emblem has higher penetration than the assassin emblem. ",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-04-19T12:20:56.000Z",
+      "likes_count": 5,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7364,
+      "user_id": 21033,
+      "username": "Loogin",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        96,
+        11,
+        17,
+        74,
+        13,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          17
+        ]
+      },
+      "description": "This build is all about maximizing Suyou's cooldown reduction making him slippery in team fights. This build's play style is all about going in and unleashing your combo and dashing out to safety.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-28T01:22:22.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7217,
+      "user_id": 20334,
+      "username": "Phantom4626",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        96,
+        11,
+        17,
+        2,
+        16,
+        74
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "Full dmg build ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-22T12:18:59.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7016,
+      "user_id": 19501,
+      "username": "Penta.RakaaFm",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        99,
+        11,
+        17,
+        13,
+        74,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          14,
+          17
+        ]
+      },
+      "description": "Farming cepet, sakit,lumaian sustain\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-14T02:29:48.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6138,
+      "user_id": 17393,
+      "username": "poniez",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        96,
+        11,
+        17,
+        2,
+        74,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          17
+        ]
+      },
+      "description": "‎ ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-28T22:14:54.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7195,
+      "user_id": 20632,
+      "username": "Sanskar",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        99,
+        17,
+        74,
+        13,
+        14,
+        66
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          17
+        ]
+      },
+      "description": "Tank build, better when you got healer in team and enmy are burst hero\n",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-04-21T08:02:55.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7015,
+      "user_id": 19501,
+      "username": "Penta.RakaaFm",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        99,
+        11,
+        17,
+        13,
+        74,
+        14
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          1,
+          10,
+          17
+        ]
+      },
+      "description": "Farming cepet, Sakit, Lumaian sustain \n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-14T02:27:05.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6726,
+      "user_id": 13827,
+      "username": "Dev",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        99,
+        17,
+        2,
+        16,
+        73,
+        74
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          22,
+          1,
+          12
+        ]
+      },
+      "description": "Sustained DPS",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-26T13:45:28.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6706,
+      "user_id": 19451,
+      "username": "23CmTrueDAMAGE",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        97,
+        91,
+        11,
+        17,
+        2,
+        16
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "If you manage to kill someone before 4min build sky piercer if not build War Axe/Blade of heptaseas as attack item and brute Force Breastplate/Queen’s Wings and Malefic Roar if needed",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-25T21:43:20.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5934,
+      "user_id": 17908,
+      "username": "lamenty",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        99,
+        17,
+        68,
+        74,
+        14,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          23
+        ]
+      },
+      "description": "Suyou Exp, pastikan tim ada jungle tb/roam tb untuk build ini karena disarankan bukan untuk open war tetapi untuk sustain di war.\n\nitem ke 5 dan 6 itungannya item situasional jadinya bisa diganti ke winter/immortal/bod.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-23T15:00:02.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5692,
+      "user_id": 17361,
+      "username": "N1ghtT3en",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        99,
+        11,
+        17,
+        74,
+        2,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          10,
+          22
+        ]
+      },
+      "description": "Build for Suyou",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-14T07:30:17.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7272,
+      "user_id": 20767,
+      "username": "AkmalkebabSkie",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        11,
+        3,
+        99,
+        2,
+        74,
+        7
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          23
+        ]
+      },
+      "description": "Build for those of you who want to kill heroes instantly using suyou, suitable for being a gold laner, damage roamer, or exp laner",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-24T04:53:30.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6016,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        11,
+        96,
+        17,
+        68,
+        74,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          12,
+          17
+        ]
+      },
+      "description": "Suyou Exp, 1vs1 Lane",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-25T02:17:01.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6529,
+      "user_id": 18930,
+      "username": "EXPhelps",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        96,
+        11,
+        74,
+        70,
+        66,
+        13
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          18
+        ]
+      },
+      "description": "Sustain And tankiness on teamfights and solid DMG on midgame",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-16T02:12:28.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7281,
+      "user_id": 20802,
+      "username": "superfrinzzzzz",
+      "hero_id": 126,
+      "hero_name": "Suyou",
+      "role": "Assassin, Fighter",
+      "lane": "Jungle",
+      "speciality": "Chase, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+      "items": [
+        102,
+        58,
+        84,
+        85,
+        29,
+        30
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          11,
+          25,
+          3
+        ]
+      },
+      "description": "sa mga nangangarap maging pro, eto pwede yan magkaka bitaw ka jan kung wala kang bitaw magiging problema ka rin",
+      "battle_spell": "Arrival",
+      "created_at": "2026-04-24T15:15:55.000Z",
+      "likes_count": 0,
+      "dislikes_count": 6
+    }
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5951,
+      "user_id": 12697,
+      "username": "yingaming",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        42,
+        36,
+        68,
+        73,
+        69
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          12,
+          23
+        ]
+      },
+      "description": "i dont now this build good or not god",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-24T07:53:35.000Z",
+      "likes_count": 17,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6323,
+      "user_id": 18553,
+      "username": "Sedtha",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        36,
+        68,
+        92,
+        74,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          10,
+          20
+        ]
+      },
+      "description": ".",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-08T04:56:16.000Z",
+      "likes_count": 6,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5706,
+      "user_id": 17393,
+      "username": "poniez",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        50,
+        36,
+        44,
+        74,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          10,
+          17
+        ]
+      },
+      "description": "Guinevere Build",
+      "battle_spell": "Retribution",
+      "created_at": "2026-02-14T23:34:14.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6643,
+      "user_id": 19279,
+      "username": "Mitchel",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        36,
+        37,
+        51,
+        33,
+        44,
+        42
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          6,
+          12,
+          23
+        ]
+      },
+      "description": "Awal awal ambil sepatu polosan terus skip langsung ke \n1.concentreated energy\nUntuk item kedua tergantung lawan\n\nKalo lawan tipis tipis?\nAmbil genius Wand\n\nKalau lawan tebal tebal/Shield?\nAmbil divine glaive\n\nKalo lawan sustain/ngeheal Mulu?\nAmbil glowing Wand\n\nTapi kalo aku sih aku ambil divine glaive\n\n\nGenius Wand sebenarnya bisa diganti winter aja (Recommended)\n\nKenapa winter? Kalo udah late game guin initiator dalam turret harus sambil winter kalau gak mati sendiri \n\nOh iya sepatu pake magic boots\n\nSisanya ikutin aja \n\nIntinya item wajib tuh\nConcentreated energy (early)\nBlood wings (mid)\nWinter crown (late game)\n\nNapa gak ambil item defense bang?\nBuild demek bosku kita ambil blood wings supaya kita sustain sedikit ingat ya sedikit",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-22T08:20:12.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6316,
+      "user_id": 18539,
+      "username": "NxckxSven",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        94,
+        36,
+        91,
+        42,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          16,
+          1,
+          17
+        ]
+      },
+      "description": "Exp เบิร์สชุดเดียวดักป่า",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-07T23:33:36.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6151,
+      "user_id": 18227,
+      "username": "rehsaa",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        36,
+        74,
+        68,
+        92,
+        72
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          2,
+          10,
+          20
+        ]
+      },
+      "description": "core\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-01T13:16:34.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7087,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        36,
+        45,
+        92,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          2,
+          15,
+          17
+        ]
+      },
+      "description": "Queen of Fighter Athena, exp, flicker",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-16T21:17:55.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6627,
+      "user_id": 19221,
+      "username": "Zhephyr",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        69,
+        36,
+        73,
+        74,
+        43
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          12,
+          19
+        ]
+      },
+      "description": "Super buena desde early, buen daño y aguante, puedes cambiar el último ítem por algo de daño, solo usala y me agradeces, es jugar pasivo agravios, no te lances a lo loco",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-21T03:39:50.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6536,
+      "user_id": 16692,
+      "username": "ronaldoyusuf",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        36,
+        68,
+        73,
+        70,
+        92
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          15,
+          21
+        ]
+      },
+      "description": "Guin Tank",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-16T09:40:02.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6528,
+      "user_id": 18998,
+      "username": "LevaNN",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        42,
+        36,
+        44,
+        37,
+        72
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          16,
+          23
+        ]
+      },
+      "description": "GO TO EXP",
+      "battle_spell": "Execute",
+      "created_at": "2026-03-16T01:50:42.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6508,
+      "user_id": 18951,
+      "username": "PET",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        94,
+        36,
+        51,
+        74,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          10,
+          20
+        ]
+      },
+      "description": "TANK KILLER",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-15T01:55:37.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6505,
+      "user_id": 18888,
+      "username": "Toki",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        94,
+        50,
+        43,
+        44,
+        33,
+        42
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          16,
+          23
+        ]
+      },
+      "description": "Test Build",
+      "battle_spell": "Execute",
+      "created_at": "2026-03-14T17:19:50.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6404,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        70,
+        68,
+        66,
+        117,
+        92
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          9,
+          25
+        ]
+      },
+      "description": "no tyres",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-11T08:46:12.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6403,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        36,
+        94,
+        50,
+        44,
+        39,
+        1
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          13,
+          23
+        ]
+      },
+      "description": "must be the water",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-11T08:43:08.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5829,
+      "user_id": 17638,
+      "username": "kikyo_611",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        42,
+        36,
+        44,
+        50,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          14,
+          17
+        ]
+      },
+      "description": "aşkıma BEST Gui build",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-18T23:12:10.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7081,
+      "user_id": 20353,
+      "username": "Soraonly",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        47,
+        44,
+        33,
+        42,
+        72
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          23,
+          10,
+          5
+        ]
+      },
+      "description": "Guinevere Jungler\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-16T11:55:41.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7058,
+      "user_id": 19798,
+      "username": "nomeD",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        94,
+        36,
+        117,
+        66,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          7
+        ]
+      },
+      "description": "FRONT LINE ABSOLUTE DOMINATION BUT You depend on your team\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-16T00:55:06.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7052,
+      "user_id": 20282,
+      "username": "Ghassani",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        36,
+        92,
+        37,
+        44,
+        51
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          10,
+          20
+        ]
+      },
+      "description": "buat mainin cooldown, trus skill 1 nya harus kena biar lebih cepet cooldown skillnya",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-15T17:23:37.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6975,
+      "user_id": 19845,
+      "username": "Zoey99",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        100,
+        42,
+        44,
+        33,
+        37,
+        92
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          23,
+          4
+        ]
+      },
+      "description": "Brust",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-04-11T05:31:59.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6972,
+      "user_id": 20056,
+      "username": "Mezuslive",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        94,
+        36,
+        39,
+        33,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "Full damage",
+      "battle_spell": "Purify",
+      "created_at": "2026-04-11T00:53:02.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6954,
+      "user_id": 20004,
+      "username": "ValexXx",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        94,
+        36,
+        68,
+        50,
+        37,
+        74
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          14,
+          19
+        ]
+      },
+      "description": "Build that i'm usig hard to die :) imo*",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-09T20:31:38.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6676,
+      "user_id": 19391,
+      "username": "Bull",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        99,
+        70,
+        65,
+        66,
+        72,
+        117
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          15,
+          6,
+          21
+        ]
+      },
+      "description": "basic build anti control, chastise can change by radiant or guardien helmet if he don't have mm, change tough boots by rapid boots if he don't have a big control, magic mm or magic jgl ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-24T13:34:34.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6405,
+      "user_id": 16688,
+      "username": "Soveny",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        94,
+        36,
+        68,
+        74,
+        73,
+        92
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          14,
+          20
+        ]
+      },
+      "description": "noo brakes",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-11T08:49:08.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6139,
+      "user_id": 17393,
+      "username": "poniez",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        36,
+        68,
+        92,
+        74,
+        72
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          10,
+          20
+        ]
+      },
+      "description": "‎ ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-28T22:19:29.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6082,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        36,
+        68,
+        92,
+        74,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          20,
+          10,
+          1
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-27T18:24:50.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5676,
+      "user_id": 12697,
+      "username": "yingaming",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        94,
+        36,
+        44,
+        68,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          12,
+          17
+        ]
+      },
+      "description": "this build guinevers",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-13T05:43:29.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5631,
+      "user_id": 17195,
+      "username": "WolfinDz",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        100,
+        36,
+        70,
+        117,
+        74,
+        92
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          14,
+          20
+        ]
+      },
+      "description": "Sustain guin for Longwar",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-11T07:24:36.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6644,
+      "user_id": 19281,
+      "username": "guin_main",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        94,
+        36,
+        50,
+        92,
+        42,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          12,
+          20
+        ]
+      },
+      "description": "Good against squishys.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-22T09:09:21.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6374,
+      "user_id": 18692,
+      "username": "NikARK",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        36,
+        68,
+        92,
+        74,
+        43
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          10,
+          17,
+          2
+        ]
+      },
+      "description": "ตึง555",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-10T14:27:22.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6695,
+      "user_id": 13106,
+      "username": "mr.man",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        96,
+        36,
+        51,
+        73,
+        37,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          7,
+          14,
+          17
+        ]
+      },
+      "description": "build guin",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-25T13:41:49.000Z",
+      "likes_count": 0,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 7149,
+      "user_id": 20537,
+      "username": "Edgar",
+      "hero_id": 80,
+      "hero_name": "Guinevere",
+      "role": "Fighter",
+      "lane": "Exp Lane",
+      "speciality": "Burst, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+      "items": [
+        99,
+        43,
+        68,
+        74,
+        73,
+        75
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          5,
+          14,
+          21
+        ]
+      },
+      "description": "Guin Sustain ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-19T11:51:38.000Z",
+      "likes_count": 0,
+      "dislikes_count": 3
+    }
+  ]
+}

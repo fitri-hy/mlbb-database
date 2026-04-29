@@ -16,14 +16,14 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 5.526000022888184,
+      "score": 5.485000133514404,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 103,
           "name": "Paquito",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-          "score": 5.526
+          "score": 5.485
         }
       ]
     },
@@ -41,14 +41,14 @@
         "Regen",
         "Damage"
       ],
-      "score": 4.955999851226807,
+      "score": 4.855000019073486,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 103,
           "name": "Paquito",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-          "score": 4.956
+          "score": 4.855
         }
       ]
     },
@@ -67,14 +67,14 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 4.287000179290772,
+      "score": 4.258999824523926,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 103,
           "name": "Paquito",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-          "score": 4.287
+          "score": 4.259
         }
       ]
     },
@@ -92,40 +92,40 @@
         "Damage",
         "Control"
       ],
-      "score": 2.180000066757202,
+      "score": 2.130000114440918,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 103,
           "name": "Paquito",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-          "score": 2.18
+          "score": 2.13
         }
       ]
     },
     {
-      "id": 32,
-      "heroName": "Johnson",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
+      "id": 54,
+      "heroName": "Jawhead",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
       "role": [
-        "Tank",
-        "Support"
+        "Fighter"
       ],
       "lane": [
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
-        "Support",
-        "Crowd Control"
+        "Charge",
+        "Burst"
       ],
-      "score": 2.0799999237060547,
+      "score": 2.0899999141693115,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 103,
           "name": "Paquito",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-          "score": 2.08
+          "score": 2.09
         }
       ]
     },
@@ -143,14 +143,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 2.009000062942505,
-      "tier": "D",
+      "score": 1.9160000085830688,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 103,
           "name": "Paquito",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-          "score": 2.009
+          "score": 1.916
         }
       ]
     },
@@ -168,14 +168,14 @@
         "Control",
         "Burst"
       ],
-      "score": 0.9700000286102296,
+      "score": 1,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 103,
           "name": "Paquito",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-          "score": 0.97
+          "score": 1
         }
       ]
     },
@@ -193,40 +193,14 @@
         "Burst",
         "Poke"
       ],
-      "score": 0.4059999883174896,
-      "tier": "D",
+      "score": 0.5960000157356262,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 103,
           "name": "Paquito",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-          "score": 0.406
-        }
-      ]
-    },
-    {
-      "id": 117,
-      "heroName": "Fredrinn",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-      "role": [
-        "Fighter",
-        "Tank"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Chase"
-      ],
-      "score": 0.17299999296665192,
-      "tier": "A",
-      "counteredHeroes": [
-        {
-          "id": 103,
-          "name": "Paquito",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-          "score": 0.173
+          "score": 0.596
         }
       ]
     },
@@ -245,14 +219,40 @@
         "Burst",
         "Crowd Control"
       ],
-      "score": 0.12999999523162842,
-      "tier": "D",
+      "score": 0.19699999690055847,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 103,
           "name": "Paquito",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-          "score": 0.13
+          "score": 0.197
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "heroName": "Khaleed",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Roam",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 0.13199999928474426,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 103,
+          "name": "Paquito",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
+          "score": 0.132
         }
       ]
     }

@@ -1,0 +1,358 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5434,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 73,
+      "hero_name": "Harith",
+      "role": "Mage",
+      "lane": "Gold Lane, Jungle",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "items": [
+        96,
+        50,
+        39,
+        36,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          14,
+          17
+        ]
+      },
+      "description": "Harith Goldlane, spellnya menyesuaikan musuhnya",
+      "battle_spell": null,
+      "created_at": "2026-02-04T04:10:04.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7307,
+      "user_id": 18960,
+      "username": "skibidi_skillz",
+      "hero_id": 73,
+      "hero_name": "Harith",
+      "role": "Mage",
+      "lane": "Gold Lane, Jungle",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "items": [
+        96,
+        50,
+        39,
+        33,
+        36,
+        37
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          9,
+          23
+        ]
+      },
+      "description": "sustain build ",
+      "battle_spell": "Purify",
+      "created_at": "2026-04-26T06:02:06.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7266,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 73,
+      "hero_name": "Harith",
+      "role": "Mage",
+      "lane": "Gold Lane, Jungle",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "items": [
+        94,
+        38,
+        50,
+        44,
+        47,
+        73
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          11,
+          17
+        ]
+      },
+      "description": "Burst",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-24T00:34:43.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5579,
+      "user_id": 17087,
+      "username": "Kenyx",
+      "hero_id": 73,
+      "hero_name": "Harith",
+      "role": "Mage",
+      "lane": "Gold Lane, Jungle",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "items": [
+        96,
+        50,
+        39,
+        44,
+        36,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          13,
+          23
+        ]
+      },
+      "description": "Magic Shoes\n\nStarlium Scythe\n\nFeather of Heaven\n\nHoly Crystal\n\nConcentrated Energy\n\nDivine Glaive\n\n",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-02-09T13:28:56.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7350,
+      "user_id": 18960,
+      "username": "skibidi_skillz",
+      "hero_id": 73,
+      "hero_name": "Harith",
+      "role": "Mage",
+      "lane": "Gold Lane, Jungle",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "items": [
+        96,
+        50,
+        39,
+        37,
+        44,
+        36
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          9,
+          5,
+          23
+        ]
+      },
+      "description": "V2",
+      "battle_spell": "Purify",
+      "created_at": "2026-04-27T13:33:46.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7121,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 73,
+      "hero_name": "Harith",
+      "role": "Mage",
+      "lane": "Gold Lane, Jungle",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "items": [
+        96,
+        50,
+        39,
+        44,
+        36,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          17
+        ]
+      },
+      "description": "Sustained Damage ",
+      "battle_spell": null,
+      "created_at": "2026-04-18T12:44:38.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6886,
+      "user_id": 19770,
+      "username": "ferryferrariel",
+      "hero_id": 73,
+      "hero_name": "Harith",
+      "role": "Mage",
+      "lane": "Gold Lane, Jungle",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "items": [
+        96,
+        43,
+        36,
+        38,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          13,
+          17
+        ]
+      },
+      "description": "Build untuk kelincahan, pengurangan cooldown, dan masih berdamage",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-05T03:43:10.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6608,
+      "user_id": 19177,
+      "username": "Keroronom",
+      "hero_id": 73,
+      "hero_name": "Harith",
+      "role": "Mage",
+      "lane": "Gold Lane, Jungle",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "items": [
+        96,
+        50,
+        39,
+        44,
+        36,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          13,
+          17,
+          5
+        ]
+      },
+      "description": "Focus to get 40% CDR early for Dash & Bang tactic.",
+      "battle_spell": "Purify",
+      "created_at": "2026-03-20T04:14:08.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6353,
+      "user_id": 18530,
+      "username": "Kise",
+      "hero_id": 73,
+      "hero_name": "Harith",
+      "role": "Mage",
+      "lane": "Gold Lane, Jungle",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "items": [
+        96,
+        50,
+        39,
+        37,
+        44,
+        36
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          14,
+          17
+        ]
+      },
+      "description": "The Best Build and Emblem for Harith 100% Effective for battle ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-09T16:09:49.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6085,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 73,
+      "hero_name": "Harith",
+      "role": "Mage",
+      "lane": "Gold Lane, Jungle",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "items": [
+        96,
+        36,
+        39,
+        33,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          17,
+          13,
+          5
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Purify",
+      "created_at": "2026-02-27T18:30:17.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6925,
+      "user_id": 18960,
+      "username": "skibidi_skillz",
+      "hero_id": 73,
+      "hero_name": "Harith",
+      "role": "Mage",
+      "lane": "Gold Lane, Jungle",
+      "speciality": "Chase, Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "items": [
+        96,
+        50,
+        33,
+        37,
+        44,
+        51
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          9,
+          23
+        ]
+      },
+      "description": "burst",
+      "battle_spell": "Purify",
+      "created_at": "2026-04-07T16:49:44.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

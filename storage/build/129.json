@@ -1,0 +1,614 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5633,
+      "user_id": 7866,
+      "username": "T3E_Shogun",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        94,
+        43,
+        44,
+        37,
+        33,
+        51
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          17
+        ]
+      },
+      "description": "Ez Savage, late game monster, Flicker is also optional",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-02-11T12:23:53.000Z",
+      "likes_count": 9,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7005,
+      "user_id": 20180,
+      "username": "Feby",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        94,
+        91,
+        47,
+        44,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          17
+        ]
+      },
+      "description": "Bagus\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-13T15:59:39.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7211,
+      "user_id": 20671,
+      "username": "neneksalto",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        96,
+        43,
+        42,
+        51,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          17
+        ]
+      },
+      "description": "killer",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-22T03:42:21.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7148,
+      "user_id": 20535,
+      "username": "AlexTZY",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        47,
+        94,
+        43,
+        37,
+        51,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          9,
+          17
+        ]
+      },
+      "description": "Iwan",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-19T11:25:16.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7051,
+      "user_id": 20281,
+      "username": "Gnarlybeach",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        96,
+        36,
+        47,
+        44,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          14,
+          17
+        ]
+      },
+      "description": "This build, titled \"The Empress’s Decree,\" is a high-computational configuration designed to transform Zetian into a relentless siege engine. It abandons the traditional \"glass cannon\" archetype in favor of a Battle-Mage Hybrid that thrives on sustained aggression and overwhelming magical scaling.\n\n",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-04-15T15:18:19.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6039,
+      "user_id": 18032,
+      "username": "AdreidesVelour",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        96,
+        38,
+        90,
+        91,
+        43,
+        92
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          9,
+          17
+        ]
+      },
+      "description": "Nice to poke",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-26T01:04:18.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5988,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        96,
+        91,
+        43,
+        44,
+        47,
+        51
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          8,
+          12,
+          23
+        ]
+      },
+      "description": "Life steal rate : %10 \nDamage rate : %40 \nDefense rate : %10",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-02-24T16:05:23.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7352,
+      "user_id": 20999,
+      "username": "Zetifans",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        94,
+        35,
+        43,
+        47,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          9,
+          17,
+          5
+        ]
+      },
+      "description": "Damage early,support late game",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-27T15:06:34.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7247,
+      "user_id": 2150,
+      "username": "Lagoonah",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        94,
+        43,
+        47,
+        36,
+        91,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          9,
+          23
+        ]
+      },
+      "description": "High burn equipment",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-23T00:51:52.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7234,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        96,
+        42,
+        35,
+        45,
+        36,
+        43
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          17,
+          14,
+          5
+        ]
+      },
+      "description": "Divine Empress zetian, this build has sustain while still retaining damage, only downside may be having anti heal as last item but you cannot change item order unless absolutely necessary, trust me it's worth it for best progression rate",
+      "battle_spell": "Sprint",
+      "created_at": "2026-04-22T22:33:39.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6815,
+      "user_id": 19637,
+      "username": "Darrr",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        96,
+        43,
+        47,
+        51,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          13,
+          17
+        ]
+      },
+      "description": "Damage and Teamfight OK",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-30T07:47:57.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6759,
+      "user_id": 7563,
+      "username": "MAX_CORE",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        94,
+        90,
+        47,
+        43,
+        45,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          14,
+          17,
+          5
+        ]
+      },
+      "description": "best helper+sustain+burst",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-28T04:44:38.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6610,
+      "user_id": 17115,
+      "username": "Redemption",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        94,
+        43,
+        47,
+        37,
+        44,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          17
+        ]
+      },
+      "description": "Zetian Build",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-20T08:10:43.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6424,
+      "user_id": 18773,
+      "username": "Ryanmtxp",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        42,
+        94,
+        38,
+        44,
+        51,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          13,
+          17
+        ]
+      },
+      "description": "Thais build is good to get kill from enemies with low hp and she with Thais build is MONSTER in mid or late game after you buy Holy Cristal",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-12T05:06:34.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6227,
+      "user_id": 18373,
+      "username": "MR.Strategis",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        96,
+        38,
+        36,
+        47,
+        37,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          17,
+          1,
+          13
+        ]
+      },
+      "description": "Build penet tinggi (mampu menembus musuh berdefend tinggi)\ncoldown 45% max dengan standar item enchanted talisman/item buku (spam skil 1 dan dua buat maksimalin spel vamp dan staknya)\n\nemblem bagian 2 (bargain hunter) bisa di ganti dengan spel vamp/ festival blood/weapon master \n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-04T08:52:09.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6114,
+      "user_id": 18132,
+      "username": "ranns",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        99,
+        43,
+        33,
+        42,
+        47,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          17,
+          4,
+          9
+        ]
+      },
+      "description": "racikan 2026",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-27T22:16:11.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5879,
+      "user_id": 17766,
+      "username": "ken3333",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        38,
+        47,
+        37,
+        44,
+        43,
+        96
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          14,
+          24
+        ]
+      },
+      "description": "tes",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-21T04:36:07.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5437,
+      "user_id": 10009,
+      "username": "M0n4rch_",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        43,
+        96,
+        35,
+        90,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          5,
+          14,
+          17
+        ]
+      },
+      "description": "Zetian Ulti NoCooldown",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-04T04:13:46.000Z",
+      "likes_count": 2,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 7287,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 129,
+      "hero_name": "Zetian",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+      "items": [
+        94,
+        38,
+        35,
+        47,
+        43,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          23
+        ]
+      },
+      "description": "AoE Sustained Damage",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-04-24T20:45:03.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

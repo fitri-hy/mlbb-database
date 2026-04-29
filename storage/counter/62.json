@@ -17,14 +17,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 4.164000034332275,
-      "tier": "C",
+      "score": 4.176000118255615,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 62,
           "name": "Kaja",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 4.164
+          "score": 4.176
         }
       ]
     },
@@ -42,14 +42,39 @@
         "Damage",
         "Control"
       ],
-      "score": 3.7100000381469727,
+      "score": 3.328000068664551,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 62,
           "name": "Kaja",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 3.71
+          "score": 3.328
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "heroName": "Odette",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Poke"
+      ],
+      "score": 3.2679998874664307,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 62,
+          "name": "Kaja",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
+          "score": 3.268
         }
       ]
     },
@@ -68,39 +93,14 @@
         "Support",
         "Crowd Control"
       ],
-      "score": 2.691999912261963,
+      "score": 2.5789999961853027,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 62,
           "name": "Kaja",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 2.692
-        }
-      ]
-    },
-    {
-      "id": 46,
-      "heroName": "Odette",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Poke"
-      ],
-      "score": 2.181999921798706,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 62,
-          "name": "Kaja",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 2.182
+          "score": 2.579
         }
       ]
     },
@@ -118,14 +118,14 @@
         "Burst",
         "Finisher"
       ],
-      "score": 2.039999961853028,
+      "score": 2,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 62,
           "name": "Kaja",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 2.04
+          "score": 2
         }
       ]
     },
@@ -143,14 +143,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 1.5180000066757202,
+      "score": 1.3519999980926514,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 62,
           "name": "Kaja",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 1.518
+          "score": 1.352
         }
       ]
     },
@@ -169,39 +169,39 @@
         "Push",
         "Burst"
       ],
-      "score": 1.1449999809265137,
+      "score": 1.1549999713897705,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 62,
           "name": "Kaja",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 1.145
+          "score": 1.155
         }
       ]
     },
     {
-      "id": 29,
-      "heroName": "Ruby",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
+      "id": 69,
+      "heroName": "Hanzo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
       "role": [
-        "Fighter"
+        "Assassin"
       ],
       "lane": [
-        "Exp Lane"
+        "Jungle"
       ],
       "speciality": [
-        "Crowd Control",
-        "Regen"
+        "Poke",
+        "Burst"
       ],
-      "score": 0.975000023841858,
-      "tier": "D",
+      "score": 0.6259999871253967,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 62,
           "name": "Kaja",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 0.975
+          "score": 0.626
         }
       ]
     },
@@ -219,39 +219,39 @@
         "Damage",
         "Burst"
       ],
-      "score": 0.5379999876022339,
+      "score": 0.6060000061988831,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 62,
           "name": "Kaja",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 0.538
+          "score": 0.606
         }
       ]
     },
     {
-      "id": 34,
-      "heroName": "Estes",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "id": 50,
+      "heroName": "Zhask",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
       "role": [
-        "Support"
+        "Mage"
       ],
       "lane": [
-        "Roam"
+        "Mid Lane"
       ],
       "speciality": [
-        "Regen",
-        "Guard"
+        "Chase",
+        "Damage"
       ],
-      "score": 0.4930000007152557,
-      "tier": "S",
+      "score": 0.34200000762939453,
+      "tier": "D",
       "counteredHeroes": [
         {
           "id": 62,
           "name": "Kaja",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 0.493
+          "score": 0.342
         }
       ]
     },
@@ -270,14 +270,14 @@
         "Push",
         "Damage"
       ],
-      "score": 0.39399999380111694,
+      "score": 0.3050000071525574,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 62,
           "name": "Kaja",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 0.394
+          "score": 0.305
         }
       ]
     },
@@ -295,39 +295,64 @@
         "Regen",
         "Guard"
       ],
-      "score": 0.22699999809265137,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 62,
-          "name": "Kaja",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 0.227
-        }
-      ]
-    },
-    {
-      "id": 69,
-      "heroName": "Hanzo",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Poke",
-        "Burst"
-      ],
-      "score": 0.17000000178813934,
+      "score": 0.22200000286102292,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 62,
           "name": "Kaja",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-          "score": 0.17
+          "score": 0.222
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "heroName": "Ruby",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Regen"
+      ],
+      "score": 0.1720000058412552,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 62,
+          "name": "Kaja",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
+          "score": 0.172
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 0.1430000066757202,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 62,
+          "name": "Kaja",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
+          "score": 0.143
         }
       ]
     }

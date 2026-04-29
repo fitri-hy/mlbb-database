@@ -16,39 +16,14 @@
         "Guard",
         "Support"
       ],
-      "score": 8.647000312805176,
-      "tier": "C",
+      "score": 8.734000205993652,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 4,
           "name": "Alice",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
-          "score": 8.647
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "heroName": "Estes",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Regen",
-        "Guard"
-      ],
-      "score": 8.008999824523926,
-      "tier": "S",
-      "counteredHeroes": [
-        {
-          "id": 4,
-          "name": "Alice",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
-          "score": 8.009
+          "score": 8.734
         }
       ]
     },
@@ -66,39 +41,39 @@
         "Poke",
         "Guard"
       ],
-      "score": 7.535999774932861,
-      "tier": "B",
+      "score": 7.604000091552734,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 4,
           "name": "Alice",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
-          "score": 7.536
+          "score": 7.604
         }
       ]
     },
     {
-      "id": 123,
-      "heroName": "Cici",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
       "role": [
-        "Fighter"
+        "Support"
       ],
       "lane": [
-        "Exp Lane"
+        "Roam"
       ],
       "speciality": [
-        "Damage",
-        "Regen"
+        "Regen",
+        "Guard"
       ],
-      "score": 7.193999767303467,
-      "tier": "D",
+      "score": 7.532000064849853,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 4,
           "name": "Alice",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
-          "score": 7.194
+          "score": 7.532
         }
       ]
     },
@@ -116,39 +91,64 @@
         "Finisher",
         "Damage"
       ],
-      "score": 3.5290000438690186,
+      "score": 7.03000020980835,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 4,
           "name": "Alice",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
-          "score": 3.529
+          "score": 7.03
         }
       ]
     },
     {
-      "id": 48,
-      "heroName": "Diggie",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+      "id": 123,
+      "heroName": "Cici",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
       "role": [
-        "Support"
+        "Fighter"
       ],
       "lane": [
-        "Roam"
+        "Exp Lane"
       ],
       "speciality": [
-        "Guard",
-        "Poke"
+        "Damage",
+        "Regen"
       ],
-      "score": 3.380000114440918,
-      "tier": "B",
+      "score": 6.928999900817871,
+      "tier": "D",
       "counteredHeroes": [
         {
           "id": 4,
           "name": "Alice",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
-          "score": 3.38
+          "score": 6.929
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.33500000834465027,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 4,
+          "name": "Alice",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+          "score": 0.335
         }
       ]
     },
@@ -166,14 +166,14 @@
         "Damage",
         "Guard"
       ],
-      "score": 0.3030000030994416,
+      "score": 0.2800000011920929,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 4,
           "name": "Alice",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
-          "score": 0.303
+          "score": 0.28
         }
       ]
     }

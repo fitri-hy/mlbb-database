@@ -17,14 +17,14 @@
         "Push",
         "Damage"
       ],
-      "score": 6.8480000495910645,
-      "tier": "B",
+      "score": 6.686999797821045,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 53,
           "name": "Lesley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
-          "score": 6.848
+          "score": 6.687
         }
       ]
     },
@@ -36,21 +36,46 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 6.473999977111816,
+      "score": 6.302000045776367,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 53,
           "name": "Lesley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
-          "score": 6.474
+          "score": 6.302
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 5.539000034332275,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 53,
+          "name": "Lesley",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+          "score": 5.539
         }
       ]
     },
@@ -69,39 +94,14 @@
         "Push",
         "Burst"
       ],
-      "score": 5.741000175476074,
+      "score": 5.431000232696533,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 53,
           "name": "Lesley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
-          "score": 5.741
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "heroName": "Estes",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Regen",
-        "Guard"
-      ],
-      "score": 5.571000099182129,
-      "tier": "S",
-      "counteredHeroes": [
-        {
-          "id": 53,
-          "name": "Lesley",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
-          "score": 5.571
+          "score": 5.431
         }
       ]
     },
@@ -121,14 +121,14 @@
         "Charge",
         "Regen"
       ],
-      "score": 2.4800000190734863,
-      "tier": "B",
+      "score": 2.299999952316284,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 53,
           "name": "Lesley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
-          "score": 2.48
+          "score": 2.3
         }
       ]
     },
@@ -145,14 +145,14 @@
       "speciality": [
         "Crowd Control"
       ],
-      "score": 1.0800000429153442,
+      "score": 1.024999976158142,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 53,
           "name": "Lesley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
-          "score": 1.08
+          "score": 1.025
         }
       ]
     },
@@ -170,14 +170,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.3779999911785126,
-      "tier": "D",
+      "score": 0.3840000033378601,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 53,
           "name": "Lesley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
-          "score": 0.378
+          "score": 0.384
         }
       ]
     },
@@ -195,14 +195,40 @@
       "speciality": [
         "Crowd Control"
       ],
-      "score": 0.367000013589859,
-      "tier": "C",
+      "score": 0.20399999618530276,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 53,
           "name": "Lesley",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
-          "score": 0.367
+          "score": 0.204
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "heroName": "Mathilda",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+      "role": [
+        "Support",
+        "Assassin"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Guard"
+      ],
+      "score": 0.1459999978542328,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 53,
+          "name": "Lesley",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+          "score": 0.146
         }
       ]
     }

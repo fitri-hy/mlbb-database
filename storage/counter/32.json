@@ -10,21 +10,21 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 7.209000110626221,
+      "score": 6.9079999923706055,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 32,
           "name": "Johnson",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
-          "score": 7.209
+          "score": 6.908
         }
       ]
     },
@@ -44,14 +44,39 @@
         "Charge",
         "Regen"
       ],
-      "score": 5.953000068664551,
-      "tier": "B",
+      "score": 6.0320000648498535,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 32,
           "name": "Johnson",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
-          "score": 5.953
+          "score": 6.032
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "heroName": "Belerick",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Regen"
+      ],
+      "score": 4.642000198364258,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 32,
+          "name": "Johnson",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
+          "score": 4.642
         }
       ]
     },
@@ -70,14 +95,14 @@
         "Charge",
         "Damage"
       ],
-      "score": 3.609999895095825,
+      "score": 3.190000057220459,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 32,
           "name": "Johnson",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
-          "score": 3.61
+          "score": 3.19
         }
       ]
     },
@@ -95,65 +120,14 @@
         "Push",
         "Damage"
       ],
-      "score": 2.9200000762939453,
+      "score": 3.088000059127808,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 32,
           "name": "Johnson",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
-          "score": 2.92
-        }
-      ]
-    },
-    {
-      "id": 75,
-      "heroName": "Kadita",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
-      "role": [
-        "Mage",
-        "Assassin"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Charge"
-      ],
-      "score": 2.880000114440918,
-      "tier": "B",
-      "counteredHeroes": [
-        {
-          "id": 32,
-          "name": "Johnson",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
-          "score": 2.88
-        }
-      ]
-    },
-    {
-      "id": 70,
-      "heroName": "Belerick",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Regen"
-      ],
-      "score": 2.2170000076293945,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 32,
-          "name": "Johnson",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
-          "score": 2.217
+          "score": 3.088
         }
       ]
     },
@@ -172,7 +146,7 @@
         "Initiator"
       ],
       "score": 1.89300000667572,
-      "tier": "D",
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 32,
@@ -196,64 +170,14 @@
         "Crowd Control",
         "Support"
       ],
-      "score": 1.2899999618530271,
+      "score": 1.371999979019165,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 32,
           "name": "Johnson",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
-          "score": 1.29
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "heroName": "Minotaur",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
-      "role": [
-        "Tank",
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control"
-      ],
-      "score": 0.656000018119812,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 32,
-          "name": "Johnson",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
-          "score": 0.656
-        }
-      ]
-    },
-    {
-      "id": 107,
-      "heroName": "Natan",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Magic Damage"
-      ],
-      "score": 0.2160000056028366,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 32,
-          "name": "Johnson",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
-          "score": 0.216
+          "score": 1.372
         }
       ]
     },
@@ -273,14 +197,64 @@
         "Guard",
         "Charge"
       ],
-      "score": 0.18700000643730164,
+      "score": 0.27399998903274536,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 32,
           "name": "Johnson",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
-          "score": 0.187
+          "score": 0.274
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "heroName": "Natan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Magic Damage"
+      ],
+      "score": 0.20900000631809235,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 32,
+          "name": "Johnson",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
+          "score": 0.209
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "heroName": "Minotaur",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
+      "role": [
+        "Tank",
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control"
+      ],
+      "score": 0.20000000298023224,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 32,
+          "name": "Johnson",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
+          "score": 0.2
         }
       ]
     }

@@ -17,14 +17,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 7.619999885559082,
-      "tier": "C",
+      "score": 7.65500020980835,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 65,
           "name": "Claude",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
-          "score": 7.62
+          "score": 7.655
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Chase",
         "Magic Damage"
       ],
-      "score": 5.085000038146973,
-      "tier": "C",
+      "score": 5.02899980545044,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 65,
           "name": "Claude",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
-          "score": 5.085
+          "score": 5.029
         }
       ]
     },
@@ -69,14 +69,14 @@
         "Control",
         "Burst"
       ],
-      "score": 4.059000015258789,
+      "score": 4.60699987411499,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 65,
           "name": "Claude",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
-          "score": 4.059
+          "score": 4.607
         }
       ]
     },
@@ -94,14 +94,14 @@
         "Damage",
         "Control"
       ],
-      "score": 3.8980000019073486,
+      "score": 4.071000099182129,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 65,
           "name": "Claude",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
-          "score": 3.898
+          "score": 4.071
         }
       ]
     },
@@ -120,14 +120,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 3.2960000038146973,
-      "tier": "D",
+      "score": 2.539999961853028,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 65,
           "name": "Claude",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
-          "score": 3.296
+          "score": 2.54
         }
       ]
     },
@@ -146,14 +146,14 @@
         "Support",
         "Damage"
       ],
-      "score": 1.7009999752044678,
+      "score": 1.7050000429153442,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 65,
           "name": "Claude",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
-          "score": 1.701
+          "score": 1.705
         }
       ]
     },
@@ -171,47 +171,47 @@
         "Finisher",
         "Burst"
       ],
-      "score": 1.0529999732971191,
+      "score": 0.6819999814033508,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 65,
           "name": "Claude",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
-          "score": 1.053
+          "score": 0.682
         }
       ]
     },
     {
-      "id": 94,
-      "heroName": "Popol and Kupa",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+      "id": 120,
+      "heroName": "Arlott",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
       "role": [
-        "Marksman"
+        "Fighter",
+        "Assassin"
       ],
       "lane": [
-        "Jungle",
-        "Gold Lane"
+        "Exp Lane"
       ],
       "speciality": [
-        "Push",
+        "Charge",
         "Burst"
       ],
-      "score": 0.23600000143051147,
+      "score": 0.2549999952316284,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 65,
           "name": "Claude",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
-          "score": 0.236
+          "score": 0.255
         }
       ]
     },
     {
-      "id": 40,
-      "heroName": "Karrie",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+      "id": 107,
+      "heroName": "Natan",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
       "role": [
         "Marksman"
       ],
@@ -219,17 +219,43 @@
         "Gold Lane"
       ],
       "speciality": [
-        "Finisher",
-        "Damage"
+        "Burst",
+        "Magic Damage"
       ],
-      "score": 0.22300000488758087,
+      "score": 0.24799999594688416,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 65,
+          "name": "Claude",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
+          "score": 0.248
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "heroName": "Kaja",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
+      "role": [
+        "Support",
+        "Fighter"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Control",
+        "Charge"
+      ],
+      "score": 0.2199999988079071,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 65,
           "name": "Claude",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
-          "score": 0.223
+          "score": 0.22
         }
       ]
     }

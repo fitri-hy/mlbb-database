@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5987,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 96,
+      "hero_name": "Luo Yi",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Support, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+      "items": [
+        94,
+        91,
+        43,
+        47,
+        36,
+        51
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          15,
+          23
+        ]
+      },
+      "description": "Life steal rate : %20 \nDamage rate : %50\nDefense rate : %10\n",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-02-24T16:03:33.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6371,
+      "user_id": 18687,
+      "username": "louyi",
+      "hero_id": 96,
+      "hero_name": "Luo Yi",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Support, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+      "items": [
+        94,
+        38,
+        43,
+        42,
+        44,
+        47
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "For people with thin blood types",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-10T13:42:12.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6327,
+      "user_id": 16692,
+      "username": "ronaldoyusuf",
+      "hero_id": 96,
+      "hero_name": "Luo Yi",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Support, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+      "items": [
+        96,
+        38,
+        43,
+        44,
+        37,
+        92
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          16,
+          23
+        ]
+      },
+      "description": "Luo Yi Burst ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-08T09:21:55.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5686,
+      "user_id": 8298,
+      "username": "Rayanee★",
+      "hero_id": 96,
+      "hero_name": "Luo Yi",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Support, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+      "items": [
+        91,
+        94,
+        47,
+        42,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "100% de dano da \"a Lou Yi!\" pra pegar seu mestre da ranqueada.!💋",
+      "battle_spell": "Flameshot",
+      "created_at": "2026-02-13T19:37:56.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5426,
+      "user_id": 16700,
+      "username": "SSS-Ikir",
+      "hero_id": 96,
+      "hero_name": "Luo Yi",
+      "role": "Mage",
+      "lane": "Mid Lane",
+      "speciality": "Support, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+      "items": [
+        95,
+        35,
+        45,
+        47,
+        37,
+        92
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          5,
+          9,
+          23
+        ]
+      },
+      "description": "Luo Yi...",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-03T17:26:14.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

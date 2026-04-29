@@ -17,14 +17,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 6.675000190734863,
-      "tier": "D",
+      "score": 6.968999862670898,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 74,
           "name": "Minsitthar",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
-          "score": 6.675
+          "score": 6.969
         }
       ]
     },
@@ -43,14 +43,14 @@
         "Support",
         "Damage"
       ],
-      "score": 5.547999858856201,
+      "score": 5.577000141143799,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 74,
           "name": "Minsitthar",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
-          "score": 5.548
+          "score": 5.577
         }
       ]
     },
@@ -68,14 +68,14 @@
         "Charge",
         "Burst"
       ],
-      "score": 5.150000095367432,
+      "score": 5.260000228881836,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 74,
           "name": "Minsitthar",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
-          "score": 5.15
+          "score": 5.26
         }
       ]
     },
@@ -93,14 +93,14 @@
         "Regen",
         "Burst"
       ],
-      "score": 4.556000232696533,
-      "tier": "D",
+      "score": 4.493000030517578,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 74,
           "name": "Minsitthar",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
-          "score": 4.556
+          "score": 4.493
         }
       ]
     },
@@ -118,14 +118,41 @@
         "Finisher",
         "Magic Damage"
       ],
-      "score": 2.390000104904175,
+      "score": 2.3499999046325684,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 74,
           "name": "Minsitthar",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
-          "score": 2.39
+          "score": 2.35
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "heroName": "Yin",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Control"
+      ],
+      "score": 1.246000051498413,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 74,
+          "name": "Minsitthar",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+          "score": 1.246
         }
       ]
     },
@@ -143,40 +170,14 @@
         "Regen",
         "Damage"
       ],
-      "score": 1.4359999895095823,
+      "score": 0.4000000059604645,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 74,
           "name": "Minsitthar",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
-          "score": 1.436
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "heroName": "Zilong",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
-      "role": [
-        "Fighter",
-        "Assassin"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Chase",
-        "Damage"
-      ],
-      "score": 0.17399999499320984,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 74,
-          "name": "Minsitthar",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
-          "score": 0.174
+          "score": 0.4
         }
       ]
     },
@@ -194,14 +195,14 @@
         "Crowd Control",
         "Regen"
       ],
-      "score": 0.15199999511241913,
-      "tier": "D",
+      "score": 0.15700000524520874,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 74,
           "name": "Minsitthar",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
-          "score": 0.152
+          "score": 0.157
         }
       ]
     }

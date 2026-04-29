@@ -1,0 +1,422 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6467,
+      "user_id": 17087,
+      "username": "Kenyx",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        96,
+        40,
+        38,
+        90,
+        44,
+        73
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          13,
+          25
+        ]
+      },
+      "description": "Heal ",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-03-13T09:30:03.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6210,
+      "user_id": 18287,
+      "username": "senseirice",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        97,
+        40,
+        90,
+        71,
+        117,
+        92
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          11,
+          20,
+          7
+        ]
+      },
+      "description": "i need healing, roam, sprint",
+      "battle_spell": "Sprint",
+      "created_at": "2026-03-03T18:47:51.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6364,
+      "user_id": 18670,
+      "username": "KoonKoon",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        95,
+        40,
+        38,
+        43,
+        73,
+        33
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          9,
+          25
+        ]
+      },
+      "description": "silahkan dicoba",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-10T07:24:57.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7324,
+      "user_id": 20920,
+      "username": "LetMeRoam",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        97,
+        40,
+        38,
+        90,
+        70,
+        66
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          15,
+          25
+        ]
+      },
+      "description": "Movement Speed, Unlimited CD reduction,Mana issue solved, Healing Scales w/Magic,Life Bane,Anti Burst Survivability.\n\nReplace Revitalise for Purify when facing a setter.",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-04-26T18:10:53.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7172,
+      "user_id": 20583,
+      "username": "Zhadoww",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        95,
+        40,
+        44,
+        73,
+        90,
+        72
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          9,
+          25
+        ]
+      },
+      "description": "High heal and can survive in team fight",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-04-20T11:23:12.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7170,
+      "user_id": 20579,
+      "username": "JayNvdia",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        97,
+        40,
+        38,
+        73,
+        44,
+        72
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          9,
+          25
+        ]
+      },
+      "description": "its good emblem and build for estes\n",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-04-20T10:29:46.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7094,
+      "user_id": 20384,
+      "username": "Duskkeeper",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        95,
+        40,
+        90,
+        72,
+        44,
+        75
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          5,
+          11,
+          20
+        ]
+      },
+      "description": "Utility",
+      "battle_spell": null,
+      "created_at": "2026-04-16T23:51:53.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6504,
+      "user_id": 18940,
+      "username": "Dulaluduuuu",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        99,
+        38,
+        40,
+        90,
+        44,
+        35
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          13,
+          17
+        ]
+      },
+      "description": "Cocok boss",
+      "battle_spell": "Purify",
+      "created_at": "2026-03-14T17:06:47.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6502,
+      "user_id": 18937,
+      "username": "Кицу",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        95,
+        40,
+        70,
+        66,
+        65,
+        67
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          13,
+          25
+        ]
+      },
+      "description": "Лучший Эстес в Землях Рассвета. Выстоит весь урон и исцелит союзников.",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-14T15:53:35.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5899,
+      "user_id": 17803,
+      "username": "Elraff",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        97,
+        35,
+        40,
+        43,
+        90,
+        33
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          5,
+          9,
+          23
+        ]
+      },
+      "description": "Not bad if you want to try something new",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-02-21T17:28:41.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6525,
+      "user_id": 18937,
+      "username": "Кицу",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        95,
+        40,
+        70,
+        66,
+        65,
+        72
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          13,
+          25
+        ]
+      },
+      "description": "Ботинки роум - исцеление. Менять последний предмет Бессмертие - на Зимняя Корона, когда начнется кд предмета.",
+      "battle_spell": "Aegis",
+      "created_at": "2026-03-15T19:52:45.000Z",
+      "likes_count": 1,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6148,
+      "user_id": 18220,
+      "username": "AZELL",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        91,
+        47,
+        37,
+        33,
+        44,
+        73
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          3,
+          9,
+          17
+        ]
+      },
+      "description": "FKHFHDFGFDHGGHCYTTFDGHDF",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-01T10:59:44.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 5744,
+      "user_id": 17478,
+      "username": "Ah_mad",
+      "hero_id": 34,
+      "hero_name": "Estes",
+      "role": "Support",
+      "lane": "Roam",
+      "speciality": "Regen, Guard",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "items": [
+        5,
+        11,
+        10,
+        14,
+        19,
+        16
+      ],
+      "emblems": {
+        "main_id": 7,
+        "ability_ids": [
+          2,
+          16,
+          26
+        ]
+      },
+      "description": "Buat ngetroll",
+      "battle_spell": "Inspire",
+      "created_at": "2026-02-16T13:24:35.000Z",
+      "likes_count": 1,
+      "dislikes_count": 3
+    }
+  ]
+}

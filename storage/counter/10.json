@@ -16,14 +16,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 5.297999858856201,
+      "score": 5.232999801635742,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 10,
           "name": "Franco",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
-          "score": 5.298
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png",
+          "score": 5.233
         }
       ]
     },
@@ -42,38 +42,14 @@
         "Push",
         "Damage"
       ],
-      "score": 4.390999794006348,
-      "tier": "B",
+      "score": 4.379000186920166,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 10,
           "name": "Franco",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
-          "score": 4.391
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "heroName": "Tigreal",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control"
-      ],
-      "score": 4.140999794006348,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 10,
-          "name": "Franco",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
-          "score": 4.141
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png",
+          "score": 4.379
         }
       ]
     },
@@ -91,14 +67,38 @@
         "Crowd Control",
         "Initiator"
       ],
-      "score": 4.076000213623047,
-      "tier": "D",
+      "score": 4.110000133514404,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 10,
           "name": "Franco",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
-          "score": 4.076
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png",
+          "score": 4.11
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "heroName": "Tigreal",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control"
+      ],
+      "score": 3.963000059127808,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 10,
+          "name": "Franco",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png",
+          "score": 3.963
         }
       ]
     },
@@ -117,14 +117,39 @@
         "Support",
         "Crowd Control"
       ],
-      "score": 3.7109999656677246,
-      "tier": "D",
+      "score": 3.891999959945679,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 10,
           "name": "Franco",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
-          "score": 3.711
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png",
+          "score": 3.892
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "heroName": "X.Borg",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Burst"
+      ],
+      "score": 0.10599999874830246,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 10,
+          "name": "Franco",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png",
+          "score": 0.106
         }
       ]
     }

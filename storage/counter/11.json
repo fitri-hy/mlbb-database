@@ -17,14 +17,14 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 7.771999835968018,
+      "score": 8.234999656677246,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 11,
           "name": "Bane",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-          "score": 7.772
+          "score": 8.235
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Chase",
         "Burst"
       ],
-      "score": 4.27899980545044,
+      "score": 4.662000179290772,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 11,
           "name": "Bane",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-          "score": 4.279
+          "score": 4.662
         }
       ]
     },
@@ -67,14 +67,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 4.195000171661377,
+      "score": 3.990999937057495,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 11,
           "name": "Bane",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-          "score": 4.195
+          "score": 3.991
         }
       ]
     },
@@ -92,14 +92,14 @@
         "Burst",
         "Poke"
       ],
-      "score": 3.86299991607666,
+      "score": 3.9560000896453857,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 11,
           "name": "Bane",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-          "score": 3.863
+          "score": 3.956
         }
       ]
     },
@@ -117,64 +117,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 2.390000104904175,
-      "tier": "D",
+      "score": 1.9600000381469729,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 11,
           "name": "Bane",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-          "score": 2.39
-        }
-      ]
-    },
-    {
-      "id": 101,
-      "heroName": "Yve",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Poke",
-        "Burst"
-      ],
-      "score": 1.0199999809265137,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 11,
-          "name": "Bane",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-          "score": 1.02
-        }
-      ]
-    },
-    {
-      "id": 110,
-      "heroName": "Valentina",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Finisher"
-      ],
-      "score": 0.4110000133514404,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 11,
-          "name": "Bane",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-          "score": 0.411
+          "score": 1.96
         }
       ]
     },
@@ -192,14 +142,39 @@
         "Crowd Control",
         "Initiator"
       ],
-      "score": 0.328000009059906,
+      "score": 0.9800000190734864,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 11,
+          "name": "Bane",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "heroName": "Valentina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 0.5519999861717224,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 11,
           "name": "Bane",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-          "score": 0.328
+          "score": 0.552
         }
       ]
     },
@@ -218,14 +193,39 @@
         "Push",
         "Burst"
       ],
-      "score": 0.18400000035762787,
+      "score": 0.5249999761581421,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 11,
           "name": "Bane",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-          "score": 0.184
+          "score": 0.525
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "heroName": "Ixia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.16899999976158142,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 11,
+          "name": "Bane",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
+          "score": 0.169
         }
       ]
     }

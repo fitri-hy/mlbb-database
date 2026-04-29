@@ -1,0 +1,998 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 6442,
+      "user_id": 18811,
+      "username": "AideNN",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        91,
+        19,
+        42,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          23
+        ]
+      },
+      "description": "This build is very effective,you can snowball early and with windtalker you jungle farm and minion clear becomes faster\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-12T12:49:36.000Z",
+      "likes_count": 8,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6911,
+      "user_id": 18532,
+      "username": "Yoan",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        44,
+        33,
+        39,
+        37,
+        36
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          9,
+          18
+        ]
+      },
+      "description": "A luxury hybrid build , combining high mobility, damage, penetration and strong vampirism, become a tank killer in the late game",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-06T17:37:48.000Z",
+      "likes_count": 7,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6701,
+      "user_id": 19442,
+      "username": "Kairos",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        39,
+        91,
+        42,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          10,
+          22
+        ]
+      },
+      "description": "With this build, you can beat even the strongest fighter, even a fully farmed Yu Zhong.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-25T17:48:48.000Z",
+      "likes_count": 6,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5592,
+      "user_id": 17115,
+      "username": "Redemption",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        42,
+        44,
+        37,
+        19,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          2,
+          10,
+          23
+        ]
+      },
+      "description": "Aaron'n Build",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-09T17:13:02.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5481,
+      "user_id": 16828,
+      "username": "FTH",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        42,
+        44,
+        37,
+        39,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          17,
+          16,
+          4
+        ]
+      },
+      "description": "auto winstreak 30x",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-05T07:42:59.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6051,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        91,
+        36,
+        47,
+        43,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          1,
+          10,
+          23
+        ]
+      },
+      "description": "Life steal rate : %20\nDamage rate : %99\nDefense rate : %10 \n\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-26T15:07:00.000Z",
+      "likes_count": 5,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5872,
+      "user_id": 17745,
+      "username": "Abduqodir",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        39,
+        50,
+        47,
+        44,
+        91
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          2,
+          12,
+          22
+        ]
+      },
+      "description": "It's very good for glow up rank",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-02-20T16:38:40.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6003,
+      "user_id": 17973,
+      "username": "Dafa",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        42,
+        19,
+        44,
+        50,
+        47
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          16,
+          19
+        ]
+      },
+      "description": "Build cocok build early hingga mid tapi lumayan susah di late game",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-24T21:46:09.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5296,
+      "user_id": 2866,
+      "username": "YouWillTry",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        91,
+        42,
+        44,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          22,
+          10,
+          2
+        ]
+      },
+      "description": "Aamon insane burst damage",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-01-30T13:51:17.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6838,
+      "user_id": 16769,
+      "username": "Wil",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        19,
+        42,
+        44,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          13,
+          23
+        ]
+      },
+      "description": "This build is based on finding and completing objectives, With high damage, magic penetration, and movement speed.\n\nEsta configuración se basa en encontrar y completar objetivos, con alto daño, penetración mágica y velocidad de movimiento. ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-31T03:58:43.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6734,
+      "user_id": 1473,
+      "username": "MR.CLAW",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        39,
+        42,
+        44,
+        50,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          13,
+          17,
+          2
+        ]
+      },
+      "description": "hi every one this build is danger target on base attack and alt enjoy",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-26T23:11:55.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6611,
+      "user_id": 2920,
+      "username": "Kzaru",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        42,
+        39,
+        44,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          7,
+          10,
+          19
+        ]
+      },
+      "description": "burst damage good for solo killing",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-20T11:25:18.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6341,
+      "user_id": 18600,
+      "username": "MrJohnson",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        43,
+        94,
+        39,
+        50,
+        42,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          23
+        ]
+      },
+      "description": "Magic Penetration and Damage Focus",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-09T10:05:38.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5717,
+      "user_id": 9759,
+      "username": "Alok",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        91,
+        42,
+        43,
+        47,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          23
+        ]
+      },
+      "description": "Magic Damage 50%...!!",
+      "battle_spell": null,
+      "created_at": "2026-02-15T07:39:15.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5577,
+      "user_id": 17087,
+      "username": "Kenyx",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        42,
+        43,
+        50,
+        44,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "Arcane Boots\n\nGenius Wand\n\nGlowing Wand\n\nStarlium Scythe\n\nHoly Crystal\n\nBlood Wings\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-09T13:25:40.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5576,
+      "user_id": 17087,
+      "username": "Kenyx",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        39,
+        94,
+        36,
+        50,
+        44,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          13,
+          23
+        ]
+      },
+      "description": "Feather of Heaven\nArcane Boots\nConcentrated Energy\nStarlium Scythe\nHoly Crystal\nBlood Wings\n\nDmg\n",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-02-09T13:24:42.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5472,
+      "user_id": 16805,
+      "username": "Via",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        39,
+        94,
+        91,
+        19,
+        42,
+        44
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          2,
+          10,
+          22
+        ]
+      },
+      "description": "Lumayan buat main agresif kalo snowball malah lebih oke asal bisa jaga stuck nya pasti one hit",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-05T02:07:02.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5452,
+      "user_id": 16749,
+      "username": "Sigma*3344",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        43,
+        50,
+        39,
+        19,
+        91
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          22
+        ]
+      },
+      "description": "Begitulah\n",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-04T07:10:29.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5386,
+      "user_id": 16615,
+      "username": "AhzaDanish",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        42,
+        50,
+        44,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          10,
+          23
+        ]
+      },
+      "description": "Situational Adjustments\nGlowing Wand → vs sustain heroes (Yu Zhong, Estes, Uranus).\n\nWinter Truncheon → vs burst mages/marksmen (Eudora, Lesley).\n\nImmortality → if you’re constantly focused in teamfights.\n\nExecute if laning or playing roam assassin style.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-02T06:57:05.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7366,
+      "user_id": 3507,
+      "username": "itz_libai",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        39,
+        91,
+        42,
+        44,
+        50
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          22
+        ]
+      },
+      "description": "Magic damage ",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-28T06:31:16.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7158,
+      "user_id": 20549,
+      "username": "aurora x",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        42,
+        43,
+        44,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          7,
+          10,
+          23
+        ]
+      },
+      "description": "Magic Speed Power",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-19T16:02:16.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6396,
+      "user_id": 17973,
+      "username": "Dafa",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        42,
+        39,
+        44,
+        50,
+        92
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          16,
+          23
+        ]
+      },
+      "description": "Build cocok jika hero tipis tipis",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-11T04:45:03.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6318,
+      "user_id": 18544,
+      "username": "Catchmeifyoucan",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        95,
+        91,
+        40,
+        42,
+        43,
+        90
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          1,
+          10,
+          23
+        ]
+      },
+      "description": "very useful when because of the flasks of the oasis and make sense with the fleeting time, It has 80% chance to survive in last dance ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-08T00:25:28.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6150,
+      "user_id": 17181,
+      "username": "Alifhaikallx97",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        43,
+        44,
+        42,
+        50,
+        37,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          10,
+          7,
+          22
+        ]
+      },
+      "description": "Demage",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-01T12:11:52.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5835,
+      "user_id": 17602,
+      "username": "Bangjali",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        91,
+        44,
+        39,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          22,
+          12,
+          4
+        ]
+      },
+      "description": "Build aamon buat 1v2 dan 1v1, bisa 1v3 tapi harus jago kabur kabur.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-19T01:42:02.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5675,
+      "user_id": 17061,
+      "username": "Vro",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        42,
+        39,
+        44,
+        91,
+        33
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          4,
+          16,
+          23
+        ]
+      },
+      "description": "this build can you use to snowball enemies and can get frist blood on 1-3 minutes.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-13T05:20:15.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5622,
+      "user_id": 17188,
+      "username": "Howl.",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        19,
+        91,
+        44,
+        37,
+        72
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          22,
+          10,
+          4
+        ]
+      },
+      "description": "Aamon needs to snowball as early as possible. With Windtalker, his rotation and camp farming capabilities will drastically improve, allowing him to punish over-extended enemies. In addition, Aamon's gameplay needs to be as slippery. Windtalker and Sky piercer bonus movement speed are perfect to what Aamon needs.\n\nAamon rely on basic attacks when clearing camps. Critical basic attacks will boost his farming. \n\nRemember! Aamon's gameplay is all about hit and run. Do not engage without a front. Target squishy heroes first. After a skill or when passive is active, learn to kite. ",
+      "battle_spell": "Retribution",
+      "created_at": "2026-02-11T03:58:58.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5581,
+      "user_id": 17095,
+      "username": "NepaliVaanMuji",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        42,
+        44,
+        50,
+        33,
+        19
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          2,
+          10,
+          22
+        ]
+      },
+      "description": "Really good for eliminating the backline quickly and could be a good fit for his playstyle",
+      "battle_spell": "Retribution",
+      "created_at": "2026-02-09T14:08:27.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5535,
+      "user_id": 17010,
+      "username": "raur",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        42,
+        91,
+        44,
+        39,
+        37
+      ],
+      "emblems": {
+        "main_id": 4,
+        "ability_ids": [
+          7,
+          16,
+          22
+        ]
+      },
+      "description": "p",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-07T23:14:06.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5460,
+      "user_id": 16769,
+      "username": "Wil",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        19,
+        91,
+        44,
+        33,
+        37
+      ],
+      "emblems": {
+        "main_id": 6,
+        "ability_ids": [
+          7,
+          13,
+          23
+        ]
+      },
+      "description": "This build focuses on movement speed and damage, good for finishing objectives, cheap and quick to obtain. ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-04T11:10:48.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6853,
+      "user_id": 19694,
+      "username": "MD_kakashi",
+      "hero_id": 109,
+      "hero_name": "Aamon",
+      "role": "Assassin",
+      "lane": "Jungle",
+      "speciality": "Chase, Magic Damage",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "items": [
+        94,
+        50,
+        47,
+        51,
+        44,
+        37
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          22,
+          12,
+          4
+        ]
+      },
+      "description": "Best build",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-31T14:20:34.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    }
+  ]
+}

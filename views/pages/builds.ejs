@@ -1,0 +1,184 @@
+<article class="h-full flex-1 px-4 pt-26 pb-6 relative overflow-hidden">
+  <img class="fixed top-0 left-0 w-full h-full max-h-[700px] object-cover opacity-80 -z-10 trans-bottom" src="/assets/images/banner.webp" alt="banner" />
+
+  <section class="relative z-10 container mx-auto">
+    <div class="mb-10 flex flex-col md:flex-row md:justify-between items-center gap-6">
+      <div class="pl-4 border-l-4 border-[#ffbd00]">
+        <h1 class="text-3xl md:text-5xl font-black text-white italic uppercase tracking-tighter">
+          Hero <span class="text-[#ffbd00]">Builds</span>
+        </h1>
+        <p class="text-[10px] font-bold tracking-[0.3em] uppercase mt-1 text-gray-300">Top Global Recommendation</p>
+      </div>
+
+      <div class="max-w-xs w-full">
+        <div class="relative group">
+          <div class="absolute -inset-0.5 bg-gradient-to-r from-[#ffbd00]/30 to-orange-600/30 rounded-sm blur opacity-20 transition duration-1000"></div>
+          <div class="relative flex">
+            <div class="absolute z-10 top-0 left-0 w-2 h-2 border-t-2 border-l-2 border-[#ffbd00]"></div>
+            <input 
+              type="text" id="heroSearch" onkeyup="filterTable()" placeholder="SEARCH HERO NAME..." 
+              class="placeholder:text-gray-400 w-full bg-white/10 backdrop-blur-md border border-white/10 px-5 py-4 text-white text-[10px] font-black tracking-[0.2em] uppercase focus:outline-none focus:border-[#ffbd00]/50 transition-all italic"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="relative border bg-white/5 border-white/10 backdrop-blur-md shadow-2xl rounded-xl overflow-x-auto">
+      <table class="w-full text-left border-collapse min-w-[600px]" id="heroTable">
+        <thead>
+          <tr class="bg-white/10 border-b border-white/10 text-white">
+            <th class="px-4 md:px-8 py-5 text-[11px] font-black uppercase tracking-[0.2em]">Hero Unit</th>
+            <th class="px-4 py-5 text-[11px] font-black uppercase tracking-[0.2em] text-center">Items Build</th>
+            <th class="px-4 py-5 text-[11px] font-black uppercase tracking-[0.2em] text-center">Details</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-white/10">
+          <% heroes.forEach((hero, index) => { %>
+            <tr class="hero-row group/row hover:bg-[#ffbd00]/[0.02] transition-all relative border-t border-white/[0.05]" data-name="<%= hero.hero_name.toLowerCase() %>">
+              <td class="px-4 md:px-6 py-3">
+                <a href="/heroes/<%= hero.id %>" class="flex items-center gap-4 md:gap-6 cursor-pointer focus:outline-none">
+                  <div class="relative w-12 h-12 md:w-16 md:h-16 p-0.5 bg-gradient-to-tr from-white/10 to-white/30 group-hover/row:from-[#ffbd00]/50 group-hover/row:to-[#ffee00]/50 transition-all duration-500 rounded">
+                    <div class="w-full h-full overflow-hidden bg-gray-900 rounded">
+                      <img src="<%= hero.img_src %>" alt="<%= hero.hero_name %>" class="w-full h-full object-cover grayscale-[30%] group-hover/row:grayscale-0 group-hover/row:scale-110 transition-all duration-700">
+                    </div>
+                  </div>
+                  <div>
+                    <div class="text-white font-black italic text-lg md:text-xl uppercase tracking-tighter"><%= hero.hero_name %></div>
+                    <div class="bg-white/10 px-2 py-0.5 border-l-2 border-[#ffbd00] mt-1 w-fit">
+                      <div class="text-[8px] md:text-[9px] font-bold tracking-[0.2em] uppercase italic text-gray-300">
+                        <%= Array.isArray(hero.role) ? hero.role.join('/') : hero.role %>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </td>
+
+              <td class="px-4 py-4 text-center">
+                <% if (hero.builds && hero.builds.length > 0) { %>
+                  <div class="inline-block relative">
+                    <button class="dropdown-trigger flex items-center gap-1 md:gap-2 p-1.5 md:p-2 rounded-lg hover:bg-white/10 transition-all outline-none" data-id="dropdown-<%= index %>">
+                      <div class="selected-items-display flex gap-0.5 md:gap-1">
+                        <% hero.builds[0].item_images.forEach(img => { %>
+                          <div class="w-7 h-7 md:w-9 md:h-9 rounded-full border border-white/10 overflow-hidden bg-black/40">
+                            <img src="https://mlbb.io<%= img %>" class="w-full h-full object-cover">
+                          </div>
+                        <% }) %>
+                      </div>
+                      <span class="text-[#ffbd00] text-[10px]">▼</span>
+                    </button>
+
+                    <div id="dropdown-<%= index %>" class="dropdown-menu hidden fixed z-[9999] mt-2 w-auto max-h-[200px] overflow-y-auto bg-black/20 backdrop-blur-md border border-white/20 rounded-xl shadow-2xl p-2">
+                      <% hero.builds.forEach((build) => { %>
+                        <div class="build-option flex items-center gap-3 p-3 hover:bg-[#ffbd00]/10 rounded-lg cursor-pointer border-b border-white/5 last:border-0" data-build-json='<%= JSON.stringify(build) %>'>
+                          <div class="flex gap-1">
+                            <% build.item_images.forEach(img => { %>
+                              <img src="https://mlbb.io<%= img %>" class="w-7 h-7 md:w-8 md:h-8 rounded-full object-cover border border-white/10">
+                            <% }) %>
+                          </div>
+                          <div class="text-left ml-2 min-w-[100px]">
+                            <div class="text-[22px] text-gray-400">👍 <%= build.likes_count %></div>
+                          </div>
+                        </div>
+                      <% }) %>
+                    </div>
+                  </div>
+                <% } %>
+              </td>
+
+              <td class="px-4 py-4">
+                <div class="flex flex-col md:flex-row items-center justify-center gap-2 md:gap-4">
+                  <% if (hero.builds && hero.builds[0]) { %>
+                    <div class="flex flex-col items-center justify-center">
+                      <div class="h-7 w-7 md:h-9 md:w-9">
+                        <img src="<%= hero.builds[0].main_emblem.img %>" class="w-full h-full emblem-img object-cover rounded-full">
+                      </div>
+                      <span class="text-[7px] md:text-[8px] text-gray-400 uppercase font-bold emblem-name"><%= hero.builds[0].main_emblem.name %></span>
+                    </div>
+                    <div class="talent-box flex">
+                      <% hero.builds[0].talent_data.forEach(t => { %>
+                        <img src="<%= t.img %>" class="w-6 h-6 md:w-8 md:h-8 rounded-full bg-black/40 border border-white/10 p-1">
+                      <% }) %>
+                    </div>
+                  <% } %>
+                </div>
+              </td>
+            </tr>
+          <% }) %>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</article>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const menus = document.querySelectorAll('.dropdown-menu');
+    menus.forEach(menu => document.body.appendChild(menu));
+
+    const triggers = document.querySelectorAll('.dropdown-trigger');
+    triggers.forEach(trigger => {
+      const menuId = trigger.getAttribute('data-id');
+      const menu = document.getElementById(menuId);
+      const row = trigger.closest('.hero-row');
+
+      trigger.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const isHidden = menu.classList.contains('hidden');
+        document.querySelectorAll('.dropdown-menu').forEach(m => m.classList.add('hidden'));
+
+        if (isHidden) {
+          menu.classList.remove('hidden');
+          const rect = trigger.getBoundingClientRect();
+          menu.style.top = `${rect.bottom + 10}px`; 
+          menu.style.left = `${rect.left + (rect.width / 2)}px`;
+          menu.style.transform = 'translateX(-50%)';
+          menu.style.zIndex = "9999";
+        }
+      });
+
+      const options = menu.querySelectorAll('.build-option');
+      options.forEach(option => {
+        option.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const data = JSON.parse(option.getAttribute('data-build-json'));
+
+          trigger.querySelector('.selected-items-display').innerHTML = data.item_images.map(img => `
+            <div class="w-7 h-7 md:w-9 md:h-9 rounded-full border border-white/10 overflow-hidden bg-black/40">
+              <img src="https://mlbb.io${img}" class="w-full h-full object-cover">
+            </div>
+          `).join('');
+
+          row.querySelector('.emblem-img').src = data.main_emblem.img;
+          row.querySelector('.emblem-name').textContent = data.main_emblem.name;
+          row.querySelector('.talent-box').innerHTML = data.talent_data.map(t => `
+            <img src="${t.img}" class="w-6 h-6 md:w-8 md:h-8 rounded-full bg-black/40 border border-white/10 p-1">
+          `).join('');
+          row.querySelector('.username-text').textContent = data.username;
+          row.querySelector('.likes-text').textContent = `👍 ${data.likes_count}`;
+
+          menu.classList.add('hidden');
+        });
+      });
+    });
+
+    window.addEventListener('click', () => {
+      document.querySelectorAll('.dropdown-menu').forEach(m => m.classList.add('hidden'));
+    });
+
+    window.addEventListener('scroll', (e) => {
+      if (!e.target.classList || !e.target.classList.contains('dropdown-menu')) {
+        document.querySelectorAll('.dropdown-menu').forEach(m => m.classList.add('hidden'));
+      }
+    }, true);
+  });
+
+  function filterTable() {
+    const filter = document.getElementById("heroSearch").value.toLowerCase();
+    const rows = document.querySelectorAll(".hero-row");
+    rows.forEach(row => {
+      const name = row.getAttribute("data-name") || "";
+      row.style.display = name.includes(filter) ? "" : "none";
+    });
+  }
+</script>

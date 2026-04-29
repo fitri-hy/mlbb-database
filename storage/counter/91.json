@@ -16,116 +16,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 4.188000202178955,
+      "score": 4.526999950408936,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 91,
           "name": "Cecilion",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
-          "score": 4.188
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "heroName": "Hayabusa",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Burst"
-      ],
-      "score": 2.878000020980835,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 91,
-          "name": "Cecilion",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
-          "score": 2.878
-        }
-      ]
-    },
-    {
-      "id": 104,
-      "heroName": "Gloo",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Exp Lane",
-        "Roam"
-      ],
-      "speciality": [
-        "Regen",
-        "Control"
-      ],
-      "score": 1.9900000095367432,
-      "tier": "SS",
-      "counteredHeroes": [
-        {
-          "id": 91,
-          "name": "Cecilion",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
-          "score": 1.99
-        }
-      ]
-    },
-    {
-      "id": 51,
-      "heroName": "Helcurt",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle",
-        "Roam"
-      ],
-      "speciality": [
-        "Push",
-        "Burst"
-      ],
-      "score": 1.7599999904632568,
-      "tier": "S",
-      "counteredHeroes": [
-        {
-          "id": 91,
-          "name": "Cecilion",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
-          "score": 1.76
-        }
-      ]
-    },
-    {
-      "id": 119,
-      "heroName": "Novaria",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Poke"
-      ],
-      "score": 1.5099999904632568,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 91,
-          "name": "Cecilion",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
-          "score": 1.51
+          "score": 4.527
         }
       ]
     },
@@ -145,39 +43,91 @@
         "Burst",
         "Control"
       ],
-      "score": 1.337000012397766,
+      "score": 3.0350000858306885,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 91,
           "name": "Cecilion",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
-          "score": 1.337
+          "score": 3.035
         }
       ]
     },
     {
-      "id": 121,
-      "heroName": "Ixia",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+      "id": 21,
+      "heroName": "Hayabusa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
       "role": [
-        "Marksman"
+        "Assassin"
       ],
       "lane": [
-        "Gold Lane"
+        "Jungle"
       ],
       "speciality": [
-        "Finisher",
-        "Damage"
+        "Chase",
+        "Burst"
       ],
-      "score": 1.2869999408721924,
-      "tier": "D",
+      "score": 3,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 91,
           "name": "Cecilion",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
-          "score": 1.287
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "heroName": "Gloo",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Control"
+      ],
+      "score": 1.940000057220459,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 91,
+          "name": "Cecilion",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
+          "score": 1.94
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "heroName": "Helcurt",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Push",
+        "Burst"
+      ],
+      "score": 1.7000000476837158,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 91,
+          "name": "Cecilion",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
+          "score": 1.7
         }
       ]
     },
@@ -196,14 +146,39 @@
         "Chase",
         "Finisher"
       ],
-      "score": 1.128000020980835,
-      "tier": "D",
+      "score": 1.3109999895095823,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 91,
           "name": "Cecilion",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
-          "score": 1.128
+          "score": 1.311
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "heroName": "Ixia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 1.1239999532699585,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 91,
+          "name": "Cecilion",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
+          "score": 1.124
         }
       ]
     },
@@ -221,39 +196,65 @@
         "Chase",
         "Magic Damage"
       ],
-      "score": 0.2680000066757202,
-      "tier": "C",
+      "score": 0.24799999594688416,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 91,
           "name": "Cecilion",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
-          "score": 0.268
+          "score": 0.248
         }
       ]
     },
     {
-      "id": 68,
-      "heroName": "Lunox",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
       "role": [
-        "Mage"
+        "Support",
+        "Tank"
       ],
       "lane": [
-        "Mid Lane"
+        "Roam"
       ],
       "speciality": [
-        "Burst",
-        "Damage"
+        "Support",
+        "Crowd Control"
       ],
-      "score": 0.09300000220537186,
+      "score": 0.15600000321865082,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 91,
           "name": "Cecilion",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
-          "score": 0.093
+          "score": 0.156
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "heroName": "Aldous",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Support"
+      ],
+      "score": 0.09700000286102296,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 91,
+          "name": "Cecilion",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
+          "score": 0.097
         }
       ]
     }

@@ -17,14 +17,14 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 8.144000053405762,
+      "score": 7.389999866485596,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 7,
           "name": "Alucard",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
-          "score": 8.144
+          "score": 7.39
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 6.181000232696533,
-      "tier": "D",
+      "score": 6.105000019073486,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 7,
           "name": "Alucard",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
-          "score": 6.181
+          "score": 6.105
         }
       ]
     },
@@ -67,14 +67,14 @@
         "Regen",
         "Damage"
       ],
-      "score": 5.763000011444092,
+      "score": 5.9730000495910645,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 7,
           "name": "Alucard",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
-          "score": 5.763
+          "score": 5.973
         }
       ]
     },
@@ -92,65 +92,14 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 5.729000091552734,
+      "score": 5.820000171661377,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 7,
           "name": "Alucard",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
-          "score": 5.729
-        }
-      ]
-    },
-    {
-      "id": 74,
-      "heroName": "Minsitthar",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane",
-        "Roam"
-      ],
-      "speciality": [
-        "Initiator",
-        "Crowd Control"
-      ],
-      "score": 2.9600000381469727,
-      "tier": "A",
-      "counteredHeroes": [
-        {
-          "id": 7,
-          "name": "Alucard",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
-          "score": 2.96
-        }
-      ]
-    },
-    {
-      "id": 72,
-      "heroName": "Thamuz",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Chase",
-        "Damage"
-      ],
-      "score": 2.377000093460083,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 7,
-          "name": "Alucard",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
-          "score": 2.377
+          "score": 5.82
         }
       ]
     },
@@ -169,14 +118,65 @@
         "Damage",
         "Chase"
       ],
-      "score": 0.4410000145435333,
+      "score": 3.5230000019073486,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 7,
           "name": "Alucard",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
-          "score": 0.441
+          "score": 3.523
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "heroName": "Thamuz",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 2.240000009536743,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 7,
+          "name": "Alucard",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
+          "score": 2.24
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "heroName": "Minsitthar",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "score": 0,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 7,
+          "name": "Alucard",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
+          "score": 0
         }
       ]
     }

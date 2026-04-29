@@ -1,0 +1,1542 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5699,
+      "user_id": 17374,
+      "username": "Acidium",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        17,
+        100,
+        74,
+        70,
+        11,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          19
+        ]
+      },
+      "description": "A build for Exp Dyrroth. Main thing you embrace in this build is your life steal. Dyrroth is an anti tank character thanks to his second skill, so hunter strike is really important. You can change it to another attack item anyway. You should go war axe before boots, in this way you get everything you need in the early game. Petrify is optional, you can use any spell you want based on your playstyle.",
+      "battle_spell": null,
+      "created_at": "2026-02-14T14:18:18.000Z",
+      "likes_count": 8,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5671,
+      "user_id": 17292,
+      "username": "Zoni",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        100,
+        17,
+        74,
+        68,
+        73,
+        16
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Es muy buena en inicio de partida y al final.",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-12T19:28:24.000Z",
+      "likes_count": 7,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5410,
+      "user_id": 13894,
+      "username": "Edygaming",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        97,
+        3,
+        2,
+        16,
+        11,
+        91
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          22
+        ]
+      },
+      "description": "One hit\n",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-03T11:42:07.000Z",
+      "likes_count": 6,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5586,
+      "user_id": 17099,
+      "username": "Yin_user_69",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        97,
+        17,
+        91,
+        74,
+        14,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Nothing much to say ",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-02-09T14:42:01.000Z",
+      "likes_count": 4,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7283,
+      "user_id": 20319,
+      "username": "Donwillibarreto",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        17,
+        11,
+        3,
+        13,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "No te dejo jugar",
+      "battle_spell": "Retribution",
+      "created_at": "2026-04-24T17:08:30.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7080,
+      "user_id": 20353,
+      "username": "Soraonly",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        74,
+        16,
+        2,
+        68,
+        14,
+        100
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          20
+        ]
+      },
+      "description": "Semi Tank build\n",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-16T11:52:54.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6732,
+      "user_id": 19497,
+      "username": "arter_lems",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        100,
+        17,
+        11,
+        3,
+        74,
+        65
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          6,
+          24
+        ]
+      },
+      "description": "Está es mi builld de para Dyrroth ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-26T20:00:34.000Z",
+      "likes_count": 4,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6473,
+      "user_id": 18855,
+      "username": "愛|•KEN",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        2,
+        7,
+        73,
+        17,
+        74,
+        11
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          4,
+          14,
+          19
+        ]
+      },
+      "description": "Lifestyle and damage if you want to rank up faster or play on classic you can use it",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-13T13:36:05.000Z",
+      "likes_count": 4,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6073,
+      "user_id": 18009,
+      "username": "SAMXDYRROTH2013",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        16,
+        100,
+        17,
+        74,
+        65,
+        68
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          19
+        ]
+      },
+      "description": "Dyrroth build for facing tanky opponent and also for being a semi tank",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-27T07:28:04.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5974,
+      "user_id": 17954,
+      "username": "Jossie",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        96,
+        17,
+        2,
+        3,
+        11,
+        91
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          11,
+          23
+        ]
+      },
+      "description": "I hope you like it thanks ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-24T15:37:31.000Z",
+      "likes_count": 3,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5495,
+      "user_id": 16876,
+      "username": "cutie_endmin",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        17,
+        70,
+        75,
+        74,
+        117
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          3,
+          14,
+          24
+        ]
+      },
+      "description": "Patch 2.1.42.1149.1 (Eudora's Revamped, 2026)\n\nA jungle build for the Prince of the Abyss that focuses on sustain fights.\n\nContext of the order of the Build:\n1. Swap for Warrior Boots if the enemy has many Physical Heroes, otherwise use Tough Boots for Crowd Control (CC) Reduction.\n\n2. War Axe for the sustain and spell vamp stats.\n\n3. Dominance Ice for hybrid defense, useful for team fights.\n\n4. Radiant Armor against mage that deals \"continuous\" damage, swap for Athena Shield when fighting against a \"burst\" mage, otherwise just use Radiant Armor.\n\n5. Queen Wings for the spell vamp stats and damage reduction, swap for Immortality or Winter Truncheon for second life, though Queen Wings is more preferable in terms of sustainability.\n\n6. Chastise Pauldron against attack speed heroes mainly for Marksmen, swap for Antique Cuirass if the enemy has many strong Physical Skill Caster.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-06T05:21:14.000Z",
+      "likes_count": 4,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7185,
+      "user_id": 20319,
+      "username": "Donwillibarreto",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        3,
+        91,
+        11,
+        16,
+        2
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          12,
+          23
+        ]
+      },
+      "description": "Esta build te permite one-shotear squishies y fighters con el combo: 2 (Spectre Step) → 1 (Burst Strike) → ultimate + básicos (la reducción de defensa de la skill 2 + Hepta + Sky Piercer destroza a cualquiera). Al mismo tiempo, tu pasiva te cura muchísimo con cada 3er básico y el daño en área, dándote sustain infinito en lane y teamfights. Vas a reventar a todo el mundo en EXP y salir vivo comiendo HP como loco.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-21T00:20:19.000Z",
+      "likes_count": 2,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6408,
+      "user_id": 18682,
+      "username": "Aj67",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        10,
+        22,
+        6,
+        7,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          8,
+          22,
+          10
+        ]
+      },
+      "description": "LIFESTEAL JUNGLER",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-11T09:37:19.000Z",
+      "likes_count": 5,
+      "dislikes_count": 3
+    },
+    {
+      "build_id": 5473,
+      "user_id": 1339,
+      "username": "kiangamerz2016",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        5,
+        10,
+        17,
+        91,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          14,
+          24
+        ]
+      },
+      "description": "Jungle Dyrroth with unli sustain with basic attacks",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-02-05T02:33:43.000Z",
+      "likes_count": 3,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7178,
+      "user_id": 7017,
+      "username": "Cyber_fans",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        17,
+        11,
+        68,
+        16,
+        92
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          22,
+          10
+        ]
+      },
+      "description": "Not recommend for solo ranked",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-20T15:26:51.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7117,
+      "user_id": 20457,
+      "username": "Guytr",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        17,
+        11,
+        71,
+        68,
+        73,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          17,
+          10,
+          2
+        ]
+      },
+      "description": "Dyroth global n1",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-18T07:42:27.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6265,
+      "user_id": 18009,
+      "username": "SAMXDYRROTH2013",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        100,
+        17,
+        14,
+        74,
+        68,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          11,
+          23
+        ]
+      },
+      "description": "dyrroth jungle build for single target burst while also being tanky.Mostly helpful in mid to late game lord contest",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-03-06T11:23:52.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6235,
+      "user_id": 18009,
+      "username": "SAMXDYRROTH2013",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        17,
+        99,
+        74,
+        73,
+        68,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          19
+        ]
+      },
+      "description": "Use this build if you want to  tank mostly but also sustain during fights. This build is still in development and you may change some item here but hope it will help you in most cases. Thanks for reading",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-04T15:13:45.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6205,
+      "user_id": 18323,
+      "username": "thiha2006",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        97,
+        3,
+        17,
+        90,
+        117,
+        70
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          6,
+          14,
+          24
+        ]
+      },
+      "description": "Attack နှင့် Defined ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-03T17:31:29.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6047,
+      "user_id": 18009,
+      "username": "SAMXDYRROTH2013",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        17,
+        99,
+        74,
+        70,
+        68,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          4,
+          14,
+          19
+        ]
+      },
+      "description": "Build this setup only when you are in a 5 man squard\n",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-26T10:42:45.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5967,
+      "user_id": 17953,
+      "username": "DrryothKILLER",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        97,
+        91,
+        3,
+        16,
+        13,
+        68
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          19,
+          2,
+          14
+        ]
+      },
+      "description": "Avoid magical heroes go for early game kills in exp and in team fights use your ultimate then attack.\n",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-24T14:55:21.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5907,
+      "user_id": 17822,
+      "username": "Behzod",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        100,
+        11,
+        70,
+        3,
+        75,
+        65
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          14,
+          23
+        ]
+      },
+      "description": "exp is good for solo murder on the line",
+      "battle_spell": "Execute",
+      "created_at": "2026-02-22T05:59:39.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5510,
+      "user_id": 16943,
+      "username": "TYPM",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        17,
+        74,
+        14,
+        73,
+        68,
+        117
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Best item for dyrroth ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-02-07T03:17:17.000Z",
+      "likes_count": 3,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 5492,
+      "user_id": 8094,
+      "username": "Thamuz_Z",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        97,
+        3,
+        91,
+        17,
+        11,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          12,
+          22
+        ]
+      },
+      "description": "Build pro Dyrroth",
+      "battle_spell": "Petrify",
+      "created_at": "2026-02-06T00:24:09.000Z",
+      "likes_count": 1,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7327,
+      "user_id": 20319,
+      "username": "Donwillibarreto",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        3,
+        11,
+        91,
+        13,
+        74
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          12,
+          23
+        ]
+      },
+      "description": "W",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-26T21:35:46.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7236,
+      "user_id": 20713,
+      "username": "BuildSmith",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        11,
+        74,
+        2,
+        73,
+        71
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          22,
+          14,
+          4
+        ]
+      },
+      "description": "This build allows dyrroth to become a tanky fighter while still remaining with assassin potential\n\nIt works by having higher level than your target for easy assassinations\n\nIn late game the damage will fall off a bit so only assassinate squishes, this build makes up for low end game damage with sustain, dyrroth is no longer a glass cannon that can kill but dies in one hit",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-22T22:43:40.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7187,
+      "user_id": 20319,
+      "username": "Donwillibarreto",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        3,
+        91,
+        11,
+        13,
+        72
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          1,
+          14,
+          23
+        ]
+      },
+      "description": "Paraguay ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-21T01:34:40.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7184,
+      "user_id": 20319,
+      "username": "Donwillibarreto",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        17,
+        3,
+        11,
+        13,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          19,
+          3
+        ]
+      },
+      "description": "S2 (Spectre Step) → dashea hacia el enemigo.\nS2 otra vez → Fatal Strike (reduce defensa física mucho).\n2-3 ataques básicos → activa Circle Strike (daño + cura).\nS1 (Burst Strike) enhanced → más daño y slow fuerte.\nUltimate (Abysm Strike) → remata (hace más daño en low HP).",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-20T23:22:29.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7180,
+      "user_id": 20604,
+      "username": "DyrX",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        17,
+        74,
+        70,
+        75,
+        65
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "A good tank build for you guys, can used in solo rank",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-20T18:19:44.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7165,
+      "user_id": 20572,
+      "username": "minsik",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        11,
+        74,
+        14,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          23
+        ]
+      },
+      "description": "Thus build has good damage and high sustain so its good for team fights",
+      "battle_spell": "Petrify",
+      "created_at": "2026-04-20T07:04:25.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7124,
+      "user_id": 20494,
+      "username": "KARA",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        10,
+        7,
+        3,
+        2,
+        1,
+        14
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          6,
+          14,
+          24
+        ]
+      },
+      "description": ".",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-18T18:09:52.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 7115,
+      "user_id": 20334,
+      "username": "Phantom4626",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        97,
+        17,
+        16,
+        13,
+        73,
+        74
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          19,
+          12,
+          4
+        ]
+      },
+      "description": "Jungle build ",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-04-18T05:03:25.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6965,
+      "user_id": 20029,
+      "username": "ColdBrave",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        17,
+        100,
+        76,
+        74,
+        14,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          1
+        ]
+      },
+      "description": "This is a hybrid build against aggressive opponents and for teamfights.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-10T10:55:34.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6964,
+      "user_id": 20029,
+      "username": "ColdBrave",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        17,
+        70,
+        74,
+        75,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          14,
+          3,
+          19
+        ]
+      },
+      "description": "This is a smart build, you're not a tank, wait until all the controls are over and then fly into the hull with your team.",
+      "battle_spell": "Flicker",
+      "created_at": "2026-04-10T10:49:23.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 6799,
+      "user_id": 19632,
+      "username": "DYRROTH_CJPY",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        100,
+        11,
+        3,
+        13,
+        2,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          7,
+          12,
+          22
+        ]
+      },
+      "description": "This build is consistently for damage assassin for jungle it's ok for exp lane Its best\n•hide in a bush\n•combo. 2-1-3 fast",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-30T04:10:08.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6773,
+      "user_id": 19567,
+      "username": "tamer",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        17,
+        74,
+        70,
+        71,
+        75,
+        65
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          6,
+          9,
+          24
+        ]
+      },
+      "description": "sustain",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-28T17:56:23.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6713,
+      "user_id": 19463,
+      "username": "Adadeh1",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        17,
+        68,
+        74,
+        11,
+        14
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          6,
+          14,
+          24
+        ]
+      },
+      "description": "This item is useful for helping you survive all the damage given by enemies and powerful spell vamps ",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-26T04:36:25.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6441,
+      "user_id": 18009,
+      "username": "SAMXDYRROTH2013",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        17,
+        99,
+        74,
+        70,
+        66,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          4
+        ]
+      },
+      "description": "Dyrroth build for season 40 grind. ideal for frontlining in a low cc team fight and 3 vs 1 fights",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-12T11:14:59.000Z",
+      "likes_count": 2,
+      "dislikes_count": 2
+    },
+    {
+      "build_id": 6370,
+      "user_id": 18682,
+      "username": "Aj67",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        97,
+        11,
+        6,
+        10,
+        2,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          10,
+          8,
+          22
+        ]
+      },
+      "description": "early game fast jungle rotates, mid game attack, lifesteal and attack speed boost, late game damage and survivability",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-10T13:16:45.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6369,
+      "user_id": 18682,
+      "username": "Aj67",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        21,
+        3,
+        1,
+        20,
+        102,
+        97
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          2,
+          10,
+          22
+        ]
+      },
+      "description": "Inspired to be combined with estes/angela",
+      "battle_spell": "Retribution",
+      "created_at": "2026-03-10T12:21:03.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6342,
+      "user_id": 18600,
+      "username": "MrJohnson",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        3,
+        11,
+        1,
+        2,
+        16,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          16,
+          19
+        ]
+      },
+      "description": "Damage and Penetration Focus",
+      "battle_spell": "Flicker",
+      "created_at": "2026-03-09T10:07:26.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5923,
+      "user_id": 3509,
+      "username": "Nox",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        17,
+        13,
+        11,
+        73,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          2,
+          24,
+          14
+        ]
+      },
+      "description": "best for early game,for 1v1 and easy to kill enemy roam,mid,gold and probaly hyper",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-23T06:33:56.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5413,
+      "user_id": 16698,
+      "username": "KINGBAHLIL",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        99,
+        3,
+        70,
+        75,
+        72,
+        117
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          20,
+          3,
+          12
+        ]
+      },
+      "description": "SEKARANG HEAL DYROTH SESUAI HP JADI BAGUS DI JADIKAN FULL TANK",
+      "battle_spell": "Flicker",
+      "created_at": "2026-02-03T13:42:33.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5365,
+      "user_id": 16524,
+      "username": "Xfilen",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        98,
+        3,
+        2,
+        14,
+        10,
+        13
+      ],
+      "emblems": {
+        "main_id": 3,
+        "ability_ids": [
+          4,
+          12,
+          22
+        ]
+      },
+      "description": "early game damage",
+      "battle_spell": "Bloody Retribution",
+      "created_at": "2026-02-01T11:57:57.000Z",
+      "likes_count": 1,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7382,
+      "user_id": 19964,
+      "username": "Moba_nerfharley",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        100,
+        11,
+        91,
+        17,
+        74,
+        68
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          23,
+          14
+        ]
+      },
+      "description": "For exp lane,very effective if u have a coordinated team ",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-28T13:25:57.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7031,
+      "user_id": 20218,
+      "username": "SUREENKETTAVAN",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        16,
+        11,
+        3,
+        19,
+        14,
+        2
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          5,
+          14,
+          23
+        ]
+      },
+      "description": "Try ths one",
+      "battle_spell": "Inspire",
+      "created_at": "2026-04-14T11:17:58.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6599,
+      "user_id": 19148,
+      "username": "Tharizdun",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        100,
+        17,
+        74,
+        11,
+        14,
+        72
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "burst with lifesteal",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-19T07:57:44.000Z",
+      "likes_count": 0,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 6360,
+      "user_id": 18656,
+      "username": "PERFURADORCELESTIAL",
+      "hero_id": 85,
+      "hero_name": "Dyrroth",
+      "role": "Fighter",
+      "lane": "Exp Lane, Jungle",
+      "speciality": "Charge, Burst",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+      "items": [
+        98,
+        66,
+        69,
+        68,
+        74,
+        67
+      ],
+      "emblems": {
+        "main_id": 2,
+        "ability_ids": [
+          2,
+          14,
+          22
+        ]
+      },
+      "description": "This build is good to fight 3x1 😃👍\n(i recommend to use this build)",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-03-10T03:19:17.000Z",
+      "likes_count": 1,
+      "dislikes_count": 3
+    }
+  ]
+}

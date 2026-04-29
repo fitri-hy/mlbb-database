@@ -16,14 +16,14 @@
         "Regen",
         "Damage"
       ],
-      "score": 10.06999969482422,
+      "score": 8.680000305175781,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 73,
           "name": "Harith",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
-          "score": 10.07
+          "score": 8.68
         }
       ]
     },
@@ -43,14 +43,14 @@
         "Control",
         "Burst"
       ],
-      "score": 6.556000232696533,
+      "score": 6.113999843597412,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 73,
           "name": "Harith",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
-          "score": 6.556
+          "score": 6.114
         }
       ]
     },
@@ -69,64 +69,14 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 6.0229997634887695,
-      "tier": "A",
+      "score": 5.460999965667725,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 73,
           "name": "Harith",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
-          "score": 6.023
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "heroName": "Cyclops",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Control"
-      ],
-      "score": 4.861000061035156,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 73,
-          "name": "Harith",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
-          "score": 4.861
-        }
-      ]
-    },
-    {
-      "id": 109,
-      "heroName": "Aamon",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Magic Damage"
-      ],
-      "score": 2.630000114440918,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 73,
-          "name": "Harith",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
-          "score": 2.63
+          "score": 5.461
         }
       ]
     },
@@ -145,39 +95,167 @@
         "Push",
         "Burst"
       ],
-      "score": 2.490999937057495,
+      "score": 3.9489998817443848,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 73,
           "name": "Harith",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
-          "score": 2.491
+          "score": 3.949
         }
       ]
     },
     {
-      "id": 132,
-      "heroName": "Marcel",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+      "id": 109,
+      "heroName": "Aamon",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
       "role": [
-        "Support"
+        "Assassin"
       ],
       "lane": [
-        "Roam"
+        "Jungle"
       ],
       "speciality": [
-        "Crowd Control",
-        "Support"
+        "Chase",
+        "Magic Damage"
       ],
-      "score": 0.20000000298023224,
-      "tier": "SS",
+      "score": 2.950000047683716,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 73,
           "name": "Harith",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
-          "score": 0.2
+          "score": 2.95
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "heroName": "Cyclops",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Control"
+      ],
+      "score": 1.059999942779541,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 73,
+          "name": "Harith",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+          "score": 1.06
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "heroName": "Esmeralda",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
+      "role": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Mixed Damage"
+      ],
+      "score": 0.7310000061988831,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 73,
+          "name": "Harith",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+          "score": 0.731
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.4589999914169312,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 73,
+          "name": "Harith",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+          "score": 0.459
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.367000013589859,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 73,
+          "name": "Harith",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+          "score": 0.367
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "heroName": "Fredrinn",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Chase"
+      ],
+      "score": 0.2199999988079071,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 73,
+          "name": "Harith",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+          "score": 0.22
         }
       ]
     },
@@ -196,7 +274,7 @@
         "Poke"
       ],
       "score": 0,
-      "tier": "D",
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 73,

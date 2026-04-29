@@ -16,14 +16,14 @@
         "Burst",
         "Magic Damage"
       ],
-      "score": 9.626999855041504,
+      "score": 9.265000343322754,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 27,
           "name": "Sun",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
-          "score": 9.627
+          "score": 9.265
         }
       ]
     },
@@ -41,14 +41,14 @@
         "Burst",
         "Support"
       ],
-      "score": 8.765000343322754,
+      "score": 8.95199966430664,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 27,
           "name": "Sun",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
-          "score": 8.765
+          "score": 8.952
         }
       ]
     },
@@ -67,14 +67,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 8.17199993133545,
+      "score": 8.446000099182129,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 27,
           "name": "Sun",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
-          "score": 8.172
+          "score": 8.446
         }
       ]
     },
@@ -92,14 +92,14 @@
         "Crowd Control",
         "Regen"
       ],
-      "score": 7.829999923706055,
-      "tier": "D",
+      "score": 7.864999771118164,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 27,
           "name": "Sun",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
-          "score": 7.83
+          "score": 7.865
         }
       ]
     },
@@ -117,41 +117,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 5.841000080108643,
+      "score": 6.445000171661377,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 27,
           "name": "Sun",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
-          "score": 5.841
-        }
-      ]
-    },
-    {
-      "id": 76,
-      "heroName": "Faramis",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-      "role": [
-        "Support",
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane",
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Charge"
-      ],
-      "score": 0.977999985218048,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 27,
-          "name": "Sun",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
-          "score": 0.978
+          "score": 6.445
         }
       ]
     }

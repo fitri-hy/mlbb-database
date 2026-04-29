@@ -17,14 +17,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 9.289999961853027,
-      "tier": "D",
+      "score": 9.536999702453612,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 84,
           "name": "Ling",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-          "score": 9.29
+          "score": 9.537
         }
       ]
     },
@@ -42,64 +42,14 @@
         "Damage",
         "Control"
       ],
-      "score": 6.302999973297119,
+      "score": 6.61299991607666,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 84,
           "name": "Ling",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-          "score": 6.303
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "heroName": "Karina",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Finisher",
-        "Magic Damage"
-      ],
-      "score": 5.27899980545044,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 84,
-          "name": "Ling",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-          "score": 5.279
-        }
-      ]
-    },
-    {
-      "id": 106,
-      "heroName": "Phoveus",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Regen",
-        "Damage"
-      ],
-      "score": 3.157999992370605,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 84,
-          "name": "Ling",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-          "score": 3.158
+          "score": 6.613
         }
       ]
     },
@@ -118,14 +68,39 @@
         "Charge",
         "Finisher"
       ],
-      "score": 2.8329999446868896,
-      "tier": "C",
+      "score": 5.849999904632568,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 84,
           "name": "Ling",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-          "score": 2.833
+          "score": 5.85
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "heroName": "Aamon",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Magic Damage"
+      ],
+      "score": 4.190000057220459,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 84,
+          "name": "Ling",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+          "score": 4.19
         }
       ]
     },
@@ -144,21 +119,21 @@
         "Regen",
         "Damage"
       ],
-      "score": 2.819999933242798,
-      "tier": "D",
+      "score": 2.9600000381469727,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 84,
           "name": "Ling",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-          "score": 2.82
+          "score": 2.96
         }
       ]
     },
     {
-      "id": 109,
-      "heroName": "Aamon",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+      "id": 8,
+      "heroName": "Karina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
       "role": [
         "Assassin"
       ],
@@ -166,68 +141,17 @@
         "Jungle"
       ],
       "speciality": [
-        "Chase",
+        "Finisher",
         "Magic Damage"
       ],
-      "score": 1.375,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 84,
-          "name": "Ling",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-          "score": 1.375
-        }
-      ]
-    },
-    {
-      "id": 73,
-      "heroName": "Harith",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Gold Lane",
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Chase",
-        "Damage"
-      ],
-      "score": 0.2549999952316284,
+      "score": 1.8919999599456787,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 84,
           "name": "Ling",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-          "score": 0.255
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "heroName": "Moskov",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Chase"
-      ],
-      "score": 0.2440000027418137,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 84,
-          "name": "Ling",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-          "score": 0.244
+          "score": 1.892
         }
       ]
     },
@@ -245,14 +169,64 @@
         "Finisher",
         "Burst"
       ],
-      "score": 0.23600000143051147,
+      "score": 0.7789999842643738,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 84,
           "name": "Ling",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-          "score": 0.236
+          "score": 0.779
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "heroName": "Valentina",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 0.5210000276565552,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 84,
+          "name": "Ling",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+          "score": 0.521
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "heroName": "Moskov",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Chase"
+      ],
+      "score": 0.2800000011920929,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 84,
+          "name": "Ling",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+          "score": 0.28
         }
       ]
     }

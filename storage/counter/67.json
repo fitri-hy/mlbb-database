@@ -16,39 +16,14 @@
         "Damage",
         "Guard"
       ],
-      "score": 4.942999839782715,
+      "score": 5.250999927520752,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 67,
           "name": "Leomord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
-          "score": 4.943
-        }
-      ]
-    },
-    {
-      "id": 40,
-      "heroName": "Karrie",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Damage"
-      ],
-      "score": 4.598999977111816,
-      "tier": "A",
-      "counteredHeroes": [
-        {
-          "id": 67,
-          "name": "Leomord",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
-          "score": 4.599
+          "score": 5.251
         }
       ]
     },
@@ -66,14 +41,39 @@
         "Poke",
         "Burst"
       ],
-      "score": 4.561999797821045,
+      "score": 4.755000114440918,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 67,
           "name": "Leomord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
-          "score": 4.562
+          "score": 4.755
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "heroName": "Karrie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Damage"
+      ],
+      "score": 4.71999979019165,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 67,
+          "name": "Leomord",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
+          "score": 4.72
         }
       ]
     },
@@ -91,14 +91,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 4.206999778747559,
-      "tier": "D",
+      "score": 4.664999961853027,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 67,
           "name": "Leomord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
-          "score": 4.207
+          "score": 4.665
         }
       ]
     },
@@ -116,14 +116,14 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 4.017000198364258,
+      "score": 4.169000148773193,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 67,
           "name": "Leomord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
-          "score": 4.017
+          "score": 4.169
         }
       ]
     },
@@ -141,14 +141,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 0.375,
+      "score": 0.3400000035762787,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 67,
           "name": "Leomord",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
-          "score": 0.375
+          "score": 0.34
         }
       ]
     }

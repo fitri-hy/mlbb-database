@@ -16,14 +16,14 @@
         "Regen",
         "Burst"
       ],
-      "score": 14.347999572753906,
-      "tier": "D",
+      "score": 13.885000228881836,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 99,
           "name": "Barats",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-          "score": 14.348
+          "score": 13.885
         }
       ]
     },
@@ -41,14 +41,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 10.265999794006348,
-      "tier": "D",
+      "score": 10.425999641418455,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 99,
           "name": "Barats",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-          "score": 10.266
+          "score": 10.426
         }
       ]
     },
@@ -66,65 +66,14 @@
         "Poke",
         "Burst"
       ],
-      "score": 8.645999908447266,
+      "score": 7.980999946594238,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 99,
           "name": "Barats",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-          "score": 8.646
-        }
-      ]
-    },
-    {
-      "id": 57,
-      "heroName": "Valir",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Guard"
-      ],
-      "score": 7.066999912261963,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 99,
-          "name": "Barats",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-          "score": 7.067
-        }
-      ]
-    },
-    {
-      "id": 87,
-      "heroName": "Baxia",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Jungle",
-        "Roam"
-      ],
-      "speciality": [
-        "Support",
-        "Damage"
-      ],
-      "score": 3.630000114440918,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 99,
-          "name": "Barats",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-          "score": 3.63
+          "score": 7.981
         }
       ]
     },
@@ -143,14 +92,39 @@
         "Charge",
         "Damage"
       ],
-      "score": 2.7950000762939453,
+      "score": 6.920000076293945,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 99,
           "name": "Barats",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-          "score": 2.795
+          "score": 6.92
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "heroName": "Valir",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Guard"
+      ],
+      "score": 5.125,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 99,
+          "name": "Barats",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+          "score": 5.125
         }
       ]
     },
@@ -170,14 +144,40 @@
         "Charge",
         "Regen"
       ],
-      "score": 0.6100000143051147,
-      "tier": "B",
+      "score": 1.9450000524520876,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 99,
           "name": "Barats",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-          "score": 0.61
+          "score": 1.945
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "heroName": "Baxia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Damage"
+      ],
+      "score": 0.3019999861717224,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 99,
+          "name": "Barats",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+          "score": 0.302
         }
       ]
     },
@@ -196,14 +196,14 @@
         "Damage",
         "Regen"
       ],
-      "score": 0.2619999945163727,
+      "score": 0.26100000739097595,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 99,
           "name": "Barats",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-          "score": 0.262
+          "score": 0.261
         }
       ]
     }

@@ -16,39 +16,14 @@
         "Damage",
         "Control"
       ],
-      "score": 9.57800006866455,
+      "score": 9.541000366210938,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 24,
           "name": "Natalia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
-          "score": 9.578
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "heroName": "Rafaela",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Regen",
-        "Guard"
-      ],
-      "score": 8.420000076293945,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 24,
-          "name": "Natalia",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
-          "score": 8.42
+          "score": 9.541
         }
       ]
     },
@@ -67,14 +42,14 @@
         "Charge",
         "Finisher"
       ],
-      "score": 8.395999908447266,
-      "tier": "C",
+      "score": 8.4399995803833,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 24,
           "name": "Natalia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
-          "score": 8.396
+          "score": 8.44
         }
       ]
     },
@@ -92,40 +67,64 @@
         "Finisher",
         "Magic Damage"
       ],
-      "score": 7.776999950408935,
+      "score": 7.60099983215332,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 24,
           "name": "Natalia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
-          "score": 7.777
+          "score": 7.601
         }
       ]
     },
     {
-      "id": 103,
-      "heroName": "Paquito",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
+      "id": 14,
+      "heroName": "Rafaela",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
       "role": [
-        "Fighter",
-        "Assassin"
+        "Support"
       ],
       "lane": [
-        "Exp Lane"
+        "Roam"
       ],
       "speciality": [
-        "Chase",
-        "Damage"
+        "Regen",
+        "Guard"
       ],
-      "score": 5.392000198364258,
+      "score": 7.545000076293945,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 24,
+          "name": "Natalia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+          "score": 7.545
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "heroName": "Eudora",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Control",
+        "Burst"
+      ],
+      "score": 3.680000066757202,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 24,
           "name": "Natalia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
-          "score": 5.392
+          "score": 3.68
         }
       ]
     },
@@ -144,14 +143,40 @@
         "Chase",
         "Damage"
       ],
-      "score": 1.784999966621399,
+      "score": 1.8849999904632568,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 24,
           "name": "Natalia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
-          "score": 1.785
+          "score": 1.885
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "heroName": "Paquito",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 1.3329999446868896,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 24,
+          "name": "Natalia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+          "score": 1.333
         }
       ]
     },
@@ -169,39 +194,65 @@
         "Burst",
         "Finisher"
       ],
-      "score": 0.6230000257492065,
-      "tier": "D",
+      "score": 0.3370000123977661,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 24,
           "name": "Natalia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
-          "score": 0.623
+          "score": 0.337
         }
       ]
     },
     {
-      "id": 68,
-      "heroName": "Lunox",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
+      "id": 78,
+      "heroName": "Khufra",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
       "role": [
-        "Mage"
+        "Tank"
       ],
       "lane": [
-        "Mid Lane"
+        "Roam"
       ],
       "speciality": [
-        "Burst",
-        "Damage"
+        "Initiator",
+        "Crowd Control"
       ],
-      "score": 0.28200000524520874,
-      "tier": "D",
+      "score": 0.28600001335144043,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 24,
           "name": "Natalia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
-          "score": 0.282
+          "score": 0.286
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "heroName": "Kaja",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
+      "role": [
+        "Support",
+        "Fighter"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Control",
+        "Charge"
+      ],
+      "score": 0.23899999260902405,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 24,
+          "name": "Natalia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+          "score": 0.239
         }
       ]
     }

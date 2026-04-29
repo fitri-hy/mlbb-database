@@ -17,40 +17,39 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 5.886000156402588,
+      "score": 5.60699987411499,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 64,
           "name": "Aldous",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-          "score": 5.886
+          "score": 5.607
         }
       ]
     },
     {
-      "id": 124,
-      "heroName": "Chip",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "id": 114,
+      "heroName": "Melissa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
       "role": [
-        "Support",
-        "Tank"
+        "Marksman"
       ],
       "lane": [
-        "Roam"
+        "Gold Lane"
       ],
       "speciality": [
-        "Support",
-        "Crowd Control"
+        "Finisher",
+        "Damage"
       ],
-      "score": 4.894999980926514,
-      "tier": "D",
+      "score": 5.343999862670898,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 64,
           "name": "Aldous",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-          "score": 4.895
+          "score": 5.344
         }
       ]
     },
@@ -69,64 +68,65 @@
         "Regen",
         "Damage"
       ],
-      "score": 4.688000202178955,
-      "tier": "D",
+      "score": 4.738999843597412,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 64,
           "name": "Aldous",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-          "score": 4.688
+          "score": 4.739
         }
       ]
     },
     {
-      "id": 114,
-      "heroName": "Melissa",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
       "role": [
-        "Marksman"
+        "Support",
+        "Tank"
       ],
       "lane": [
-        "Gold Lane"
+        "Roam"
       ],
       "speciality": [
-        "Finisher",
-        "Damage"
+        "Support",
+        "Crowd Control"
       ],
-      "score": 3.9149999618530273,
+      "score": 2.934000015258789,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 64,
           "name": "Aldous",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-          "score": 3.915
+          "score": 2.934
         }
       ]
     },
     {
-      "id": 108,
-      "heroName": "Aulus",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
+      "id": 90,
+      "heroName": "Silvanna",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
       "role": [
         "Fighter"
       ],
       "lane": [
-        "Jungle"
+        "Exp Lane"
       ],
       "speciality": [
-        "Damage",
-        "Crowd Control"
+        "Initiator",
+        "Magic Damage"
       ],
-      "score": 3.615999937057495,
-      "tier": "D",
+      "score": 2.430000066757202,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 64,
           "name": "Aldous",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-          "score": 3.616
+          "score": 2.43
         }
       ]
     },
@@ -144,14 +144,14 @@
         "Damage",
         "Control"
       ],
-      "score": 1.9210000038146973,
+      "score": 2.1600000858306885,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 64,
           "name": "Aldous",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-          "score": 1.921
+          "score": 2.16
         }
       ]
     },
@@ -169,14 +169,40 @@
         "Finisher",
         "Magic Damage"
       ],
-      "score": 1.7020000219345093,
+      "score": 1.274999976158142,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 64,
           "name": "Aldous",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-          "score": 1.702
+          "score": 1.275
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 0.49399998784065247,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 64,
+          "name": "Aldous",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+          "score": 0.494
         }
       ]
     },
@@ -189,45 +215,20 @@
       ],
       "lane": [
         "Gold Lane",
-        "Mid Lane"
+        "Jungle"
       ],
       "speciality": [
         "Chase",
         "Damage"
       ],
-      "score": 0.257999986410141,
-      "tier": "D",
+      "score": 0.2879999876022339,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 64,
           "name": "Aldous",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-          "score": 0.258
-        }
-      ]
-    },
-    {
-      "id": 100,
-      "heroName": "Brody",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Burst",
-        "Finisher"
-      ],
-      "score": 0.21299999952316284,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 64,
-          "name": "Aldous",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-          "score": 0.213
+          "score": 0.288
         }
       ]
     },
@@ -245,14 +246,39 @@
         "Guard",
         "Support"
       ],
-      "score": 0.20100000500679016,
+      "score": 0.2140000015497208,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 64,
+          "name": "Aldous",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
+          "score": 0.214
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "heroName": "Brody",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
+      ],
+      "score": 0.20200000703334808,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 64,
           "name": "Aldous",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-          "score": 0.201
+          "score": 0.202
         }
       ]
     }

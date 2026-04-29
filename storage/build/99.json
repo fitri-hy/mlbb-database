@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "Item builds retrieved successfully",
+  "data": [
+    {
+      "build_id": 5327,
+      "user_id": 16263,
+      "username": "DEWAbarats",
+      "hero_id": 99,
+      "hero_name": "Barats",
+      "role": "Tank, Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "items": [
+        100,
+        69,
+        71,
+        74,
+        117,
+        72
+      ],
+      "emblems": {
+        "main_id": 1,
+        "ability_ids": [
+          1,
+          14,
+          24
+        ]
+      },
+      "description": "Barats ketebalan tubuh gacor ",
+      "battle_spell": "Revitalize",
+      "created_at": "2026-01-31T11:09:59.000Z",
+      "likes_count": 9,
+      "dislikes_count": 0
+    },
+    {
+      "build_id": 5719,
+      "user_id": 16723,
+      "username": "fishiestchips",
+      "hero_id": 99,
+      "hero_name": "Barats",
+      "role": "Tank, Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "items": [
+        99,
+        71,
+        74,
+        75,
+        73,
+        117
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          24,
+          14,
+          2
+        ]
+      },
+      "description": "Sustain Tank build, try your unkillable played right. Best for when you have a bad frontliner or none e.g. angela roam.",
+      "battle_spell": "Ice Retribution",
+      "created_at": "2026-02-15T10:49:36.000Z",
+      "likes_count": 2,
+      "dislikes_count": 1
+    },
+    {
+      "build_id": 7270,
+      "user_id": 20763,
+      "username": "Não_e_o_Joao",
+      "hero_id": 99,
+      "hero_name": "Barats",
+      "role": "Tank, Fighter",
+      "lane": "Jungle",
+      "speciality": "Damage, Crowd Control",
+      "img_src": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "items": [
+        17,
+        99,
+        91,
+        71,
+        65,
+        73
+      ],
+      "emblems": {
+        "main_id": 5,
+        "ability_ids": [
+          22,
+          14,
+          1
+        ]
+      },
+      "description": "Like",
+      "battle_spell": "Vengeance",
+      "created_at": "2026-04-24T02:33:28.000Z",
+      "likes_count": 0,
+      "dislikes_count": 0
+    }
+  ]
+}

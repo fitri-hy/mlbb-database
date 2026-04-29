@@ -16,14 +16,14 @@
         "Crowd Control",
         "Initiator"
       ],
-      "score": 7.360000133514404,
-      "tier": "D",
+      "score": 7.564000129699707,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 18,
           "name": "Layla",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
-          "score": 7.36
+          "score": 7.564
         }
       ]
     },
@@ -42,39 +42,14 @@
         "Support",
         "Crowd Control"
       ],
-      "score": 5.960000038146973,
-      "tier": "D",
+      "score": 6.196000099182129,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 18,
           "name": "Layla",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
-          "score": 5.96
-        }
-      ]
-    },
-    {
-      "id": 49,
-      "heroName": "Hylos",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Initiator"
-      ],
-      "score": 5.188000202178955,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 18,
-          "name": "Layla",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
-          "score": 5.188
+          "score": 6.196
         }
       ]
     },
@@ -93,14 +68,66 @@
         "Push",
         "Damage"
       ],
-      "score": 4.995999813079834,
-      "tier": "B",
+      "score": 5.050000190734863,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 18,
           "name": "Layla",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
-          "score": 4.996
+          "score": 5.05
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "heroName": "Hylos",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Initiator"
+      ],
+      "score": 4.455999851226807,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 18,
+          "name": "Layla",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
+          "score": 4.456
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "heroName": "Alice",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+      "role": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Charge",
+        "Regen"
+      ],
+      "score": 2.4100000858306885,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 18,
+          "name": "Layla",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
+          "score": 2.41
         }
       ]
     },
@@ -117,14 +144,14 @@
       "speciality": [
         "Regen"
       ],
-      "score": 4.550000190734863,
-      "tier": "D",
+      "score": 2.249000072479248,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 18,
           "name": "Layla",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
-          "score": 4.55
+          "score": 2.249
         }
       ]
     },
@@ -142,14 +169,14 @@
         "Initiator",
         "Crowd Control"
       ],
-      "score": 0.19200000166893005,
+      "score": 0.1459999978542328,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 18,
           "name": "Layla",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
-          "score": 0.192
+          "score": 0.146
         }
       ]
     }

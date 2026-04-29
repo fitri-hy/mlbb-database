@@ -17,39 +17,39 @@
         "Guard",
         "Crowd Control"
       ],
-      "score": 6.683000087738037,
+      "score": 6.057000160217285,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 12,
           "name": "Bruno",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-          "score": 6.683
+          "score": 6.057
         }
       ]
     },
     {
-      "id": 34,
-      "heroName": "Estes",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "id": 18,
+      "heroName": "Layla",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
       "role": [
-        "Support"
+        "Marksman"
       ],
       "lane": [
-        "Roam"
+        "Gold Lane"
       ],
       "speciality": [
-        "Regen",
-        "Guard"
+        "Finisher",
+        "Damage"
       ],
-      "score": 5.689000129699707,
-      "tier": "S",
+      "score": 4.52400016784668,
+      "tier": "D",
       "counteredHeroes": [
         {
           "id": 12,
           "name": "Bruno",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-          "score": 5.689
+          "score": 4.524
         }
       ]
     },
@@ -68,115 +68,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 4.074999809265137,
-      "tier": "C",
+      "score": 4.474999904632568,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 12,
           "name": "Bruno",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-          "score": 4.075
-        }
-      ]
-    },
-    {
-      "id": 109,
-      "heroName": "Aamon",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Magic Damage"
-      ],
-      "score": 2.470000028610229,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 12,
-          "name": "Bruno",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-          "score": 2.47
-        }
-      ]
-    },
-    {
-      "id": 121,
-      "heroName": "Ixia",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Damage"
-      ],
-      "score": 2.25,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 12,
-          "name": "Bruno",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-          "score": 2.25
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "heroName": "Barats",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-      "role": [
-        "Tank",
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Crowd Control"
-      ],
-      "score": 2.00600004196167,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 12,
-          "name": "Bruno",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-          "score": 2.006
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "heroName": "Layla",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Damage"
-      ],
-      "score": 1.340000033378601,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 12,
-          "name": "Bruno",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-          "score": 1.34
+          "score": 4.475
         }
       ]
     },
@@ -195,14 +94,91 @@
         "Support",
         "Crowd Control"
       ],
-      "score": 0.44200000166893005,
+      "score": 3.7109999656677246,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 12,
+          "name": "Bruno",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+          "score": 3.711
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 3.095999956130981,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 12,
+          "name": "Bruno",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+          "score": 3.096
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "heroName": "Barats",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 2.23799991607666,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 12,
           "name": "Bruno",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-          "score": 0.442
+          "score": 2.238
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.2849999964237213,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 12,
+          "name": "Bruno",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+          "score": 0.285
         }
       ]
     },
@@ -221,14 +197,14 @@
         "Push",
         "Burst"
       ],
-      "score": 0.2140000015497208,
+      "score": 0.19900000095367432,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 12,
           "name": "Bruno",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-          "score": 0.214
+          "score": 0.199
         }
       ]
     },
@@ -247,39 +223,14 @@
         "Damage",
         "Chase"
       ],
-      "score": 0.15700000524520874,
+      "score": 0.15399999916553497,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 12,
           "name": "Bruno",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-          "score": 0.157
-        }
-      ]
-    },
-    {
-      "id": 101,
-      "heroName": "Yve",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Poke",
-        "Burst"
-      ],
-      "score": 0.1430000066757202,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 12,
-          "name": "Bruno",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-          "score": 0.143
+          "score": 0.154
         }
       ]
     },
@@ -298,14 +249,14 @@
         "Burst",
         "Crowd Control"
       ],
-      "score": 0.13899999856948853,
-      "tier": "D",
+      "score": 0.13099999725818634,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 12,
           "name": "Bruno",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-          "score": 0.139
+          "score": 0.131
         }
       ]
     }

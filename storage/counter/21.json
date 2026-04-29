@@ -17,14 +17,14 @@
         "Charge",
         "Finisher"
       ],
-      "score": 5.739999771118164,
-      "tier": "C",
+      "score": 5.939000129699707,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 21,
           "name": "Hayabusa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
-          "score": 5.74
+          "score": 5.939
         }
       ]
     },
@@ -42,91 +42,14 @@
         "Control",
         "Burst"
       ],
-      "score": 4.688000202178955,
+      "score": 4.568999767303467,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 21,
           "name": "Hayabusa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
-          "score": 4.688
-        }
-      ]
-    },
-    {
-      "id": 94,
-      "heroName": "Popol and Kupa",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Jungle",
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Push",
-        "Burst"
-      ],
-      "score": 3.561000108718872,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 21,
-          "name": "Hayabusa",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
-          "score": 3.561
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "heroName": "Cyclops",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Control"
-      ],
-      "score": 3.4600000381469727,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 21,
-          "name": "Hayabusa",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
-          "score": 3.46
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "heroName": "Sun",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane",
-        "Jungle"
-      ],
-      "speciality": [
-        "Push",
-        "Damage"
-      ],
-      "score": 2.2799999713897705,
-      "tier": "B",
-      "counteredHeroes": [
-        {
-          "id": 21,
-          "name": "Hayabusa",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
-          "score": 2.28
+          "score": 4.569
         }
       ]
     },
@@ -146,65 +69,143 @@
         "Burst",
         "Control"
       ],
-      "score": 1.838000059127808,
+      "score": 4.020999908447266,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 21,
           "name": "Hayabusa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
-          "score": 1.838
+          "score": 4.021
         }
       ]
     },
     {
-      "id": 1,
-      "heroName": "Miya",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
+      "id": 99,
+      "heroName": "Barats",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 2.25,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 2.25
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "heroName": "Sun",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 2.150000095367432,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 2.15
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "heroName": "Cyclops",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Control"
+      ],
+      "score": 1.8320000171661377,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 1.832
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "heroName": "Popol and Kupa",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
       "role": [
         "Marksman"
       ],
       "lane": [
+        "Jungle",
         "Gold Lane"
       ],
       "speciality": [
-        "Finisher",
-        "Damage"
+        "Push",
+        "Burst"
       ],
-      "score": 0.5569999814033508,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 21,
-          "name": "Hayabusa",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
-          "score": 0.557
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "heroName": "Zilong",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
-      "role": [
-        "Fighter",
-        "Assassin"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Chase",
-        "Damage"
-      ],
-      "score": 0.12600000202655792,
+      "score": 1.6510000228881836,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 21,
           "name": "Hayabusa",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
-          "score": 0.126
+          "score": 1.651
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Crowd Control"
+      ],
+      "score": 0.17800000309944153,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 21,
+          "name": "Hayabusa",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+          "score": 0.178
         }
       ]
     },

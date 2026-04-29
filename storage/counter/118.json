@@ -16,14 +16,14 @@
         "Finisher",
         "Chase"
       ],
-      "score": 7.249000072479248,
-      "tier": "D",
+      "score": 7.289000034332275,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 118,
           "name": "Joy",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-          "score": 7.249
+          "score": 7.289
         }
       ]
     },
@@ -41,89 +41,14 @@
         "Damage",
         "Control"
       ],
-      "score": 6.932000160217285,
+      "score": 6.770999908447266,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 118,
           "name": "Joy",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-          "score": 6.932
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "heroName": "Ruby",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Regen"
-      ],
-      "score": 4.079999923706055,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 118,
-          "name": "Joy",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-          "score": 4.08
-        }
-      ]
-    },
-    {
-      "id": 106,
-      "heroName": "Phoveus",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Regen",
-        "Damage"
-      ],
-      "score": 3.1480000019073486,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 118,
-          "name": "Joy",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-          "score": 3.148
-        }
-      ]
-    },
-    {
-      "id": 132,
-      "heroName": "Marcel",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Support"
-      ],
-      "score": 2.934000015258789,
-      "tier": "SS",
-      "counteredHeroes": [
-        {
-          "id": 118,
-          "name": "Joy",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-          "score": 2.934
+          "score": 6.771
         }
       ]
     },
@@ -141,14 +66,64 @@
         "Control",
         "Burst"
       ],
-      "score": 2.1449999809265137,
+      "score": 5.256999969482422,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 118,
           "name": "Joy",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-          "score": 2.145
+          "score": 5.257
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "heroName": "Ruby",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Regen"
+      ],
+      "score": 4.114999771118164,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 118,
+          "name": "Joy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+          "score": 4.115
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "heroName": "Marcel",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Crowd Control",
+        "Support"
+      ],
+      "score": 3.4019999504089355,
+      "tier": "SS",
+      "counteredHeroes": [
+        {
+          "id": 118,
+          "name": "Joy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+          "score": 3.402
         }
       ]
     },
@@ -167,14 +142,14 @@
         "Damage",
         "Chase"
       ],
-      "score": 2.0929999351501465,
+      "score": 1.8209999799728396,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 118,
           "name": "Joy",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-          "score": 2.093
+          "score": 1.821
         }
       ]
     },
@@ -194,14 +169,14 @@
         "Guard",
         "Charge"
       ],
-      "score": 0.4860000014305115,
+      "score": 0.5899999737739563,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 118,
           "name": "Joy",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-          "score": 0.486
+          "score": 0.59
         }
       ]
     },
@@ -219,39 +194,65 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.3269999921321869,
-      "tier": "D",
+      "score": 0.5080000162124634,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 118,
           "name": "Joy",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-          "score": 0.327
+          "score": 0.508
         }
       ]
     },
     {
-      "id": 100,
-      "heroName": "Brody",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
+      "id": 62,
+      "heroName": "Kaja",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
       "role": [
-        "Marksman"
+        "Support",
+        "Fighter"
       ],
       "lane": [
-        "Gold Lane"
+        "Roam"
       ],
       "speciality": [
-        "Burst",
-        "Finisher"
+        "Control",
+        "Charge"
       ],
-      "score": 0.30799999833106995,
-      "tier": "D",
+      "score": 0.375,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 118,
           "name": "Joy",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-          "score": 0.308
+          "score": 0.375
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "heroName": "Khufra",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "score": 0.35899999737739563,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 118,
+          "name": "Joy",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+          "score": 0.359
         }
       ]
     },
@@ -269,14 +270,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 0.2809999883174896,
+      "score": 0.2919999957084656,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 118,
           "name": "Joy",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-          "score": 0.281
+          "score": 0.292
         }
       ]
     },
@@ -295,7 +296,7 @@
         "Poke"
       ],
       "score": 0,
-      "tier": "D",
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 118,

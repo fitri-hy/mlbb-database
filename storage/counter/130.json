@@ -17,14 +17,14 @@
         "Support",
         "Damage"
       ],
-      "score": 7.609000205993652,
+      "score": 7.480000019073486,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 130,
           "name": "Obsidia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
-          "score": 7.609
+          "score": 7.48
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Regen",
         "Guard"
       ],
-      "score": 6.171999931335449,
+      "score": 6.026000022888184,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 130,
           "name": "Obsidia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
-          "score": 6.172
+          "score": 6.026
         }
       ]
     },
@@ -67,14 +67,14 @@
         "Crowd Control",
         "Regen"
       ],
-      "score": 5.127999782562256,
-      "tier": "D",
+      "score": 5.1579999923706055,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 130,
           "name": "Obsidia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
-          "score": 5.128
+          "score": 5.158
         }
       ]
     },
@@ -92,14 +92,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 5.0980000495910645,
+      "score": 5.127999782562256,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 130,
           "name": "Obsidia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
-          "score": 5.098
+          "score": 5.128
         }
       ]
     },
@@ -116,40 +116,14 @@
       "speciality": [
         "Regen"
       ],
-      "score": 2.5799999237060547,
-      "tier": "D",
+      "score": 3.569999933242798,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 130,
           "name": "Obsidia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
-          "score": 2.58
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "heroName": "Barats",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-      "role": [
-        "Tank",
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Crowd Control"
-      ],
-      "score": 1.6859999895095823,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 130,
-          "name": "Obsidia",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
-          "score": 1.686
+          "score": 3.57
         }
       ]
     },
@@ -168,40 +142,65 @@
         "Push",
         "Burst"
       ],
-      "score": 0.4790000021457672,
+      "score": 0.4959999918937683,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 130,
           "name": "Obsidia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
-          "score": 0.479
+          "score": 0.496
         }
       ]
     },
     {
-      "id": 124,
-      "heroName": "Chip",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+      "id": 99,
+      "heroName": "Barats",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
       "role": [
-        "Support",
-        "Tank"
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 0.4580000042915344,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 130,
+          "name": "Obsidia",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+          "score": 0.458
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "heroName": "Rafaela",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
+      "role": [
+        "Support"
       ],
       "lane": [
         "Roam"
       ],
       "speciality": [
-        "Support",
-        "Crowd Control"
+        "Regen",
+        "Guard"
       ],
-      "score": 0.1770000010728836,
-      "tier": "D",
+      "score": 0.16300000250339508,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 130,
           "name": "Obsidia",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
-          "score": 0.177
+          "score": 0.163
         }
       ]
     },
@@ -220,7 +219,7 @@
         "Poke"
       ],
       "score": 0,
-      "tier": "D",
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 130,

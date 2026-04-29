@@ -10,21 +10,21 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 6.142000198364258,
+      "score": 5.535999774932861,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 66,
           "name": "Vale",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
-          "score": 6.142
+          "score": 5.536
         }
       ]
     },
@@ -44,14 +44,14 @@
         "Charge",
         "Regen"
       ],
-      "score": 3.565999984741211,
-      "tier": "B",
+      "score": 3.5510001182556152,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 66,
           "name": "Vale",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
-          "score": 3.566
+          "score": 3.551
         }
       ]
     },
@@ -69,115 +69,14 @@
         "Guard",
         "Initiator"
       ],
-      "score": 3.2049999237060547,
+      "score": 2.8559999465942383,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 66,
           "name": "Vale",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
-          "score": 3.205
-        }
-      ]
-    },
-    {
-      "id": 84,
-      "heroName": "Ling",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-      "role": [
-        "Assassin"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Chase",
-        "Burst"
-      ],
-      "score": 2.069999933242798,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 66,
-          "name": "Vale",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
-          "score": 2.07
-        }
-      ]
-    },
-    {
-      "id": 93,
-      "heroName": "Atlas",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-      "role": [
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Initiator"
-      ],
-      "score": 1.7899999618530271,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 66,
-          "name": "Vale",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
-          "score": 1.79
-        }
-      ]
-    },
-    {
-      "id": 37,
-      "heroName": "Lapu-Lapu",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Chase",
-        "Burst"
-      ],
-      "score": 1.3910000324249268,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 66,
-          "name": "Vale",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
-          "score": 1.391
-        }
-      ]
-    },
-    {
-      "id": 98,
-      "heroName": "Khaleed",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Roam",
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Damage",
-        "Regen"
-      ],
-      "score": 1.309999942779541,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 66,
-          "name": "Vale",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
-          "score": 1.31
+          "score": 2.856
         }
       ]
     },
@@ -197,14 +96,116 @@
         "Damage",
         "Regen"
       ],
-      "score": 0.15700000524520874,
+      "score": 2.180999994277954,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 66,
+          "name": "Vale",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
+          "score": 2.181
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "heroName": "Ling",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 1.7300000190734863,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 66,
+          "name": "Vale",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
+          "score": 1.73
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "heroName": "Lapu-Lapu",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Burst"
+      ],
+      "score": 1.465000033378601,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 66,
+          "name": "Vale",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
+          "score": 1.465
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "heroName": "Khaleed",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Roam",
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Damage",
+        "Regen"
+      ],
+      "score": 1.312999963760376,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 66,
+          "name": "Vale",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
+          "score": 1.313
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "heroName": "Harith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Gold Lane",
+        "Jungle"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0.17000000178813934,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 66,
           "name": "Vale",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
-          "score": 0.157
+          "score": 0.17
         }
       ]
     },
@@ -221,40 +222,14 @@
       "speciality": [
         "Regen"
       ],
-      "score": 0.15600000321865082,
-      "tier": "D",
+      "score": 0.1449999958276749,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 66,
           "name": "Vale",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
-          "score": 0.156
-        }
-      ]
-    },
-    {
-      "id": 73,
-      "heroName": "Harith",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Gold Lane",
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Chase",
-        "Damage"
-      ],
-      "score": 0.13199999928474426,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 66,
-          "name": "Vale",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
-          "score": 0.132
+          "score": 0.145
         }
       ]
     }

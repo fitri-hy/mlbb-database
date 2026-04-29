@@ -17,14 +17,14 @@
         "Push",
         "Damage"
       ],
-      "score": 7.196000099182129,
-      "tier": "B",
+      "score": 7.122000217437744,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 54,
           "name": "Jawhead",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
-          "score": 7.196
+          "score": 7.122
         }
       ]
     },
@@ -36,47 +36,21 @@
         "Tank"
       ],
       "lane": [
-        "Exp Lane",
-        "Roam"
+        "Roam",
+        "Exp Lane"
       ],
       "speciality": [
         "Regen",
         "Control"
       ],
-      "score": 6.4720001220703125,
+      "score": 6.120999813079834,
       "tier": "SS",
       "counteredHeroes": [
         {
           "id": 54,
           "name": "Jawhead",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
-          "score": 6.472
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "heroName": "Lolita",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-      "role": [
-        "Support",
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Crowd Control"
-      ],
-      "score": 4.5980000495910645,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 54,
-          "name": "Jawhead",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
-          "score": 4.598
+          "score": 6.121
         }
       ]
     },
@@ -95,39 +69,14 @@
         "Push",
         "Burst"
       ],
-      "score": 4.50600004196167,
+      "score": 5.051000118255615,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 54,
           "name": "Jawhead",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
-          "score": 4.506
-        }
-      ]
-    },
-    {
-      "id": 108,
-      "heroName": "Aulus",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Crowd Control"
-      ],
-      "score": 2.7100000381469727,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 54,
-          "name": "Jawhead",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
-          "score": 2.71
+          "score": 5.051
         }
       ]
     },
@@ -146,14 +95,40 @@
         "Regen",
         "Mixed Damage"
       ],
-      "score": 2.128000020980835,
+      "score": 4.459000110626221,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 54,
           "name": "Jawhead",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
-          "score": 2.128
+          "score": 4.459
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "heroName": "Lolita",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Crowd Control"
+      ],
+      "score": 3.434999942779541,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 54,
+          "name": "Jawhead",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
+          "score": 3.435
         }
       ]
     },
@@ -172,14 +147,14 @@
         "Support",
         "Crowd Control"
       ],
-      "score": 0.2029999941587448,
+      "score": 0.5839999914169312,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 54,
           "name": "Jawhead",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
-          "score": 0.203
+          "score": 0.584
         }
       ]
     },
@@ -205,31 +180,6 @@
           "name": "Jawhead",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
           "score": 0.146
-        }
-      ]
-    },
-    {
-      "id": 132,
-      "heroName": "Marcel",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Crowd Control",
-        "Support"
-      ],
-      "score": 0.1289999932050705,
-      "tier": "SS",
-      "counteredHeroes": [
-        {
-          "id": 54,
-          "name": "Jawhead",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
-          "score": 0.129
         }
       ]
     }

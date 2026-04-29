@@ -3,32 +3,6 @@
   "message": "Counter pick suggestions retrieved successfully",
   "data": [
     {
-      "id": 117,
-      "heroName": "Fredrinn",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-      "role": [
-        "Fighter",
-        "Tank"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Chase"
-      ],
-      "score": 4.027999877929688,
-      "tier": "A",
-      "counteredHeroes": [
-        {
-          "id": 68,
-          "name": "Lunox",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 4.028
-        }
-      ]
-    },
-    {
       "id": 29,
       "heroName": "Ruby",
       "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
@@ -42,14 +16,14 @@
         "Crowd Control",
         "Regen"
       ],
-      "score": 3.871000051498413,
-      "tier": "D",
+      "score": 4.0329999923706055,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 68,
           "name": "Lunox",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 3.871
+          "score": 4.033
         }
       ]
     },
@@ -68,14 +42,40 @@
         "Damage",
         "Crowd Control"
       ],
-      "score": 3.608000040054321,
+      "score": 3.4749999046325684,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 68,
           "name": "Lunox",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 3.608
+          "score": 3.475
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "heroName": "Fredrinn",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Chase"
+      ],
+      "score": 3.3550000190734863,
+      "tier": "A",
+      "counteredHeroes": [
+        {
+          "id": 68,
+          "name": "Lunox",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
+          "score": 3.355
         }
       ]
     },
@@ -93,14 +93,14 @@
         "Burst",
         "Magic Damage"
       ],
-      "score": 3.0850000381469727,
-      "tier": "S",
+      "score": 3.252000093460083,
+      "tier": "SS",
       "counteredHeroes": [
         {
           "id": 68,
           "name": "Lunox",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 3.085
+          "score": 3.252
         }
       ]
     },
@@ -120,14 +120,39 @@
         "Push",
         "Burst"
       ],
-      "score": 2.625,
+      "score": 2.009999990463257,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 68,
           "name": "Lunox",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 2.625
+          "score": 2.01
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "heroName": "Argus",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Charge",
+        "Burst"
+      ],
+      "score": 1.0499999523162842,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 68,
+          "name": "Lunox",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
+          "score": 1.05
         }
       ]
     },
@@ -145,14 +170,115 @@
         "Finisher",
         "Burst"
       ],
-      "score": 0.37400001287460327,
+      "score": 0.5789999961853027,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 68,
+          "name": "Lunox",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
+          "score": 0.579
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "heroName": "Estes",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Regen",
+        "Guard"
+      ],
+      "score": 0.5400000214576721,
+      "tier": "S",
+      "counteredHeroes": [
+        {
+          "id": 68,
+          "name": "Lunox",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
+          "score": 0.54
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "heroName": "Masha",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Push",
+        "Damage"
+      ],
+      "score": 0.3610000014305115,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 68,
+          "name": "Lunox",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
+          "score": 0.361
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "heroName": "Bruno",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Finisher",
+        "Burst"
+      ],
+      "score": 0.2419999986886978,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 68,
           "name": "Lunox",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 0.374
+          "score": 0.242
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "heroName": "Diggie",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ],
+      "speciality": [
+        "Guard",
+        "Poke"
+      ],
+      "score": 0.2240000069141388,
+      "tier": "B",
+      "counteredHeroes": [
+        {
+          "id": 68,
+          "name": "Lunox",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
+          "score": 0.224
         }
       ]
     },
@@ -172,168 +298,14 @@
         "Control",
         "Burst"
       ],
-      "score": 0.3639999926090241,
+      "score": 0.16200000047683716,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 68,
           "name": "Lunox",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 0.364
-        }
-      ]
-    },
-    {
-      "id": 124,
-      "heroName": "Chip",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-      "role": [
-        "Support",
-        "Tank"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Support",
-        "Crowd Control"
-      ],
-      "score": 0.2240000069141388,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 68,
-          "name": "Lunox",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 0.224
-        }
-      ]
-    },
-    {
-      "id": 76,
-      "heroName": "Faramis",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-      "role": [
-        "Support",
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane",
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Charge"
-      ],
-      "score": 0.2029999941587448,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 68,
-          "name": "Lunox",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 0.203
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "heroName": "Bruno",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-      "role": [
-        "Marksman"
-      ],
-      "lane": [
-        "Gold Lane"
-      ],
-      "speciality": [
-        "Finisher",
-        "Burst"
-      ],
-      "score": 0.20100000500679016,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 68,
-          "name": "Lunox",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 0.201
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "heroName": "Estes",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Regen",
-        "Guard"
-      ],
-      "score": 0.193000003695488,
-      "tier": "S",
-      "counteredHeroes": [
-        {
-          "id": 68,
-          "name": "Lunox",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 0.193
-        }
-      ]
-    },
-    {
-      "id": 88,
-      "heroName": "Masha",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-      "role": [
-        "Fighter",
-        "Tank"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Push",
-        "Damage"
-      ],
-      "score": 0.1860000044107437,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 68,
-          "name": "Lunox",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 0.186
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "heroName": "Argus",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-      "role": [
-        "Fighter"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Charge",
-        "Burst"
-      ],
-      "score": 0.1809999942779541,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 68,
-          "name": "Lunox",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-          "score": 0.181
+          "score": 0.162
         }
       ]
     },
@@ -352,7 +324,7 @@
         "Poke"
       ],
       "score": 0,
-      "tier": "D",
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 68,

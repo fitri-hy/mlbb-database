@@ -3,32 +3,6 @@
   "message": "Counter pick suggestions retrieved successfully",
   "data": [
     {
-      "id": 73,
-      "heroName": "Harith",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Gold Lane",
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Chase",
-        "Damage"
-      ],
-      "score": 4.326000213623047,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 25,
-          "name": "Kagura",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 4.326
-        }
-      ]
-    },
-    {
       "id": 106,
       "heroName": "Phoveus",
       "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
@@ -42,91 +16,40 @@
         "Regen",
         "Damage"
       ],
-      "score": 4.111999988555908,
+      "score": 3.953000068664551,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 25,
           "name": "Kagura",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 4.112
+          "score": 3.953
         }
       ]
     },
     {
-      "id": 72,
-      "heroName": "Thamuz",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png",
+      "id": 73,
+      "heroName": "Harith",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
       "role": [
-        "Fighter"
+        "Mage"
       ],
       "lane": [
-        "Exp Lane"
+        "Gold Lane",
+        "Jungle"
       ],
       "speciality": [
         "Chase",
         "Damage"
       ],
-      "score": 2.1419999599456787,
-      "tier": "D",
+      "score": 3.1470000743865967,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 25,
           "name": "Kagura",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 2.142
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "heroName": "Barats",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-      "role": [
-        "Tank",
-        "Fighter"
-      ],
-      "lane": [
-        "Jungle"
-      ],
-      "speciality": [
-        "Damage",
-        "Crowd Control"
-      ],
-      "score": 1.8899999856948853,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 25,
-          "name": "Kagura",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 1.89
-        }
-      ]
-    },
-    {
-      "id": 81,
-      "heroName": "Esmeralda",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
-      "role": [
-        "Tank",
-        "Mage"
-      ],
-      "lane": [
-        "Exp Lane"
-      ],
-      "speciality": [
-        "Regen",
-        "Mixed Damage"
-      ],
-      "score": 1.7799999713897705,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 25,
-          "name": "Kagura",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 1.78
+          "score": 3.147
         }
       ]
     },
@@ -145,14 +68,66 @@
         "Chase",
         "Damage"
       ],
-      "score": 1.409000039100647,
+      "score": 3.013999938964844,
       "tier": "S",
       "counteredHeroes": [
         {
           "id": 25,
           "name": "Kagura",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 1.409
+          "score": 3.014
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "heroName": "Esmeralda",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
+      "role": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Regen",
+        "Mixed Damage"
+      ],
+      "score": 1.8200000524520876,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 25,
+          "name": "Kagura",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
+          "score": 1.82
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "heroName": "Barats",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ],
+      "speciality": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "score": 1.7799999713897705,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 25,
+          "name": "Kagura",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
+          "score": 1.78
         }
       ]
     },
@@ -170,14 +145,14 @@
         "Finisher",
         "Damage"
       ],
-      "score": 1.2719999551773071,
+      "score": 1.097000002861023,
       "tier": "C",
       "counteredHeroes": [
         {
           "id": 25,
           "name": "Kagura",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 1.272
+          "score": 1.097
         }
       ]
     },
@@ -197,14 +172,14 @@
         "Damage",
         "Regen"
       ],
-      "score": 0.8399999737739563,
-      "tier": "A",
+      "score": 0.8949999809265137,
+      "tier": "S",
       "counteredHeroes": [
         {
           "id": 25,
           "name": "Kagura",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 0.84
+          "score": 0.895
         }
       ]
     },
@@ -223,14 +198,14 @@
         "Chase",
         "Damage"
       ],
-      "score": 0.3569999933242798,
+      "score": 0.7799999713897705,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 25,
           "name": "Kagura",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 0.357
+          "score": 0.78
         }
       ]
     },
@@ -249,14 +224,39 @@
         "Control",
         "Charge"
       ],
-      "score": 0.3540000021457672,
-      "tier": "B",
+      "score": 0.5519999861717224,
+      "tier": "A",
       "counteredHeroes": [
         {
           "id": 25,
           "name": "Kagura",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 0.354
+          "score": 0.552
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "heroName": "Thamuz",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Exp Lane"
+      ],
+      "speciality": [
+        "Chase",
+        "Damage"
+      ],
+      "score": 0.5329999923706055,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 25,
+          "name": "Kagura",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
+          "score": 0.533
         }
       ]
     },
@@ -274,65 +274,65 @@
         "Finisher",
         "Burst"
       ],
-      "score": 0.19499999284744263,
+      "score": 0.2590000033378601,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 25,
           "name": "Kagura",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 0.195
+          "score": 0.259
         }
       ]
     },
     {
-      "id": 46,
-      "heroName": "Odette",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
+      "id": 124,
+      "heroName": "Chip",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
       "role": [
-        "Mage"
+        "Support",
+        "Tank"
       ],
       "lane": [
-        "Mid Lane"
+        "Roam"
       ],
       "speciality": [
-        "Burst",
-        "Poke"
+        "Support",
+        "Crowd Control"
       ],
-      "score": 0.15299999713897705,
+      "score": 0.23499999940395355,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 25,
           "name": "Kagura",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 0.153
+          "score": 0.235
         }
       ]
     },
     {
-      "id": 74,
-      "heroName": "Minsitthar",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+      "id": 78,
+      "heroName": "Khufra",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
       "role": [
-        "Fighter"
+        "Tank"
       ],
       "lane": [
-        "Exp Lane",
         "Roam"
       ],
       "speciality": [
         "Initiator",
         "Crowd Control"
       ],
-      "score": 0.15299999713897705,
-      "tier": "A",
+      "score": 0.16699999570846558,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 25,
           "name": "Kagura",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-          "score": 0.153
+          "score": 0.167
         }
       ]
     }

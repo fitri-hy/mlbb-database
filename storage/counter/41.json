@@ -17,14 +17,14 @@
         "Finisher",
         "Burst"
       ],
-      "score": 5.943999767303467,
-      "tier": "C",
+      "score": 6.116000175476074,
+      "tier": "B",
       "counteredHeroes": [
         {
           "id": 41,
           "name": "Gatotkaca",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-          "score": 5.944
+          "score": 6.116
         }
       ]
     },
@@ -42,14 +42,14 @@
         "Regen",
         "Burst"
       ],
-      "score": 5.603000164031982,
-      "tier": "D",
+      "score": 5.73199987411499,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 41,
           "name": "Gatotkaca",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-          "score": 5.603
+          "score": 5.732
         }
       ]
     },
@@ -67,14 +67,14 @@
         "Burst",
         "Support"
       ],
-      "score": 4.0980000495910645,
+      "score": 4.086999893188477,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 41,
           "name": "Gatotkaca",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-          "score": 4.098
+          "score": 4.087
         }
       ]
     },
@@ -91,40 +91,39 @@
       "speciality": [
         "Regen"
       ],
-      "score": 3.920000076293945,
-      "tier": "D",
+      "score": 3.9609999656677246,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 41,
           "name": "Gatotkaca",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-          "score": 3.92
+          "score": 3.961
         }
       ]
     },
     {
-      "id": 28,
-      "heroName": "Alpha",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png",
+      "id": 96,
+      "heroName": "Luo Yi",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
       "role": [
-        "Fighter"
+        "Mage"
       ],
       "lane": [
-        "Jungle",
-        "Exp Lane"
+        "Mid Lane"
       ],
       "speciality": [
-        "Charge",
-        "Damage"
+        "Support",
+        "Crowd Control"
       ],
-      "score": 2.549999952316284,
+      "score": 2.200000047683716,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 41,
           "name": "Gatotkaca",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-          "score": 2.55
+          "score": 2.2
         }
       ]
     },
@@ -143,14 +142,14 @@
         "Chase",
         "Finisher"
       ],
-      "score": 1.1150000095367432,
-      "tier": "D",
+      "score": 0.949999988079071,
+      "tier": "C",
       "counteredHeroes": [
         {
           "id": 41,
           "name": "Gatotkaca",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-          "score": 1.115
+          "score": 0.95
         }
       ]
     },
@@ -169,64 +168,14 @@
         "Initiator",
         "Guard"
       ],
-      "score": 0.5669999718666077,
+      "score": 0.4399999976158142,
       "tier": "D",
       "counteredHeroes": [
         {
           "id": 41,
           "name": "Gatotkaca",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-          "score": 0.567
-        }
-      ]
-    },
-    {
-      "id": 55,
-      "heroName": "Angela",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
-      "role": [
-        "Support"
-      ],
-      "lane": [
-        "Roam"
-      ],
-      "speciality": [
-        "Guard",
-        "Support"
-      ],
-      "score": 0.39399999380111694,
-      "tier": "C",
-      "counteredHeroes": [
-        {
-          "id": 41,
-          "name": "Gatotkaca",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-          "score": 0.394
-        }
-      ]
-    },
-    {
-      "id": 101,
-      "heroName": "Yve",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-      "role": [
-        "Mage"
-      ],
-      "lane": [
-        "Mid Lane"
-      ],
-      "speciality": [
-        "Poke",
-        "Burst"
-      ],
-      "score": 0.26499998569488525,
-      "tier": "D",
-      "counteredHeroes": [
-        {
-          "id": 41,
-          "name": "Gatotkaca",
-          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-          "score": 0.265
+          "score": 0.44
         }
       ]
     },
@@ -244,31 +193,55 @@
         "Finisher",
         "Damage"
       ],
-      "score": 0.18700000643730164,
+      "score": 0.3680000007152557,
       "tier": "A",
       "counteredHeroes": [
         {
           "id": 41,
           "name": "Gatotkaca",
           "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-          "score": 0.187
+          "score": 0.368
         }
       ]
     },
     {
-      "id": 73,
-      "heroName": "Harith",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+      "id": 101,
+      "heroName": "Yve",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
       "role": [
         "Mage"
       ],
       "lane": [
-        "Gold Lane",
         "Mid Lane"
       ],
       "speciality": [
-        "Chase",
-        "Damage"
+        "Poke",
+        "Burst"
+      ],
+      "score": 0.33799999952316284,
+      "tier": "D",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 0.338
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "heroName": "Granger",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold Lane"
+      ],
+      "speciality": [
+        "Burst",
+        "Finisher"
       ],
       "score": 0.181999996304512,
       "tier": "D",
@@ -282,20 +255,44 @@
       ]
     },
     {
-      "id": 71,
-      "heroName": "Kimmy",
-      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
+      "id": 105,
+      "heroName": "Beatrix",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
       "role": [
-        "Marksman",
-        "Mage"
+        "Marksman"
       ],
       "lane": [
-        "Mid Lane",
         "Gold Lane"
       ],
       "speciality": [
-        "Damage",
-        "Magic Damage"
+        "Finisher",
+        "Damage"
+      ],
+      "score": 0.17900000512599945,
+      "tier": "C",
+      "counteredHeroes": [
+        {
+          "id": 41,
+          "name": "Gatotkaca",
+          "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+          "score": 0.179
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "heroName": "Baxia",
+      "imgSrc": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ],
+      "speciality": [
+        "Support",
+        "Damage"
       ],
       "score": 0,
       "tier": "D",
