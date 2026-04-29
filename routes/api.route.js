@@ -10,6 +10,7 @@ router.get("/heroes/:id", DatabaseController.HeroesDetail);
 router.get("/statistics", DatabaseController.Statistics);
 router.get("/tiers", DatabaseController.Tiers);
 router.get("/items", DatabaseController.Items);
+router.get("/builds/:id", DatabaseController.Builds);
 router.get("/counter/:id", DatabaseController.Counter);
 router.get("/tournament", DatabaseController.Tournament);
 router.get("/tournament/stats", DatabaseController.TournamentStats);

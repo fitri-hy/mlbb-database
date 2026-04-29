@@ -210,6 +210,42 @@ exports.Items = (req, res) => {
   }
 };
 
+exports.Builds = (req, res) => {
+  try {
+    const { id } = req.params;
+
+    if (!id || id.includes("..") || id.includes("/")) {
+      return res.status(400).json({
+        success: false,
+        message: "Invalid ID format",
+      });
+    }
+
+    const filePath = path.join(__dirname, `../../storage/build/${id}.json`);
+
+    if (!fs.existsSync(filePath)) {
+      return res.status(404).json({
+        success: false,
+        message: "Build data not found",
+      });
+    }
+
+    const rawData = fs.readFileSync(filePath, "utf-8");
+    const getData = JSON.parse(rawData);
+
+    return res.status(200).json({
+      success: true,
+      data: getData
+    });
+  } catch (error) {
+    return res.status(500).json({
+      success: false,
+      message: "Internal server error",
+      error: error.message,
+    });
+  }
+};
+
 exports.Counter = (req, res) => {
   try {
     const { id } = req.params;
